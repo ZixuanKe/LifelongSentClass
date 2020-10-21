@@ -1,8 +1,8 @@
 # Lifelong Sentiment Classification
 
 ## News
-Interested in **Lifelong Learning/Continual Learning**? Check our paper in NeuIPS 2020  **Continual Learning of a Mixed Sequence of Similar and Dissimilar Tasks** and the code in [Github](  
-https://github.com/ZixuanKe/MixedTaskContinualLearning) 
+Interested in **Lifelong Learning/Continual Learning**? Check our latest NeuIPS 2020 paper **"Continual Learning of a Mixed Sequence of Similar and Dissimilar Tasks"** and the code in [Github](  
+https://github.com/ZixuanKe/CAT) 
 
 # Files
 
