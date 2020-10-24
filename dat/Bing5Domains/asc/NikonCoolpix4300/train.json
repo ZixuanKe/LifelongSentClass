@@ -1,0 +1,974 @@
+{
+    "0": {
+        "id": 0,
+        "polarity": "+",
+        "sentence": "this camera is perfect for an enthusiastic amateur photographer . ",
+        "term": "camera"
+    },
+    "1": {
+        "id": 1,
+        "polarity": "+",
+        "sentence": "the pictures are razor-sharp , even in macro . ",
+        "term": " macro"
+    },
+    "2": {
+        "id": 2,
+        "polarity": "+",
+        "sentence": "the pictures are razor-sharp , even in macro . ",
+        "term": "picture"
+    },
+    "3": {
+        "id": 3,
+        "polarity": "+",
+        "sentence": "it is small enough to fit easily in a coat pocket or purse . ",
+        "term": "size"
+    },
+    "4": {
+        "id": 4,
+        "polarity": "+",
+        "sentence": "it is light enough to carry around all day without bother . ",
+        "term": "weight"
+    },
+    "5": {
+        "id": 5,
+        "polarity": "+",
+        "sentence": "operating its many features is easy and often obvious - i 'm no annie lebovitz , but i was able to figure out most of its abilities just messing around with it at a camera store . ",
+        "term": "feature"
+    },
+    "6": {
+        "id": 6,
+        "polarity": "+",
+        "sentence": "the manual does a fine job filling in any blanks that remain . ",
+        "term": "manual"
+    },
+    "7": {
+        "id": 7,
+        "polarity": "+",
+        "sentence": "the auto-focus performs well , but i love having the 12 optional scene modes - they are dummy-proof , and correspond to many situations in which i would actually seek to use the camera . ",
+        "term": "scene mode"
+    },
+    "8": {
+        "id": 8,
+        "polarity": "+",
+        "sentence": "the auto-focus performs well , but i love having the 12 optional scene modes - they are dummy-proof , and correspond to many situations in which i would actually seek to use the camera . ",
+        "term": "auto focus"
+    },
+    "9": {
+        "id": 9,
+        "polarity": "+",
+        "sentence": "comes with a 16 mb compact flash and one rechargable battery the charging unit , included , is fast and small . ",
+        "term": "rechargable battery"
+    },
+    "10": {
+        "id": 10,
+        "polarity": "+",
+        "sentence": "i enthusiastically recommend this camera . ",
+        "term": "camera"
+    },
+    "11": {
+        "id": 11,
+        "polarity": "+",
+        "sentence": "it 's easy to use , and yet very feature rich . ",
+        "term": "camera"
+    },
+    "12": {
+        "id": 12,
+        "polarity": "+",
+        "sentence": "it 's easy to use , and yet very feature rich . ",
+        "term": " use"
+    },
+    "13": {
+        "id": 13,
+        "polarity": "+",
+        "sentence": "it 's easy to use , and yet very feature rich . ",
+        "term": " feature"
+    },
+    "14": {
+        "id": 14,
+        "polarity": "+",
+        "sentence": "in the auto mode it functions basically as a point and click , the scene modes are very easy to use and produce good results . ",
+        "term": "scene mode"
+    },
+    "15": {
+        "id": 15,
+        "polarity": "+",
+        "sentence": "in the auto mode it functions basically as a point and click , the scene modes are very easy to use and produce good results . ",
+        "term": "auto mode"
+    },
+    "16": {
+        "id": 16,
+        "polarity": "+",
+        "sentence": "the manual mode is feature rich and i can 't wait to get the hang of it . ",
+        "term": "manual mode"
+    },
+    "17": {
+        "id": 17,
+        "polarity": "+",
+        "sentence": "the macro mode is exceptional , the pictures are very clear and you can take the pictures with the lens unbelievably close the subject . ",
+        "term": "macro mode"
+    },
+    "18": {
+        "id": 18,
+        "polarity": "+",
+        "sentence": "the macro mode is exceptional , the pictures are very clear and you can take the pictures with the lens unbelievably close the subject . ",
+        "term": "picture"
+    },
+    "19": {
+        "id": 19,
+        "polarity": "+",
+        "sentence": "the battery life is very good , i got about 90 minutes with the lcd turned on all the time , the first time around , and i have been using it with the lcd off every now and then , and have yet needed to recharge it . ",
+        "term": "battery life"
+    },
+    "20": {
+        "id": 20,
+        "polarity": "+",
+        "sentence": "i fell in love with this camera , it combines ease of use , with an immense amount of options and power . ",
+        "term": "camera"
+    },
+    "21": {
+        "id": 21,
+        "polarity": "+",
+        "sentence": "i fell in love with this camera , it combines ease of use , with an immense amount of options and power . ",
+        "term": " use"
+    },
+    "22": {
+        "id": 22,
+        "polarity": "+",
+        "sentence": "this camera is ideal for people who want more power , but do n't want to spend 1000s dollars on a camera . ",
+        "term": "camera"
+    },
+    "23": {
+        "id": 23,
+        "polarity": "+",
+        "sentence": "with nikon , although picture qualities are as good as any other 4 mp cameras , i 've had the following headaches ; ",
+        "term": "picture quality"
+    },
+    "24": {
+        "id": 24,
+        "polarity": "-",
+        "sentence": "1 . pictures wo n't transfer to pc directly from the camera using the included transfer cable . ",
+        "term": "transfer"
+    },
+    "25": {
+        "id": 25,
+        "polarity": "-",
+        "sentence": ". this camera keeps on autofocussing in auto mode with a buzzing sound which can 't be stopped . ",
+        "term": "auto mode"
+    },
+    "26": {
+        "id": 26,
+        "polarity": "-",
+        "sentence": ". even the slightest of the shakes totally distorts your image ",
+        "term": "image"
+    },
+    "27": {
+        "id": 27,
+        "polarity": "-",
+        "sentence": ". images taken indoor were n't so clear . ",
+        "term": "indoor image"
+    },
+    "28": {
+        "id": 28,
+        "polarity": "-",
+        "sentence": ". lens cap is a really annoying ",
+        "term": "lens cap"
+    },
+    "29": {
+        "id": 29,
+        "polarity": "-",
+        "sentence": ". the movie clips taken will always have some ' noise ' in it - you can 't avoid that . ",
+        "term": "movie"
+    },
+    "30": {
+        "id": 30,
+        "polarity": "+",
+        "sentence": "but overall this is a good camera with a ' really good ' picture clarity ; an exceptional close-up shooting capability . ",
+        "term": "camera"
+    },
+    "31": {
+        "id": 31,
+        "polarity": "+",
+        "sentence": "but overall this is a good camera with a ' really good ' picture clarity ; an exceptional close-up shooting capability . ",
+        "term": " picture"
+    },
+    "32": {
+        "id": 32,
+        "polarity": "+",
+        "sentence": "but overall this is a good camera with a ' really good ' picture clarity ; an exceptional close-up shooting capability . ",
+        "term": " close-up shooting"
+    },
+    "33": {
+        "id": 33,
+        "polarity": "-",
+        "sentence": "within a year , there are problems with my menu dial knob . ",
+        "term": "menu dial knob"
+    },
+    "34": {
+        "id": 34,
+        "polarity": "-",
+        "sentence": "i send my camera to nikon for servicing , took them a whole 6 weeks to diagnose the problem . ",
+        "term": "servicing"
+    },
+    "35": {
+        "id": 35,
+        "polarity": "+",
+        "sentence": "it is a good camera in terms of the function and quality , but take your chance with it because nikon absolutely sucks when it comes to customer service . ",
+        "term": "camera"
+    },
+    "36": {
+        "id": 36,
+        "polarity": "-",
+        "sentence": "it is a good camera in terms of the function and quality , but take your chance with it because nikon absolutely sucks when it comes to customer service . ",
+        "term": "customer service"
+    },
+    "37": {
+        "id": 37,
+        "polarity": "-",
+        "sentence": "got a \" system error \" problem 30 days after purchase . ",
+        "term": "system error"
+    },
+    "38": {
+        "id": 38,
+        "polarity": "-",
+        "sentence": "made the camera totally inoperable . ",
+        "term": "camera"
+    },
+    "39": {
+        "id": 39,
+        "polarity": "-",
+        "sentence": "also , the lens cap design is flawed . ",
+        "term": "lens cap"
+    },
+    "40": {
+        "id": 40,
+        "polarity": "-",
+        "sentence": "audio on video also lacking . ",
+        "term": "audio"
+    },
+    "41": {
+        "id": 41,
+        "polarity": "+",
+        "sentence": "otherwise , it takes very good pictures ; shutter delay is n't so bad either . ",
+        "term": "picture"
+    },
+    "42": {
+        "id": 42,
+        "polarity": "+",
+        "sentence": "otherwise , it takes very good pictures ; shutter delay is n't so bad either . ",
+        "term": "delay"
+    },
+    "43": {
+        "id": 43,
+        "polarity": "+",
+        "sentence": "nikon 4300 , i feel , is the best camera out there for the features and price . ",
+        "term": "camera"
+    },
+    "44": {
+        "id": 44,
+        "polarity": "+",
+        "sentence": "the pictures are absolutely amazing - the camera captures the minutest of details . ",
+        "term": "picture"
+    },
+    "45": {
+        "id": 45,
+        "polarity": "-",
+        "sentence": "1 . pictures taken in an indoor setting are a little dull and rarely hazy if you tend to take photographs from a distance . ",
+        "term": "indoor picture"
+    },
+    "46": {
+        "id": 46,
+        "polarity": "-",
+        "sentence": "2 . it takes a while for the camera to actually capture the photograph from the time you click the button and i have seen people becoming a little impatient waiting for the flash to glow . ",
+        "term": "delay"
+    },
+    "47": {
+        "id": 47,
+        "polarity": "-",
+        "sentence": "3 . the pictures come out hazy if your hands shake even for a moment during the entire process of taking a picture . ",
+        "term": "picture"
+    },
+    "48": {
+        "id": 48,
+        "polarity": "+",
+        "sentence": "the possibilities with auto , manual , and the very helpful \" scene \" mode , which offers 11 optimized situational settings like portrait , landscape , beach / snow , sunset etc. , are endless . ",
+        "term": "auto mode"
+    },
+    "49": {
+        "id": 49,
+        "polarity": "+",
+        "sentence": "the possibilities with auto , manual , and the very helpful \" scene \" mode , which offers 11 optimized situational settings like portrait , landscape , beach / snow , sunset etc. , are endless . ",
+        "term": " manual mode"
+    },
+    "50": {
+        "id": 50,
+        "polarity": "+",
+        "sentence": "the possibilities with auto , manual , and the very helpful \" scene \" mode , which offers 11 optimized situational settings like portrait , landscape , beach / snow , sunset etc. , are endless . ",
+        "term": " scene mode"
+    },
+    "51": {
+        "id": 51,
+        "polarity": "+",
+        "sentence": "the movie mode is also working great . ",
+        "term": "movie mode"
+    },
+    "52": {
+        "id": 52,
+        "polarity": "+",
+        "sentence": "the 4300 comes with excellent easy to install software i use it on xp and win98 without problem , battery charger , usb and video cable . ",
+        "term": "software"
+    },
+    "53": {
+        "id": 53,
+        "polarity": "+",
+        "sentence": "i experimented with online print ordering with the two major us brick and mortar retailers , and they both delivered great results . ",
+        "term": "print"
+    },
+    "54": {
+        "id": 54,
+        "polarity": "+",
+        "sentence": "even at the \" normal \" setting , a 8x10 print ! shows not a single sign of visible rendering or pixels - you could never tell that the picture has been taken by a \" digital \" . ",
+        "term": "print"
+    },
+    "55": {
+        "id": 55,
+        "polarity": "+",
+        "sentence": "the battery life is ok , but can be somewhat short when working a lot with the monitor on . ",
+        "term": "battery life"
+    },
+    "56": {
+        "id": 56,
+        "polarity": "+",
+        "sentence": "over all a fantastic very compact camera , which made us experience photography on a totally new level ! ",
+        "term": "camera"
+    },
+    "57": {
+        "id": 57,
+        "polarity": "-",
+        "sentence": "focusing on a display rack about 20 feet away in a brightly lit room during day time , pictures produced by this camera were blurry and in a shade of orange . ",
+        "term": "picture"
+    },
+    "58": {
+        "id": 58,
+        "polarity": "+",
+        "sentence": "after nearly 800 pictures i have found that this nikon takes incredible pictures . ",
+        "term": "picture"
+    },
+    "59": {
+        "id": 59,
+        "polarity": "+",
+        "sentence": "the digital zoom takes as good of pictures , as the optical zoom does ! ",
+        "term": "digital zoom"
+    },
+    "60": {
+        "id": 60,
+        "polarity": "+",
+        "sentence": "the digital zoom takes as good of pictures , as the optical zoom does ! ",
+        "term": "optical zoom"
+    },
+    "61": {
+        "id": 61,
+        "polarity": "-",
+        "sentence": "the inside pics , can be a bit challenging , but when you can instantly delete pics you dont like , that are not focused perfectly , or need lighting adjustments , make this camera very simple and effective . ",
+        "term": "picture"
+    },
+    "62": {
+        "id": 62,
+        "polarity": "+",
+        "sentence": "i love all of the features , and presets as well . ",
+        "term": "feature"
+    },
+    "63": {
+        "id": 63,
+        "polarity": "+",
+        "sentence": "sunset feature takes incredible pics in the morning , and the evening ! ",
+        "term": "sunset feature"
+    },
+    "64": {
+        "id": 64,
+        "polarity": "+",
+        "sentence": "the software you get with this camera is perfect . ",
+        "term": "software"
+    },
+    "65": {
+        "id": 65,
+        "polarity": "+",
+        "sentence": "touchups , redeye , and so on are very easy to alter , and correct . ",
+        "term": "touchup"
+    },
+    "66": {
+        "id": 66,
+        "polarity": "+",
+        "sentence": "touchups , redeye , and so on are very easy to alter , and correct . ",
+        "term": " redeye"
+    },
+    "67": {
+        "id": 67,
+        "polarity": "+",
+        "sentence": "battery life is good , although i recommend two rechargebles , or a alkaline backup , for those emergency pics you have to have . ",
+        "term": "battery life"
+    },
+    "68": {
+        "id": 68,
+        "polarity": "+",
+        "sentence": "all and all , i am extremely pleased with this camera . ",
+        "term": "camera"
+    },
+    "69": {
+        "id": 69,
+        "polarity": "+",
+        "sentence": "great camera , great investment ! ",
+        "term": "camera"
+    },
+    "70": {
+        "id": 70,
+        "polarity": "+",
+        "sentence": "the nikon coolpix 4300 is wonderful -- easy to use , high quality , and compact in size . ",
+        "term": "size"
+    },
+    "71": {
+        "id": 71,
+        "polarity": "+",
+        "sentence": "the nikon coolpix 4300 is wonderful -- easy to use , high quality , and compact in size . ",
+        "term": "use"
+    },
+    "72": {
+        "id": 72,
+        "polarity": "+",
+        "sentence": "the nikon coolpix 4300 is wonderful -- easy to use , high quality , and compact in size . ",
+        "term": "quality"
+    },
+    "73": {
+        "id": 73,
+        "polarity": "+",
+        "sentence": "the auto setting does a great job most of the time but there are manual settings for those who want them . ",
+        "term": "auto setting"
+    },
+    "74": {
+        "id": 74,
+        "polarity": "+",
+        "sentence": "it has many great features and very few bad ones . ",
+        "term": "camera"
+    },
+    "75": {
+        "id": 75,
+        "polarity": "+",
+        "sentence": "it takes excellent pics and is very easy to use , if you read the manual . ",
+        "term": "picture"
+    },
+    "76": {
+        "id": 76,
+        "polarity": "+",
+        "sentence": "it takes excellent pics and is very easy to use , if you read the manual . ",
+        "term": "ease of use"
+    },
+    "77": {
+        "id": 77,
+        "polarity": "-",
+        "sentence": "the only things i have found that i havent liked is that the lcd is hard to read in daylight but everyone elses is too . ",
+        "term": "lcd"
+    },
+    "78": {
+        "id": 78,
+        "polarity": "+",
+        "sentence": "downloads are a snap and quick . ",
+        "term": "download"
+    },
+    "79": {
+        "id": 79,
+        "polarity": "+",
+        "sentence": "controls easy yo use and easy to get to . ",
+        "term": "control"
+    },
+    "80": {
+        "id": 80,
+        "polarity": "+",
+        "sentence": "i 'm extremely glad i bought this camera . ",
+        "term": "camera"
+    },
+    "81": {
+        "id": 81,
+        "polarity": "+",
+        "sentence": "really happy with this little camera . ",
+        "term": "camera"
+    },
+    "82": {
+        "id": 82,
+        "polarity": "+",
+        "sentence": "it is n't big and offensive , though you would n't know it by looking at the pics it takes . ",
+        "term": "size"
+    },
+    "83": {
+        "id": 83,
+        "polarity": "+",
+        "sentence": "settings for just about everything , beautiful pics and beautiful prints . ",
+        "term": "picture"
+    },
+    "84": {
+        "id": 84,
+        "polarity": "+",
+        "sentence": "settings for just about everything , beautiful pics and beautiful prints . ",
+        "term": "print"
+    },
+    "85": {
+        "id": 85,
+        "polarity": "+",
+        "sentence": "i expected the 12x digital zoom to be grainy , but onfull size high to fine quality , the zoomed images are quite impressive . ",
+        "term": "zoomed image"
+    },
+    "86": {
+        "id": 86,
+        "polarity": "+",
+        "sentence": "still , at least from my perspective , a great camera for the money , and i 'm a happy camper ! ",
+        "term": "camera"
+    },
+    "87": {
+        "id": 87,
+        "polarity": "+",
+        "sentence": "this is a wonderful camera . ",
+        "term": "camera"
+    },
+    "88": {
+        "id": 88,
+        "polarity": "+",
+        "sentence": "4 mp gives you room for the future gaining experience ; cost offsets over time from wanting more in a camera , 3x optical and the fact that it carries nikon 's quality reputation behind it make the whole package prove itself worthwile at the price . ",
+        "term": "4mp"
+    },
+    "89": {
+        "id": 89,
+        "polarity": "+",
+        "sentence": "4 mp gives you room for the future gaining experience ; cost offsets over time from wanting more in a camera , 3x optical and the fact that it carries nikon 's quality reputation behind it make the whole package prove itself worthwile at the price . ",
+        "term": "optical zoom"
+    },
+    "90": {
+        "id": 90,
+        "polarity": "+",
+        "sentence": "one neat thing - i have taken some pictures in what i thought would be impossible lighting conditions pitch black rooms - no problem for the camera - rooms looked like they had ample lighting . ",
+        "term": "picture"
+    },
+    "91": {
+        "id": 91,
+        "polarity": "+",
+        "sentence": "this little camera has created a marriage between myself and nikon. never knew i could love a digital camera so much . ",
+        "term": "camera"
+    },
+    "92": {
+        "id": 92,
+        "polarity": "+",
+        "sentence": "the software that comes with it is amazing and the online service that comes free is really very neat. clean clear and well focused on over 95 % of all photos taken by a beginner . ",
+        "term": "software"
+    },
+    "93": {
+        "id": 93,
+        "polarity": "+",
+        "sentence": "the software that comes with it is amazing and the online service that comes free is really very neat. clean clear and well focused on over 95 % of all photos taken by a beginner . ",
+        "term": " online service"
+    },
+    "94": {
+        "id": 94,
+        "polarity": "+",
+        "sentence": "just point and shoot and the photos were great . ",
+        "term": "photo"
+    },
+    "95": {
+        "id": 95,
+        "polarity": "+",
+        "sentence": "the memory card fit nicely since i also have a pocket pc and it automatically installed a picture software on my pda wolla . ",
+        "term": "memory card"
+    },
+    "96": {
+        "id": 96,
+        "polarity": "+",
+        "sentence": "if you have to buy a camera on a buget, this has got to be the one . ",
+        "term": "camera"
+    },
+    "97": {
+        "id": 97,
+        "polarity": "+",
+        "sentence": "great camera , i have been using this for several months and got excellent results , simple friendly usage , in many scenes indoor , outdoor , snow , close up macro etc. ",
+        "term": "camera"
+    },
+    "98": {
+        "id": 98,
+        "polarity": "+",
+        "sentence": "this is my first digital camera and i can say that i am quite impressed with the features that it has . ",
+        "term": "camera"
+    },
+    "99": {
+        "id": 99,
+        "polarity": "+",
+        "sentence": "this is my first digital camera and i can say that i am quite impressed with the features that it has . ",
+        "term": " feature"
+    },
+    "100": {
+        "id": 100,
+        "polarity": "+",
+        "sentence": "it is easy enough to use for a beginner like me but it has plenty of features for me to grow into . ",
+        "term": "use"
+    },
+    "101": {
+        "id": 101,
+        "polarity": "+",
+        "sentence": "i particularly like the way it aids me in taking my macro shots . ",
+        "term": "macro"
+    },
+    "102": {
+        "id": 102,
+        "polarity": "+",
+        "sentence": "my friends were impressed with the quality of the pictures i took ! ",
+        "term": "picture quality"
+    },
+    "103": {
+        "id": 103,
+        "polarity": "-",
+        "sentence": "one downside though is that autofocus does not work well when battery is low . ",
+        "term": "autofocus"
+    },
+    "104": {
+        "id": 104,
+        "polarity": "+",
+        "sentence": "battery life is ok . ",
+        "term": "battery life"
+    },
+    "105": {
+        "id": 105,
+        "polarity": "+",
+        "sentence": "great camera , and for the price you can 't beat it . ",
+        "term": "camera"
+    },
+    "106": {
+        "id": 106,
+        "polarity": "+",
+        "sentence": "i found the controls very intuitive and learned how to manuver through the menus quickly . ",
+        "term": "control"
+    },
+    "107": {
+        "id": 107,
+        "polarity": "+",
+        "sentence": "the quality is superb . ",
+        "term": "quality"
+    },
+    "108": {
+        "id": 108,
+        "polarity": "+",
+        "sentence": "the small size is perfect for my little hands , but may perhaps be uncomfortable or awkward for a bigger person . ",
+        "term": "size"
+    },
+    "109": {
+        "id": 109,
+        "polarity": "+",
+        "sentence": "the 4300 is a very durable , compact package , and i find nikon to be a brand that i can trust . ",
+        "term": "nikon 4300"
+    },
+    "110": {
+        "id": 110,
+        "polarity": "-",
+        "sentence": "it comes with a rechargable battery that does not seem to last all that long , especially if you use the flash a lot . ",
+        "term": "battery"
+    },
+    "111": {
+        "id": 111,
+        "polarity": "-",
+        "sentence": "it does not have an auto-focus assist light which is nice for taking shots in low-light situations it allows the camera to focus in low light . ",
+        "term": "auto-focus assist light"
+    },
+    "112": {
+        "id": 112,
+        "polarity": "-",
+        "sentence": "it has a 3x optical zoom , which is average for these cameras . ",
+        "term": "optical zoom"
+    },
+    "113": {
+        "id": 113,
+        "polarity": "+",
+        "sentence": "it really is an awesome camera that is hard to beat for general-to moderate snapping . ",
+        "term": "camera"
+    },
+    "114": {
+        "id": 114,
+        "polarity": "+",
+        "sentence": "they take excellent macro shots as well . ",
+        "term": "macro"
+    },
+    "115": {
+        "id": 115,
+        "polarity": "+",
+        "sentence": "the menus and features are easy to manipulate and access , and it takes silent movies . ",
+        "term": "menu"
+    },
+    "116": {
+        "id": 116,
+        "polarity": "+",
+        "sentence": "i compared this to a lot of other cameras , believe me , it 's value for money . ",
+        "term": "camera"
+    },
+    "117": {
+        "id": 117,
+        "polarity": "+",
+        "sentence": "the picturers are amazing . ",
+        "term": "picture"
+    },
+    "118": {
+        "id": 118,
+        "polarity": "+",
+        "sentence": "recently bought this coolpix 4300 along with a 256mb ultra flash card . as expected , i happily found that qualities of the picture are excellent with 3m-4m pixel / fine combos and many of the user-friendly functions are very similar to slr models , and with added convenience of a digital camera that you can see pictures immediately . ",
+        "term": "picture quality"
+    },
+    "119": {
+        "id": 119,
+        "polarity": "+",
+        "sentence": "recently bought this coolpix 4300 along with a 256mb ultra flash card . as expected , i happily found that qualities of the picture are excellent with 3m-4m pixel / fine combos and many of the user-friendly functions are very similar to slr models , and with added convenience of a digital camera that you can see pictures immediately . ",
+        "term": "function"
+    },
+    "120": {
+        "id": 120,
+        "polarity": "+",
+        "sentence": "i particularly like the \" txt \" file which records all the control information for all the pictures you take. ",
+        "term": "txt file"
+    },
+    "121": {
+        "id": 121,
+        "polarity": "+",
+        "sentence": "the compact digital camera is especially useful if you have little children around and you can always take the camera with you and take many pictures of them . ",
+        "term": "size"
+    },
+    "122": {
+        "id": 122,
+        "polarity": "+",
+        "sentence": "a nikon will make you happier and leave you lots of good memories , as always . ",
+        "term": "nikon"
+    },
+    "123": {
+        "id": 123,
+        "polarity": "+",
+        "sentence": "i highly recommend this camera to anyone looking for a good digital camera that takes great pictures yet does n't take weeks to figure out how to operate . ",
+        "term": "camera"
+    },
+    "124": {
+        "id": 124,
+        "polarity": "+",
+        "sentence": "i highly recommend this camera to anyone looking for a good digital camera that takes great pictures yet does n't take weeks to figure out how to operate . ",
+        "term": "picture"
+    },
+    "125": {
+        "id": 125,
+        "polarity": "+",
+        "sentence": "we take this camera with us everywhere and are constantly amazed at the quality of the pictures that we get and the number of different ways the camera allows for pictures to be taken . ",
+        "term": "picture quality"
+    },
+    "126": {
+        "id": 126,
+        "polarity": "+",
+        "sentence": "i am a picture fanatic so i consider myself picky and if your the same way this camera will not let you down.now buy it ! ",
+        "term": "camera"
+    },
+    "127": {
+        "id": 127,
+        "polarity": "+",
+        "sentence": "i have it for a week now , and this camera has exceeded my expectations . ",
+        "term": "camera"
+    },
+    "128": {
+        "id": 128,
+        "polarity": "+",
+        "sentence": "the daylight pictures are brilliant and the indoor shots are very good provided that your subject is no more than about 8 feet away . ",
+        "term": "indoor shot"
+    },
+    "129": {
+        "id": 129,
+        "polarity": "+",
+        "sentence": "the daylight pictures are brilliant and the indoor shots are very good provided that your subject is no more than about 8 feet away . ",
+        "term": "picture"
+    },
+    "130": {
+        "id": 130,
+        "polarity": "+",
+        "sentence": "uploading the images to my windows-based pc is very fast and simple . ",
+        "term": "image download"
+    },
+    "131": {
+        "id": 131,
+        "polarity": "-",
+        "sentence": "the only drawbacks i 've encountered are : 1 indoor shots from a distance > 8ft lack contrast and color , but i 've found this to be a problem with all cameras with built-in flashes that i 've used even on a nikon slr . ",
+        "term": "indoor shot"
+    },
+    "132": {
+        "id": 132,
+        "polarity": "-",
+        "sentence": "2 the battery life seems to be on the short side but adequate for most situations . ",
+        "term": "battery life"
+    },
+    "133": {
+        "id": 133,
+        "polarity": "-",
+        "sentence": "3 the picture editing software it came with is adequate , but not very robust . ",
+        "term": "software"
+    },
+    "134": {
+        "id": 134,
+        "polarity": "+",
+        "sentence": "in summary , i love this camera and would whole-heartedly recommend this to anyone wanting a high quality point and shoot camera in the medium price range . ",
+        "term": "camera"
+    },
+    "135": {
+        "id": 135,
+        "polarity": "+",
+        "sentence": "great camera . ",
+        "term": "camera"
+    },
+    "136": {
+        "id": 136,
+        "polarity": "+",
+        "sentence": "i am impressed with how easy this camera is to use . ",
+        "term": "use"
+    },
+    "137": {
+        "id": 137,
+        "polarity": "+",
+        "sentence": "it takes great pictures . ",
+        "term": "picture"
+    },
+    "138": {
+        "id": 138,
+        "polarity": "+",
+        "sentence": "the manual is easy to understand , and it is mostly idiot proof . ",
+        "term": "manual"
+    },
+    "139": {
+        "id": 139,
+        "polarity": "+",
+        "sentence": "it is small , unlike my canon slr , so it easily fits in my pocket . ",
+        "term": "size"
+    },
+    "140": {
+        "id": 140,
+        "polarity": "+",
+        "sentence": "i got this camera about a month ago and i can 't put it down . ",
+        "term": "camera"
+    },
+    "141": {
+        "id": 141,
+        "polarity": "+",
+        "sentence": "i selected the 4300 right away and have gotten high quality pictures every time . ",
+        "term": "picture quality"
+    },
+    "142": {
+        "id": 142,
+        "polarity": "+",
+        "sentence": "autofocus feels exactly like my film camera while scene and manual mode add a little fun challenge to it all . ",
+        "term": "autofocus"
+    },
+    "143": {
+        "id": 143,
+        "polarity": "+",
+        "sentence": "autofocus feels exactly like my film camera while scene and manual mode add a little fun challenge to it all . ",
+        "term": "scene mode"
+    },
+    "144": {
+        "id": 144,
+        "polarity": "+",
+        "sentence": "autofocus feels exactly like my film camera while scene and manual mode add a little fun challenge to it all . ",
+        "term": "manual mode"
+    },
+    "145": {
+        "id": 145,
+        "polarity": "+",
+        "sentence": "i have not been disappointed with my purchase . ",
+        "term": "camera"
+    },
+    "146": {
+        "id": 146,
+        "polarity": "+",
+        "sentence": "picture quality in outdoor settings is indistinguishable from 35mm . ",
+        "term": "picture quality"
+    },
+    "147": {
+        "id": 147,
+        "polarity": "-",
+        "sentence": "on average , indoor shots with a flash are not quite as good as 35mm . ",
+        "term": "indoor shot"
+    },
+    "148": {
+        "id": 148,
+        "polarity": "+",
+        "sentence": "i am extremely satisfied with this camera . ",
+        "term": "camera"
+    },
+    "149": {
+        "id": 149,
+        "polarity": "+",
+        "sentence": "the \" scene \" mode works well for the remainder of shots that are not going to be in a \" regular \" setting . ",
+        "term": "scene mode"
+    },
+    "150": {
+        "id": 150,
+        "polarity": "+",
+        "sentence": "however , its 3x optical setting is acceptable for 70 % of the shots that i take . ",
+        "term": "optical setting"
+    },
+    "151": {
+        "id": 151,
+        "polarity": "+",
+        "sentence": "if you 're looking for a small , compact , super resolution digital camera , you can end your search with the nikon 4300 ! ",
+        "term": "camera"
+    },
+    "152": {
+        "id": 152,
+        "polarity": "+",
+        "sentence": "after a lengthy and extensive journey for a feature-loaded , high performance , travel size camera , i initially gravitated to this little gem because of the superior picture quality 4 mega pixel . ",
+        "term": "picture quality"
+    },
+    "153": {
+        "id": 153,
+        "polarity": "+",
+        "sentence": "after using it for about a month , i can state unequivocably that this nikon definitely delivers a huge bang for the buck . ",
+        "term": "nikon"
+    },
+    "154": {
+        "id": 154,
+        "polarity": "+",
+        "sentence": "its easy to use and the sheer fun of being able to use an array of nikon accessories like the telephoto and wide-angle lenses is the proverbial icing on the cake . ",
+        "term": " accessory"
+    },
+    "155": {
+        "id": 155,
+        "polarity": "+",
+        "sentence": "its easy to use and the sheer fun of being able to use an array of nikon accessories like the telephoto and wide-angle lenses is the proverbial icing on the cake . ",
+        "term": "use"
+    },
+    "156": {
+        "id": 156,
+        "polarity": "+",
+        "sentence": "yes , the picture quality and features which are too numerous to mention are unmatched for any camera in this price range . ",
+        "term": "picture quality"
+    },
+    "157": {
+        "id": 157,
+        "polarity": "+",
+        "sentence": "yes , the picture quality and features which are too numerous to mention are unmatched for any camera in this price range . ",
+        "term": "feature"
+    },
+    "158": {
+        "id": 158,
+        "polarity": "+",
+        "sentence": "the design and construction are excellent -- as is the legendary quality of the nikon optics . ",
+        "term": "design"
+    },
+    "159": {
+        "id": 159,
+        "polarity": "+",
+        "sentence": "the design and construction are excellent -- as is the legendary quality of the nikon optics . ",
+        "term": "construction"
+    },
+    "160": {
+        "id": 160,
+        "polarity": "+",
+        "sentence": "the design and construction are excellent -- as is the legendary quality of the nikon optics . ",
+        "term": "optic"
+    },
+    "161": {
+        "id": 161,
+        "polarity": "+",
+        "sentence": "there are so many functions in this little , yet powerful camera ! ",
+        "term": "camera"
+    }
+}

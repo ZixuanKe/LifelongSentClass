@@ -1,0 +1,272 @@
+{
+    "362": {
+        "id": 362,
+        "polarity": "+",
+        "sentence": "Their customer service agents are always prompt and polite and my service is terrific.",
+        "term": "service"
+    },
+    "363": {
+        "id": 363,
+        "polarity": "+",
+        "sentence": "Their customer service agents are always prompt and polite and my service is terrific.",
+        "term": "customer service agents"
+    },
+    "364": {
+        "id": 364,
+        "polarity": "+",
+        "sentence": "I never get dropped calls.",
+        "term": "calls"
+    },
+    "365": {
+        "id": 365,
+        "polarity": "-",
+        "sentence": "It seems to be a much more user friendly company than Verizon and a thousand percent better than the horrible Quest Wireless.",
+        "term": "Verizon"
+    },
+    "366": {
+        "id": 366,
+        "polarity": "+",
+        "sentence": "It seems to be a much more user friendly company than Verizon and a thousand percent better than the horrible Quest Wireless.",
+        "term": "T-Mobile"
+    },
+    "367": {
+        "id": 367,
+        "polarity": "-",
+        "sentence": "It seems to be a much more user friendly company than Verizon and a thousand percent better than the horrible Quest Wireless.",
+        "term": "Quest Wireless"
+    },
+    "368": {
+        "id": 368,
+        "polarity": "+",
+        "sentence": "I recommend T-Mobile and the Nokia 6600 without reservation.",
+        "term": "T-Mobile"
+    },
+    "369": {
+        "id": 369,
+        "polarity": "+",
+        "sentence": "I recommend T-Mobile and the Nokia 6600 without reservation.",
+        "term": "6600"
+    },
+    "370": {
+        "id": 370,
+        "polarity": "-",
+        "sentence": "The Nokia 6600 is really just a glorified 3650: you know the 3650, those bulbous, formless, big phones a few unfortunate ATT customers are carrying around.",
+        "term": "3650"
+    },
+    "371": {
+        "id": 371,
+        "polarity": "+",
+        "sentence": "The Nokia 6600 is really just a glorified 3650: you know the 3650, those bulbous, formless, big phones a few unfortunate ATT customers are carrying around.",
+        "term": "6600"
+    },
+    "372": {
+        "id": 372,
+        "polarity": "+",
+        "sentence": "The Nokia 660 runs the Symbian OS, which works pretty well for most standard phone fare, most of the stuff is not that intuitive, but if you actually learn how to use it all, there's plenty of neat tie-ins.",
+        "term": "OS"
+    },
+    "373": {
+        "id": 373,
+        "polarity": "+",
+        "sentence": "I've had this phone for almost a year now and it has been nothing but great to use.",
+        "term": "use"
+    },
+    "374": {
+        "id": 374,
+        "polarity": "+",
+        "sentence": "I've had this phone for almost a year now and it has been nothing but great to use.",
+        "term": "phone"
+    },
+    "375": {
+        "id": 375,
+        "polarity": "+",
+        "sentence": "I can connect to my computer via bluetooth to transfer images, calender events, contacts and anything else.",
+        "term": "bluetooth"
+    },
+    "376": {
+        "id": 376,
+        "polarity": "+",
+        "sentence": "Another great feature for me anyway is the ability to load .wav sounds as ringers.",
+        "term": "ringers"
+    },
+    "377": {
+        "id": 377,
+        "polarity": "+",
+        "sentence": "This way I never have to be ripped off by the carrier for stupid ringtones, I can get whatever I want.",
+        "term": "ringtones"
+    },
+    "378": {
+        "id": 378,
+        "polarity": "-",
+        "sentence": "The only downside I have found with this phone is that it is a bit slow to react, meaning when I push the contacts button, it takes a while to load, this is true for almost all the menus and programs on the phone.",
+        "term": "slow"
+    },
+    "379": {
+        "id": 379,
+        "polarity": "+",
+        "sentence": "Other than that, the simbian series 60 OS is great and offers lots of proprietary software that will work on your phone if you're willing to hunt for it.",
+        "term": "OS"
+    },
+    "380": {
+        "id": 380,
+        "polarity": "+",
+        "sentence": "Hand set is good, but be aware of this T-MOBILE rebate.",
+        "term": "Hand set"
+    },
+    "381": {
+        "id": 381,
+        "polarity": "-",
+        "sentence": "Hand set is good, but be aware of this T-MOBILE rebate.",
+        "term": "rebate"
+    },
+    "382": {
+        "id": 382,
+        "polarity": "-",
+        "sentence": "These people takes lest effort to process rebate forms.",
+        "term": "rebate"
+    },
+    "383": {
+        "id": 383,
+        "polarity": "-",
+        "sentence": "For last one month my Rebate status showing me that my rebate is apporved and check is delivered but still I am waiting for Check.",
+        "term": "rebate"
+    },
+    "384": {
+        "id": 384,
+        "polarity": "-",
+        "sentence": "There is no way you can talk with customer care about this.",
+        "term": "customer care"
+    },
+    "385": {
+        "id": 385,
+        "polarity": "-",
+        "sentence": "Dont rely on T-Mobile rebates.",
+        "term": "rebates"
+    },
+    "386": {
+        "id": 386,
+        "polarity": "+",
+        "sentence": "Initially these phones were fun to play with some of the cool features like the speaker phone, web browser and ofcourse the built in camera.",
+        "term": "web browser"
+    },
+    "387": {
+        "id": 387,
+        "polarity": "+",
+        "sentence": "Initially these phones were fun to play with some of the cool features like the speaker phone, web browser and ofcourse the built in camera.",
+        "term": "speaker phone"
+    },
+    "388": {
+        "id": 388,
+        "polarity": "+",
+        "sentence": "Initially these phones were fun to play with some of the cool features like the speaker phone, web browser and ofcourse the built in camera.",
+        "term": "features"
+    },
+    "389": {
+        "id": 389,
+        "polarity": "+",
+        "sentence": "Initially these phones were fun to play with some of the cool features like the speaker phone, web browser and ofcourse the built in camera.",
+        "term": "camera"
+    },
+    "390": {
+        "id": 390,
+        "polarity": "+",
+        "sentence": "The good:  1) Large LCD screen, colorful display, good resolution.",
+        "term": "display"
+    },
+    "391": {
+        "id": 391,
+        "polarity": "+",
+        "sentence": "The good:  1) Large LCD screen, colorful display, good resolution.",
+        "term": "screen"
+    },
+    "392": {
+        "id": 392,
+        "polarity": "+",
+        "sentence": "2) Nice features, like web browser, camera, video recorder, speaker phone (very usefully), clear voice reception.",
+        "term": "reception"
+    },
+    "393": {
+        "id": 393,
+        "polarity": "+",
+        "sentence": "2) Nice features, like web browser, camera, video recorder, speaker phone (very usefully), clear voice reception.",
+        "term": "features"
+    },
+    "394": {
+        "id": 394,
+        "polarity": "+",
+        "sentence": "2) Nice features, like web browser, camera, video recorder, speaker phone (very usefully), clear voice reception.",
+        "term": "web browser"
+    },
+    "395": {
+        "id": 395,
+        "polarity": "+",
+        "sentence": "2) Nice features, like web browser, camera, video recorder, speaker phone (very usefully), clear voice reception.",
+        "term": "video recorder"
+    },
+    "396": {
+        "id": 396,
+        "polarity": "+",
+        "sentence": "2) Nice features, like web browser, camera, video recorder, speaker phone (very usefully), clear voice reception.",
+        "term": " speaker phone"
+    },
+    "397": {
+        "id": 397,
+        "polarity": "+",
+        "sentence": "2) Nice features, like web browser, camera, video recorder, speaker phone (very usefully), clear voice reception.",
+        "term": "camera"
+    },
+    "398": {
+        "id": 398,
+        "polarity": "+",
+        "sentence": "3) Joy stick for eazy navigation, 35Mb memory card to store the pictures and stuff.",
+        "term": "Joy stick"
+    },
+    "399": {
+        "id": 399,
+        "polarity": "+",
+        "sentence": "3) Joy stick for eazy navigation, 35Mb memory card to store the pictures and stuff.",
+        "term": "memory card"
+    },
+    "400": {
+        "id": 400,
+        "polarity": "-",
+        "sentence": "Now the bad:  1) As usual, battery power not sufficient for daily usuage.",
+        "term": "battery"
+    },
+    "401": {
+        "id": 401,
+        "polarity": "+",
+        "sentence": "3) Joy stick for eazy navigation, 35Mb memory card to store the pictures and stuff.",
+        "term": "Joy stick"
+    },
+    "402": {
+        "id": 402,
+        "polarity": "+",
+        "sentence": "3) Joy stick for eazy navigation, 35Mb memory card to store the pictures and stuff.",
+        "term": "memory card"
+    },
+    "403": {
+        "id": 403,
+        "polarity": "-",
+        "sentence": "The battery power discharges rapidly especially on using the web browser.",
+        "term": "battery"
+    },
+    "404": {
+        "id": 404,
+        "polarity": "-",
+        "sentence": "2) Phone is awfully slow.",
+        "term": "slow"
+    },
+    "405": {
+        "id": 405,
+        "polarity": "-",
+        "sentence": "Sometimes when you press buttons, the menu appears after a second or two.",
+        "term": "menu"
+    },
+    "406": {
+        "id": 406,
+        "polarity": "+",
+        "sentence": "3) Phone is kinda heavy, but small in size.",
+        "term": "size"
+    }
+}

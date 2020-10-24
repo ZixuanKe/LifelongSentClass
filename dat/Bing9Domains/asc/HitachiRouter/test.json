@@ -1,0 +1,164 @@
+{
+    "238": {
+        "id": 238,
+        "polarity": "+",
+        "sentence": "All in all I am pleased with the router.",
+        "term": "router"
+    },
+    "239": {
+        "id": 239,
+        "polarity": "+",
+        "sentence": "The power, low noise operation, and speed control makes up for the problems I have experienced.",
+        "term": "control"
+    },
+    "240": {
+        "id": 240,
+        "polarity": "+",
+        "sentence": "The power, low noise operation, and speed control makes up for the problems I have experienced.",
+        "term": "noise"
+    },
+    "241": {
+        "id": 241,
+        "polarity": "+",
+        "sentence": "The power, low noise operation, and speed control makes up for the problems I have experienced.",
+        "term": "power"
+    },
+    "242": {
+        "id": 242,
+        "polarity": "-",
+        "sentence": "It it is a bit heavy for hand held work, but any router this size will be.",
+        "term": "heavy"
+    },
+    "243": {
+        "id": 243,
+        "polarity": "-",
+        "sentence": "Recenly the variable speed control went out.",
+        "term": "control"
+    },
+    "244": {
+        "id": 244,
+        "polarity": "-",
+        "sentence": "It would work fine for a while then as the motor warmed up it would die.",
+        "term": "control"
+    },
+    "245": {
+        "id": 245,
+        "polarity": "-",
+        "sentence": "The only other problem with this router that I have encountered is the plunge action will start to stick, then it needs to be cleaned and lubricated.",
+        "term": "plunge"
+    },
+    "246": {
+        "id": 246,
+        "polarity": "+",
+        "sentence": "Overall it is a great value.",
+        "term": "router"
+    },
+    "247": {
+        "id": 247,
+        "polarity": "+",
+        "sentence": "For the price I don't think you can beat it.",
+        "term": "price"
+    },
+    "248": {
+        "id": 248,
+        "polarity": "+",
+        "sentence": "This is a fantastic tool to use.",
+        "term": "tool"
+    },
+    "249": {
+        "id": 249,
+        "polarity": "-",
+        "sentence": "Only problem is that is a bit heavy.",
+        "term": "heavy"
+    },
+    "250": {
+        "id": 250,
+        "polarity": "+",
+        "sentence": "This is a quality product, not to be confused with teh cheap junk that Hitachi gets manufactured in China.",
+        "term": "product"
+    },
+    "251": {
+        "id": 251,
+        "polarity": "-",
+        "sentence": "They last about 1 1/2 years until the problems start.",
+        "term": "last"
+    },
+    "252": {
+        "id": 252,
+        "polarity": "-",
+        "sentence": "My first router is a safety hazard if you do not pay attention and are not very careful.",
+        "term": "safety"
+    },
+    "253": {
+        "id": 253,
+        "polarity": "+",
+        "sentence": "When the router is working it is a very nice machine for the money.",
+        "term": "router"
+    },
+    "254": {
+        "id": 254,
+        "polarity": "+",
+        "sentence": "When the router is working it is a very nice machine for the money.",
+        "term": "money"
+    },
+    "255": {
+        "id": 255,
+        "polarity": "-",
+        "sentence": "Luckily the soft start helped before it took the wood and tossed it or worse case, a finger.",
+        "term": "safety"
+    },
+    "256": {
+        "id": 256,
+        "polarity": "-",
+        "sentence": "Once a depth is locked, it will jump off a little while working.",
+        "term": "depth"
+    },
+    "257": {
+        "id": 257,
+        "polarity": "-",
+        "sentence": "You must keep double checking depths.",
+        "term": "depths"
+    },
+    "258": {
+        "id": 258,
+        "polarity": "+",
+        "sentence": "But, for the money it is a good machine.",
+        "term": "machine"
+    },
+    "259": {
+        "id": 259,
+        "polarity": "+",
+        "sentence": "But, for the money it is a good machine.",
+        "term": "money"
+    },
+    "260": {
+        "id": 260,
+        "polarity": "-",
+        "sentence": "Well, my second one is now beginning to hicup a bit after about 1 1/2 years.",
+        "term": "duration"
+    },
+    "261": {
+        "id": 261,
+        "polarity": "-",
+        "sentence": "The electronic speed control is not doing it's job and the router begins to speed up and slow down at will.",
+        "term": "control"
+    },
+    "262": {
+        "id": 262,
+        "polarity": "+",
+        "sentence": "For the hobbiest, it's probably a nice buy.",
+        "term": "router"
+    },
+    "263": {
+        "id": 263,
+        "polarity": "+",
+        "sentence": "For the person that uses the equipment every day, pay the extra and get a reliable & safer unit.",
+        "term": "equipment"
+    },
+    "264": {
+        "id": 264,
+        "polarity": "-",
+        "sentence": "If this machine just stops on you, unplug it quickly and get out of the way!",
+        "term": "safety"
+    }
+}

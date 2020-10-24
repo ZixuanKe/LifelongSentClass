@@ -1,0 +1,308 @@
+{
+    "426": {
+        "id": 426,
+        "polarity": "-",
+        "sentence": "I sent Creative customer service 3 emails in which they did not help me one bit and don't seem to even want to help.  ",
+        "term": "customer service"
+    },
+    "427": {
+        "id": 427,
+        "polarity": "+",
+        "sentence": "It was a good player when it worked and I loved the design.  ",
+        "term": "design"
+    },
+    "428": {
+        "id": 428,
+        "polarity": "-",
+        "sentence": "It's too bad, though, that !",
+        "term": "player"
+    },
+    "429": {
+        "id": 429,
+        "polarity": "+",
+        "sentence": "The Creative Zen Micro, at first glance, is a dream come true for all mp3 and music lovers. ",
+        "term": "Zen micro"
+    },
+    "430": {
+        "id": 430,
+        "polarity": "+",
+        "sentence": "The Zen offered a great alternative. ",
+        "term": "battery"
+    },
+    "431": {
+        "id": 431,
+        "polarity": "+",
+        "sentence": "It's easy to use, and makes transfering your CD collection to the player a cinch. ",
+        "term": "software"
+    },
+    "432": {
+        "id": 432,
+        "polarity": "+",
+        "sentence": "The clarity is unbelievable, which means you can cram almost the full 2,5!",
+        "term": "sound quality"
+    },
+    "433": {
+        "id": 433,
+        "polarity": "+",
+        "sentence": "Other mp3 players won't give you the sonic clarity of the Zen at this compression level, so I imagine they won't at lower ones, either. ",
+        "term": "sound quality"
+    },
+    "434": {
+        "id": 434,
+        "polarity": "-",
+        "sentence": "The included headphones suck, so get your own.         ",
+        "term": "headphones"
+    },
+    "435": {
+        "id": 435,
+        "polarity": "+",
+        "sentence": "Transfering MP3s are a cinch with the included software. ",
+        "term": "trnasfer"
+    },
+    "436": {
+        "id": 436,
+        "polarity": "+",
+        "sentence": "The Zen plays mp3, wma and wave formats, which makes it more versatile than the Ipod. ",
+        "term": "format"
+    },
+    "437": {
+        "id": 437,
+        "polarity": "+",
+        "sentence": "The greatest thing about the software (in my humble) is that it reads your CD info. ",
+        "term": "software"
+    },
+    "438": {
+        "id": 438,
+        "polarity": "+",
+        "sentence": "Track #, name, artist, album and genre is automatically-retrieved via internet-labeled, and properly catergorized into the Zen. ",
+        "term": "organization"
+    },
+    "439": {
+        "id": 439,
+        "polarity": "+",
+        "sentence": "rks almost without fail, no matter what your taste in music is: From relaxation music to hard rock, to hip hop, to Korean and Japanese, to Afro-Cuban and Salsa, Jazz, Blues, Country and Pop, this feature performs well. ",
+        "term": "labling"
+    },
+    "440": {
+        "id": 440,
+        "polarity": "-",
+        "sentence": "The touch sreen navigation will take a little getting used to, but once you do, and while the Zen is still alive, it's a great alternative to the marching in lock step with the click wheel commies. ",
+        "term": "touch screen"
+    },
+    "441": {
+        "id": 441,
+        "polarity": "-",
+        "sentence": "just too numerous to list: FM radio, which has weak reception, but at least it there, and a microphone, to name just two. ",
+        "term": "FM reception"
+    },
+    "442": {
+        "id": 442,
+        "polarity": "+",
+        "sentence": "Oh, and another is the cool \"halo\" light that surrounds the touch pad, and light's up when you touch the screen, and how the light glows when the Zen is connected to the computer. ",
+        "term": "touchpad light"
+    },
+    "443": {
+        "id": 443,
+        "polarity": "-",
+        "sentence": "But, the Creative Zen Micro is plagued by a serious, serious stupid and elemenatary design flaw, and I'm going to tell you what it is...But first, two more things about this piece of garbage that's so great and could've made it a potenial IPOD killer.         ",
+        "term": "design"
+    },
+    "444": {
+        "id": 444,
+        "polarity": "+",
+        "sentence": "One: It's size: It's smaller than the Ipod Mini, and holds more music (5GB to the IPOD mini's 4GBs). ",
+        "term": " storage"
+    },
+    "445": {
+        "id": 445,
+        "polarity": "+",
+        "sentence": "Two: it has a removeable/rechargeable battery, so you don't have to send the thing in when the re!",
+        "term": "battery"
+    },
+    "446": {
+        "id": 446,
+        "polarity": "-",
+        "sentence": "But, all of this means nothing, because of the serious, serious, stupid and ridiculously elemenatary design flaw: After 3 months, give or take a few weeks, you won't be able to hear anything. ",
+        "term": "design"
+    },
+    "447": {
+        "id": 447,
+        "polarity": "-",
+        "sentence": "because the \"engineers\" at Creative screwed up the design of the headphone jack. ",
+        "term": "headphone jack design"
+    },
+    "448": {
+        "id": 448,
+        "polarity": "-",
+        "sentence": "Again, the headphone jack on this thing is garbage. ",
+        "term": "headphone jack"
+    },
+    "449": {
+        "id": 449,
+        "polarity": "-",
+        "sentence": "Again, this is a design flaw in the headphone!",
+        "term": "headphone design"
+    },
+    "450": {
+        "id": 450,
+        "polarity": "-",
+        "sentence": "The flaw is inside the Zen. ",
+        "term": "Zen"
+    },
+    "451": {
+        "id": 451,
+        "polarity": "-",
+        "sentence": "The flaw is in the circuit board that the headphone jack is connected to. ",
+        "term": "headphone jack"
+    },
+    "452": {
+        "id": 452,
+        "polarity": "-",
+        "sentence": "The Creative Zen Micro is a Zen Micro killer, not an Ipod killer. ",
+        "term": "Zen micro"
+    },
+    "453": {
+        "id": 453,
+        "polarity": "-",
+        "sentence": "Why would anyone buy this when you can get a 20GB iPod that will hold 4 times the number of songs (and even MORE if AAC encoding is used) for the same price???  ",
+        "term": "storage"
+    },
+    "454": {
+        "id": 454,
+        "polarity": "+",
+        "sentence": "This player is fantastic in terms of audio quality, ease of use, and features. ",
+        "term": " features"
+    },
+    "455": {
+        "id": 455,
+        "polarity": "-",
+        "sentence": "To use the Creative Zen player with a subscription service, you need to go to Creative's web site, and download new software for your PC. ",
+        "term": "usage with subscription service"
+    },
+    "456": {
+        "id": 456,
+        "polarity": "-",
+        "sentence": "I haven't seen any problems yet, but if you don't like to tinker a bit, this player can be a little challenging to set up.  ",
+        "term": "set up"
+    },
+    "457": {
+        "id": 457,
+        "polarity": "-",
+        "sentence": "This doesn't affect standard MP3 files - just subscription WMA files. ",
+        "term": "subscription WMA"
+    },
+    "458": {
+        "id": 458,
+        "polarity": "-",
+        "sentence": "The subscription files are still a little slower to transfer, but it's only by about 10% or so.  ",
+        "term": "transfer speed"
+    },
+    "459": {
+        "id": 459,
+        "polarity": "-",
+        "sentence": "Again, this doesn't affect regular MP3 files - just subscription DRM-encoded files, like those from Napster-to-Go or Yahoo Music Unlimited.  ",
+        "term": "subscription DRM-encoded"
+    },
+    "460": {
+        "id": 460,
+        "polarity": "+",
+        "sentence": "Otherwise, this is a great \"alternative\" MP3 player for those of use who don't want to worship the mighty all-powerful Apple. ",
+        "term": "player"
+    },
+    "461": {
+        "id": 461,
+        "polarity": "+",
+        "sentence": "I got it to use with the new $5-per-month service from Yahoo (Music Unlimited,) and despite the above issues, I love it. ",
+        "term": "player"
+    },
+    "462": {
+        "id": 462,
+        "polarity": "+",
+        "sentence": "I have owned some kind of Creative audio product since 1993 and have never had to call tech support.  ",
+        "term": "creative"
+    },
+    "463": {
+        "id": 463,
+        "polarity": "+",
+        "sentence": "The main issue now is that this new Zen Micro seems to be the best on the market at least temporarily.  ",
+        "term": "player"
+    },
+    "464": {
+        "id": 464,
+        "polarity": "+",
+        "sentence": "It beats Apple on the storage space, it beats apple on the removable battery (and batter life), and I personally like its interface more than the Ipod scroll wheel.  ",
+        "term": " storage"
+    },
+    "465": {
+        "id": 465,
+        "polarity": "+",
+        "sentence": "Further, the tech specs suggest that it has better audio quality than the Ipod.  ",
+        "term": "audio quality"
+    },
+    "466": {
+        "id": 466,
+        "polarity": "+",
+        "sentence": "I have had several MP3 players over the past few years, and have to say that this by far is the best that I've owned. ",
+        "term": "player"
+    },
+    "467": {
+        "id": 467,
+        "polarity": "+",
+        "sentence": "However, the Ipod does not come close to the number of extra features that the 'Zen Micro' has to offer.   ",
+        "term": "features"
+    },
+    "468": {
+        "id": 468,
+        "polarity": "+",
+        "sentence": "Some features that the 'Zen Micro' has that sold me on my purchase include: a 5G hard drive...actually an SD flash card drive...very large and much more than actually needed, the ability to sync with Microsoft Outlook's calendar, the long battery life of about 10 to 12 hours (I can change the battery myself for about $40 to buy vs. ",
+        "term": " extra features"
+    },
+    "469": {
+        "id": 469,
+        "polarity": "+",
+        "sentence": "sending the unit to the company of purchase which costs about $90), the ability to record with a built-in microphone (great for recording reminders and meetings), very sturdy construction, and not to mention...the sound quality is excellent!  ",
+        "term": " sound quality"
+    },
+    "470": {
+        "id": 470,
+        "polarity": "+",
+        "sentence": "As far as user interface is concerned, the best and easiest to use seems to be the one that comes with the player, 'Creative MediaSource Organizer'. ",
+        "term": "user interface"
+    },
+    "471": {
+        "id": 471,
+        "polarity": "+",
+        "sentence": "This program enables the user to batch convert and convert audio files from one format to another. ",
+        "term": "converter"
+    },
+    "472": {
+        "id": 472,
+        "polarity": "+",
+        "sentence": "These include: MP3, Wave, WMA, WMA Pro, and WMA Lossless; it is very user-friendly simply by right-clicking the file(s) to be converted. ",
+        "term": "formats"
+    },
+    "473": {
+        "id": 473,
+        "polarity": "+",
+        "sentence": "By far this seems to be the best value out there for the money; if you are undecided, the Creative Zen Micro seems to be the best choice.     ",
+        "term": "Creative zen Micro"
+    },
+    "474": {
+        "id": 474,
+        "polarity": "-",
+        "sentence": "I don't know, maybe I got a defective one but first, the player would not shut off, next, the player would not come on - I had to send it away to get repaired.  ",
+        "term": " off"
+    },
+    "475": {
+        "id": 475,
+        "polarity": "-",
+        "sentence": "Now, the player's ear phone jack is not working - I have to send it away again.  ",
+        "term": "ear phone jack"
+    },
+    "476": {
+        "id": 476,
+        "polarity": "+",
+        "sentence": "When it's working, it's great but it is very tempermental.  ",
+        "term": "player"
+    }
+}

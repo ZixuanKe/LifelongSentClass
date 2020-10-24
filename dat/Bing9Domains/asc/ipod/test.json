@@ -1,0 +1,122 @@
+{
+    "172": {
+        "id": 172,
+        "polarity": "+",
+        "sentence": " They are EXTREMELY convient and you don't have to buy them seperately Has I-Tunes, which provides qulity music at low prices.",
+        "term": "I-Tunes"
+    },
+    "173": {
+        "id": 173,
+        "polarity": "-",
+        "sentence": "  Cons Breaks easily. ",
+        "term": "Breaks"
+    },
+    "174": {
+        "id": 174,
+        "polarity": "-",
+        "sentence": "Hard drive screws up occasionally",
+        "term": "Hard drive"
+    },
+    "175": {
+        "id": 175,
+        "polarity": "+",
+        "sentence": "The I-Pod is the best thing I have ever used. ",
+        "term": "I-Pod"
+    },
+    "176": {
+        "id": 176,
+        "polarity": "+",
+        "sentence": "I found that to be the most impressive thing about the iPod 'mini' - basically for ease of use, and the feel it gives. ",
+        "term": "use"
+    },
+    "177": {
+        "id": 177,
+        "polarity": "+",
+        "sentence": " This unit comes with the USB/firewire cable as a standard item now. ",
+        "term": "firewire"
+    },
+    "178": {
+        "id": 178,
+        "polarity": "+",
+        "sentence": " This unit comes with the USB/firewire cable as a standard item now. ",
+        "term": "USB"
+    },
+    "179": {
+        "id": 179,
+        "polarity": "+",
+        "sentence": "  I have transferred in about 2,400 tracks so far - very easy to use both the Ipod and iTunes. ",
+        "term": "use"
+    },
+    "180": {
+        "id": 180,
+        "polarity": "+",
+        "sentence": "I was worried about what the sound quality would be like, but that seems to be just as good as the actual CD sound.",
+        "term": "sound quality"
+    },
+    "181": {
+        "id": 181,
+        "polarity": "-",
+        "sentence": "This is only a problem at night, during the day the screen is very easy to see. ",
+        "term": "screen"
+    },
+    "182": {
+        "id": 182,
+        "polarity": "+",
+        "sentence": "I love the features on the iPod and the many things you can do with it. ",
+        "term": "features"
+    },
+    "183": {
+        "id": 183,
+        "polarity": "-",
+        "sentence": " The only problem is the battery life.",
+        "term": "battery"
+    },
+    "184": {
+        "id": 184,
+        "polarity": "-",
+        "sentence": "Apple's iPod battery replacement service costs $100! ",
+        "term": "battery"
+    },
+    "185": {
+        "id": 185,
+        "polarity": "+",
+        "sentence": "The arm band is fantastic and it doesn't budge even at the gym.  ",
+        "term": "arm band"
+    },
+    "186": {
+        "id": 186,
+        "polarity": "+",
+        "sentence": "I love the slim design; the weight would only be an issue if it were bulky.  ",
+        "term": "design"
+    },
+    "187": {
+        "id": 187,
+        "polarity": "+",
+        "sentence": "The ear buds that come with it look cheap, but the sound quality is amazing. ",
+        "term": "sound"
+    },
+    "188": {
+        "id": 188,
+        "polarity": "+",
+        "sentence": "  The click wheel is incredibly convenient, however it can be a little overly touchy at times, which will make you frustrated with your own fingers.  ",
+        "term": "click wheel"
+    },
+    "189": {
+        "id": 189,
+        "polarity": "+",
+        "sentence": " I am a big fan of iTunes, simply because it is terribly fast and convenient - IF you are buying the songs from the iTunes site.  ",
+        "term": "iTunes"
+    },
+    "190": {
+        "id": 190,
+        "polarity": "+",
+        "sentence": " Way to go Apple!  ",
+        "term": "Apple"
+    },
+    "191": {
+        "id": 191,
+        "polarity": "+",
+        "sentence": "I rarely get drawn in by mass-commercialism, but something about the iPod made me say, in the words of Lou and Andy, \"I WANT THAT ONE!\" I was willing to shell out ",
+        "term": "iPod"
+    }
+}

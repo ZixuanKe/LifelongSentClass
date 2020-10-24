@@ -1,0 +1,122 @@
+{
+    "162": {
+        "id": 162,
+        "polarity": "+",
+        "sentence": "seriously ! i love it ! ",
+        "term": "camera"
+    },
+    "163": {
+        "id": 163,
+        "polarity": "+",
+        "sentence": "but this camera is great ! ",
+        "term": "camera"
+    },
+    "164": {
+        "id": 164,
+        "polarity": "+",
+        "sentence": "the picture quality is amazing and you can connect it to your tv and could make silent movies that way if you wanted to . ",
+        "term": "picture quality"
+    },
+    "165": {
+        "id": 165,
+        "polarity": "+",
+        "sentence": "the picture quality is amazing and you can connect it to your tv and could make silent movies that way if you wanted to . ",
+        "term": "movie"
+    },
+    "166": {
+        "id": 166,
+        "polarity": "+",
+        "sentence": "it does have a lense cap , but it wo n't let you take pics with it on which is real good . ",
+        "term": "lense cap"
+    },
+    "167": {
+        "id": 167,
+        "polarity": "+",
+        "sentence": "the battery recharges ral fast and the recharger thingy that comes with is real nice . ",
+        "term": "battery"
+    },
+    "168": {
+        "id": 168,
+        "polarity": "+",
+        "sentence": "ooh , and i dropped it and it still works fine : this little camera has so many features i have n't even gotten to all of them yet . ",
+        "term": "camera"
+    },
+    "169": {
+        "id": 169,
+        "polarity": "+",
+        "sentence": "it 's easy for beginners to use , but has features that more serious photographers will love , so it 's an excellent camera to grow into . ",
+        "term": "feature"
+    },
+    "170": {
+        "id": 170,
+        "polarity": "+",
+        "sentence": "it 's easy for beginners to use , but has features that more serious photographers will love , so it 's an excellent camera to grow into . ",
+        "term": "use"
+    },
+    "171": {
+        "id": 171,
+        "polarity": "+",
+        "sentence": "it 's easy for beginners to use , but has features that more serious photographers will love , so it 's an excellent camera to grow into . ",
+        "term": " camera"
+    },
+    "172": {
+        "id": 172,
+        "polarity": "+",
+        "sentence": "it 's light weight enough to take with you everywhere , but powerful enough to get outstanding pix . ",
+        "term": "weight"
+    },
+    "173": {
+        "id": 173,
+        "polarity": "+",
+        "sentence": "it 's light weight enough to take with you everywhere , but powerful enough to get outstanding pix . ",
+        "term": " picture"
+    },
+    "174": {
+        "id": 174,
+        "polarity": "+",
+        "sentence": "i love the continuous shot mode , which allows you to take up to 16 pix in rapid succession -- great for action shots . ",
+        "term": "continuous shot mode"
+    },
+    "175": {
+        "id": 175,
+        "polarity": "+",
+        "sentence": "i 'm amazed at the photo quality -- prints are indistinguishable from 35mm prints . ",
+        "term": "print"
+    },
+    "176": {
+        "id": 176,
+        "polarity": "+",
+        "sentence": "i 'm amazed at the photo quality -- prints are indistinguishable from 35mm prints . ",
+        "term": "photo quality"
+    },
+    "177": {
+        "id": 177,
+        "polarity": "-",
+        "sentence": "i only have one complaint , and that is the 8mb card included . ",
+        "term": "8mb card"
+    },
+    "178": {
+        "id": 178,
+        "polarity": "-",
+        "sentence": "8mb for a camera like this is a joke . ",
+        "term": "8mb"
+    },
+    "179": {
+        "id": 179,
+        "polarity": "+",
+        "sentence": "1 it has all the features an amatuer photo-enthusiast would want . ",
+        "term": "feature"
+    },
+    "180": {
+        "id": 180,
+        "polarity": "+",
+        "sentence": "2 it is easy enough for my grandmother to use . ",
+        "term": "use"
+    },
+    "181": {
+        "id": 181,
+        "polarity": "+",
+        "sentence": "3 it is very compact but the controls are so well designed that they 're still easy to use . ",
+        "term": "control"
+    }
+}

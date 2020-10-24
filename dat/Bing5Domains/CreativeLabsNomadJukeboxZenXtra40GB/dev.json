@@ -1,0 +1,410 @@
+{
+    "581": {
+        "id": 581,
+        "polarity": "-",
+        "sentence": "kind of bulky and the wheel is awkward , but i can deal with that . ",
+        "term": "size"
+    },
+    "582": {
+        "id": 582,
+        "polarity": "-",
+        "sentence": "software definitely sucks , hangs up my notebook about half the time , but i do n't mind buying notmad . ",
+        "term": "software"
+    },
+    "583": {
+        "id": 583,
+        "polarity": "-",
+        "sentence": "i am annoyed that the player 's not automatically recognized as a hard drive . ",
+        "term": "player"
+    },
+    "584": {
+        "id": 584,
+        "polarity": "-",
+        "sentence": "i loved it until it broke , but less than a month is not an acceptible period of time for something to work . ",
+        "term": "player"
+    },
+    "585": {
+        "id": 585,
+        "polarity": "+",
+        "sentence": "i loved this product when i first got it - great sound , easy to use ( even though i agree that the software was n't the best ) and held enough songs to suit any mood . ",
+        "term": " sound"
+    },
+    "586": {
+        "id": 586,
+        "polarity": "-",
+        "sentence": "i was willing to live with the larger size ( inconvenient on the road ) but the durability was a big zero . ",
+        "term": "durability"
+    },
+    "587": {
+        "id": 587,
+        "polarity": "-",
+        "sentence": "always carried it in a case in by briefcase but one day the hard drive just zapped . ",
+        "term": "hard drive"
+    },
+    "588": {
+        "id": 588,
+        "polarity": "-",
+        "sentence": "i am disappointed and looking elsewhere for something that can withstand the \" rigor \" of a business traveler . ",
+        "term": "player"
+    },
+    "589": {
+        "id": 589,
+        "polarity": "+",
+        "sentence": "the combination of the price , storage size , and player features makes this player the best on the market . ",
+        "term": "player"
+    },
+    "590": {
+        "id": 590,
+        "polarity": "+",
+        "sentence": "fact is , it could n't be easier to use . ",
+        "term": "software"
+    },
+    "591": {
+        "id": 591,
+        "polarity": "+",
+        "sentence": "sound quality on this is amazing , as with all creative products . ",
+        "term": "sound quality"
+    },
+    "592": {
+        "id": 592,
+        "polarity": "+",
+        "sentence": "even leaving it on the default setting ( without the eax enhancements ) produces crystal clear playback . ",
+        "term": "sound"
+    },
+    "593": {
+        "id": 593,
+        "polarity": "+",
+        "sentence": "the menu allows you to search for files by artist , genre , and album quite easily . ",
+        "term": "menu"
+    },
+    "594": {
+        "id": 594,
+        "polarity": "+",
+        "sentence": "the battery stays charged for a long time , and takes no more than 2 or 3 hours at most to fully recharge via the included ac adapter . ",
+        "term": "battery"
+    },
+    "595": {
+        "id": 595,
+        "polarity": "+",
+        "sentence": "connect the player to your computer ( via usb ) , open up mediasource , and you can listen to your stored mp3s as they stream directly from the xtra ! ",
+        "term": "player"
+    },
+    "596": {
+        "id": 596,
+        "polarity": "+",
+        "sentence": "usb 2.0 transfer is insanely fast . ",
+        "term": "usb 2.0"
+    },
+    "597": {
+        "id": 597,
+        "polarity": "-",
+        "sentence": "minor complaints : 1 ) even though the music is sorted via id3 tag on the player , the option to search for music contained in a folder is unavailable . ",
+        "term": "folder"
+    },
+    "598": {
+        "id": 598,
+        "polarity": "-",
+        "sentence": "the zen xtra will transfer the files to the player , but not the folder name . ",
+        "term": "folder"
+    },
+    "599": {
+        "id": 599,
+        "polarity": "-",
+        "sentence": "2 ) having unfilled id3 tags will cause music to be potentially placed in a folder called \" unknown . \" ",
+        "term": "id3 tag"
+    },
+    "600": {
+        "id": 600,
+        "polarity": "-",
+        "sentence": "3 ) with mediasource being so easy , i found no use for the bundled nomad explorer software . ",
+        "term": "nomad explorer"
+    },
+    "601": {
+        "id": 601,
+        "polarity": "-",
+        "sentence": "in fact , it caused my system to hang more times than not , so i uninstalled it and stuck with mediasource 100 % . ",
+        "term": "nomad explorer"
+    },
+    "602": {
+        "id": 602,
+        "polarity": "+",
+        "sentence": "my first impression was positive . ",
+        "term": "player"
+    },
+    "603": {
+        "id": 603,
+        "polarity": "-",
+        "sentence": "first , the sound quality is okay , but ( as at least one other reviewer has mentioned ) the eax can cause audio interference after about 30 minutes . ",
+        "term": "eax"
+    },
+    "604": {
+        "id": 604,
+        "polarity": "-",
+        "sentence": "second , the menu system and controls are poorly designed . ",
+        "term": "control"
+    },
+    "605": {
+        "id": 605,
+        "polarity": "-",
+        "sentence": "the toggle button that is used to scroll is poorly designed and does not work well . ",
+        "term": "scroll"
+    },
+    "606": {
+        "id": 606,
+        "polarity": "-",
+        "sentence": "the general button placement is not very user friendly . ",
+        "term": "button"
+    },
+    "607": {
+        "id": 607,
+        "polarity": "-",
+        "sentence": "third , the poor design continues with the case . ",
+        "term": "case"
+    },
+    "608": {
+        "id": 608,
+        "polarity": "+",
+        "sentence": "overall , a good buy for the price . ",
+        "term": "price"
+    },
+    "609": {
+        "id": 609,
+        "polarity": "+",
+        "sentence": "easy enough to navigate through , although i 'd prefer a sturdier button besides the thumbwheel scroll / pushbutton . ",
+        "term": "navigation"
+    },
+    "610": {
+        "id": 610,
+        "polarity": "-",
+        "sentence": "my biggest complaint is the battery life or lack there of . ",
+        "term": "battery life"
+    },
+    "611": {
+        "id": 611,
+        "polarity": "-",
+        "sentence": "there is no way the battery supplied lasts 14 hours ! ",
+        "term": "battery"
+    },
+    "612": {
+        "id": 612,
+        "polarity": "-",
+        "sentence": "i 've also had the nomad zen lock-up several times . ",
+        "term": "lock up"
+    },
+    "613": {
+        "id": 613,
+        "polarity": "-",
+        "sentence": "the nomad zen could use a little sturdier construction like the archos jukeboxes or some kind of shock resistant case . ",
+        "term": "construction"
+    },
+    "614": {
+        "id": 614,
+        "polarity": "-",
+        "sentence": "at the very least , a sturdier more protective carrying case would be nice . ",
+        "term": "case"
+    },
+    "615": {
+        "id": 615,
+        "polarity": "+",
+        "sentence": "pros : huge storage capacity for the price , easy to navigate , can modify existing playlists on the fly , has a removable battery ",
+        "term": "playlist"
+    },
+    "616": {
+        "id": 616,
+        "polarity": "-",
+        "sentence": "battery life is about 1/4 of that advertised , no operators manual available for any of the nomad zen players ( on or off-line ) , occasional software lockups , replacement battery is expensive ",
+        "term": "replacement battery"
+    },
+    "617": {
+        "id": 617,
+        "polarity": "-",
+        "sentence": "creative zen feedback suffers from construction quality , poor product support , difficulty of using the scroll wheel and reasonably consistent feedback about problems with the headphone jack . ",
+        "term": "support"
+    },
+    "618": {
+        "id": 618,
+        "polarity": "-",
+        "sentence": "what is added in functionality ( battery replacement ) detracts in build quality as the face plate is prone to popping off . ",
+        "term": "build"
+    },
+    "619": {
+        "id": 619,
+        "polarity": "-",
+        "sentence": "feedback on creative 's product support is universally poor ; this is not limited to the zen , it applies to all the company 's products . ",
+        "term": "support"
+    },
+    "620": {
+        "id": 620,
+        "polarity": "-",
+        "sentence": "the scroll wheel is finicky ; it works most of the time but there is a learning curve for pressing it just right ; new users say they have 50 % - 75 % success rate ; some find it so frustrating that they just return the device . ",
+        "term": "scroll wheel"
+    },
+    "621": {
+        "id": 621,
+        "polarity": "-",
+        "sentence": "the creative software is awkward / difficult to use and just plain does n't load on some computers . ",
+        "term": "software"
+    },
+    "622": {
+        "id": 622,
+        "polarity": "-",
+        "sentence": "enough people have reported that their headphone jack does n't work after a month of using the device to believe that creative has some inbuilt manufacturing or quality control problem . ",
+        "term": "headphone jack"
+    },
+    "623": {
+        "id": 623,
+        "polarity": "-",
+        "sentence": "the zen does n't support folders so it is not really a storage device ; even with third party software that \" creates \" folders , documents and programs can 't be launched from the zen , so it is not a hard disk , it 's a storage device at best . ",
+        "term": "folder"
+    },
+    "624": {
+        "id": 624,
+        "polarity": "+",
+        "sentence": "reviews for sound quality are generally ( but not universally ) positive . ",
+        "term": "sound quality"
+    },
+    "625": {
+        "id": 625,
+        "polarity": "+",
+        "sentence": "sure , this thing is definitely more cost-effective than an ipod . ",
+        "term": "price"
+    },
+    "626": {
+        "id": 626,
+        "polarity": "-",
+        "sentence": "but with a low price , comes lower quality . ",
+        "term": "quality"
+    },
+    "627": {
+        "id": 627,
+        "polarity": "+",
+        "sentence": "our special friends at creative gave this thing good sound quality , great features , long battery life , and an unbeatable price . ",
+        "term": "battery life"
+    },
+    "628": {
+        "id": 628,
+        "polarity": "-",
+        "sentence": "the catch is it 's built like a piece of crap . ",
+        "term": "player"
+    },
+    "629": {
+        "id": 629,
+        "polarity": "-",
+        "sentence": "i did n't abuse it , i charged it every day , but the headphone jack just sort of fizzled out . ",
+        "term": "headphone jack"
+    },
+    "630": {
+        "id": 630,
+        "polarity": "+",
+        "sentence": "i bought the player this week and i like it by far . ",
+        "term": "player"
+    },
+    "631": {
+        "id": 631,
+        "polarity": "+",
+        "sentence": "removable and cheap battery - a li battery usually works properly for 1-3 years . ",
+        "term": "battery"
+    },
+    "632": {
+        "id": 632,
+        "polarity": "+",
+        "sentence": "value : comparing data storage with price . ",
+        "term": "value"
+    },
+    "633": {
+        "id": 633,
+        "polarity": "+",
+        "sentence": "the appearance is okayed ( at least not ugly ) . ",
+        "term": "appearance"
+    },
+    "634": {
+        "id": 634,
+        "polarity": "+",
+        "sentence": "the size is small ( just a little bit bigger than an i-pod . ) ",
+        "term": "size"
+    },
+    "635": {
+        "id": 635,
+        "polarity": "+",
+        "sentence": "easy to use : a lot of reviews has mentioned about this ",
+        "term": "use"
+    },
+    "636": {
+        "id": 636,
+        "polarity": "-",
+        "sentence": "the software , mediasource , cannot work on my pc . ( laptop , intel p4-2.0 , xp os ) . ",
+        "term": "mediasource"
+    },
+    "637": {
+        "id": 637,
+        "polarity": "-",
+        "sentence": "in fact , each of my creative mp3 players had software problem in the first place . ",
+        "term": "software"
+    },
+    "638": {
+        "id": 638,
+        "polarity": "+",
+        "sentence": "in short , this player is good at size , value , hardware design but really bad at its software ",
+        "term": "value"
+    },
+    "639": {
+        "id": 639,
+        "polarity": "+",
+        "sentence": "the display is awesome , you can see everything you want and read it clearly ",
+        "term": "display"
+    },
+    "640": {
+        "id": 640,
+        "polarity": "+",
+        "sentence": "huge storage space , i loaded my entire collection of music , which isnt that much , 400 songs , and still have 26 gb , out of the 28 provided to you . ",
+        "term": "storage"
+    },
+    "641": {
+        "id": 641,
+        "polarity": "+",
+        "sentence": "the sound is awesome , but if u put it too loud , depends on yoursound quality , the sound might crack . ",
+        "term": "sound"
+    },
+    "642": {
+        "id": 642,
+        "polarity": "+",
+        "sentence": "with eax on , you can modify your sound , with 4 different presets , which is pretty good , you can get different variations with it . ",
+        "term": "eax"
+    },
+    "643": {
+        "id": 643,
+        "polarity": "+",
+        "sentence": "if you use software correctly , put in all the id3 tags , you will get an awesome database collection , from which you can easily access your songs . ",
+        "term": "software"
+    },
+    "644": {
+        "id": 644,
+        "polarity": "+",
+        "sentence": "i dont know what other people are saying , but the software is awesome . ",
+        "term": "software"
+    },
+    "645": {
+        "id": 645,
+        "polarity": "+",
+        "sentence": "battery recharge , is an awesome thing , because it recharges in only like 2-3 hours . ",
+        "term": "battery"
+    },
+    "646": {
+        "id": 646,
+        "polarity": "+",
+        "sentence": "when you turn on your player , the player turns on really fast , and the music continues to play , as you left it when you were turning it off . ",
+        "term": "player"
+    },
+    "647": {
+        "id": 647,
+        "polarity": "+",
+        "sentence": "you can manage your profile , change the contrast of backlight , make different type of display , either list or tabbed . ",
+        "term": "manage"
+    },
+    "648": {
+        "id": 648,
+        "polarity": "+",
+        "sentence": "you can do other different things with it such as choose what kind of \" now playing \" interface , you can see the interface as modern or classical . ",
+        "term": "interface"
+    }
+}

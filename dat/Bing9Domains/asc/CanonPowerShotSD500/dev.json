@@ -1,0 +1,92 @@
+{
+    "118": {
+        "id": 118,
+        "polarity": "+",
+        "sentence": "overall build quality, good macros-results, impressive video-quality, good pictures with flash (good colours, sharp results), excellent auto white balance.",
+        "term": "build"
+    },
+    "119": {
+        "id": 119,
+        "polarity": "+",
+        "sentence": "overall build quality, good macros-results, impressive video-quality, good pictures with flash (good colours, sharp results), excellent auto white balance.",
+        "term": "flash"
+    },
+    "120": {
+        "id": 120,
+        "polarity": "+",
+        "sentence": "overall build quality, good macros-results, impressive video-quality, good pictures with flash (good colours, sharp results), excellent auto white balance.",
+        "term": "white balance"
+    },
+    "121": {
+        "id": 121,
+        "polarity": "+",
+        "sentence": "overall build quality, good macros-results, impressive video-quality, good pictures with flash (good colours, sharp results), excellent auto white balance.",
+        "term": "macros-results"
+    },
+    "122": {
+        "id": 122,
+        "polarity": "+",
+        "sentence": "Could be better to be a perfect camera (and some competitors do some of this better): purple fringing, details in high-light area, noise over ISO100, red-eyes, (few)processing artefacts, (few)loss of some details especially of the hairs of peoples in low light, automatic autofocus, whizing while video-playback, better video comression (smaler viedo-files), more manual controls, longer lasting battery, indicator for battery, better protection of the LCD, less weight. ",
+        "term": "camera"
+    },
+    "123": {
+        "id": 123,
+        "polarity": "+",
+        "sentence": "When the overall image quality (especially natural colours, details, natural looking of the pictures) is the most important thing, then this camera ist top notch and very impressive. ",
+        "term": "camera"
+    },
+    "124": {
+        "id": 124,
+        "polarity": "+",
+        "sentence": "When the overall image quality (especially natural colours, details, natural looking of the pictures) is the most important thing, then this camera ist top notch and very impressive. ",
+        "term": "image"
+    },
+    "125": {
+        "id": 125,
+        "polarity": "+",
+        "sentence": "In low light with flash I found it clear better then the sony P200 (too much red, colours overall not as natural but fewer red-eyes). ",
+        "term": "flash"
+    },
+    "126": {
+        "id": 126,
+        "polarity": "-",
+        "sentence": "Some adjustments in the settings could help make it better.",
+        "term": "settings"
+    },
+    "127": {
+        "id": 127,
+        "polarity": "+",
+        "sentence": "I found best results in most situation with manual/center auto focus, manual mode, ISO 100 (shorter aperture-time, so more often sharper images as with ISO 50), auto white balance (auto white balance is better than of the other canon cameras I have and they already do very-well).",
+        "term": "focus"
+    },
+    "128": {
+        "id": 128,
+        "polarity": "+",
+        "sentence": "I upgraded from a very small 3.2 mpxl camera to this camera with great results. ",
+        "term": "camera"
+    },
+    "129": {
+        "id": 129,
+        "polarity": "+",
+        "sentence": "Good color and very little needed to correct photos on Paintshop Pro. ",
+        "term": "color"
+    },
+    "130": {
+        "id": 130,
+        "polarity": "+",
+        "sentence": "Neat feature for self-timer allows you to record two different warnings. ",
+        "term": "Picture"
+    },
+    "131": {
+        "id": 131,
+        "polarity": "+",
+        "sentence": "The manual is excellent. ",
+        "term": "manual"
+    },
+    "132": {
+        "id": 132,
+        "polarity": "+",
+        "sentence": "Also, multiple picture feature is very, very fast.",
+        "term": "multiple picture"
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "198": {
+        "id": 198,
+        "polarity": "+",
+        "sentence": "So the pretty solid router all around good for the money  here's the link to firmware updates http://www.sveasoft.com/forum6.html      ",
+        "term": "router"
+    },
+    "199": {
+        "id": 199,
+        "polarity": "+",
+        "sentence": "Absolutely no problems with this router. ",
+        "term": "working"
+    },
+    "200": {
+        "id": 200,
+        "polarity": "+",
+        "sentence": "I downloaded and updated the firmware, and followed the easy setup instructions. ",
+        "term": "instructions"
+    },
+    "201": {
+        "id": 201,
+        "polarity": "+",
+        "sentence": "A call to customer support (got to a live person within a couple of minutes) helped me tweak a couple of the settings to streamline performance.  ",
+        "term": "customer support"
+    },
+    "202": {
+        "id": 202,
+        "polarity": "+",
+        "sentence": "Speed is not a problem.      ",
+        "term": "Speed"
+    },
+    "203": {
+        "id": 203,
+        "polarity": "+",
+        "sentence": "After upgrading the drivers and firmware a few times and e-mailing tech support for some setting tips it now works fine. ",
+        "term": "works"
+    },
+    "204": {
+        "id": 204,
+        "polarity": "+",
+        "sentence": "As far as Linksys goes, I have used several of their products and they seem to hold up well - no problems.     ",
+        "term": "Linksys"
+    },
+    "205": {
+        "id": 205,
+        "polarity": "+",
+        "sentence": "Getting the router setup in a \"vanilla\" configuration that works for 99% of users was very easy, and I was able to do this no problem.",
+        "term": "setup"
+    },
+    "206": {
+        "id": 206,
+        "polarity": "+",
+        "sentence": "Second, the setup CD actually worked perfectly. ",
+        "term": "CD"
+    },
+    "207": {
+        "id": 207,
+        "polarity": "+",
+        "sentence": "I still need to read up on some of the security settings, etc to fully understand all that's up there, but bottom-line is that the installation was like night and day compared to the Speedboost router. ",
+        "term": "installation"
+    },
+    "208": {
+        "id": 208,
+        "polarity": "-",
+        "sentence": "The performance of the router itself deserves 5 stars, but the Linksys documentation and support is so poor that I can only give it 4. ",
+        "term": " support"
+    },
+    "209": {
+        "id": 209,
+        "polarity": "+",
+        "sentence": "The performance of the router itself deserves 5 stars, but the Linksys documentation and support is so poor that I can only give it 4. ",
+        "term": "performance"
+    },
+    "210": {
+        "id": 210,
+        "polarity": "-",
+        "sentence": "The performance of the router itself deserves 5 stars, but the Linksys documentation and support is so poor that I can only give it 4. ",
+        "term": " documentation"
+    },
+    "211": {
+        "id": 211,
+        "polarity": "-",
+        "sentence": "Even the PDF manual that comes with it is pretty vague for someone not familiar with \"MAC settings\", etc. ",
+        "term": "manual"
+    },
+    "212": {
+        "id": 212,
+        "polarity": "+",
+        "sentence": "When I saw a high gain (low price) antenna was available to the WRT54G router, I thought I'd happily give up some (practically unattainable anyway, since you've got to be in spitting distance from the router) speed in favour of wider coverage. ",
+        "term": "antenna"
+    },
+    "213": {
+        "id": 213,
+        "polarity": "+",
+        "sentence": "Having done all this, I was quite pleased to see that all corners I needed were decently covered by the signal. ",
+        "term": "signal"
+    },
+    "214": {
+        "id": 214,
+        "polarity": "+",
+        "sentence": "The box is upstairs, and in the farthest room I get connected at 11-18M speed - that is similar to the older 10M ethernet standard. ",
+        "term": "speed"
+    },
+    "215": {
+        "id": 215,
+        "polarity": "+",
+        "sentence": "Apart from speed, the signal is consistent and works without interruptions, etc. ",
+        "term": "signal"
+    },
+    "216": {
+        "id": 216,
+        "polarity": "+",
+        "sentence": "the WRT54G plus the HGA7T is a perfect solution if you need wireless coverage in a wider area or for a hard-walled house as was my case.     ",
+        "term": "coverage"
+    },
+    "217": {
+        "id": 217,
+        "polarity": "-",
+        "sentence": "We bought this about 6 months ago and it's been worthless.  ",
+        "term": "router"
+    },
+    "218": {
+        "id": 218,
+        "polarity": "-",
+        "sentence": "It constantly drops the internet connection and simple things like WALLS in our house block the link so everything is very slow.  ",
+        "term": "connection"
+    },
+    "219": {
+        "id": 219,
+        "polarity": "-",
+        "sentence": "It constantly drops the internet connection and simple things like WALLS in our house block the link so everything is very slow.  ",
+        "term": " slow"
+    },
+    "220": {
+        "id": 220,
+        "polarity": "-",
+        "sentence": "The tech support is worthless too.     ",
+        "term": "support"
+    }
+}

@@ -1,0 +1,1058 @@
+{
+    "0": {
+        "id": 0,
+        "polarity": "+",
+        "sentence": "This router does everything that it is supposed to do, so i dont really know how to talk that bad about it. ",
+        "term": "router"
+    },
+    "1": {
+        "id": 1,
+        "polarity": "+",
+        "sentence": "It was a very quick setup and installation, in fact the disc that it comes with pretty much makes sure you cant mess it up. ",
+        "term": "setup"
+    },
+    "2": {
+        "id": 2,
+        "polarity": "+",
+        "sentence": "It was a very quick setup and installation, in fact the disc that it comes with pretty much makes sure you cant mess it up. ",
+        "term": " installation"
+    },
+    "3": {
+        "id": 3,
+        "polarity": "+",
+        "sentence": "By no means do you have to be a tech junkie to be able to install it, just be able to put a CD in the computer and it tells you what to do. ",
+        "term": "install"
+    },
+    "4": {
+        "id": 4,
+        "polarity": "+",
+        "sentence": "It works great, i am usually at the full 54 mbps, although every now and then that drops to around 36 mbps only because i am 2 floors below where the router is. ",
+        "term": "works"
+    },
+    "5": {
+        "id": 5,
+        "polarity": "+",
+        "sentence": "It really is a great buy if you are lookin at having just one modem but many computers around the house. ",
+        "term": "router"
+    },
+    "6": {
+        "id": 6,
+        "polarity": "+",
+        "sentence": "There are 3 computers in my house all getting wireless connection from this router, and everybody is happy with it. ",
+        "term": "router"
+    },
+    "7": {
+        "id": 7,
+        "polarity": "+",
+        "sentence": "Its the easiest thing to setup i thought, and i am only 16...So with all that said, BUY THE ROUTER!!!!     ",
+        "term": " ROUTER"
+    },
+    "8": {
+        "id": 8,
+        "polarity": "+",
+        "sentence": "Its the easiest thing to setup i thought, and i am only 16...So with all that said, BUY THE ROUTER!!!!     ",
+        "term": "setup"
+    },
+    "9": {
+        "id": 9,
+        "polarity": "+",
+        "sentence": "It's probably a fine router, but I found the install wizard to be of poor quality.  ",
+        "term": " router"
+    },
+    "10": {
+        "id": 10,
+        "polarity": "-",
+        "sentence": "It's probably a fine router, but I found the install wizard to be of poor quality.  ",
+        "term": "install"
+    },
+    "11": {
+        "id": 11,
+        "polarity": "-",
+        "sentence": "The Wizard is particularly sinister. ",
+        "term": "Wizard"
+    },
+    "12": {
+        "id": 12,
+        "polarity": "-",
+        "sentence": "It just tells you to start disconnecting and attaching cables without any input as to whether your current setup includes a pre-existing router (mine does), without any clarity as to whether you should be running the wizard on a hard-wired PC or a wireless equipped PC. ",
+        "term": "wizard"
+    },
+    "13": {
+        "id": 13,
+        "polarity": "-",
+        "sentence": "The box proudly displays \"SecureEasySetup (TM)\" \"Wireless Made Simple\" \"One Touch Setup Button\" \"Easy Start\" \"Easy Security\" \"Easy Everyday\"   Apparently Linksys/Cisco knows that ease of setup is crucial. ",
+        "term": "setup"
+    },
+    "14": {
+        "id": 14,
+        "polarity": "+",
+        "sentence": "I recently bought the Linksys WRT54G router and have been very happy with the router itself. ",
+        "term": "router"
+    },
+    "15": {
+        "id": 15,
+        "polarity": "-",
+        "sentence": "HOWEVER, configuration of my system and actual setup of the router for wireless use took me more than 3 hours, and briefly made me reconsider my choice to forego the airport and its notoriously easy setup. ",
+        "term": "configuration"
+    },
+    "16": {
+        "id": 16,
+        "polarity": "-",
+        "sentence": "Too bad they don't mention anything about how the CD can't be used with a Mac. ",
+        "term": "CD"
+    },
+    "17": {
+        "id": 17,
+        "polarity": "-",
+        "sentence": "I even downloaded the product's user manual - useless. ",
+        "term": "user manual"
+    },
+    "18": {
+        "id": 18,
+        "polarity": "-",
+        "sentence": "The Linksys technical support site has nothing about configuring the router for use with a Mac. ",
+        "term": "technical support"
+    },
+    "19": {
+        "id": 19,
+        "polarity": "-",
+        "sentence": "I say adequate because it was enough to get wireless working, but nowhere near enough instruction to do the proper configuration job that I could have done if so!",
+        "term": "instruction"
+    },
+    "20": {
+        "id": 20,
+        "polarity": "-",
+        "sentence": "What this product really needs is better documentation for how to set up the router for DIFFERENT OPERATING SYSTEMS!",
+        "term": "documentation"
+    },
+    "21": {
+        "id": 21,
+        "polarity": "-",
+        "sentence": "* I'm giving it 4 stars because the setup process was so miserable. ",
+        "term": "setup"
+    },
+    "22": {
+        "id": 22,
+        "polarity": "+",
+        "sentence": "But the product iself is great.  ",
+        "term": "product"
+    },
+    "23": {
+        "id": 23,
+        "polarity": "+",
+        "sentence": "Once you set it up, it's great. ",
+        "term": "router"
+    },
+    "24": {
+        "id": 24,
+        "polarity": "+",
+        "sentence": "And it is EXTREMELY well-priced for what you're getting. ",
+        "term": "well-priced"
+    },
+    "25": {
+        "id": 25,
+        "polarity": "+",
+        "sentence": "Another 5 star performance. ",
+        "term": "performance"
+    },
+    "26": {
+        "id": 26,
+        "polarity": "+",
+        "sentence": "This setup using the CD was about as easy as learning how to open a refrigerator door for the first time. ",
+        "term": "CD"
+    },
+    "27": {
+        "id": 27,
+        "polarity": "+",
+        "sentence": "Pertaining to the speed issue: I got 54Mps while I was in the same room. ",
+        "term": "speed"
+    },
+    "28": {
+        "id": 28,
+        "polarity": "+",
+        "sentence": "This router works at 54Mbps that's megabyte not kilobyte. ",
+        "term": "works"
+    },
+    "29": {
+        "id": 29,
+        "polarity": "+",
+        "sentence": "I hooked the Linksys wireless router up to a broadband connection which is running at a maximum of 700 plus Kilobytes on the download e!",
+        "term": "running"
+    },
+    "30": {
+        "id": 30,
+        "polarity": "+",
+        "sentence": "Broadband hooked up to this wireless setup flies. ",
+        "term": "Broadband"
+    },
+    "31": {
+        "id": 31,
+        "polarity": "+",
+        "sentence": "Installation was as near automatic as can be. ",
+        "term": "Installation"
+    },
+    "32": {
+        "id": 32,
+        "polarity": "+",
+        "sentence": "All in all this is a 5 star piece of equipment. ",
+        "term": "equipment"
+    },
+    "33": {
+        "id": 33,
+        "polarity": "-",
+        "sentence": "I had some issues when I had enabled WEP encryption and then moved on to WPA. ",
+        "term": "WEP encryption"
+    },
+    "34": {
+        "id": 34,
+        "polarity": "+",
+        "sentence": "Even during the firmware updates my roommates did not loose wireless connectivity.  ",
+        "term": "connectivity"
+    },
+    "35": {
+        "id": 35,
+        "polarity": "+",
+        "sentence": "New firmware update allows for automatic wireless network configuration. ",
+        "term": "firmware update"
+    },
+    "36": {
+        "id": 36,
+        "polarity": "+",
+        "sentence": "All you have to do is click one button on the router configuration window and the router automatically senses the devices and configures the network. ",
+        "term": "configuration"
+    },
+    "37": {
+        "id": 37,
+        "polarity": "+",
+        "sentence": "Awesome for the newbie, though I personally like to fasten every bolt myself.  ",
+        "term": "router"
+    },
+    "38": {
+        "id": 38,
+        "polarity": "+",
+        "sentence": "Comes with a installation CD which instructs you step by step to setting up the router. ",
+        "term": "installation"
+    },
+    "39": {
+        "id": 39,
+        "polarity": "+",
+        "sentence": "You need to know absolutely nothing about setting up the network.  ",
+        "term": "setting up"
+    },
+    "40": {
+        "id": 40,
+        "polarity": "-",
+        "sentence": "Linksys is more costlier than others and is a home/consumer division of Cisco. ",
+        "term": "costlier"
+    },
+    "41": {
+        "id": 41,
+        "polarity": "-",
+        "sentence": "There were no other obvious setup instructions - though there was a softcopy manual, it did not give an answer readily on what do to.  ",
+        "term": "instructions"
+    },
+    "42": {
+        "id": 42,
+        "polarity": "-",
+        "sentence": "The only other problem was that security for the wireless connection.  ",
+        "term": "security"
+    },
+    "43": {
+        "id": 43,
+        "polarity": "+",
+        "sentence": "The router works fine for both wired and wireless.  ",
+        "term": "works"
+    },
+    "44": {
+        "id": 44,
+        "polarity": "+",
+        "sentence": "I can go pretty far away from my router and still connect wirelessly.  ",
+        "term": "connect"
+    },
+    "45": {
+        "id": 45,
+        "polarity": "+",
+        "sentence": "Overall, if you know what basic steps to take, it was not difficult to connect, and the s/w worked well to connect.  ",
+        "term": "connect"
+    },
+    "46": {
+        "id": 46,
+        "polarity": "-",
+        "sentence": "little to no networking experience, just in case the automatic CD method has issues.  ",
+        "term": "CD"
+    },
+    "47": {
+        "id": 47,
+        "polarity": "+",
+        "sentence": "I'd give it 4.5 stars if possible, but since 5 stars would be misleading, I give it 4 stars.     ",
+        "term": "router"
+    },
+    "48": {
+        "id": 48,
+        "polarity": "-",
+        "sentence": "This is not an enterprise piece of hardware that you will find in an office or corporate environment. ",
+        "term": "enterprise piece"
+    },
+    "49": {
+        "id": 49,
+        "polarity": "+",
+        "sentence": "I have had mine for about a year and use a third party firmware on mine and love it. ",
+        "term": "router"
+    },
+    "50": {
+        "id": 50,
+        "polarity": "-",
+        "sentence": "The new hardware version does not run Linux at all and most likely will not since the memory has been cut in half. ",
+        "term": "hardware version"
+    },
+    "51": {
+        "id": 51,
+        "polarity": "+",
+        "sentence": "just want a wireless router for home or your very small business, you can just get a WRT54G from here and configure it. ",
+        "term": "WRT54G"
+    },
+    "52": {
+        "id": 52,
+        "polarity": "+",
+        "sentence": "I would highly recommend that you do this if you want to learn something, but if you are not interested in learning this stuff and just want a working wireless router, just get the WRT54G.     ",
+        "term": "WRT54G"
+    },
+    "53": {
+        "id": 53,
+        "polarity": "-",
+        "sentence": "I tried the CD setup program without any luck.  ",
+        "term": "CD"
+    },
+    "54": {
+        "id": 54,
+        "polarity": "+",
+        "sentence": "Yes, the 1-800 number probably redirected me to someone in India, but the guy was easy to understand, and he helped solve the problem. ",
+        "term": "1-800"
+    },
+    "55": {
+        "id": 55,
+        "polarity": "-",
+        "sentence": "Essentially, the CD included with the package is, for the most part, worthless.  ",
+        "term": "CD"
+    },
+    "56": {
+        "id": 56,
+        "polarity": "+",
+        "sentence": "It'll make life a lot easier, and preclude you from having to give this product a negative review.  ",
+        "term": "product"
+    },
+    "57": {
+        "id": 57,
+        "polarity": "+",
+        "sentence": "This is my fourth Linksys product and, aside from the rough start, I'm very satisfied with this router.     ",
+        "term": "router"
+    },
+    "58": {
+        "id": 58,
+        "polarity": "+",
+        "sentence": "This linksys router does it for the RIGHT PRICE. ",
+        "term": "router"
+    },
+    "59": {
+        "id": 59,
+        "polarity": "+",
+        "sentence": "The range is terrific, I am using this for my home and I was transferring at 50+mbs from my backyard.",
+        "term": "range"
+    },
+    "60": {
+        "id": 60,
+        "polarity": "+",
+        "sentence": "I've since gotten the Linksys Modem (BEFCMU10) and stacked it with the WRT54G router and it works fantastic!!! ",
+        "term": "WRT54G"
+    },
+    "61": {
+        "id": 61,
+        "polarity": "+",
+        "sentence": "It took me about an hour to set up a wireless environment in her townhouse and she hasn't called me yet with any problems. ",
+        "term": "set up"
+    },
+    "62": {
+        "id": 62,
+        "polarity": "+",
+        "sentence": "there are instructions to encrypt your personal wirless network so no one else can end up hogging/stealing your bandwidth. ",
+        "term": "instructions"
+    },
+    "63": {
+        "id": 63,
+        "polarity": "+",
+        "sentence": "And the tech writers have made the installation process SO EASY for people lik my aunt to follow. ",
+        "term": "installation"
+    },
+    "64": {
+        "id": 64,
+        "polarity": "+",
+        "sentence": "A very well made product that has worked very well for me over the years. ",
+        "term": "product"
+    },
+    "65": {
+        "id": 65,
+        "polarity": "+",
+        "sentence": "I upgraded from an older 801.11b router to the Linksys WRT54G for its improved security, and of course, speed. ",
+        "term": " speed"
+    },
+    "66": {
+        "id": 66,
+        "polarity": "+",
+        "sentence": "I upgraded from an older 801.11b router to the Linksys WRT54G for its improved security, and of course, speed. ",
+        "term": "security"
+    },
+    "67": {
+        "id": 67,
+        "polarity": "-",
+        "sentence": "However, this product performed well below my expectation.  ",
+        "term": "router"
+    },
+    "68": {
+        "id": 68,
+        "polarity": "-",
+        "sentence": "The Achilles heel of this router is its inability to stream music, or copy large files over the local network.  ",
+        "term": " copy large files"
+    },
+    "69": {
+        "id": 69,
+        "polarity": "-",
+        "sentence": "The Achilles heel of this router is its inability to stream music, or copy large files over the local network.  ",
+        "term": "stream"
+    },
+    "70": {
+        "id": 70,
+        "polarity": "-",
+        "sentence": "After some research on the Net, I discovered that there is indeed a flaw with the current WRT54G design (WRT54G, version 3, which Amazon currently sells).  ",
+        "term": "design"
+    },
+    "71": {
+        "id": 71,
+        "polarity": "+",
+        "sentence": "As I mentioned in my first paragraph, it supports WPA security, which is far superior to WEP.  ",
+        "term": "security"
+    },
+    "72": {
+        "id": 72,
+        "polarity": "+",
+        "sentence": "In addition it is very easy to setup.  ",
+        "term": "setup"
+    },
+    "73": {
+        "id": 73,
+        "polarity": "+",
+        "sentence": "anted to rate the router higher than 1 star, due to its security, easy of use, etc.  ",
+        "term": " security"
+    },
+    "74": {
+        "id": 74,
+        "polarity": "+",
+        "sentence": "anted to rate the router higher than 1 star, due to its security, easy of use, etc.  ",
+        "term": "use"
+    },
+    "75": {
+        "id": 75,
+        "polarity": "+",
+        "sentence": "So far it all works fine with either cable or wireless connections.  ",
+        "term": "works"
+    },
+    "76": {
+        "id": 76,
+        "polarity": "+",
+        "sentence": "The setup was very easy. ",
+        "term": "setup"
+    },
+    "77": {
+        "id": 77,
+        "polarity": "+",
+        "sentence": "Just follow the instructions carefully, it's all based on a CD that has everything you need to get you up and running in no time. ",
+        "term": "instructions"
+    },
+    "78": {
+        "id": 78,
+        "polarity": "+",
+        "sentence": "The dual anteanna is a plus and the design is slick.   ",
+        "term": "design"
+    },
+    "79": {
+        "id": 79,
+        "polarity": "+",
+        "sentence": "The dual anteanna is a plus and the design is slick.   ",
+        "term": " anteanna"
+    },
+    "80": {
+        "id": 80,
+        "polarity": "+",
+        "sentence": "drops and strong signals even from the backyard. ",
+        "term": "signals"
+    },
+    "81": {
+        "id": 81,
+        "polarity": "+",
+        "sentence": "The WRT54G offers excellent security features and much more (and easier) configuration menu that I didn't even need a manual to setup correctly.  ",
+        "term": " configuration menu"
+    },
+    "82": {
+        "id": 82,
+        "polarity": "+",
+        "sentence": "The WRT54G offers excellent security features and much more (and easier) configuration menu that I didn't even need a manual to setup correctly.  ",
+        "term": "security"
+    },
+    "83": {
+        "id": 83,
+        "polarity": "+",
+        "sentence": "Even though you could get a cheap router these days, I'm happy I spent a little extra for the Linksys. ",
+        "term": "Linksys"
+    },
+    "84": {
+        "id": 84,
+        "polarity": "+",
+        "sentence": "The quality is significant and you'll be very happy from saving time and the headache.      ",
+        "term": "quality"
+    },
+    "85": {
+        "id": 85,
+        "polarity": "+",
+        "sentence": "I got it working fast enough.  ",
+        "term": "working"
+    },
+    "86": {
+        "id": 86,
+        "polarity": "+",
+        "sentence": "It is a nice router in all ways but one.  ",
+        "term": "router"
+    },
+    "87": {
+        "id": 87,
+        "polarity": "-",
+        "sentence": "It is not reliable.  ",
+        "term": "reliable"
+    },
+    "88": {
+        "id": 88,
+        "polarity": "-",
+        "sentence": "A couple of times a week it seems to cease access to the internet. ",
+        "term": "access"
+    },
+    "89": {
+        "id": 89,
+        "polarity": "-",
+        "sentence": "That is, you cannot access the internet at all.  ",
+        "term": "access"
+    },
+    "90": {
+        "id": 90,
+        "polarity": "-",
+        "sentence": "Very annoying.    ",
+        "term": "router"
+    },
+    "91": {
+        "id": 91,
+        "polarity": "+",
+        "sentence": "I also wanted to switch to Broadcom hardware (which the linksys uses) because my WiFi MiniPCI card in my dell laptop with lucent silicon in it used 70% of my 1.2Ghz laptop's CPU when using the wireless at full speed.  ",
+        "term": "Broadcom hardware"
+    },
+    "92": {
+        "id": 92,
+        "polarity": "-",
+        "sentence": "The installation software CD crashed repeatedly. ",
+        "term": "CD"
+    },
+    "93": {
+        "id": 93,
+        "polarity": "-",
+        "sentence": "I then tried to set up the router through Linksys's browser interface, but as the only instructions available tell you to use the installation CD, I had little luck - I did manage to connect briefly, but the connection kept dropping, and with no idea of how to resolve THAT issue, I gave up.   ",
+        "term": "connection"
+    },
+    "94": {
+        "id": 94,
+        "polarity": "-",
+        "sentence": "I couldn't get the install wizard to work.  ",
+        "term": "wizard"
+    },
+    "95": {
+        "id": 95,
+        "polarity": "+",
+        "sentence": "However, setting up using the quick start instructions was a breeze.  ",
+        "term": "instructions"
+    },
+    "96": {
+        "id": 96,
+        "polarity": "+",
+        "sentence": "It's easy to install the security on this product but Linksys doesn't do a good job of explaining why its important.  ",
+        "term": "install"
+    },
+    "97": {
+        "id": 97,
+        "polarity": "-",
+        "sentence": "Knocked 1 star off for the install wizard - it wasted alot of time running it.     ",
+        "term": "wizard"
+    },
+    "98": {
+        "id": 98,
+        "polarity": "+",
+        "sentence": "While I am not happy that a solid state device died after such a short period of time, my quick review of this product space did not yield any other brands that seem much better than Linksys.  ",
+        "term": "Linksys"
+    },
+    "99": {
+        "id": 99,
+        "polarity": "+",
+        "sentence": "The new router came with an updated setup utility that makes getting the router installed a fairly straight forward process. ",
+        "term": "install"
+    },
+    "100": {
+        "id": 100,
+        "polarity": "+",
+        "sentence": "Unlike other reviewers, I have found the support to be responsive, almost no wait time on the phone, and relatively knowledgeable. ",
+        "term": "support"
+    },
+    "101": {
+        "id": 101,
+        "polarity": "+",
+        "sentence": "Overall, this router seems like a reasonably priced product th!",
+        "term": "priced"
+    },
+    "102": {
+        "id": 102,
+        "polarity": "+",
+        "sentence": "at works as well as can be expected for products in this space and the company backs it up with good support.     ",
+        "term": "products"
+    },
+    "103": {
+        "id": 103,
+        "polarity": "+",
+        "sentence": "at works as well as can be expected for products in this space and the company backs it up with good support.     ",
+        "term": "support"
+    },
+    "104": {
+        "id": 104,
+        "polarity": "+",
+        "sentence": "It's easy and really works, with some incredible range.  ",
+        "term": "works"
+    },
+    "105": {
+        "id": 105,
+        "polarity": "+",
+        "sentence": "It's easy and really works, with some incredible range.  ",
+        "term": " range"
+    },
+    "106": {
+        "id": 106,
+        "polarity": "+",
+        "sentence": "Compatability with other devices is excellent too; I've only found one 11b device that won't work with its mixed mode (and it won't work with *anyone's* mixed mode).",
+        "term": "Compatibility"
+    },
+    "107": {
+        "id": 107,
+        "polarity": "+",
+        "sentence": "Setup in XP was instant and intuitive. ",
+        "term": "Setup"
+    },
+    "108": {
+        "id": 108,
+        "polarity": "+",
+        "sentence": "The main advantage of this system over its predecessor is the ability to open a wider pipeline between clients. ",
+        "term": "pipeline"
+    },
+    "109": {
+        "id": 109,
+        "polarity": "+",
+        "sentence": "Linksys quality and tech support have been outstanding.     ",
+        "term": " tech support"
+    },
+    "110": {
+        "id": 110,
+        "polarity": "+",
+        "sentence": "Linksys quality and tech support have been outstanding.     ",
+        "term": "quality"
+    },
+    "111": {
+        "id": 111,
+        "polarity": "+",
+        "sentence": "My experience with installation was quite good.  ",
+        "term": "installation"
+    },
+    "112": {
+        "id": 112,
+        "polarity": "+",
+        "sentence": "I upgraded both my card and router and really had no problems with installation on my Sony VAIO laptop (XP operating system).  ",
+        "term": "installation"
+    },
+    "113": {
+        "id": 113,
+        "polarity": "+",
+        "sentence": "The card basically installed itself and the \"install wizard\" on the CD that came with the router basically set the router up to work with one computer (with the 54g card) and also a second computer in my house (with an 11b card).  ",
+        "term": "wizard"
+    },
+    "114": {
+        "id": 114,
+        "polarity": "+",
+        "sentence": "The setup wasn't quite perfect the first time -- I needed to go through a web-based interface to set up the router (to give  it info on my DSL provider account), though the documentation for this was staightforward.  ",
+        "term": " documentation"
+    },
+    "115": {
+        "id": 115,
+        "polarity": "-",
+        "sentence": "The setup wasn't quite perfect the first time -- I needed to go through a web-based interface to set up the router (to give  it info on my DSL provider account), though the documentation for this was staightforward.  ",
+        "term": "setup"
+    },
+    "116": {
+        "id": 116,
+        "polarity": "+",
+        "sentence": "I haven't tried to set up any advanced features on the router, but it is not difficult to set up for basic use.  ",
+        "term": "set up"
+    },
+    "117": {
+        "id": 117,
+        "polarity": "+",
+        "sentence": "The documentation is much better than the documentation that came with the 11b router -- I needed a lot of help from Linksys technical assistance to set that one up.  ",
+        "term": "documentation"
+    },
+    "118": {
+        "id": 118,
+        "polarity": "+",
+        "sentence": "I like this router a whole lot better the Linksys 11b router it replaced -- the signal strength seems ot be much stroners, seldom falling below the \"very good\" range (and most often excellent within 25-50 feet of the router.  ",
+        "term": "router"
+    },
+    "119": {
+        "id": 119,
+        "polarity": "+",
+        "sentence": "I like this router a whole lot better the Linksys 11b router it replaced -- the signal strength seems ot be much stroners, seldom falling below the \"very good\" range (and most often excellent within 25-50 feet of the router.  ",
+        "term": " signal strength"
+    },
+    "120": {
+        "id": 120,
+        "polarity": "+",
+        "sentence": "The transmission speed is also quite good, with pages loading very quickly.  ",
+        "term": "transmission speed"
+    },
+    "121": {
+        "id": 121,
+        "polarity": "+",
+        "sentence": "I have had no problem either with backward compatiaibility, in that the \"mixed mode\" feature lets you both 54 and 11 Mb cards off the router.     ",
+        "term": "backward"
+    },
+    "122": {
+        "id": 122,
+        "polarity": "+",
+        "sentence": "As far as dealing with network access of other computers this router is pretty good given the price- remember this router is the same one that was released right when the G standard was introduced to the market. ",
+        "term": "router"
+    },
+    "123": {
+        "id": 123,
+        "polarity": "-",
+        "sentence": "I like the fact that it IS EASY to use with limited networking experience- the problem I have is that there are many useless features on the unit, and some wanted features, like a list of computers accessing my wireless, is not easily found on my router.   ",
+        "term": " features"
+    },
+    "124": {
+        "id": 124,
+        "polarity": "+",
+        "sentence": "I like the fact that it IS EASY to use with limited networking experience- the problem I have is that there are many useless features on the unit, and some wanted features, like a list of computers accessing my wireless, is not easily found on my router.   ",
+        "term": "use"
+    },
+    "125": {
+        "id": 125,
+        "polarity": "+",
+        "sentence": "All in all, it's a good router if you don't have the cash for a Speedbooster one. ",
+        "term": "router"
+    },
+    "126": {
+        "id": 126,
+        "polarity": "+",
+        "sentence": "I just replaced my old Linksys router with this one, turned everything on in the right order, and it was up and running with no problems.  ",
+        "term": "router"
+    },
+    "127": {
+        "id": 127,
+        "polarity": "+",
+        "sentence": "All of the wireless components that I bought were a breeze to set up as well.     ",
+        "term": "set up"
+    },
+    "128": {
+        "id": 128,
+        "polarity": "+",
+        "sentence": "This product is by far the best Broadband Router on the market, I bought this to replace one of those Linksys Instant Wireless B routers, worked great for about a year. ",
+        "term": "product"
+    },
+    "129": {
+        "id": 129,
+        "polarity": "+",
+        "sentence": "My opion is concentrate on what you need now, This product has EXELENT range, holds a teady connection, hasent even droped one and i have it for more than a month now. ",
+        "term": " connection"
+    },
+    "130": {
+        "id": 130,
+        "polarity": "+",
+        "sentence": "My opion is concentrate on what you need now, This product has EXELENT range, holds a teady connection, hasent even droped one and i have it for more than a month now. ",
+        "term": "range"
+    },
+    "131": {
+        "id": 131,
+        "polarity": "+",
+        "sentence": "IF YOU NEED A WIRELESS ROUTER.... GET IT GET IT GET IT.... works really good....     ",
+        "term": "ROUTER"
+    },
+    "132": {
+        "id": 132,
+        "polarity": "+",
+        "sentence": "IF YOU NEED A WIRELESS ROUTER.... GET IT GET IT GET IT.... works really good....     ",
+        "term": " works"
+    },
+    "133": {
+        "id": 133,
+        "polarity": "+",
+        "sentence": "I was an early purchaser of the WRT54G, and had a few problems with stability and speed - finally, the March 03 firmware update has resulted in an excellent product!",
+        "term": " firmware update"
+    },
+    "134": {
+        "id": 134,
+        "polarity": "+",
+        "sentence": "I was an early purchaser of the WRT54G, and had a few problems with stability and speed - finally, the March 03 firmware update has resulted in an excellent product!",
+        "term": "product"
+    },
+    "135": {
+        "id": 135,
+        "polarity": "-",
+        "sentence": "It took me three days, to the tune of Neil Young's song \"Piece Of Cr--!\", to get this to work with the satellite hookup I was hired to connect this wireless network up to.  ",
+        "term": "satellite"
+    },
+    "136": {
+        "id": 136,
+        "polarity": "-",
+        "sentence": "There is not a word about satellite issues in either the user guide or the \"knowledge\" database at linksys.com, and first tech support person I spoke with kept me on the phone for an hour, then gave me a web site address to consult--that turned out to be the one I'd already found during a search of my own.  ",
+        "term": " user guide"
+    },
+    "137": {
+        "id": 137,
+        "polarity": "-",
+        "sentence": "There is not a word about satellite issues in either the user guide or the \"knowledge\" database at linksys.com, and first tech support person I spoke with kept me on the phone for an hour, then gave me a web site address to consult--that turned out to be the one I'd already found during a search of my own.  ",
+        "term": "tech support"
+    },
+    "138": {
+        "id": 138,
+        "polarity": "+",
+        "sentence": "I just upgraded to the Linksys WRT54G Wireless-G router last month and I am very happy with the quality of the product.  ",
+        "term": "quality"
+    },
+    "139": {
+        "id": 139,
+        "polarity": "+",
+        "sentence": "This router acts as a wireless access point, 100 MB switch and a router making it a nice multipurpose device.  ",
+        "term": "multipurpose"
+    },
+    "140": {
+        "id": 140,
+        "polarity": "-",
+        "sentence": "I was having intermittent problems with it losing connection. ",
+        "term": "connection"
+    },
+    "141": {
+        "id": 141,
+        "polarity": "+",
+        "sentence": "The inital setup of the router was simple. ",
+        "term": "setup"
+    },
+    "142": {
+        "id": 142,
+        "polarity": "+",
+        "sentence": "Works pretty well. ",
+        "term": "Works"
+    },
+    "143": {
+        "id": 143,
+        "polarity": "+",
+        "sentence": "The best part about this router is now I have a DHCP server. ",
+        "term": "DHCP"
+    },
+    "144": {
+        "id": 144,
+        "polarity": "-",
+        "sentence": "This is a good product, but the Linksys 54g desktop card is not.  ",
+        "term": " desktop card"
+    },
+    "145": {
+        "id": 145,
+        "polarity": "+",
+        "sentence": "This is a good product, but the Linksys 54g desktop card is not.  ",
+        "term": "product"
+    },
+    "146": {
+        "id": 146,
+        "polarity": "-",
+        "sentence": "I'd recommend this is you want to wireless network your laptop, but if you want to wirelessly network a couple desktops together you might want to wait until Linksys improves their desktop software/hardware.     ",
+        "term": "desktops"
+    },
+    "147": {
+        "id": 147,
+        "polarity": "+",
+        "sentence": "My brother had an old Linksys B band wireless router in his home and it was like magic. ",
+        "term": "Linksys"
+    },
+    "148": {
+        "id": 148,
+        "polarity": "-",
+        "sentence": "Unfortunately, Linksys does not write the best documentation.  ",
+        "term": "documentation"
+    },
+    "149": {
+        "id": 149,
+        "polarity": "+",
+        "sentence": "Well Linksys was one of the original big players in the router industry.  ",
+        "term": "Linksys"
+    },
+    "150": {
+        "id": 150,
+        "polarity": "+",
+        "sentence": "ying to point out they have experience, and so the reliability of the connection you get is among the best.  ",
+        "term": "reliability"
+    },
+    "151": {
+        "id": 151,
+        "polarity": "+",
+        "sentence": "This model appears to be especially good.  ",
+        "term": "model"
+    },
+    "152": {
+        "id": 152,
+        "polarity": "-",
+        "sentence": "I tried to do this by instinct and it's not intuitive unless you are a network geek. ",
+        "term": "set up"
+    },
+    "153": {
+        "id": 153,
+        "polarity": "+",
+        "sentence": "The darn thing works as promised and it's amazingly cheap too. ",
+        "term": "works"
+    },
+    "154": {
+        "id": 154,
+        "polarity": "+",
+        "sentence": "The darn thing works as promised and it's amazingly cheap too. ",
+        "term": " cheap"
+    },
+    "155": {
+        "id": 155,
+        "polarity": "+",
+        "sentence": "If you want to work wirelessly, this router does just what you want it to do and my geek friends say that the security is as good as it gets right now.             ",
+        "term": " security"
+    },
+    "156": {
+        "id": 156,
+        "polarity": "+",
+        "sentence": "If you want to work wirelessly, this router does just what you want it to do and my geek friends say that the security is as good as it gets right now.             ",
+        "term": "work"
+    },
+    "157": {
+        "id": 157,
+        "polarity": "+",
+        "sentence": "The setup was a breeze, I had some reservations about a wireless network (see my review for linksys wet11)but this item was on sale as well as the WET11 so I just had to splruge. ",
+        "term": "setup"
+    },
+    "158": {
+        "id": 158,
+        "polarity": "+",
+        "sentence": "To set up the xbox, wap, and ethernest bridge, with the encryption on was less then 30 mins. ",
+        "term": "set up"
+    },
+    "159": {
+        "id": 159,
+        "polarity": "+",
+        "sentence": "The setup software did everything. ",
+        "term": "setup software"
+    },
+    "160": {
+        "id": 160,
+        "polarity": "+",
+        "sentence": "In a week of use i've never had to reboot the router. ",
+        "term": "router"
+    },
+    "161": {
+        "id": 161,
+        "polarity": "+",
+        "sentence": "A decent peice of hardware with great speed (I get the same speeds as with my comp connected directly to the modem)  and good signal quality. ",
+        "term": " signal quality"
+    },
+    "162": {
+        "id": 162,
+        "polarity": "+",
+        "sentence": "A decent peice of hardware with great speed (I get the same speeds as with my comp connected directly to the modem)  and good signal quality. ",
+        "term": "speed"
+    },
+    "163": {
+        "id": 163,
+        "polarity": "+",
+        "sentence": "I guess the two antennae help with that besides making it look cooler. ",
+        "term": "look"
+    },
+    "164": {
+        "id": 164,
+        "polarity": "+",
+        "sentence": "I am getting better speeds on all my web programs. ",
+        "term": "speeds"
+    },
+    "165": {
+        "id": 165,
+        "polarity": "+",
+        "sentence": "There seem to be fewer collisons and dropped packets as I read from the router logs than with my old Dlink router. ",
+        "term": "router"
+    },
+    "166": {
+        "id": 166,
+        "polarity": "-",
+        "sentence": "I had a lot of problems setting it up, since the software given along with it is buggy. ",
+        "term": "setting"
+    },
+    "167": {
+        "id": 167,
+        "polarity": "-",
+        "sentence": "The firmware has bugs too, so download and install the latest firmware from Linksys. ",
+        "term": "firmware"
+    },
+    "168": {
+        "id": 168,
+        "polarity": "-",
+        "sentence": "The instant setup button in the front of the router messes up the network it is better to configure the router manually. ",
+        "term": "instant setup"
+    },
+    "169": {
+        "id": 169,
+        "polarity": "-",
+        "sentence": "This is NOT a router I would suggest for a novice user, my old Dlink DI52!",
+        "term": "router"
+    },
+    "170": {
+        "id": 170,
+        "polarity": "+",
+        "sentence": "It works well with my VOIP adapter, which is also a Linksys. ",
+        "term": "VOIP"
+    },
+    "171": {
+        "id": 171,
+        "polarity": "-",
+        "sentence": "The internet connection would go down every 5 mins when I used it with a P2P program called Bitspirit.  ",
+        "term": "connection"
+    },
+    "172": {
+        "id": 172,
+        "polarity": "+",
+        "sentence": "Pros.1.Speed  2. Signal Strength  3.Advanced Configuration Options",
+        "term": "Configuration Options"
+    },
+    "173": {
+        "id": 173,
+        "polarity": "+",
+        "sentence": "Pros.1.Speed  2. Signal Strength  3.Advanced Configuration Options",
+        "term": "signal"
+    },
+    "174": {
+        "id": 174,
+        "polarity": "+",
+        "sentence": "Pros.1.Speed  2. Signal Strength  3.Advanced Configuration Options",
+        "term": "Speed"
+    },
+    "175": {
+        "id": 175,
+        "polarity": "-",
+        "sentence": " So-So 1. Customer Service - 6 calls Half were efficient other half were equally incompetent.  ",
+        "term": "Customer service"
+    }
+}

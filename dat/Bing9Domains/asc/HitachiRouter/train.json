@@ -1,0 +1,1274 @@
+{
+    "0": {
+        "id": 0,
+        "polarity": "+",
+        "sentence": "I purchased this router at a woodworking show after watching the CMT people using it to demo their bits and was impressed how it performed.",
+        "term": "performed"
+    },
+    "1": {
+        "id": 1,
+        "polarity": "-",
+        "sentence": "The adjustment knob seemed ok, but when lowering the router, I have to practically pull it down while turning the knob.",
+        "term": "adjustment"
+    },
+    "2": {
+        "id": 2,
+        "polarity": "-",
+        "sentence": "The collet for the 1/4 inch bits is a pain to get in and even harder to get out.",
+        "term": "collet"
+    },
+    "3": {
+        "id": 3,
+        "polarity": "-",
+        "sentence": "Then the most disappointing was trying to use Viper raised panel bits that just barely fit, and I mean just barely.",
+        "term": "use"
+    },
+    "4": {
+        "id": 4,
+        "polarity": "+",
+        "sentence": "From the Internet, woodworking books, local stores and personal opinions the Hitachi M12V 3-1/4 HP router time and time again came up to be the router of choice or best for its price.",
+        "term": "price"
+    },
+    "5": {
+        "id": 5,
+        "polarity": "+",
+        "sentence": "But I wanted to do some raised panel work and needed more power and variable speed to run the large-diameter bits.",
+        "term": "power"
+    },
+    "6": {
+        "id": 6,
+        "polarity": "+",
+        "sentence": "But I wanted to do some raised panel work and needed more power and variable speed to run the large-diameter bits.",
+        "term": "speed"
+    },
+    "7": {
+        "id": 7,
+        "polarity": "+",
+        "sentence": "The Hitachi has plenty of power, runs smooth, and cuts effortlessly through maple (with Freud bits!)",
+        "term": "cuts"
+    },
+    "8": {
+        "id": 8,
+        "polarity": "+",
+        "sentence": "The Hitachi has plenty of power, runs smooth, and cuts effortlessly through maple (with Freud bits!)",
+        "term": "power"
+    },
+    "9": {
+        "id": 9,
+        "polarity": "+",
+        "sentence": "The Hitachi has plenty of power, runs smooth, and cuts effortlessly through maple (with Freud bits!)",
+        "term": "runs"
+    },
+    "10": {
+        "id": 10,
+        "polarity": "-",
+        "sentence": "However, it is much bigger, bulkier, and heavier than my other router and I would not like to use it freehand (I keep it mounted in a table).",
+        "term": "bigger"
+    },
+    "11": {
+        "id": 11,
+        "polarity": "-",
+        "sentence": "However, it is much bigger, bulkier, and heavier than my other router and I would not like to use it freehand (I keep it mounted in a table).",
+        "term": "heavier"
+    },
+    "12": {
+        "id": 12,
+        "polarity": "-",
+        "sentence": "However, it is much bigger, bulkier, and heavier than my other router and I would not like to use it freehand (I keep it mounted in a table).",
+        "term": "use"
+    },
+    "13": {
+        "id": 13,
+        "polarity": "+",
+        "sentence": "Since I use it in a table, I don't use the plunge feature, but if I ever need it I've got it.",
+        "term": "plunge"
+    },
+    "14": {
+        "id": 14,
+        "polarity": "+",
+        "sentence": "The Hitachi is a great router for a great price, but only get it if you need the maximum power, variable speed and use it in a table.",
+        "term": "price"
+    },
+    "15": {
+        "id": 15,
+        "polarity": "+",
+        "sentence": "The Hitachi is a great router for a great price, but only get it if you need the maximum power, variable speed and use it in a table.",
+        "term": "power"
+    },
+    "16": {
+        "id": 16,
+        "polarity": "-",
+        "sentence": "The Hitachi is a great router for a great price, but only get it if you need the maximum power, variable speed and use it in a table.",
+        "term": "use"
+    },
+    "17": {
+        "id": 17,
+        "polarity": "+",
+        "sentence": "The Hitachi is a great router for a great price, but only get it if you need the maximum power, variable speed and use it in a table.",
+        "term": "speed"
+    },
+    "18": {
+        "id": 18,
+        "polarity": "-",
+        "sentence": "Otherwise, get a smaller single speed router, which will be much easier to use freehand and is all you need for smaller diameter bits.",
+        "term": "use"
+    },
+    "19": {
+        "id": 19,
+        "polarity": "+",
+        "sentence": "The Hitachi is made in Malasyia, and looked cheap compared with the Makita, which is made in the USA.",
+        "term": "looked"
+    },
+    "20": {
+        "id": 20,
+        "polarity": "-",
+        "sentence": "If you think you are saving $40 getting the Hitachi, you are right, and you are also getting a router worth $40 less than a Makita.",
+        "term": "worth"
+    },
+    "21": {
+        "id": 21,
+        "polarity": "-",
+        "sentence": "It ain't cutting edge (no pun intended) state of the art with all the latest bells & whistles & it definitely ain't pretty.",
+        "term": "pretty"
+    },
+    "22": {
+        "id": 22,
+        "polarity": "+",
+        "sentence": "But it is smooth, it is powerful, it is affordable & it has a proven track record.",
+        "term": "track record"
+    },
+    "23": {
+        "id": 23,
+        "polarity": "+",
+        "sentence": "But it is smooth, it is powerful, it is affordable & it has a proven track record.",
+        "term": "affordable"
+    },
+    "24": {
+        "id": 24,
+        "polarity": "+",
+        "sentence": "But it is smooth, it is powerful, it is affordable & it has a proven track record.",
+        "term": "powerful"
+    },
+    "25": {
+        "id": 25,
+        "polarity": "+",
+        "sentence": "But it is smooth, it is powerful, it is affordable & it has a proven track record.",
+        "term": "smooth"
+    },
+    "26": {
+        "id": 26,
+        "polarity": "-",
+        "sentence": "I built my own router table with a tilt up top & made a hand crank to replace the height adjustment knob & these two things make it easy to change out & raise or lower the bits.",
+        "term": "adjustment"
+    },
+    "27": {
+        "id": 27,
+        "polarity": "+",
+        "sentence": "So for the money it costs for one of those top-of-the-line models I've got a good router & a nice table to put it in & I like that.",
+        "term": "router"
+    },
+    "28": {
+        "id": 28,
+        "polarity": "+",
+        "sentence": "So for the money it costs for one of those top-of-the-line models I've got a good router & a nice table to put it in & I like that.",
+        "term": "costs"
+    },
+    "29": {
+        "id": 29,
+        "polarity": "+",
+        "sentence": "Hitachi's M12V is a big beast of a router.",
+        "term": "router"
+    },
+    "30": {
+        "id": 30,
+        "polarity": "-",
+        "sentence": "It's not the heaviest around (I think Porter-Cable has that distinction), but I found its combination of weight and power really too much to allow precise handheld operation.",
+        "term": "precise"
+    },
+    "31": {
+        "id": 31,
+        "polarity": "-",
+        "sentence": "It's not the heaviest around (I think Porter-Cable has that distinction), but I found its combination of weight and power really too much to allow precise handheld operation.",
+        "term": "power"
+    },
+    "32": {
+        "id": 32,
+        "polarity": "-",
+        "sentence": "It's not the heaviest around (I think Porter-Cable has that distinction), but I found its combination of weight and power really too much to allow precise handheld operation.",
+        "term": "weight"
+    },
+    "33": {
+        "id": 33,
+        "polarity": "+",
+        "sentence": "In my table the M12V has been a real champ.",
+        "term": "M12V"
+    },
+    "34": {
+        "id": 34,
+        "polarity": "+",
+        "sentence": "The heavy motor and continuously variable speed control let this router churn through everything I threw at it.",
+        "term": "heavy"
+    },
+    "35": {
+        "id": 35,
+        "polarity": "+",
+        "sentence": "The heavy motor and continuously variable speed control let this router churn through everything I threw at it.",
+        "term": "speed"
+    },
+    "36": {
+        "id": 36,
+        "polarity": "-",
+        "sentence": "With the PlungeLIFT all my bit changing has been done above the table, although I still have to reach below the table to operate the spindle lock (and, of course, the speed and ON/OFF controls).",
+        "term": "controls"
+    },
+    "37": {
+        "id": 37,
+        "polarity": "+",
+        "sentence": "Nice things about the M12V: - in a table, the powerful 3 1/4 HP motor is great - soft start helps a lot to control the beast when you turn the router on - continuously variable speed control - Amazon's price",
+        "term": "price"
+    },
+    "38": {
+        "id": 38,
+        "polarity": "+",
+        "sentence": "Nice things about the M12V: - in a table, the powerful 3 1/4 HP motor is great - soft start helps a lot to control the beast when you turn the router on - continuously variable speed control - Amazon's price",
+        "term": "speed"
+    },
+    "39": {
+        "id": 39,
+        "polarity": "+",
+        "sentence": "Nice things about the M12V: - in a table, the powerful 3 1/4 HP motor is great - soft start helps a lot to control the beast when you turn the router on - continuously variable speed control - Amazon's price",
+        "term": "motor"
+    },
+    "40": {
+        "id": 40,
+        "polarity": "+",
+        "sentence": "Nice things about the M12V: - in a table, the powerful 3 1/4 HP motor is great - soft start helps a lot to control the beast when you turn the router on - continuously variable speed control - Amazon's price",
+        "term": "start"
+    },
+    "41": {
+        "id": 41,
+        "polarity": "-",
+        "sentence": "Not so nice things: - a bit too much weight and power for easy handheld use - spindle lock makes for awkward bit changing (outside of a table) - the 1/4\" chuck sleeve requires MUCH tightening to keep bits from slipping",
+        "term": "chuck"
+    },
+    "42": {
+        "id": 42,
+        "polarity": "-",
+        "sentence": "Not so nice things: - a bit too much weight and power for easy handheld use - spindle lock makes for awkward bit changing (outside of a table) - the 1/4\" chuck sleeve requires MUCH tightening to keep bits from slipping",
+        "term": "spindle"
+    },
+    "43": {
+        "id": 43,
+        "polarity": "-",
+        "sentence": "Not so nice things: - a bit too much weight and power for easy handheld use - spindle lock makes for awkward bit changing (outside of a table) - the 1/4\" chuck sleeve requires MUCH tightening to keep bits from slipping",
+        "term": "power"
+    },
+    "44": {
+        "id": 44,
+        "polarity": "-",
+        "sentence": "Not so nice things: - a bit too much weight and power for easy handheld use - spindle lock makes for awkward bit changing (outside of a table) - the 1/4\" chuck sleeve requires MUCH tightening to keep bits from slipping",
+        "term": "weight"
+    },
+    "45": {
+        "id": 45,
+        "polarity": "+",
+        "sentence": "This is truly a Clydesdale among the industry 3HP+ router workhorses.",
+        "term": "router"
+    },
+    "46": {
+        "id": 46,
+        "polarity": "+",
+        "sentence": "Built like a tank, yet nimble enough to be comfortably used with the Leigh dovetail jig.",
+        "term": "nimble"
+    },
+    "47": {
+        "id": 47,
+        "polarity": "+",
+        "sentence": "Built like a tank, yet nimble enough to be comfortably used with the Leigh dovetail jig.",
+        "term": "used"
+    },
+    "48": {
+        "id": 48,
+        "polarity": "+",
+        "sentence": "Built like a tank, yet nimble enough to be comfortably used with the Leigh dovetail jig.",
+        "term": "solidity"
+    },
+    "49": {
+        "id": 49,
+        "polarity": "+",
+        "sentence": "The soft start is a tremendous help for this type of operation.",
+        "term": "start"
+    },
+    "50": {
+        "id": 50,
+        "polarity": "+",
+        "sentence": "It is a heavy but well-balanced machine, which is an asset when maximum stability is desired.",
+        "term": "stability"
+    },
+    "51": {
+        "id": 51,
+        "polarity": "+",
+        "sentence": "It is a heavy but well-balanced machine, which is an asset when maximum stability is desired.",
+        "term": "machine"
+    },
+    "52": {
+        "id": 52,
+        "polarity": "-",
+        "sentence": "It is a heavy but well-balanced machine, which is an asset when maximum stability is desired.",
+        "term": "heavy"
+    },
+    "53": {
+        "id": 53,
+        "polarity": "+",
+        "sentence": "The edge guide is top quality, easy to install and accurate.",
+        "term": "guide"
+    },
+    "54": {
+        "id": 54,
+        "polarity": "+",
+        "sentence": "This was possible due to the variable speed settings for any sized bit.",
+        "term": "speed"
+    },
+    "55": {
+        "id": 55,
+        "polarity": "+",
+        "sentence": "The height adjustment knob is a bit flimsy, but it works well and provides good accuracy.",
+        "term": "adjustment"
+    },
+    "56": {
+        "id": 56,
+        "polarity": "-",
+        "sentence": "The only complaint I have is that the 1/4\" collet will not sufficiently hold any of my 1/4\" bits.",
+        "term": "collet"
+    },
+    "57": {
+        "id": 57,
+        "polarity": "-",
+        "sentence": "The Hitachi collet simply was not ground accurately.",
+        "term": "collet"
+    },
+    "58": {
+        "id": 58,
+        "polarity": "+",
+        "sentence": "This is a great deal, and I'm elated with my decision to go with Hitachi's green machine.",
+        "term": "machine"
+    },
+    "59": {
+        "id": 59,
+        "polarity": "+",
+        "sentence": "Wish I could give it 4 1/2 stars.",
+        "term": "router"
+    },
+    "60": {
+        "id": 60,
+        "polarity": "+",
+        "sentence": "I noticed that the micro adjustment knob and collet are well made and work well too.",
+        "term": "collet"
+    },
+    "61": {
+        "id": 61,
+        "polarity": "+",
+        "sentence": "I noticed that the micro adjustment knob and collet are well made and work well too.",
+        "term": "adjustment"
+    },
+    "62": {
+        "id": 62,
+        "polarity": "+",
+        "sentence": "The speed control is well designed and it works perfectly.",
+        "term": "speed"
+    },
+    "63": {
+        "id": 63,
+        "polarity": "+",
+        "sentence": "The included fence guide is easy to set up and quite accurate as well.",
+        "term": "guide"
+    },
+    "64": {
+        "id": 64,
+        "polarity": "+",
+        "sentence": "The plunge lock and power switch are very easily accessible which is a must when doing free hand routing.",
+        "term": "accessible"
+    },
+    "65": {
+        "id": 65,
+        "polarity": "+",
+        "sentence": "It is heavy enough to make it stable, but not too heavy to preclude hand use.",
+        "term": "stable"
+    },
+    "66": {
+        "id": 66,
+        "polarity": "+",
+        "sentence": "It is heavy enough to make it stable, but not too heavy to preclude hand use.",
+        "term": "heavy"
+    },
+    "67": {
+        "id": 67,
+        "polarity": "-",
+        "sentence": "The plunge action isn't smooth unless you make it so.",
+        "term": "plunge"
+    },
+    "68": {
+        "id": 68,
+        "polarity": "-",
+        "sentence": "The instructions would benefit from some improvement and it would help if the RPMs of the speed settings were mentioned.",
+        "term": "instructions"
+    },
+    "69": {
+        "id": 69,
+        "polarity": "-",
+        "sentence": "Also, the fit and finish could be better although this doesn't detract from performance.",
+        "term": "fit"
+    },
+    "70": {
+        "id": 70,
+        "polarity": "-",
+        "sentence": "Also, the fit and finish could be better although this doesn't detract from performance.",
+        "term": "finish"
+    },
+    "71": {
+        "id": 71,
+        "polarity": "+",
+        "sentence": "Overall this tool is very well worth the price and I have no regrets about my purchase.",
+        "term": "price"
+    },
+    "72": {
+        "id": 72,
+        "polarity": "+",
+        "sentence": "This is an excellent router for the money.",
+        "term": "money"
+    },
+    "73": {
+        "id": 73,
+        "polarity": "-",
+        "sentence": "The only problem i find with it is that the plunge mechanism will eventually stick due to wood dust.",
+        "term": "plunge"
+    },
+    "74": {
+        "id": 74,
+        "polarity": "-",
+        "sentence": "I find that if you remove the springs it is much easier to adjust and will not stick much.",
+        "term": "springs"
+    },
+    "75": {
+        "id": 75,
+        "polarity": "+",
+        "sentence": "Other than that, i think it is the best router for the money.",
+        "term": "money"
+    },
+    "76": {
+        "id": 76,
+        "polarity": "+",
+        "sentence": "I must have gotten a good one.",
+        "term": "router"
+    },
+    "77": {
+        "id": 77,
+        "polarity": "+",
+        "sentence": "I don't have problems with the depth adjustment, the speed control, the collet ( I haven't tried the 1/4\" sleeve yet) .",
+        "term": "control"
+    },
+    "78": {
+        "id": 78,
+        "polarity": "+",
+        "sentence": "I don't have problems with the depth adjustment, the speed control, the collet ( I haven't tried the 1/4\" sleeve yet) .",
+        "term": "collet"
+    },
+    "79": {
+        "id": 79,
+        "polarity": "+",
+        "sentence": "I don't have problems with the depth adjustment, the speed control, the collet ( I haven't tried the 1/4\" sleeve yet) .",
+        "term": "adjustment"
+    },
+    "80": {
+        "id": 80,
+        "polarity": "+",
+        "sentence": "I would put the Hitachi up with the best!",
+        "term": "Hitachi"
+    },
+    "81": {
+        "id": 81,
+        "polarity": "+",
+        "sentence": "No vibration!",
+        "term": "vibration"
+    },
+    "82": {
+        "id": 82,
+        "polarity": "+",
+        "sentence": "Smooth plunging! ( it did stick a bit so I sprayed it w/ lubricant.",
+        "term": "plunging"
+    },
+    "83": {
+        "id": 83,
+        "polarity": "+",
+        "sentence": "It is a great router for a table and with the depth adjustment knob it is easy to adjust depth prescisely.",
+        "term": "router"
+    },
+    "84": {
+        "id": 84,
+        "polarity": "+",
+        "sentence": "It is a great router for a table and with the depth adjustment knob it is easy to adjust depth prescisely.",
+        "term": "adjustment"
+    },
+    "85": {
+        "id": 85,
+        "polarity": "+",
+        "sentence": "It is very easy to change bits without removing the router from the table and the shaft lock works great.",
+        "term": "shaft"
+    },
+    "86": {
+        "id": 86,
+        "polarity": "+",
+        "sentence": "Very good balance in the hands and lighter than most 3 1/4 hp models.",
+        "term": "lighter"
+    },
+    "87": {
+        "id": 87,
+        "polarity": "+",
+        "sentence": "Very good balance in the hands and lighter than most 3 1/4 hp models.",
+        "term": "balance"
+    },
+    "88": {
+        "id": 88,
+        "polarity": "+",
+        "sentence": "The soft start is nice.",
+        "term": "start"
+    },
+    "89": {
+        "id": 89,
+        "polarity": "+",
+        "sentence": "The price is incredible with the bonus pack and Hitachi's $25 incentive ( you need the code ---go to Toolseeker.com and it tells you)",
+        "term": "price"
+    },
+    "90": {
+        "id": 90,
+        "polarity": "+",
+        "sentence": "The total price with delivery (free shipping ) was $135 !",
+        "term": "price"
+    },
+    "91": {
+        "id": 91,
+        "polarity": "+",
+        "sentence": "Less than a cheap cordless drill or a laminate trimmer.",
+        "term": "cheap"
+    },
+    "92": {
+        "id": 92,
+        "polarity": "+",
+        "sentence": "Saw the Hitachi on Amazon.com with their $25.00 coupon (at the time) and could not resist trying it out.",
+        "term": "price"
+    },
+    "93": {
+        "id": 93,
+        "polarity": "+",
+        "sentence": "UNLIKE other reviewers, I like the tool because it is easy to operate outside of the router table.",
+        "term": "operate"
+    },
+    "94": {
+        "id": 94,
+        "polarity": "+",
+        "sentence": "Both the on/off switch (soft start) and the depth lock are within easy reach of the right hand.",
+        "term": "switch"
+    },
+    "95": {
+        "id": 95,
+        "polarity": "+",
+        "sentence": "Both the on/off switch (soft start) and the depth lock are within easy reach of the right hand.",
+        "term": "lock"
+    },
+    "96": {
+        "id": 96,
+        "polarity": "+",
+        "sentence": "It is no more heavy than any other powerful router and not as bad as some Porter Cable models I tried.",
+        "term": "router"
+    },
+    "97": {
+        "id": 97,
+        "polarity": "+",
+        "sentence": "It is no more heavy than any other powerful router and not as bad as some Porter Cable models I tried.",
+        "term": "heavy"
+    },
+    "98": {
+        "id": 98,
+        "polarity": "-",
+        "sentence": "1. Your Hitachi might come to you with a stiff spring mechanism.",
+        "term": "spring"
+    },
+    "99": {
+        "id": 99,
+        "polarity": "-",
+        "sentence": "Mine was so bad I had to to use a hammer to free it (and this is why I'm giving it 4, not 5 stars).",
+        "term": "spring"
+    },
+    "100": {
+        "id": 100,
+        "polarity": "-",
+        "sentence": "I have noted that as you use the tool, sawdust builds in the channel and it requires attention.",
+        "term": "sawdust"
+    },
+    "101": {
+        "id": 101,
+        "polarity": "-",
+        "sentence": "Not a killer problem, but not well done, either.",
+        "term": "sawdust"
+    },
+    "102": {
+        "id": 102,
+        "polarity": "+",
+        "sentence": "For me, it is as important that the tool be comfortable to use as it is that it produce a high-quality result.",
+        "term": "use"
+    },
+    "103": {
+        "id": 103,
+        "polarity": "+",
+        "sentence": "For me, it is as important that the tool be comfortable to use as it is that it produce a high-quality result.",
+        "term": "result"
+    },
+    "104": {
+        "id": 104,
+        "polarity": "+",
+        "sentence": "Can recommend the Hitachi in this ergonomic arena -- at the price quoted on Amazon it is a bargain.",
+        "term": "price"
+    },
+    "105": {
+        "id": 105,
+        "polarity": "+",
+        "sentence": "After getting used to the M12 all the rest seemed lacking.",
+        "term": "M12"
+    },
+    "106": {
+        "id": 106,
+        "polarity": "+",
+        "sentence": "On top of being a workhorse and ultra reliable, it is just a plunge router that works really well.",
+        "term": "router"
+    },
+    "107": {
+        "id": 107,
+        "polarity": "+",
+        "sentence": "On top of being a workhorse and ultra reliable, it is just a plunge router that works really well.",
+        "term": "plunge"
+    },
+    "108": {
+        "id": 108,
+        "polarity": "+",
+        "sentence": "I use it in the table (never take the springs out - just attach the fine adjustment knob), in my woodrat and freehand and it works great in all circumstances.",
+        "term": "use"
+    },
+    "109": {
+        "id": 109,
+        "polarity": "-",
+        "sentence": "The only beef that I have with it is that there is a little too much slop in the columns when the lock is not engaged.",
+        "term": "slop"
+    },
+    "110": {
+        "id": 110,
+        "polarity": "-",
+        "sentence": "If it weren't so big I would probably by another since no shop is complete without a handful of routers..",
+        "term": "big"
+    },
+    "111": {
+        "id": 111,
+        "polarity": "+",
+        "sentence": "What an upgrade!!!",
+        "term": "router"
+    },
+    "112": {
+        "id": 112,
+        "polarity": "+",
+        "sentence": "I have only used it with the 1/4\" collet and a 1/2\" round over bit, but I love how it starts up with little torque and runs very quietly.",
+        "term": "starts"
+    },
+    "113": {
+        "id": 113,
+        "polarity": "+",
+        "sentence": "I have only used it with the 1/4\" collet and a 1/2\" round over bit, but I love how it starts up with little torque and runs very quietly.",
+        "term": "runs"
+    },
+    "114": {
+        "id": 114,
+        "polarity": "+",
+        "sentence": "The depth adjustment and bit changing is much easier on the M12V than it was on my old router.",
+        "term": "adjustment"
+    },
+    "115": {
+        "id": 115,
+        "polarity": "+",
+        "sentence": "The handles make it very comfortable to use and I experience little vibration.",
+        "term": " vibration"
+    },
+    "116": {
+        "id": 116,
+        "polarity": "+",
+        "sentence": "The handles make it very comfortable to use and I experience little vibration.",
+        "term": "use"
+    },
+    "117": {
+        "id": 117,
+        "polarity": "+",
+        "sentence": "Combine this with the excellent price we got in the Gold Box, and I'm really happy.",
+        "term": "price"
+    },
+    "118": {
+        "id": 118,
+        "polarity": "+",
+        "sentence": "I'm sure I don't use it to the degree of some of the other purchasers, but I really like it!",
+        "term": "router"
+    },
+    "119": {
+        "id": 119,
+        "polarity": "+",
+        "sentence": "I first used the router in the free hand mode and liked it a lot.",
+        "term": "router"
+    },
+    "120": {
+        "id": 120,
+        "polarity": "+",
+        "sentence": "I find it very stable and comfortable to use, it doesn't jump around or make me feel like I need to use a lot of arm strength to keep it under control, and  it has very good visibility to see your cut.",
+        "term": "stable"
+    },
+    "121": {
+        "id": 121,
+        "polarity": "+",
+        "sentence": "I find it very stable and comfortable to use, it doesn't jump around or make me feel like I need to use a lot of arm strength to keep it under control, and  it has very good visibility to see your cut.",
+        "term": "use"
+    },
+    "122": {
+        "id": 122,
+        "polarity": "+",
+        "sentence": "I find it very stable and comfortable to use, it doesn't jump around or make me feel like I need to use a lot of arm strength to keep it under control, and  it has very good visibility to see your cut.",
+        "term": "visibility"
+    },
+    "123": {
+        "id": 123,
+        "polarity": "+",
+        "sentence": "It came with a good fence that  is simple yet precise and thats well made and won't break.",
+        "term": "fence"
+    },
+    "124": {
+        "id": 124,
+        "polarity": "+",
+        "sentence": "Also I like the  position of all the controls and the fact that it doesn't have any extra  knobs or gizmos.",
+        "term": "controls"
+    },
+    "125": {
+        "id": 125,
+        "polarity": "+",
+        "sentence": "I prefer things that are simple.",
+        "term": "simple"
+    },
+    "126": {
+        "id": 126,
+        "polarity": "+",
+        "sentence": "The router has plenty  of power for any type of bit or wood I need to cut, and the speed control  knob is easy to get to.",
+        "term": "control"
+    },
+    "127": {
+        "id": 127,
+        "polarity": "+",
+        "sentence": "The router has plenty  of power for any type of bit or wood I need to cut, and the speed control  knob is easy to get to.",
+        "term": "power"
+    },
+    "128": {
+        "id": 128,
+        "polarity": "-",
+        "sentence": "I did have to cut off the ears  that hold the  template guide in place so I could get those big panel raising bits in it.",
+        "term": "guide"
+    },
+    "129": {
+        "id": 129,
+        "polarity": "-",
+        "sentence": "I also removed the springs in the plunge  tubes to make it easier to raise.",
+        "term": "springs"
+    },
+    "130": {
+        "id": 130,
+        "polarity": "-",
+        "sentence": "I added a crank for those times when I  need to make fine adjustments, but I seldom use it.",
+        "term": "adjustments"
+    },
+    "131": {
+        "id": 131,
+        "polarity": "-",
+        "sentence": "I also put a bend in  the wrench so I can remove and install bits from the top of the table.",
+        "term": "wrench"
+    },
+    "132": {
+        "id": 132,
+        "polarity": "+",
+        "sentence": "Its  not a perfect system but its a very good one.",
+        "term": "system"
+    },
+    "133": {
+        "id": 133,
+        "polarity": "+",
+        "sentence": "I've owned this router for over 8 years and am somewhat satisfied with it.",
+        "term": "router"
+    },
+    "134": {
+        "id": 134,
+        "polarity": "+",
+        "sentence": "It is quiet and has plenty of power.",
+        "term": "power"
+    },
+    "135": {
+        "id": 135,
+        "polarity": "+",
+        "sentence": "It is quiet and has plenty of power.",
+        "term": "quiet"
+    },
+    "136": {
+        "id": 136,
+        "polarity": "+",
+        "sentence": "I find that it is stable in my hands and its' weight actually contributes to that stability.",
+        "term": "weight"
+    },
+    "137": {
+        "id": 137,
+        "polarity": "+",
+        "sentence": "I find that it is stable in my hands and its' weight actually contributes to that stability.",
+        "term": "stability"
+    },
+    "138": {
+        "id": 138,
+        "polarity": "-",
+        "sentence": "That said, I am disappointed in the plunging mechanism.",
+        "term": "plunging"
+    },
+    "139": {
+        "id": 139,
+        "polarity": "-",
+        "sentence": "Shortly after I brought it, the plunging shafts started sticking.",
+        "term": "shafts"
+    },
+    "140": {
+        "id": 140,
+        "polarity": "-",
+        "sentence": "After repeatly cleaning and recleaning, it still stuck after using it for a little while.",
+        "term": "shafts"
+    },
+    "141": {
+        "id": 141,
+        "polarity": "-",
+        "sentence": "I no longer use it as a plunge router, only as a stationary or table mounted router.",
+        "term": "plunge"
+    },
+    "142": {
+        "id": 142,
+        "polarity": "+",
+        "sentence": "If the plunging action isn't that important, then this is a great router.",
+        "term": "router"
+    },
+    "143": {
+        "id": 143,
+        "polarity": "-",
+        "sentence": "If the plunging action isn't that important, then this is a great router.",
+        "term": "plunging"
+    },
+    "144": {
+        "id": 144,
+        "polarity": "-",
+        "sentence": "If the plunging action is critical to your work, look elsewhere.",
+        "term": "plunging"
+    },
+    "145": {
+        "id": 145,
+        "polarity": "+",
+        "sentence": "I love the performance and features of this router.",
+        "term": "features"
+    },
+    "146": {
+        "id": 146,
+        "polarity": "+",
+        "sentence": "I love the performance and features of this router.",
+        "term": "performance"
+    },
+    "147": {
+        "id": 147,
+        "polarity": "+",
+        "sentence": "For the money, I'm not sure you can do better.",
+        "term": "money"
+    },
+    "148": {
+        "id": 148,
+        "polarity": "+",
+        "sentence": "It's very quiet for a universal motor-driven tool, and the height adjustment stick and variable speed control are great.",
+        "term": "speed"
+    },
+    "149": {
+        "id": 149,
+        "polarity": "+",
+        "sentence": "It's very quiet for a universal motor-driven tool, and the height adjustment stick and variable speed control are great.",
+        "term": "adjustment"
+    },
+    "150": {
+        "id": 150,
+        "polarity": "+",
+        "sentence": "It's very quiet for a universal motor-driven tool, and the height adjustment stick and variable speed control are great.",
+        "term": "quiet"
+    },
+    "151": {
+        "id": 151,
+        "polarity": "+",
+        "sentence": "Smooth plunging mechanism.",
+        "term": "plunging"
+    },
+    "152": {
+        "id": 152,
+        "polarity": "+",
+        "sentence": "The guide fence for freehand routing is well made and solid.",
+        "term": "fence"
+    },
+    "153": {
+        "id": 153,
+        "polarity": "-",
+        "sentence": "It's oftentimes hard to get a good grip on the router, activate the chuck lock, and get enough muscle behind the wrench to get the collet loosened up.",
+        "term": "grip"
+    },
+    "154": {
+        "id": 154,
+        "polarity": "-",
+        "sentence": "It's oftentimes hard to get a good grip on the router, activate the chuck lock, and get enough muscle behind the wrench to get the collet loosened up.",
+        "term": "collet"
+    },
+    "155": {
+        "id": 155,
+        "polarity": "-",
+        "sentence": "It's oftentimes hard to get a good grip on the router, activate the chuck lock, and get enough muscle behind the wrench to get the collet loosened up.",
+        "term": "chuck"
+    },
+    "156": {
+        "id": 156,
+        "polarity": "+",
+        "sentence": "Even with that, I highly recommend this router - outstanding performer.",
+        "term": "router"
+    },
+    "157": {
+        "id": 157,
+        "polarity": "+",
+        "sentence": "Even with that, I highly recommend this router - outstanding performer.",
+        "term": "performer"
+    },
+    "158": {
+        "id": 158,
+        "polarity": "+",
+        "sentence": "I purchased two of these beauties.",
+        "term": "router"
+    },
+    "159": {
+        "id": 159,
+        "polarity": "+",
+        "sentence": "I have a tendency to do quite a bit of research before I drop money on a tool and everyone I talked to loved this router.",
+        "term": "router"
+    },
+    "160": {
+        "id": 160,
+        "polarity": "+",
+        "sentence": "One cabinet shop has been using one regularly in a router table for 11 years without a problem.",
+        "term": "router"
+    },
+    "161": {
+        "id": 161,
+        "polarity": "+",
+        "sentence": "The design of the collets is excellent and far exceeds any of the craftman (toy/junk) routers I have previously purchased.",
+        "term": "collets"
+    },
+    "162": {
+        "id": 162,
+        "polarity": "+",
+        "sentence": "They were easy to setup with plenty of power to hog through anything I have encountered.",
+        "term": "collets"
+    },
+    "163": {
+        "id": 163,
+        "polarity": "+",
+        "sentence": "They were easy to setup with plenty of power to hog through anything I have encountered.",
+        "term": "power"
+    },
+    "164": {
+        "id": 164,
+        "polarity": "+",
+        "sentence": "I have less money invested in the router table and dual routers than I would have if I had purchased a single cheap reliant shaper.",
+        "term": "money"
+    },
+    "165": {
+        "id": 165,
+        "polarity": "+",
+        "sentence": "The setup works awesome, as with any tool I look closely at the individual tool for it's merits, and not just the company as a whole.",
+        "term": "setup"
+    },
+    "166": {
+        "id": 166,
+        "polarity": "+",
+        "sentence": "I would however highly recommend the m12v router !",
+        "term": "router"
+    },
+    "167": {
+        "id": 167,
+        "polarity": "+",
+        "sentence": "I'm not overly fond of GREEN but when I used this Hitachi M12V it turns out that now I'm very fond of it.",
+        "term": "Hitachi M12V"
+    },
+    "168": {
+        "id": 168,
+        "polarity": "+",
+        "sentence": "The smooth operation variable speed and a set of good Jasada Bits will provide just the right combination for great predictable results.",
+        "term": "operation"
+    },
+    "169": {
+        "id": 169,
+        "polarity": "+",
+        "sentence": "The smooth operation variable speed and a set of good Jasada Bits will provide just the right combination for great predictable results.",
+        "term": "speed"
+    },
+    "170": {
+        "id": 170,
+        "polarity": "+",
+        "sentence": "Its well made and user friendly.",
+        "term": "router"
+    },
+    "171": {
+        "id": 171,
+        "polarity": "+",
+        "sentence": "You'll love it!",
+        "term": "router"
+    },
+    "172": {
+        "id": 172,
+        "polarity": "+",
+        "sentence": "It is currently permanently mounted (3 years now) in my router table and will most likely stay there until its shot.",
+        "term": "router"
+    },
+    "173": {
+        "id": 173,
+        "polarity": "+",
+        "sentence": "This router has soft start and runs smooth and true.",
+        "term": "runs"
+    },
+    "174": {
+        "id": 174,
+        "polarity": "+",
+        "sentence": "This router has soft start and runs smooth and true.",
+        "term": "start"
+    },
+    "175": {
+        "id": 175,
+        "polarity": "+",
+        "sentence": "I use the router with a 3 1/2in raised panel bit with no problems.",
+        "term": "router"
+    },
+    "176": {
+        "id": 176,
+        "polarity": "+",
+        "sentence": "It has enough power to hog out all the material in one pass, but I usually take multiple to prevent blowout and a smoother finish.",
+        "term": "power"
+    },
+    "177": {
+        "id": 177,
+        "polarity": "+",
+        "sentence": "For the price, I am considering purchasing a spare just to have as a backup.",
+        "term": "price"
+    },
+    "178": {
+        "id": 178,
+        "polarity": "+",
+        "sentence": "You just can't go wrong with this one!",
+        "term": "router"
+    },
+    "179": {
+        "id": 179,
+        "polarity": "+",
+        "sentence": "Enjoy.",
+        "term": "router"
+    },
+    "180": {
+        "id": 180,
+        "polarity": "+",
+        "sentence": "This is an excellent router for the price.",
+        "term": "price"
+    },
+    "181": {
+        "id": 181,
+        "polarity": "+",
+        "sentence": "The first one lasted about 6 years of heavy use.",
+        "term": "router"
+    },
+    "182": {
+        "id": 182,
+        "polarity": "+",
+        "sentence": "This is a well-made and powerful tool.",
+        "term": "tool"
+    },
+    "183": {
+        "id": 183,
+        "polarity": "+",
+        "sentence": "This is a well-made and powerful tool.",
+        "term": "powerful"
+    },
+    "184": {
+        "id": 184,
+        "polarity": "-",
+        "sentence": "I was some what sceptical when I seen the price deference between the other makers of comparible HP.",
+        "term": "price"
+    },
+    "185": {
+        "id": 185,
+        "polarity": "+",
+        "sentence": "The M12V has been great.",
+        "term": "M12V"
+    },
+    "186": {
+        "id": 186,
+        "polarity": "+",
+        "sentence": "The height adjustment works well- not perfect.",
+        "term": "adjustment"
+    },
+    "187": {
+        "id": 187,
+        "polarity": "+",
+        "sentence": "The wood can be pushed thru fast or slow with little bog.",
+        "term": "bog"
+    },
+    "188": {
+        "id": 188,
+        "polarity": "+",
+        "sentence": "What I really like about- its quite, it can handle my workload and it was so cheap that I can throw it away and buy another one without blinking.",
+        "term": "cheap"
+    },
+    "189": {
+        "id": 189,
+        "polarity": "+",
+        "sentence": "What I really like about- its quite, it can handle my workload and it was so cheap that I can throw it away and buy another one without blinking.",
+        "term": "workload"
+    },
+    "190": {
+        "id": 190,
+        "polarity": "+",
+        "sentence": "What I really like about- its quite, it can handle my workload and it was so cheap that I can throw it away and buy another one without blinking.",
+        "term": "quite"
+    },
+    "191": {
+        "id": 191,
+        "polarity": "-",
+        "sentence": "This router was a huge disapointment.",
+        "term": "router"
+    },
+    "192": {
+        "id": 192,
+        "polarity": "-",
+        "sentence": "The depth adjustment was sloppy.",
+        "term": "adjustment"
+    },
+    "193": {
+        "id": 193,
+        "polarity": "-",
+        "sentence": "The speed control is recessed too far in the housing and required a tool (screwdriver or dowel rod) to effect any speed change.",
+        "term": "control"
+    },
+    "194": {
+        "id": 194,
+        "polarity": "-",
+        "sentence": "It was impossible to change the speed with just my fingers.",
+        "term": "control"
+    },
+    "195": {
+        "id": 195,
+        "polarity": "-",
+        "sentence": "My son tried it and he too couldn't change the speed without an assist.",
+        "term": "control"
+    },
+    "196": {
+        "id": 196,
+        "polarity": "+",
+        "sentence": "I did like the heft of the machine.",
+        "term": "heft"
+    },
+    "197": {
+        "id": 197,
+        "polarity": "+",
+        "sentence": "It felt rather stable in my hands (heavy though.)",
+        "term": "stable"
+    },
+    "198": {
+        "id": 198,
+        "polarity": "-",
+        "sentence": "It felt rather stable in my hands (heavy though.)",
+        "term": "heavy"
+    },
+    "199": {
+        "id": 199,
+        "polarity": "-",
+        "sentence": "I sent it back, as I think that the speed control is either poorly designed or defective.",
+        "term": "router"
+    },
+    "200": {
+        "id": 200,
+        "polarity": "-",
+        "sentence": "I sent it back, as I think that the speed control is either poorly designed or defective.",
+        "term": "control"
+    },
+    "201": {
+        "id": 201,
+        "polarity": "-",
+        "sentence": "All in all, not very good.",
+        "term": "router"
+    },
+    "202": {
+        "id": 202,
+        "polarity": "+",
+        "sentence": "I was skeptical about this router due to low price but have been totally impressed using it.",
+        "term": "router"
+    },
+    "203": {
+        "id": 203,
+        "polarity": "-",
+        "sentence": "I was skeptical about this router due to low price but have been totally impressed using it.",
+        "term": "price"
+    },
+    "204": {
+        "id": 204,
+        "polarity": "+",
+        "sentence": "The power is incredible, it cut through MDF and plywood like butter.",
+        "term": "power"
+    },
+    "205": {
+        "id": 205,
+        "polarity": "+",
+        "sentence": "The edge guide has a nice micro adjust feature that works well.",
+        "term": "adjust"
+    },
+    "206": {
+        "id": 206,
+        "polarity": "-",
+        "sentence": "The only not-so-positive comment I have is about the depth adjustment, it is not easy to micro-adjust accurately.",
+        "term": "adjustment"
+    },
+    "207": {
+        "id": 207,
+        "polarity": "+",
+        "sentence": "I do not count this as a negative, however, because it is not that much of a nuisance and at the price for what you get this router is way too good to pass up!!!",
+        "term": "router"
+    },
+    "208": {
+        "id": 208,
+        "polarity": "+",
+        "sentence": "I do not count this as a negative, however, because it is not that much of a nuisance and at the price for what you get this router is way too good to pass up!!!",
+        "term": "price"
+    },
+    "209": {
+        "id": 209,
+        "polarity": "+",
+        "sentence": "The ones I've kept (Porter Cables, Dewalts, Bosch, and this Hitachi) have proven their worth over the years, however, when I need a real workhorse, I grab this router.",
+        "term": "router"
+    },
+    "210": {
+        "id": 210,
+        "polarity": "+",
+        "sentence": "I recently had to run a 3/4\" straight bit through hard maple to make a deep dado and was amazed that this machine didn't even slow down.",
+        "term": "machine"
+    },
+    "211": {
+        "id": 211,
+        "polarity": "+",
+        "sentence": "I could take 1/2\" passes and it still didn't skip a beat.",
+        "term": "router"
+    }
+}

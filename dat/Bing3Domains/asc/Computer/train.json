@@ -1,0 +1,1700 @@
+{
+    "0": {
+        "id": 0,
+        "polarity": "+",
+        "sentence": " This item was the most inexpensive 17 inch monitor available to me at the time I made the purchase .",
+        "term": "inexpensive"
+    },
+    "1": {
+        "id": 1,
+        "polarity": "-",
+        "sentence": " My overall experience with this monitor was very poor .",
+        "term": "monitor"
+    },
+    "2": {
+        "id": 2,
+        "polarity": "-",
+        "sentence": " When the screen was n't contracting or glitching the overall picture quality was poor to fair .",
+        "term": "screen"
+    },
+    "3": {
+        "id": 3,
+        "polarity": "-",
+        "sentence": " When the screen was n't contracting or glitching the overall picture quality was poor to fair .",
+        "term": " picture quality"
+    },
+    "4": {
+        "id": 4,
+        "polarity": "-",
+        "sentence": " I 've viewed numerous different monitor models since I 'm a college student and this particular monitor had as poor of picture quality as any I 've seen .",
+        "term": "monitor"
+    },
+    "5": {
+        "id": 5,
+        "polarity": "-",
+        "sentence": " I 've viewed numerous different monitor models since I 'm a college student and this particular monitor had as poor of picture quality as any I 've seen .",
+        "term": " picture quality"
+    },
+    "6": {
+        "id": 6,
+        "polarity": "-",
+        "sentence": " A week out of the box and I began to see slight contractions of the screen from time to time , growing more frequent each day .",
+        "term": "screen"
+    },
+    "7": {
+        "id": 7,
+        "polarity": "-",
+        "sentence": " Display glitches and flashes also occurred .",
+        "term": "Display"
+    },
+    "8": {
+        "id": 8,
+        "polarity": "-",
+        "sentence": " I could tell this was a `` cheap '' monitor as soon as I set it up .",
+        "term": "monitor"
+    },
+    "9": {
+        "id": 9,
+        "polarity": "-",
+        "sentence": " I used this monitor for 2 years and now it shows a mixture of various colors and de-focused text .",
+        "term": " colors"
+    },
+    "10": {
+        "id": 10,
+        "polarity": "-",
+        "sentence": " I used this monitor for 2 years and now it shows a mixture of various colors and de-focused text .",
+        "term": "monitor"
+    },
+    "11": {
+        "id": 11,
+        "polarity": "+",
+        "sentence": " I really liked the size so I researched what to buy and this was it .",
+        "term": "size"
+    },
+    "12": {
+        "id": 12,
+        "polarity": "+",
+        "sentence": " This computer has an excellent screen size and quality -LRB- for a netbook -RRB- .",
+        "term": " quality"
+    },
+    "13": {
+        "id": 13,
+        "polarity": "+",
+        "sentence": " This computer has an excellent screen size and quality -LRB- for a netbook -RRB- .",
+        "term": "computer"
+    },
+    "14": {
+        "id": 14,
+        "polarity": "+",
+        "sentence": " The full sized keyboard is sweet not to mention the aquamarine color .",
+        "term": " color"
+    },
+    "15": {
+        "id": 15,
+        "polarity": "+",
+        "sentence": " The full sized keyboard is sweet not to mention the aquamarine color .",
+        "term": "keyboard"
+    },
+    "16": {
+        "id": 16,
+        "polarity": "+",
+        "sentence": " That is surface stuff , but the speed and memory is very good .",
+        "term": " memory"
+    },
+    "17": {
+        "id": 17,
+        "polarity": "+",
+        "sentence": " That is surface stuff , but the speed and memory is very good .",
+        "term": "speed"
+    },
+    "18": {
+        "id": 18,
+        "polarity": "+",
+        "sentence": " This really is a laptop in a small form .",
+        "term": "laptop"
+    },
+    "19": {
+        "id": 19,
+        "polarity": "+",
+        "sentence": " This really is a laptop in a small form .",
+        "term": " form"
+    },
+    "20": {
+        "id": 20,
+        "polarity": "+",
+        "sentence": " The windows 7 premium is good -LRB- do n't recommend starter -RRB- and user friendly .",
+        "term": "windows 7 premium"
+    },
+    "21": {
+        "id": 21,
+        "polarity": "+",
+        "sentence": " It is slightly slower than the dell , but it is hard to notice with the very nice screen quality and larger hard drive .",
+        "term": " screen quality"
+    },
+    "22": {
+        "id": 22,
+        "polarity": "-",
+        "sentence": " It is slightly slower than the dell , but it is hard to notice with the very nice screen quality and larger hard drive .",
+        "term": "slower"
+    },
+    "23": {
+        "id": 23,
+        "polarity": "+",
+        "sentence": " It is slightly slower than the dell , but it is hard to notice with the very nice screen quality and larger hard drive .",
+        "term": " hard drive"
+    },
+    "24": {
+        "id": 24,
+        "polarity": "+",
+        "sentence": " The larger screen has allowed me to put all my photos on it -LRB- could n't on the dell -RRB- and edit them .",
+        "term": "screen"
+    },
+    "25": {
+        "id": 25,
+        "polarity": "+",
+        "sentence": " Overall a sweet machine .",
+        "term": "machine"
+    },
+    "26": {
+        "id": 26,
+        "polarity": "+",
+        "sentence": " It 's very light-weight , which is why I use this more than my Alienware .",
+        "term": "light-weight"
+    },
+    "27": {
+        "id": 27,
+        "polarity": "+",
+        "sentence": " It 's just such a nice , light-weight , non-intrusive device which you can take anywhere .",
+        "term": "light-weight"
+    },
+    "28": {
+        "id": 28,
+        "polarity": "+",
+        "sentence": " It 's just such a nice , light-weight , non-intrusive device which you can take anywhere .",
+        "term": " device"
+    },
+    "29": {
+        "id": 29,
+        "polarity": "+",
+        "sentence": " I really love this netbook .",
+        "term": "netbook"
+    },
+    "30": {
+        "id": 30,
+        "polarity": "+",
+        "sentence": " I 've had this monitor for over a year and I absolutely LOVE IT !",
+        "term": "monitor"
+    },
+    "31": {
+        "id": 31,
+        "polarity": "+",
+        "sentence": " I do n't think that really matters though - I mean hooked my Xbox 360 up to the standard VGA port a little while ago and the picture was awesome .",
+        "term": "picture"
+    },
+    "32": {
+        "id": 32,
+        "polarity": "-",
+        "sentence": " The only reason I did n't give it 5 stars is because the speakers on the monitor are a little weak , but that 's really to be expected is n't it ...",
+        "term": " monitor"
+    },
+    "33": {
+        "id": 33,
+        "polarity": "-",
+        "sentence": " The only reason I did n't give it 5 stars is because the speakers on the monitor are a little weak , but that 's really to be expected is n't it ...",
+        "term": "speakers"
+    },
+    "34": {
+        "id": 34,
+        "polarity": "+",
+        "sentence": " This netbook is exactly what I want for my kids .",
+        "term": "netbook"
+    },
+    "35": {
+        "id": 35,
+        "polarity": "+",
+        "sentence": " it is lighter to carry around and it has enough functionality to use .",
+        "term": "lighter"
+    },
+    "36": {
+        "id": 36,
+        "polarity": "+",
+        "sentence": " it is lighter to carry around and it has enough functionality to use .",
+        "term": " functionality"
+    },
+    "37": {
+        "id": 37,
+        "polarity": "+",
+        "sentence": " Great replacement at great price for an older bulky and heavy monitor .",
+        "term": "price"
+    },
+    "38": {
+        "id": 38,
+        "polarity": "+",
+        "sentence": " Color and contrast are perfect for my needs .",
+        "term": " contrast"
+    },
+    "39": {
+        "id": 39,
+        "polarity": "+",
+        "sentence": " Color and contrast are perfect for my needs .",
+        "term": "Color"
+    },
+    "40": {
+        "id": 40,
+        "polarity": "+",
+        "sentence": " Seems like a good product .",
+        "term": "product"
+    },
+    "41": {
+        "id": 41,
+        "polarity": "-",
+        "sentence": " The only problem I have is the clicker on the mouse pad is stiff .",
+        "term": "clicker"
+    },
+    "42": {
+        "id": 42,
+        "polarity": "-",
+        "sentence": " The only problem I have is the clicker on the mouse pad is stiff .",
+        "term": " mouse pad"
+    },
+    "43": {
+        "id": 43,
+        "polarity": "+",
+        "sentence": " Excellent monitor .",
+        "term": "monitor"
+    },
+    "44": {
+        "id": 44,
+        "polarity": "+",
+        "sentence": " Clear and crispy image .",
+        "term": "image"
+    },
+    "45": {
+        "id": 45,
+        "polarity": "+",
+        "sentence": " My fiance ordered this computer , she 's a teacher so she needed a small computer that would keep her from bringing work home with her .",
+        "term": " computer"
+    },
+    "46": {
+        "id": 46,
+        "polarity": "+",
+        "sentence": " My fiance ordered this computer , she 's a teacher so she needed a small computer that would keep her from bringing work home with her .",
+        "term": "small"
+    },
+    "47": {
+        "id": 47,
+        "polarity": "+",
+        "sentence": " We got this on time , and it was brand new , perfect condition , performance as can be expected for the machine specifications , keep in mind I 'm extremely computer savvy , so my opinion comes to a lot of people .",
+        "term": "performance"
+    },
+    "48": {
+        "id": 48,
+        "polarity": "+",
+        "sentence": " I 'm not a person well read in technology but this is just an absolutely wonderful computer .",
+        "term": "computer"
+    },
+    "49": {
+        "id": 49,
+        "polarity": "-",
+        "sentence": " I 've been playing Minecraft on it and multi tasking at the same time , and while it does run slower while multi-tasking , the gaming experience is not compromised for me .",
+        "term": "run"
+    },
+    "50": {
+        "id": 50,
+        "polarity": "+",
+        "sentence": " The keyboard is also very nice and quite comfortable-although it does take some getting used to .",
+        "term": "keyboard"
+    },
+    "51": {
+        "id": 51,
+        "polarity": "+",
+        "sentence": " I do n't want to be a sensationalist but this computer is incredible .",
+        "term": "computer"
+    },
+    "52": {
+        "id": 52,
+        "polarity": "+",
+        "sentence": " If you have netbook expectations you will be pleasantly surprised by how well this baby runs .",
+        "term": "netbook"
+    },
+    "53": {
+        "id": 53,
+        "polarity": "-",
+        "sentence": " Slow to download and run certain programs Wish you the best and hope my review helped !",
+        "term": "download"
+    },
+    "54": {
+        "id": 54,
+        "polarity": "-",
+        "sentence": " Slow to download and run certain programs Wish you the best and hope my review helped !",
+        "term": " run"
+    },
+    "55": {
+        "id": 55,
+        "polarity": "+",
+        "sentence": " We count on good products at a good price .",
+        "term": " price"
+    },
+    "56": {
+        "id": 56,
+        "polarity": "+",
+        "sentence": " We count on good products at a good price .",
+        "term": "products"
+    },
+    "57": {
+        "id": 57,
+        "polarity": "+",
+        "sentence": " Our purchase of an Acer Monitor was just as we expected .",
+        "term": "Acer Monitor"
+    },
+    "58": {
+        "id": 58,
+        "polarity": "+",
+        "sentence": " Easy to hook up .",
+        "term": "hook up"
+    },
+    "59": {
+        "id": 59,
+        "polarity": "+",
+        "sentence": " Great picture .",
+        "term": "picture"
+    },
+    "60": {
+        "id": 60,
+        "polarity": "+",
+        "sentence": " I am very happy with this monitor .",
+        "term": "monitor"
+    },
+    "61": {
+        "id": 61,
+        "polarity": "+",
+        "sentence": " It really impressed me with the disign , the specs & the price .",
+        "term": "disign"
+    },
+    "62": {
+        "id": 62,
+        "polarity": "+",
+        "sentence": " It really impressed me with the disign , the specs & the price .",
+        "term": " price"
+    },
+    "63": {
+        "id": 63,
+        "polarity": "-",
+        "sentence": " My comments are as follow : 1 - Does n't have direct Elictrical connectivity -LRB- you need Adapter which is comming with the package -RRB- 2 - It is really very difficult to connect the the power Cable & the regular -LRB- VGA -RRB- PC connection .",
+        "term": " connect"
+    },
+    "64": {
+        "id": 64,
+        "polarity": "-",
+        "sentence": " My comments are as follow : 1 - Does n't have direct Elictrical connectivity -LRB- you need Adapter which is comming with the package -RRB- 2 - It is really very difficult to connect the the power Cable & the regular -LRB- VGA -RRB- PC connection .",
+        "term": "direct Elictrical connectivity"
+    },
+    "65": {
+        "id": 65,
+        "polarity": "+",
+        "sentence": " 3 - Not perfect quality of picture if you use the VGA Connection while the DVI Connection is perfect .",
+        "term": " DVI Connection"
+    },
+    "66": {
+        "id": 66,
+        "polarity": "-",
+        "sentence": " 3 - Not perfect quality of picture if you use the VGA Connection while the DVI Connection is perfect .",
+        "term": "quality of picture"
+    },
+    "67": {
+        "id": 67,
+        "polarity": "-",
+        "sentence": " 3 - Not perfect quality of picture if you use the VGA Connection while the DVI Connection is perfect .",
+        "term": " VGA Connection"
+    },
+    "68": {
+        "id": 68,
+        "polarity": "+",
+        "sentence": " Then I would say that this LCD monitor have many feature in one piece .",
+        "term": "LCD monitor"
+    },
+    "69": {
+        "id": 69,
+        "polarity": "+",
+        "sentence": " In addition , it comes with a remote control .",
+        "term": "remote control"
+    },
+    "70": {
+        "id": 70,
+        "polarity": "+",
+        "sentence": " The screen quality is very high & the side view is very sharp & clear .",
+        "term": "screen quality"
+    },
+    "71": {
+        "id": 71,
+        "polarity": "+",
+        "sentence": " The screen quality is very high & the side view is very sharp & clear .",
+        "term": " side view"
+    },
+    "72": {
+        "id": 72,
+        "polarity": "-",
+        "sentence": " One last note , I purchased this monitor with a higher price than what you can get in the states .",
+        "term": "price"
+    },
+    "73": {
+        "id": 73,
+        "polarity": "+",
+        "sentence": " It costs me about 640 $ so you should be gratefull that the pricess in the states much lower .",
+        "term": "pricess"
+    },
+    "74": {
+        "id": 74,
+        "polarity": "-",
+        "sentence": " This means that the vga connection will not work with my computers .",
+        "term": "vga connection"
+    },
+    "75": {
+        "id": 75,
+        "polarity": "+",
+        "sentence": " I 'm glad I went with it , it actually exceeds my ViewSonic for color , brightness , and pixel quality .",
+        "term": " brightness"
+    },
+    "76": {
+        "id": 76,
+        "polarity": "+",
+        "sentence": " I 'm glad I went with it , it actually exceeds my ViewSonic for color , brightness , and pixel quality .",
+        "term": " pixel quality"
+    },
+    "77": {
+        "id": 77,
+        "polarity": "+",
+        "sentence": " I 'm glad I went with it , it actually exceeds my ViewSonic for color , brightness , and pixel quality .",
+        "term": "color"
+    },
+    "78": {
+        "id": 78,
+        "polarity": "+",
+        "sentence": " Though it does n't have quite the screen real estate , it 's an excellent monitor and crystal clear at a resolution of 1920x1080 .",
+        "term": "monitor"
+    },
+    "79": {
+        "id": 79,
+        "polarity": "+",
+        "sentence": " Though it does n't have quite the screen real estate , it 's an excellent monitor and crystal clear at a resolution of 1920x1080 .",
+        "term": " resolution"
+    },
+    "80": {
+        "id": 80,
+        "polarity": "+",
+        "sentence": " Very happy with the monitor and the price ...",
+        "term": "monitor"
+    },
+    "81": {
+        "id": 81,
+        "polarity": "+",
+        "sentence": " Very happy with the monitor and the price ...",
+        "term": " price"
+    },
+    "82": {
+        "id": 82,
+        "polarity": "+",
+        "sentence": " I have this monitor for a month now and I 'm very pleased with it .",
+        "term": "monitor"
+    },
+    "83": {
+        "id": 83,
+        "polarity": "+",
+        "sentence": " My wife is even more pleased due to its widescreen .",
+        "term": "widescreen"
+    },
+    "84": {
+        "id": 84,
+        "polarity": "+",
+        "sentence": " The colors are clear , also .",
+        "term": "colors"
+    },
+    "85": {
+        "id": 85,
+        "polarity": "-",
+        "sentence": " The backlight will periodically fail , the first time it happened I sent it in for warranty repair .",
+        "term": "backlight"
+    },
+    "86": {
+        "id": 86,
+        "polarity": "+",
+        "sentence": " It came back working , and I was momentarily glad that the rumors I 'd heard about Acer tech support did n't turn out to be true in my case .",
+        "term": "Acer tech support"
+    },
+    "87": {
+        "id": 87,
+        "polarity": "-",
+        "sentence": " Acer has been awful to deal with , they treat their customers like rubbish , and have a miserable repair facility to match their products .",
+        "term": "Acer"
+    },
+    "88": {
+        "id": 88,
+        "polarity": "-",
+        "sentence": " Do n't buy this monitor !",
+        "term": "monitor"
+    },
+    "89": {
+        "id": 89,
+        "polarity": "-",
+        "sentence": " Now when the backlight fails , I have to leave it unplugged overnight and it works the next day .",
+        "term": "backlight"
+    },
+    "90": {
+        "id": 90,
+        "polarity": "+",
+        "sentence": " I really enjoy this product .",
+        "term": "product"
+    },
+    "91": {
+        "id": 91,
+        "polarity": "+",
+        "sentence": " I was looking for portability and good battery life and this product delivers both .",
+        "term": " battery life"
+    },
+    "92": {
+        "id": 92,
+        "polarity": "+",
+        "sentence": " I was looking for portability and good battery life and this product delivers both .",
+        "term": "portability"
+    },
+    "93": {
+        "id": 93,
+        "polarity": "-",
+        "sentence": " I felt the system was slow so I purchased a 4gb ram from crucell and replaced the standard 2gb that came with the system .",
+        "term": "slow"
+    },
+    "94": {
+        "id": 94,
+        "polarity": "-",
+        "sentence": " I felt the system was slow so I purchased a 4gb ram from crucell and replaced the standard 2gb that came with the system .",
+        "term": " system"
+    },
+    "95": {
+        "id": 95,
+        "polarity": "+",
+        "sentence": " I seem to be getting 5 to 6 hours on the battery which is sufficient for my needs .",
+        "term": "battery"
+    },
+    "96": {
+        "id": 96,
+        "polarity": "-",
+        "sentence": " Someday , your going to need support , and Acer 's technical support department is the next to worthless .",
+        "term": "technical support"
+    },
+    "97": {
+        "id": 97,
+        "polarity": "+",
+        "sentence": " This netbook is very light but still powerful .",
+        "term": " light"
+    },
+    "98": {
+        "id": 98,
+        "polarity": "+",
+        "sentence": " This netbook is very light but still powerful .",
+        "term": "netbook"
+    },
+    "99": {
+        "id": 99,
+        "polarity": "+",
+        "sentence": " Screen brightness is really good .",
+        "term": "Screen brightness"
+    },
+    "100": {
+        "id": 100,
+        "polarity": "+",
+        "sentence": " Sound is also nice as compared to its size .",
+        "term": "Sound"
+    },
+    "101": {
+        "id": 101,
+        "polarity": "-",
+        "sentence": " Sound is also nice as compared to its size .",
+        "term": " size"
+    },
+    "102": {
+        "id": 102,
+        "polarity": "+",
+        "sentence": " This netbook is closer to the notebook powers but still very cheap .",
+        "term": "cheap"
+    },
+    "103": {
+        "id": 103,
+        "polarity": "+",
+        "sentence": " This netbook is closer to the notebook powers but still very cheap .",
+        "term": " netbook"
+    },
+    "104": {
+        "id": 104,
+        "polarity": "+",
+        "sentence": " Pros : Competitive Cost Win 7 Home premium HDMI port -LRB- I could watch the Amazon instant videos on my HDTV and its delivering great .",
+        "term": "delivering"
+    },
+    "105": {
+        "id": 105,
+        "polarity": "+",
+        "sentence": " Office Starter Web Cam is also fairly good Light in weight and elegant Cons : I wo n't say anything bad as you are just paying 280 for this net book .",
+        "term": "Office Starter Web Cam"
+    },
+    "106": {
+        "id": 106,
+        "polarity": "+",
+        "sentence": " Office Starter Web Cam is also fairly good Light in weight and elegant Cons : I wo n't say anything bad as you are just paying 280 for this net book .",
+        "term": " weight"
+    },
+    "107": {
+        "id": 107,
+        "polarity": "+",
+        "sentence": " Nice monitor for price but I agree with other customer review about difficulty of cable hook ups .",
+        "term": "monitor"
+    },
+    "108": {
+        "id": 108,
+        "polarity": "+",
+        "sentence": " Nice monitor for price but I agree with other customer review about difficulty of cable hook ups .",
+        "term": " price"
+    },
+    "109": {
+        "id": 109,
+        "polarity": "-",
+        "sentence": " Nice monitor for price but I agree with other customer review about difficulty of cable hook ups .",
+        "term": " cable hook ups"
+    },
+    "110": {
+        "id": 110,
+        "polarity": "+",
+        "sentence": " I love this monitor .",
+        "term": "monitor"
+    },
+    "111": {
+        "id": 111,
+        "polarity": "+",
+        "sentence": " Great color display , sharp picture , and just the right size for my desk .",
+        "term": " picture"
+    },
+    "112": {
+        "id": 112,
+        "polarity": "+",
+        "sentence": " Great color display , sharp picture , and just the right size for my desk .",
+        "term": " size"
+    },
+    "113": {
+        "id": 113,
+        "polarity": "+",
+        "sentence": " Great color display , sharp picture , and just the right size for my desk .",
+        "term": "color display"
+    },
+    "114": {
+        "id": 114,
+        "polarity": "+",
+        "sentence": " Fits perfectly in the corner of my small desk !!",
+        "term": "Fits"
+    },
+    "115": {
+        "id": 115,
+        "polarity": "+",
+        "sentence": " The images are vivid and crisp , the text and fonts are very clear .",
+        "term": " fonts"
+    },
+    "116": {
+        "id": 116,
+        "polarity": "+",
+        "sentence": " The images are vivid and crisp , the text and fonts are very clear .",
+        "term": "images"
+    },
+    "117": {
+        "id": 117,
+        "polarity": "+",
+        "sentence": " The images are vivid and crisp , the text and fonts are very clear .",
+        "term": " text"
+    },
+    "118": {
+        "id": 118,
+        "polarity": "+",
+        "sentence": " Absolutely love it and cant beat the price !",
+        "term": "price"
+    },
+    "119": {
+        "id": 119,
+        "polarity": "+",
+        "sentence": " This monitor works great .",
+        "term": "monitor"
+    },
+    "120": {
+        "id": 120,
+        "polarity": "+",
+        "sentence": " Easy to set up , no bad pixels , great price for 19 LCD monitor !",
+        "term": " pixels"
+    },
+    "121": {
+        "id": 121,
+        "polarity": "+",
+        "sentence": " Easy to set up , no bad pixels , great price for 19 LCD monitor !",
+        "term": " LCD monitor"
+    },
+    "122": {
+        "id": 122,
+        "polarity": "+",
+        "sentence": " Easy to set up , no bad pixels , great price for 19 LCD monitor !",
+        "term": " price"
+    },
+    "123": {
+        "id": 123,
+        "polarity": "+",
+        "sentence": " Easy to set up , no bad pixels , great price for 19 LCD monitor !",
+        "term": "set up"
+    },
+    "124": {
+        "id": 124,
+        "polarity": "+",
+        "sentence": " Both are absolutely great items .",
+        "term": "items"
+    },
+    "125": {
+        "id": 125,
+        "polarity": "+",
+        "sentence": " All the latest Acer stuff is top notch !",
+        "term": "Acer stuff"
+    },
+    "126": {
+        "id": 126,
+        "polarity": "+",
+        "sentence": " The Acer Monitor has an extremely bright screen and its design allows the placement in an area -LRB- from a heighth perspective -RRB- that many 20 '' screens will not fit in .",
+        "term": " design"
+    },
+    "127": {
+        "id": 127,
+        "polarity": "+",
+        "sentence": " The Acer Monitor has an extremely bright screen and its design allows the placement in an area -LRB- from a heighth perspective -RRB- that many 20 '' screens will not fit in .",
+        "term": "Acer Monitor"
+    },
+    "128": {
+        "id": 128,
+        "polarity": "+",
+        "sentence": " The Acer Monitor has an extremely bright screen and its design allows the placement in an area -LRB- from a heighth perspective -RRB- that many 20 '' screens will not fit in .",
+        "term": " screen"
+    },
+    "129": {
+        "id": 129,
+        "polarity": "+",
+        "sentence": " Compared to the 19 '' Dell Monitor this replaced it is far brighter and weighs much less .",
+        "term": " weighs"
+    },
+    "130": {
+        "id": 130,
+        "polarity": "+",
+        "sentence": " Compared to the 19 '' Dell Monitor this replaced it is far brighter and weighs much less .",
+        "term": "brighter"
+    },
+    "131": {
+        "id": 131,
+        "polarity": "+",
+        "sentence": " Very easy to set up .",
+        "term": "set up"
+    },
+    "132": {
+        "id": 132,
+        "polarity": "+",
+        "sentence": " Highly recommend this monitor - hard to beat at this price point .",
+        "term": "monitor"
+    },
+    "133": {
+        "id": 133,
+        "polarity": "+",
+        "sentence": " Highly recommend this monitor - hard to beat at this price point .",
+        "term": " price"
+    },
+    "134": {
+        "id": 134,
+        "polarity": "+",
+        "sentence": " I purchased three of these Acer 19 '' at very good rates from Amazon ... we are extremely pleased with the clarity and sharpness .",
+        "term": " sharpness"
+    },
+    "135": {
+        "id": 135,
+        "polarity": "+",
+        "sentence": " I purchased three of these Acer 19 '' at very good rates from Amazon ... we are extremely pleased with the clarity and sharpness .",
+        "term": "clarity"
+    },
+    "136": {
+        "id": 136,
+        "polarity": "+",
+        "sentence": " This sleek looking monitor is absolutely awesome !!",
+        "term": "sleek"
+    },
+    "137": {
+        "id": 137,
+        "polarity": "+",
+        "sentence": " This sleek looking monitor is absolutely awesome !!",
+        "term": " monitor"
+    },
+    "138": {
+        "id": 138,
+        "polarity": "+",
+        "sentence": " This Wonderful product was easy to unbox and install !!",
+        "term": " unbox"
+    },
+    "139": {
+        "id": 139,
+        "polarity": "+",
+        "sentence": " This Wonderful product was easy to unbox and install !!",
+        "term": " install"
+    },
+    "140": {
+        "id": 140,
+        "polarity": "+",
+        "sentence": " This Wonderful product was easy to unbox and install !!",
+        "term": "product"
+    },
+    "141": {
+        "id": 141,
+        "polarity": "+",
+        "sentence": " Thuumbs up to ACER widescreen ULTRA Slim monitor .",
+        "term": " ULTRA Slim monitor"
+    },
+    "142": {
+        "id": 142,
+        "polarity": "+",
+        "sentence": " Thuumbs up to ACER widescreen ULTRA Slim monitor .",
+        "term": "ACER widescreen"
+    },
+    "143": {
+        "id": 143,
+        "polarity": "-",
+        "sentence": " First gripe : I set up a lot of these puppies , and the video cable does n't always fit into the socket on the underside of the monitor .",
+        "term": " fit into the socket"
+    },
+    "144": {
+        "id": 144,
+        "polarity": "+",
+        "sentence": " First gripe : I set up a lot of these puppies , and the video cable does n't always fit into the socket on the underside of the monitor .",
+        "term": "video cable"
+    },
+    "145": {
+        "id": 145,
+        "polarity": "+",
+        "sentence": " Other then that it is a fantastic display for the price .",
+        "term": " price"
+    },
+    "146": {
+        "id": 146,
+        "polarity": "+",
+        "sentence": " Other then that it is a fantastic display for the price .",
+        "term": "display"
+    },
+    "147": {
+        "id": 147,
+        "polarity": "-",
+        "sentence": " Second gripe : In the 6 or so months since we purchased our batch of 30-40 of these monitors , 2 have already been returned for repair or replacement .",
+        "term": "monitors"
+    },
+    "148": {
+        "id": 148,
+        "polarity": "-",
+        "sentence": " Third gripe : These monitors can suffer from the LCD equivalent of screen burn - `` image persistence '' if you like .",
+        "term": "monitors"
+    },
+    "149": {
+        "id": 149,
+        "polarity": "+",
+        "sentence": " I have n't really need any since the display have proven to be very intelligent when resizing different screen res 's and I can use the ATI drivers to adjust things like color temp and gamma .",
+        "term": "display"
+    },
+    "150": {
+        "id": 150,
+        "polarity": "-",
+        "sentence": " In fact others say not bright enough ?",
+        "term": "bright"
+    },
+    "151": {
+        "id": 151,
+        "polarity": "-",
+        "sentence": " I find it too bright .",
+        "term": "bright"
+    },
+    "152": {
+        "id": 152,
+        "polarity": "+",
+        "sentence": " For me its perfect and the quality for games and word docs is more than acceptable .",
+        "term": "quality"
+    },
+    "153": {
+        "id": 153,
+        "polarity": "-",
+        "sentence": " Besides , I hate widescreen monitors !!!!",
+        "term": "widescreen monitors"
+    },
+    "154": {
+        "id": 154,
+        "polarity": "+",
+        "sentence": " Much faster than my previous Acer One Netbook with single processor .",
+        "term": "faster"
+    },
+    "155": {
+        "id": 155,
+        "polarity": "+",
+        "sentence": " Battery last longer too .",
+        "term": "Battery"
+    },
+    "156": {
+        "id": 156,
+        "polarity": "+",
+        "sentence": " Purchased this item because of reviews and price .",
+        "term": "price"
+    },
+    "157": {
+        "id": 157,
+        "polarity": "+",
+        "sentence": " The Netbook is great and rates 5 stars EXCEPT -- Customer service is useless .",
+        "term": "Netbook"
+    },
+    "158": {
+        "id": 158,
+        "polarity": "-",
+        "sentence": " The Netbook is great and rates 5 stars EXCEPT -- Customer service is useless .",
+        "term": " Customer service"
+    },
+    "159": {
+        "id": 159,
+        "polarity": "+",
+        "sentence": " excellent , very good monitor to rest the price is pretty good , I recommendt he picture is sharp and in perfect condition came to Venezuela",
+        "term": "monitor"
+    },
+    "160": {
+        "id": 160,
+        "polarity": "+",
+        "sentence": " excellent , very good monitor to rest the price is pretty good , I recommendt he picture is sharp and in perfect condition came to Venezuela",
+        "term": " picture"
+    },
+    "161": {
+        "id": 161,
+        "polarity": "+",
+        "sentence": " excellent , very good monitor to rest the price is pretty good , I recommendt he picture is sharp and in perfect condition came to Venezuela",
+        "term": " price"
+    },
+    "162": {
+        "id": 162,
+        "polarity": "+",
+        "sentence": " Fits nicely on the small desk we use in our computer room .",
+        "term": "Fits"
+    },
+    "163": {
+        "id": 163,
+        "polarity": "+",
+        "sentence": " It does not distort ; video and pictures look great .",
+        "term": " pictures"
+    },
+    "164": {
+        "id": 164,
+        "polarity": "+",
+        "sentence": " It does not distort ; video and pictures look great .",
+        "term": " video"
+    },
+    "165": {
+        "id": 165,
+        "polarity": "+",
+        "sentence": " It does not distort ; video and pictures look great .",
+        "term": "distort"
+    },
+    "166": {
+        "id": 166,
+        "polarity": "+",
+        "sentence": " We like Acer products and this one does n't disappoint .",
+        "term": "Acer products"
+    },
+    "167": {
+        "id": 167,
+        "polarity": "+",
+        "sentence": " Hi , I just got this , and let me tell you is an awsome monitor , Size , looking and 3d is awsome good with this LCD .",
+        "term": "monitor"
+    },
+    "168": {
+        "id": 168,
+        "polarity": "+",
+        "sentence": " Hi , I just got this , and let me tell you is an awsome monitor , Size , looking and 3d is awsome good with this LCD .",
+        "term": " looking"
+    },
+    "169": {
+        "id": 169,
+        "polarity": "+",
+        "sentence": " Hi , I just got this , and let me tell you is an awsome monitor , Size , looking and 3d is awsome good with this LCD .",
+        "term": " Size"
+    },
+    "170": {
+        "id": 170,
+        "polarity": "+",
+        "sentence": " Hi , I just got this , and let me tell you is an awsome monitor , Size , looking and 3d is awsome good with this LCD .",
+        "term": " 3d"
+    },
+    "171": {
+        "id": 171,
+        "polarity": "-",
+        "sentence": " 2 weeks later , The monitor start having other issues , only half screen turns on , or it become a full green screen and doesnt change , you need to turn it off and on again until it works .",
+        "term": "monitor"
+    },
+    "172": {
+        "id": 172,
+        "polarity": "-",
+        "sentence": " I was dissapointed that Acer was n't more helpful .",
+        "term": "Acer"
+    },
+    "173": {
+        "id": 173,
+        "polarity": "+",
+        "sentence": " Nice and compact .",
+        "term": "compact"
+    },
+    "174": {
+        "id": 174,
+        "polarity": "+",
+        "sentence": " After much delay I received my Acer Netbook Aspire One and I can teell you I am very satisfied with this computer , is very pretty , well finished , high quality , so quiet , not heated than other netbook or at least I think it is within in normal ranges , the keyboard is very smooth and very well laid out , the screen functions are very practical in a nutshell is an excellent buy and I am very pleased with the purchase , I recommend it .",
+        "term": "Acer Netbook Aspire One"
+    },
+    "175": {
+        "id": 175,
+        "polarity": "+",
+        "sentence": " After much delay I received my Acer Netbook Aspire One and I can teell you I am very satisfied with this computer , is very pretty , well finished , high quality , so quiet , not heated than other netbook or at least I think it is within in normal ranges , the keyboard is very smooth and very well laid out , the screen functions are very practical in a nutshell is an excellent buy and I am very pleased with the purchase , I recommend it .",
+        "term": " computer"
+    },
+    "176": {
+        "id": 176,
+        "polarity": "+",
+        "sentence": " After much delay I received my Acer Netbook Aspire One and I can teell you I am very satisfied with this computer , is very pretty , well finished , high quality , so quiet , not heated than other netbook or at least I think it is within in normal ranges , the keyboard is very smooth and very well laid out , the screen functions are very practical in a nutshell is an excellent buy and I am very pleased with the purchase , I recommend it .",
+        "term": " heated"
+    },
+    "177": {
+        "id": 177,
+        "polarity": "+",
+        "sentence": " After much delay I received my Acer Netbook Aspire One and I can teell you I am very satisfied with this computer , is very pretty , well finished , high quality , so quiet , not heated than other netbook or at least I think it is within in normal ranges , the keyboard is very smooth and very well laid out , the screen functions are very practical in a nutshell is an excellent buy and I am very pleased with the purchase , I recommend it .",
+        "term": " keyboard"
+    },
+    "178": {
+        "id": 178,
+        "polarity": "+",
+        "sentence": " After much delay I received my Acer Netbook Aspire One and I can teell you I am very satisfied with this computer , is very pretty , well finished , high quality , so quiet , not heated than other netbook or at least I think it is within in normal ranges , the keyboard is very smooth and very well laid out , the screen functions are very practical in a nutshell is an excellent buy and I am very pleased with the purchase , I recommend it .",
+        "term": " screen functions"
+    },
+    "179": {
+        "id": 179,
+        "polarity": "+",
+        "sentence": " After much delay I received my Acer Netbook Aspire One and I can teell you I am very satisfied with this computer , is very pretty , well finished , high quality , so quiet , not heated than other netbook or at least I think it is within in normal ranges , the keyboard is very smooth and very well laid out , the screen functions are very practical in a nutshell is an excellent buy and I am very pleased with the purchase , I recommend it .",
+        "term": " quiet"
+    },
+    "180": {
+        "id": 180,
+        "polarity": "+",
+        "sentence": " After much delay I received my Acer Netbook Aspire One and I can teell you I am very satisfied with this computer , is very pretty , well finished , high quality , so quiet , not heated than other netbook or at least I think it is within in normal ranges , the keyboard is very smooth and very well laid out , the screen functions are very practical in a nutshell is an excellent buy and I am very pleased with the purchase , I recommend it .",
+        "term": " quality"
+    },
+    "181": {
+        "id": 181,
+        "polarity": "+",
+        "sentence": " After much delay I received my Acer Netbook Aspire One and I can teell you I am very satisfied with this computer , is very pretty , well finished , high quality , so quiet , not heated than other netbook or at least I think it is within in normal ranges , the keyboard is very smooth and very well laid out , the screen functions are very practical in a nutshell is an excellent buy and I am very pleased with the purchase , I recommend it .",
+        "term": " pretty"
+    },
+    "182": {
+        "id": 182,
+        "polarity": "+",
+        "sentence": " After much delay I received my Acer Netbook Aspire One and I can teell you I am very satisfied with this computer , is very pretty , well finished , high quality , so quiet , not heated than other netbook or at least I think it is within in normal ranges , the keyboard is very smooth and very well laid out , the screen functions are very practical in a nutshell is an excellent buy and I am very pleased with the purchase , I recommend it .",
+        "term": " laid out"
+    },
+    "183": {
+        "id": 183,
+        "polarity": "+",
+        "sentence": " its definately an outstanding laptop .",
+        "term": "laptop"
+    },
+    "184": {
+        "id": 184,
+        "polarity": "+",
+        "sentence": " it 's far from expensive for the specifications but there is a lot more than in there ... i like it so much ... its nicely designed for the portable user and I like the Ferrari design on it .",
+        "term": " design"
+    },
+    "185": {
+        "id": 185,
+        "polarity": "+",
+        "sentence": " it 's far from expensive for the specifications but there is a lot more than in there ... i like it so much ... its nicely designed for the portable user and I like the Ferrari design on it .",
+        "term": "expensive"
+    },
+    "186": {
+        "id": 186,
+        "polarity": "+",
+        "sentence": " The color is red and is so attractive !!",
+        "term": "color"
+    },
+    "187": {
+        "id": 187,
+        "polarity": "-",
+        "sentence": " <p> It 's not lite on weight ... so sad ... I definately recommend it to anyone out there .",
+        "term": "weight"
+    },
+    "188": {
+        "id": 188,
+        "polarity": "+",
+        "sentence": " Sharp , crisp images .",
+        "term": "images"
+    },
+    "189": {
+        "id": 189,
+        "polarity": "+",
+        "sentence": " Delivery was prompt .",
+        "term": "Delivery"
+    },
+    "190": {
+        "id": 190,
+        "polarity": "+",
+        "sentence": " Monitor was easy to set up and works as promised with my newly acquired NVIDIA glasses .",
+        "term": "Monitor"
+    },
+    "191": {
+        "id": 191,
+        "polarity": "+",
+        "sentence": " Monitor was easy to set up and works as promised with my newly acquired NVIDIA glasses .",
+        "term": " set up"
+    },
+    "192": {
+        "id": 192,
+        "polarity": "+",
+        "sentence": " The operation with the increased memory option was flawless with the Windows 7 Home Professional instaled otherwise other netbooks with Windows 7 Starter doesnt allow , and nobody mention this .",
+        "term": "increased memory option"
+    },
+    "193": {
+        "id": 193,
+        "polarity": "+",
+        "sentence": " This is a plus with this netbook , the increased size of 1.6 inches means better and clear view of webpages and woks made in Office .",
+        "term": "size"
+    },
+    "194": {
+        "id": 194,
+        "polarity": "+",
+        "sentence": " This is a very nice monitor , matte black and built-in speakers .",
+        "term": "monitor"
+    },
+    "195": {
+        "id": 195,
+        "polarity": "+",
+        "sentence": " This is a very nice monitor , matte black and built-in speakers .",
+        "term": " speakers"
+    },
+    "196": {
+        "id": 196,
+        "polarity": "+",
+        "sentence": " Sharp image .",
+        "term": "image"
+    },
+    "197": {
+        "id": 197,
+        "polarity": "+",
+        "sentence": " Relatively small desktop footprint too .",
+        "term": "small"
+    },
+    "198": {
+        "id": 198,
+        "polarity": "+",
+        "sentence": " VERY fast delivery .",
+        "term": "delivery"
+    },
+    "199": {
+        "id": 199,
+        "polarity": "+",
+        "sentence": " Ca n't beat it for the price .",
+        "term": "price"
+    },
+    "200": {
+        "id": 200,
+        "polarity": "+",
+        "sentence": " This LED monitor is fantastic !!!",
+        "term": "LED monitor"
+    },
+    "201": {
+        "id": 201,
+        "polarity": "+",
+        "sentence": " Image clarity is great -LRB- I do a lot of work in PhotoShop with 18MB RAW image files and noticed the difference immediately -RRB- .",
+        "term": "Image"
+    },
+    "202": {
+        "id": 202,
+        "polarity": "+",
+        "sentence": " It worked great and we just pluged it in .",
+        "term": "worked"
+    },
+    "203": {
+        "id": 203,
+        "polarity": "+",
+        "sentence": " I was a little skeptical because of how cheap it was .",
+        "term": "cheap"
+    },
+    "204": {
+        "id": 204,
+        "polarity": "+",
+        "sentence": " However , when I plugged it into my Mac Mini , the screen looked wonderful .",
+        "term": "screen"
+    },
+    "205": {
+        "id": 205,
+        "polarity": "+",
+        "sentence": " The colors and everything are great .",
+        "term": "colors"
+    },
+    "206": {
+        "id": 206,
+        "polarity": "+",
+        "sentence": " I exchanged this from an LG that I bought for nearly twice as much and the colors on the LG were not at all as nice as this .",
+        "term": "colors"
+    },
+    "207": {
+        "id": 207,
+        "polarity": "+",
+        "sentence": " I thot my original monitor had a good image , but the S201HL has a much brighter display .",
+        "term": "display"
+    },
+    "208": {
+        "id": 208,
+        "polarity": "+",
+        "sentence": " Pros : Low weight , long battery life , decent keyboard , decent screen , does not heat up , HDMI output , flawless local HD decoding Con : low audio volume , just enough CPU power",
+        "term": " keyboard"
+    },
+    "209": {
+        "id": 209,
+        "polarity": "+",
+        "sentence": " Pros : Low weight , long battery life , decent keyboard , decent screen , does not heat up , HDMI output , flawless local HD decoding Con : low audio volume , just enough CPU power",
+        "term": " battery life"
+    },
+    "210": {
+        "id": 210,
+        "polarity": "+",
+        "sentence": " Pros : Low weight , long battery life , decent keyboard , decent screen , does not heat up , HDMI output , flawless local HD decoding Con : low audio volume , just enough CPU power",
+        "term": " heat up"
+    },
+    "211": {
+        "id": 211,
+        "polarity": "+",
+        "sentence": " Pros : Low weight , long battery life , decent keyboard , decent screen , does not heat up , HDMI output , flawless local HD decoding Con : low audio volume , just enough CPU power",
+        "term": " local HD decoding"
+    },
+    "212": {
+        "id": 212,
+        "polarity": "+",
+        "sentence": " Pros : Low weight , long battery life , decent keyboard , decent screen , does not heat up , HDMI output , flawless local HD decoding Con : low audio volume , just enough CPU power",
+        "term": " HDMI output"
+    },
+    "213": {
+        "id": 213,
+        "polarity": "-",
+        "sentence": " Pros : Low weight , long battery life , decent keyboard , decent screen , does not heat up , HDMI output , flawless local HD decoding Con : low audio volume , just enough CPU power",
+        "term": " audio volume"
+    },
+    "214": {
+        "id": 214,
+        "polarity": "+",
+        "sentence": " Pros : Low weight , long battery life , decent keyboard , decent screen , does not heat up , HDMI output , flawless local HD decoding Con : low audio volume , just enough CPU power",
+        "term": "weight"
+    },
+    "215": {
+        "id": 215,
+        "polarity": "+",
+        "sentence": " Pros : Low weight , long battery life , decent keyboard , decent screen , does not heat up , HDMI output , flawless local HD decoding Con : low audio volume , just enough CPU power",
+        "term": " screen"
+    },
+    "216": {
+        "id": 216,
+        "polarity": "-",
+        "sentence": " When it works its fine but I have gone through two monitors now both with defective switches .",
+        "term": "switches"
+    },
+    "217": {
+        "id": 217,
+        "polarity": "+",
+        "sentence": " This monitor is much , much better but still not great .",
+        "term": "monitor"
+    },
+    "218": {
+        "id": 218,
+        "polarity": "+",
+        "sentence": " The colors and viewing angle are about average , but a huge upgrade from the truly terrible quality of the other monitor .",
+        "term": " quality"
+    },
+    "219": {
+        "id": 219,
+        "polarity": "+",
+        "sentence": " The colors and viewing angle are about average , but a huge upgrade from the truly terrible quality of the other monitor .",
+        "term": " viewing angle"
+    },
+    "220": {
+        "id": 220,
+        "polarity": "+",
+        "sentence": " The colors and viewing angle are about average , but a huge upgrade from the truly terrible quality of the other monitor .",
+        "term": "colors"
+    },
+    "221": {
+        "id": 221,
+        "polarity": "-",
+        "sentence": " My other big complaint about this monitor is the stand .",
+        "term": "stand"
+    },
+    "222": {
+        "id": 222,
+        "polarity": "-",
+        "sentence": " It 's flimsy plastic and the monitor bounces around while you type .",
+        "term": "monitor"
+    },
+    "223": {
+        "id": 223,
+        "polarity": "-",
+        "sentence": " There 's also no height adjustability , so it sits very low to the desk .",
+        "term": "height adjustability"
+    },
+    "224": {
+        "id": 224,
+        "polarity": "+",
+        "sentence": " Not a bad monitor for $ 120 but it 's nothing special .",
+        "term": "monitor"
+    },
+    "225": {
+        "id": 225,
+        "polarity": "+",
+        "sentence": " recieved this product in time for a gift giving ... works outstanding good battery life nice screen resolution uses windows 7 which is what the rest of the house uses connectsd to my network easisly",
+        "term": "battery life"
+    },
+    "226": {
+        "id": 226,
+        "polarity": "+",
+        "sentence": " recieved this product in time for a gift giving ... works outstanding good battery life nice screen resolution uses windows 7 which is what the rest of the house uses connectsd to my network easisly",
+        "term": " screen resolution"
+    },
+    "227": {
+        "id": 227,
+        "polarity": "+",
+        "sentence": " Overall , I like the system features and performance .",
+        "term": "features"
+    },
+    "228": {
+        "id": 228,
+        "polarity": "+",
+        "sentence": " Overall , I like the system features and performance .",
+        "term": " performance"
+    },
+    "229": {
+        "id": 229,
+        "polarity": "+",
+        "sentence": " I love that it is a tablet - it is so much more convenient than a regular laptop .",
+        "term": "convenient"
+    },
+    "230": {
+        "id": 230,
+        "polarity": "-",
+        "sentence": " There is one very annoying problem with this model though : the keyboard is `` sticky '' - meaning , despite this tablet is brand new and just arrived , when I press and release a key on the keyboard it acts as if I kept it pressed , continuing to type the same character again and again .",
+        "term": "keyboard"
+    },
+    "231": {
+        "id": 231,
+        "polarity": "+",
+        "sentence": " I bought this monitor from computer direct a couple months ago , and I have been very satisfied with it so far .",
+        "term": "monitor"
+    },
+    "232": {
+        "id": 232,
+        "polarity": "+",
+        "sentence": " The clarity and contrast are exactly what I was looking for in a monitor , and spec for spec , it is a bargain compared to other brands .",
+        "term": " contrast"
+    },
+    "233": {
+        "id": 233,
+        "polarity": "+",
+        "sentence": " The clarity and contrast are exactly what I was looking for in a monitor , and spec for spec , it is a bargain compared to other brands .",
+        "term": "clarity"
+    },
+    "234": {
+        "id": 234,
+        "polarity": "+",
+        "sentence": " The computer direct processing and shipping was outrageously fast .",
+        "term": "shipping"
+    },
+    "235": {
+        "id": 235,
+        "polarity": "+",
+        "sentence": " I ordered it on a Monday afternoon -LRB- around 2 PM -RRB- and with no extra shipping costs , the monitor was at my door in Chicago by the time I got home from work Tuesday .",
+        "term": "shipping"
+    },
+    "236": {
+        "id": 236,
+        "polarity": "-",
+        "sentence": " The stand is by far the most inferior aspect of this monitor .",
+        "term": " monitor"
+    },
+    "237": {
+        "id": 237,
+        "polarity": "-",
+        "sentence": " The stand is by far the most inferior aspect of this monitor .",
+        "term": "stand"
+    },
+    "238": {
+        "id": 238,
+        "polarity": "-",
+        "sentence": " It will only move the monitor side to side -LRB- no up\\/down or tilt feature -RRB- .",
+        "term": "monitor"
+    },
+    "239": {
+        "id": 239,
+        "polarity": "+",
+        "sentence": " However , the view angle on this thing is so big that you will see very clearly on any desk\\/viewing situation you normally run across .",
+        "term": "view angle"
+    },
+    "240": {
+        "id": 240,
+        "polarity": "+",
+        "sentence": " I have seen no dead pixels or color bleeding that I 've heard about with other ACER models",
+        "term": " color bleeding"
+    },
+    "241": {
+        "id": 241,
+        "polarity": "+",
+        "sentence": " I have seen no dead pixels or color bleeding that I 've heard about with other ACER models",
+        "term": "dead pixels"
+    },
+    "242": {
+        "id": 242,
+        "polarity": "+",
+        "sentence": " the netbook work as a breeze for my sales person , it worked fine , fast and with the extra ram nothing could stop it , in fact it works better than my own laptop so I will change to this one as soon as possible",
+        "term": " fast"
+    },
+    "243": {
+        "id": 243,
+        "polarity": "+",
+        "sentence": " the netbook work as a breeze for my sales person , it worked fine , fast and with the extra ram nothing could stop it , in fact it works better than my own laptop so I will change to this one as soon as possible",
+        "term": "netbook"
+    },
+    "244": {
+        "id": 244,
+        "polarity": "+",
+        "sentence": " I am very happy with the Acer 19-inch flat screen monitor which I received for Christmas .",
+        "term": "Acer 19-inch flat screen monitor"
+    },
+    "245": {
+        "id": 245,
+        "polarity": "+",
+        "sentence": " Things are much more distinct , and I do n't have to strain my eyes and squint when I am trying to read something on the screen -LRB- like I had to do with my clunky old monitor -RRB- .",
+        "term": "screen"
+    },
+    "246": {
+        "id": 246,
+        "polarity": "+",
+        "sentence": " Just an average user getting good value in this product .",
+        "term": "product"
+    },
+    "247": {
+        "id": 247,
+        "polarity": "+",
+        "sentence": " Hooked it worked like a charm , great picture , bright colors and very light weight .",
+        "term": "picture"
+    },
+    "248": {
+        "id": 248,
+        "polarity": "+",
+        "sentence": " Hooked it worked like a charm , great picture , bright colors and very light weight .",
+        "term": " weight"
+    },
+    "249": {
+        "id": 249,
+        "polarity": "+",
+        "sentence": " Hooked it worked like a charm , great picture , bright colors and very light weight .",
+        "term": " colors"
+    },
+    "250": {
+        "id": 250,
+        "polarity": "+",
+        "sentence": " I 'm very satisfied with it especially for he price .",
+        "term": "price"
+    },
+    "251": {
+        "id": 251,
+        "polarity": "+",
+        "sentence": " Good monitor for the price .",
+        "term": "monitor"
+    },
+    "252": {
+        "id": 252,
+        "polarity": "+",
+        "sentence": " Good monitor for the price .",
+        "term": " price"
+    },
+    "253": {
+        "id": 253,
+        "polarity": "-",
+        "sentence": " Maybe some of you do n't have this problem , but I know of over 20 cases of buzzing from this monitor .",
+        "term": "monitor"
+    },
+    "254": {
+        "id": 254,
+        "polarity": "-",
+        "sentence": " Anyways , back to the point : I 've tried to be so calm over the past month of dealing with Acer and their terrible service and support .",
+        "term": "service"
+    },
+    "255": {
+        "id": 255,
+        "polarity": "-",
+        "sentence": " Anyways , back to the point : I 've tried to be so calm over the past month of dealing with Acer and their terrible service and support .",
+        "term": " support"
+    },
+    "256": {
+        "id": 256,
+        "polarity": "-",
+        "sentence": " I sent my monitor in to Acer for repairs for such a small but very problematic problem of random Buzzing from my Acer GD235Hz monitor .",
+        "term": "monitor"
+    },
+    "257": {
+        "id": 257,
+        "polarity": "-",
+        "sentence": " You can blame the bad chat support or the repair technicians for that because I gave all the information I could .",
+        "term": "chat support"
+    },
+    "258": {
+        "id": 258,
+        "polarity": "-",
+        "sentence": " You can blame the bad chat support or the repair technicians for that because I gave all the information I could .",
+        "term": " repair technicians"
+    },
+    "259": {
+        "id": 259,
+        "polarity": "-",
+        "sentence": " I should 've trusted all the online comments about the terrible repair team of Acer .",
+        "term": "repair team"
+    },
+    "260": {
+        "id": 260,
+        "polarity": "-",
+        "sentence": " You guys need to hire new repair technicians because the ones that are in the repair center obviously have no idea what they are doing .",
+        "term": "repair technicians"
+    },
+    "261": {
+        "id": 261,
+        "polarity": "+",
+        "sentence": " The colors are bright , beautiful and clear .",
+        "term": "colors"
+    },
+    "262": {
+        "id": 262,
+        "polarity": "+",
+        "sentence": " I am in the business and have seen many 19 '' LCD monitors that sell for much , much more , and aside from monitors with a higher resolution -LRB- ie 1600 x 1200 -RRB- , there is no noticable difference at all .",
+        "term": "resolution"
+    },
+    "263": {
+        "id": 263,
+        "polarity": "+",
+        "sentence": " This product is hard to beat at any price .",
+        "term": "price"
+    },
+    "264": {
+        "id": 264,
+        "polarity": "-",
+        "sentence": " I agree with the earlier reviewer who said that there is a very limited vertical viewing angle in order to get consistent contrast .",
+        "term": "viewing angle"
+    },
+    "265": {
+        "id": 265,
+        "polarity": "+",
+        "sentence": " Otherwise a very decent monitor for its price .",
+        "term": "monitor"
+    },
+    "266": {
+        "id": 266,
+        "polarity": "+",
+        "sentence": " Otherwise a very decent monitor for its price .",
+        "term": " price"
+    },
+    "267": {
+        "id": 267,
+        "polarity": "+",
+        "sentence": " Very smooth .",
+        "term": "smooth"
+    },
+    "268": {
+        "id": 268,
+        "polarity": "+",
+        "sentence": " I think the real reason that made the changes is that it now uses GPU hardware acceleration .",
+        "term": "GPU hardware acceleration"
+    },
+    "269": {
+        "id": 269,
+        "polarity": "+",
+        "sentence": " So far , I am super happy with this small yet powerful enough laptop .",
+        "term": "laptop"
+    },
+    "270": {
+        "id": 270,
+        "polarity": "+",
+        "sentence": " So far , I am super happy with this small yet powerful enough laptop .",
+        "term": " small"
+    },
+    "271": {
+        "id": 271,
+        "polarity": "-",
+        "sentence": " If you are not picky about image quality , go for it .",
+        "term": "image quality"
+    },
+    "272": {
+        "id": 272,
+        "polarity": "+",
+        "sentence": " I can see a drastic difference between this monitor and Dell Ultrasharp in terms of contrast , brightness and viewing angles .",
+        "term": " brightness"
+    },
+    "273": {
+        "id": 273,
+        "polarity": "+",
+        "sentence": " I can see a drastic difference between this monitor and Dell Ultrasharp in terms of contrast , brightness and viewing angles .",
+        "term": "contrast"
+    },
+    "274": {
+        "id": 274,
+        "polarity": "+",
+        "sentence": " I can see a drastic difference between this monitor and Dell Ultrasharp in terms of contrast , brightness and viewing angles .",
+        "term": " viewing angles"
+    },
+    "275": {
+        "id": 275,
+        "polarity": "+",
+        "sentence": " : P Fantastic little computer , does everything I had hoped for work\\/study\\/travel .",
+        "term": "computer"
+    },
+    "276": {
+        "id": 276,
+        "polarity": "-",
+        "sentence": " However , when you unplug the computer it beeps .",
+        "term": "beeps"
+    },
+    "277": {
+        "id": 277,
+        "polarity": "-",
+        "sentence": " Wonderful computer , horrible customer service , and I may be deaf come next year .",
+        "term": " customer service"
+    },
+    "278": {
+        "id": 278,
+        "polarity": "+",
+        "sentence": " Wonderful computer , horrible customer service , and I may be deaf come next year .",
+        "term": "computer"
+    },
+    "279": {
+        "id": 279,
+        "polarity": "-",
+        "sentence": " Would n't buy again because of the customer service .",
+        "term": "customer service"
+    },
+    "280": {
+        "id": 280,
+        "polarity": "+",
+        "sentence": " This was very prompt standard shipping service .",
+        "term": "shipping service"
+    },
+    "281": {
+        "id": 281,
+        "polarity": "+",
+        "sentence": " This 4 X 3 monitor fits my space very well .",
+        "term": "fits"
+    },
+    "282": {
+        "id": 282,
+        "polarity": "+",
+        "sentence": " The monitor works very well with a sharp and bright display .",
+        "term": "monitor"
+    }
+}

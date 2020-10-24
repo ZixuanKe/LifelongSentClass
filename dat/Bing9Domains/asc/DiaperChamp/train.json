@@ -1,0 +1,1148 @@
+{
+    "0": {
+        "id": 0,
+        "polarity": "+",
+        "sentence": "Works great, no odor, and uses regular bags.",
+        "term": "Works"
+    },
+    "1": {
+        "id": 1,
+        "polarity": "+",
+        "sentence": "So far (3 weeks), we've had no problems with the Diaper Champ at all.",
+        "term": "Diaper Champ"
+    },
+    "2": {
+        "id": 2,
+        "polarity": "+",
+        "sentence": "It contains the smell from our baby's diapers and we can use just about any kind of bag inside.",
+        "term": "diapers"
+    },
+    "3": {
+        "id": 3,
+        "polarity": "+",
+        "sentence": "I don't know if we'll run into trouble down the road with odors, but so far I have no complaints and I'm very happy not to have to buy those refills.",
+        "term": "refills"
+    },
+    "4": {
+        "id": 4,
+        "polarity": "+",
+        "sentence": "I don't know if we'll run into trouble down the road with odors, but so far I have no complaints and I'm very happy not to have to buy those refills.",
+        "term": "odors"
+    },
+    "5": {
+        "id": 5,
+        "polarity": "+",
+        "sentence": "The Diaper Champ is the best we found!",
+        "term": "Diaper Champ"
+    },
+    "6": {
+        "id": 6,
+        "polarity": "+",
+        "sentence": "There are no specail bags to deal with or buy!",
+        "term": "bags"
+    },
+    "7": {
+        "id": 7,
+        "polarity": "+",
+        "sentence": "We use the cheap $1.99 13 gallon vanilla scented bags from the grocery store but you can use any bag you have laying around.",
+        "term": "bag"
+    },
+    "8": {
+        "id": 8,
+        "polarity": "-",
+        "sentence": "Now it will start smelling if you leave it with diapers in it for an extended period but all of them will!",
+        "term": "smelling"
+    },
+    "9": {
+        "id": 9,
+        "polarity": "+",
+        "sentence": "We empty ours every day and we have never had an odors from it!",
+        "term": "diaper"
+    },
+    "10": {
+        "id": 10,
+        "polarity": "+",
+        "sentence": "It is far better than just a trash can or the Diaper Genie and it's fairly inexpensive as baby products go!",
+        "term": "product"
+    },
+    "11": {
+        "id": 11,
+        "polarity": "+",
+        "sentence": "I love that you don't have to purchase expensive refills.",
+        "term": "refills"
+    },
+    "12": {
+        "id": 12,
+        "polarity": "-",
+        "sentence": "The cons, at times the diaper wipes get stuck in the disposal area making it hard to turn the handle back and forth.",
+        "term": "diaper wipes"
+    },
+    "13": {
+        "id": 13,
+        "polarity": "-",
+        "sentence": "In addition, I don't believe that it is odorless.",
+        "term": "Diaper Champ"
+    },
+    "14": {
+        "id": 14,
+        "polarity": "-",
+        "sentence": "My daughter is only 4 months old and we do notice an odor.",
+        "term": "odor"
+    },
+    "15": {
+        "id": 15,
+        "polarity": "+",
+        "sentence": "If I had to do it over again, even with the cost savings of using any type of bag, I would go w/ the Diaper Genie.",
+        "term": "Diaper Genie"
+    },
+    "16": {
+        "id": 16,
+        "polarity": "+",
+        "sentence": "It's far better than all others on the market.",
+        "term": "Diaper Champ"
+    },
+    "17": {
+        "id": 17,
+        "polarity": "+",
+        "sentence": "it's easier and much more convenient to use because it doesn't have CLUMSY and CONFUSING (not to mention expensive) refills.",
+        "term": "convenient"
+    },
+    "18": {
+        "id": 18,
+        "polarity": "+",
+        "sentence": "it's easier and much more convenient to use because it doesn't have CLUMSY and CONFUSING (not to mention expensive) refills.",
+        "term": "refills"
+    },
+    "19": {
+        "id": 19,
+        "polarity": "+",
+        "sentence": "There is no odor and extremely easy to use.",
+        "term": "use"
+    },
+    "20": {
+        "id": 20,
+        "polarity": "+",
+        "sentence": "1. It uses regular garbage bags instead of brand refills.",
+        "term": "garbage bags"
+    },
+    "21": {
+        "id": 21,
+        "polarity": "+",
+        "sentence": "3. It never smelled - at all.",
+        "term": "product"
+    },
+    "22": {
+        "id": 22,
+        "polarity": "+",
+        "sentence": "The container is hard to open, which is exactly what you want when your baby becomes a toddler, and you do have to flip the handle carefully (which has saved more than a few of her toys,too.) I don't consider these difficulties but features for the older baby.",
+        "term": "container"
+    },
+    "23": {
+        "id": 23,
+        "polarity": "-",
+        "sentence": "Even with newborn diapers it filled way too fast.",
+        "term": "size"
+    },
+    "24": {
+        "id": 24,
+        "polarity": "-",
+        "sentence": "It seemed as if we were empting the pail everyday and it was in no way odorless.",
+        "term": "odor"
+    },
+    "25": {
+        "id": 25,
+        "polarity": "-",
+        "sentence": "It seemed as if we were empting the pail everyday and it was in no way odorless.",
+        "term": "size"
+    },
+    "26": {
+        "id": 26,
+        "polarity": "+",
+        "sentence": "This is a MUST HAVE product for all new moms!",
+        "term": "product"
+    },
+    "27": {
+        "id": 27,
+        "polarity": "-",
+        "sentence": "The Diaper Genie needs it's own refill bags in order to work and that's just more money that you don't have to spend.",
+        "term": "Diaper Genie"
+    },
+    "28": {
+        "id": 28,
+        "polarity": "+",
+        "sentence": "This is easy to work and easy to dispose of the dirty diapers.",
+        "term": "work"
+    },
+    "29": {
+        "id": 29,
+        "polarity": "-",
+        "sentence": "I find the major problem with this item is that if you have a very messy diaper and can't tightly bundle it without a mess, the mess gets all over the module that dumps the diaper and the stink is OUTSIDE of the diaper pail.",
+        "term": "item"
+    },
+    "30": {
+        "id": 30,
+        "polarity": "-",
+        "sentence": "My main complaints are that it should be deeper or wider as it doesn't even fit a smaller sized garbage bag.",
+        "term": "fit"
+    },
+    "31": {
+        "id": 31,
+        "polarity": "-",
+        "sentence": "The hole to put the diaper in needs to be larger as I am now using medium diapers (I have a 3 month old) and they're on the brink of being too large to fit no matter how compact I make then and how un-soiled they are.",
+        "term": "hole"
+    },
+    "32": {
+        "id": 32,
+        "polarity": "-",
+        "sentence": "This pail doesn't really keep in odors anymore and we'll probably have to get a new one, but since you can use regular garbage bags (we actually use the bags we get our groceries in because they hang perfectly) its still probably a better deal than the genie.",
+        "term": "odors"
+    },
+    "33": {
+        "id": 33,
+        "polarity": "+",
+        "sentence": "This pail doesn't really keep in odors anymore and we'll probably have to get a new one, but since you can use regular garbage bags (we actually use the bags we get our groceries in because they hang perfectly) its still probably a better deal than the genie.",
+        "term": "deal"
+    },
+    "34": {
+        "id": 34,
+        "polarity": "+",
+        "sentence": "It is much easier to fill and unload than the Diaper Genie, plus, why buy refills when you can use trash bags from the Dollar Store?",
+        "term": "fill"
+    },
+    "35": {
+        "id": 35,
+        "polarity": "+",
+        "sentence": "It is much easier to fill and unload than the Diaper Genie, plus, why buy refills when you can use trash bags from the Dollar Store?",
+        "term": " unload"
+    },
+    "36": {
+        "id": 36,
+        "polarity": "+",
+        "sentence": "It also holds a lot more diapers.",
+        "term": "diaper"
+    },
+    "37": {
+        "id": 37,
+        "polarity": "+",
+        "sentence": "look at the size of it!",
+        "term": "size"
+    },
+    "38": {
+        "id": 38,
+        "polarity": "-",
+        "sentence": "I have noticed an odor (one the I expected!) when unloading the Diaper Champ but at least you don't smell anything every time you use it.",
+        "term": "odor"
+    },
+    "39": {
+        "id": 39,
+        "polarity": "+",
+        "sentence": "I highly recommend this!",
+        "term": "diaper"
+    },
+    "40": {
+        "id": 40,
+        "polarity": "-",
+        "sentence": "For my first I had a diaper genie which was not only costly with the refills but it was also very stinky.",
+        "term": "diaper genie"
+    },
+    "41": {
+        "id": 41,
+        "polarity": "+",
+        "sentence": "I have to say that I am very happy with it so far.",
+        "term": "Diaper Champ"
+    },
+    "42": {
+        "id": 42,
+        "polarity": "+",
+        "sentence": "I am happy with the fact that I can use any bag in there and dont' have to pay out the nose for replacements.",
+        "term": "replacement"
+    },
+    "43": {
+        "id": 43,
+        "polarity": "+",
+        "sentence": "It's also so easy to use and holds a great deal of diapers.",
+        "term": "use"
+    },
+    "44": {
+        "id": 44,
+        "polarity": "+",
+        "sentence": "The bags attach inside the Champ easily and all one has to do is cram the diaper down and flip the handle.",
+        "term": "Champ"
+    },
+    "45": {
+        "id": 45,
+        "polarity": "-",
+        "sentence": "But, sometimes, if the Champ is too full, the flip handle won't function.",
+        "term": "function"
+    },
+    "46": {
+        "id": 46,
+        "polarity": "-",
+        "sentence": "(I never know when the Champ is full as there is no way too tell.  Even though not particularly aesthetic, how about making the Champ clear and see-through?) So, I lift the lid and find a wad of diaper, which I must remove, usually stuck inside the lid itself because the bag is too full.",
+        "term": "diaper"
+    },
+    "47": {
+        "id": 47,
+        "polarity": "+",
+        "sentence": "I bought this diaper pail when my son was just a few days old and I absolutely LOVE it!",
+        "term": "diaper pail"
+    },
+    "48": {
+        "id": 48,
+        "polarity": "+",
+        "sentence": "The diaper champ couldn't be easier to use.",
+        "term": "use"
+    },
+    "49": {
+        "id": 49,
+        "polarity": "+",
+        "sentence": "And the biggest plus is that you don't have to buy any expensive refills.",
+        "term": "refills"
+    },
+    "50": {
+        "id": 50,
+        "polarity": "+",
+        "sentence": "And it does an excellent job of keeping the odor contained, which the diaper genie never did!",
+        "term": "odor"
+    },
+    "51": {
+        "id": 51,
+        "polarity": "+",
+        "sentence": "If you are looking for a user-friendly diaper pail that actually does keep the odor contained, than the diaper champ is the one for you!",
+        "term": "diaper champ"
+    },
+    "52": {
+        "id": 52,
+        "polarity": "+",
+        "sentence": "THIS ITEM IS EXCEPTIONAL I like the ease of use and it held the odor in great.",
+        "term": "use"
+    },
+    "53": {
+        "id": 53,
+        "polarity": "+",
+        "sentence": "THIS ITEM IS EXCEPTIONAL I like the ease of use and it held the odor in great.",
+        "term": "ITEM"
+    },
+    "54": {
+        "id": 54,
+        "polarity": "+",
+        "sentence": "THIS ITEM IS EXCEPTIONAL I like the ease of use and it held the odor in great.",
+        "term": "odor"
+    },
+    "55": {
+        "id": 55,
+        "polarity": "+",
+        "sentence": "Diaper Champ is by far the best diaper pail!",
+        "term": "Diaper Champ"
+    },
+    "56": {
+        "id": 56,
+        "polarity": "+",
+        "sentence": "It holds a lot of diapers, not to mention the odor!",
+        "term": "holds"
+    },
+    "57": {
+        "id": 57,
+        "polarity": "+",
+        "sentence": "It's easy to use (just a flip of the lid, and the diaper is gone!).",
+        "term": "use"
+    },
+    "58": {
+        "id": 58,
+        "polarity": "+",
+        "sentence": "It's also easy to empty out.",
+        "term": "empty"
+    },
+    "59": {
+        "id": 59,
+        "polarity": "+",
+        "sentence": "And best of all, no wasting money on special refill bags---this takes ordinary garbage bags!",
+        "term": "garbage bags"
+    },
+    "60": {
+        "id": 60,
+        "polarity": "+",
+        "sentence": "Whether you are using disposable or cloth diapers, this is the truly the only diaper pail to get!",
+        "term": "diaper pail"
+    },
+    "61": {
+        "id": 61,
+        "polarity": "+",
+        "sentence": "Even though I never ventured into the cloth land, I was very impressed by how well this works at keeping diapers and their accompanying odor in the pail and out of our life!",
+        "term": "odor"
+    },
+    "62": {
+        "id": 62,
+        "polarity": "+",
+        "sentence": "Even though I never ventured into the cloth land, I was very impressed by how well this works at keeping diapers and their accompanying odor in the pail and out of our life!",
+        "term": "pail"
+    },
+    "63": {
+        "id": 63,
+        "polarity": "-",
+        "sentence": "Opening the Champ to empty out the bag is a little tricky- I pinched my thumb a few times before I got the hang of it.",
+        "term": "Opening"
+    },
+    "64": {
+        "id": 64,
+        "polarity": "+",
+        "sentence": "Being a very economical person, I appreciate the fact that any plastic bag can be used with this system- I never did like the prospect of buying special Diaper Genie refills.",
+        "term": "refills"
+    },
+    "65": {
+        "id": 65,
+        "polarity": "-",
+        "sentence": "As one other reviewer pointed out, it does occasionally take a little effort to push down the \"plunger\" to get the diapers in the pail, even though upon inspection the bag doesn't really look full.",
+        "term": "plunger"
+    },
+    "66": {
+        "id": 66,
+        "polarity": "+",
+        "sentence": "But from my experience, by the time it gets to that point, the bag is really heavy, so I think this is kind of helpful- it's a built-in way of keeping the bag manageable upon emptying.",
+        "term": "emptying"
+    },
+    "67": {
+        "id": 67,
+        "polarity": "+",
+        "sentence": "This is a really great buy, for yourself or as a shower gift.",
+        "term": "gift"
+    },
+    "68": {
+        "id": 68,
+        "polarity": "+",
+        "sentence": "Go for the Champ.",
+        "term": "Champ"
+    },
+    "69": {
+        "id": 69,
+        "polarity": "+",
+        "sentence": "I love this product!",
+        "term": "product"
+    },
+    "70": {
+        "id": 70,
+        "polarity": "+",
+        "sentence": "With the enormous numbers of diapers that you go through with a newborn, it was great how easy it was to dispose of the dirty ones.",
+        "term": "dispose"
+    },
+    "71": {
+        "id": 71,
+        "polarity": "+",
+        "sentence": "Plus, the fact that it used regular trash bags is great.",
+        "term": "trash bags"
+    },
+    "72": {
+        "id": 72,
+        "polarity": "+",
+        "sentence": "No need to pay for the special refills that the other brands require!",
+        "term": "refills"
+    },
+    "73": {
+        "id": 73,
+        "polarity": "+",
+        "sentence": "and we still LOVE it!",
+        "term": "product"
+    },
+    "74": {
+        "id": 74,
+        "polarity": "+",
+        "sentence": "*holds a LOT of diapers--a full week of toddler diapers!",
+        "term": "holds"
+    },
+    "75": {
+        "id": 75,
+        "polarity": "+",
+        "sentence": "(we wrap them nice and tight) *we use our regular kitchen trash bags--cheap!",
+        "term": "trash bags"
+    },
+    "76": {
+        "id": 76,
+        "polarity": "+",
+        "sentence": "*holds the odor in nicely!",
+        "term": "odor"
+    },
+    "77": {
+        "id": 77,
+        "polarity": "+",
+        "sentence": "(every now and then I spray down the inside of the pail with Lysol) *easy one-hand use *impossible for my inquisitive child to get the dirty diapers OUT of the pail Every now and then odors do escape the pail, but that is rare--and it usually just means that we've crammed too much in there and need to change the bag.",
+        "term": "use"
+    },
+    "78": {
+        "id": 78,
+        "polarity": "+",
+        "sentence": "We keep the Diaper Champ in our daughter's nursery and her room definitely does NOT smell like dirty diapers.",
+        "term": "Diaper Champ"
+    },
+    "79": {
+        "id": 79,
+        "polarity": "+",
+        "sentence": "It holds quite a few diapers, and pops them in quickly and easily.",
+        "term": "holds"
+    },
+    "80": {
+        "id": 80,
+        "polarity": "+",
+        "sentence": "I use the same store-brand tall kitchen trash bags I already use in the kitchen for it -- no special \"diaper\" trash bags necessary.",
+        "term": "trash bags"
+    },
+    "81": {
+        "id": 81,
+        "polarity": "-",
+        "sentence": "The opening could be a little wider, I suppose, but I haven't really seen anything else that could be improved.",
+        "term": "opening"
+    },
+    "82": {
+        "id": 82,
+        "polarity": "+",
+        "sentence": "It works with a minimum of fuss.",
+        "term": "works"
+    },
+    "83": {
+        "id": 83,
+        "polarity": "+",
+        "sentence": "The diaper champ turns the smelly diaper into \"what diaper smell\" in less time than that.",
+        "term": "diaper champ"
+    },
+    "84": {
+        "id": 84,
+        "polarity": "+",
+        "sentence": "This is one of the best purchases we made.",
+        "term": "purchases"
+    },
+    "85": {
+        "id": 85,
+        "polarity": "+",
+        "sentence": "Great product, easy to use, economical, effective, absolutly fabulous.",
+        "term": "effective"
+    },
+    "86": {
+        "id": 86,
+        "polarity": "+",
+        "sentence": "Great product, easy to use, economical, effective, absolutly fabulous.",
+        "term": "use"
+    },
+    "87": {
+        "id": 87,
+        "polarity": "+",
+        "sentence": "Great product, easy to use, economical, effective, absolutly fabulous.",
+        "term": "product"
+    },
+    "88": {
+        "id": 88,
+        "polarity": "+",
+        "sentence": "Update I knew that I loved the champ, and useing the diaper genie at a friend's house REALLY reinforced that!",
+        "term": "champ"
+    },
+    "89": {
+        "id": 89,
+        "polarity": "+",
+        "sentence": "There is no comparison, the chanp is easy and smell free, the genie was difficult to use one handed (which is absolutly vital if you have a little one on a changing pad) and there was a deffinite odor eminating from the genie plus we found that the quick tie garbage bags where the ties are integrated into the bag work really well because there isn't any added bulk around the sealing edge of the champ.",
+        "term": "champ"
+    },
+    "90": {
+        "id": 90,
+        "polarity": "+",
+        "sentence": "There is no comparison, the chanp is easy and smell free, the genie was difficult to use one handed (which is absolutly vital if you have a little one on a changing pad) and there was a deffinite odor eminating from the genie plus we found that the quick tie garbage bags where the ties are integrated into the bag work really well because there isn't any added bulk around the sealing edge of the champ.",
+        "term": "odor"
+    },
+    "91": {
+        "id": 91,
+        "polarity": "+",
+        "sentence": "I love this pail!",
+        "term": "pail"
+    },
+    "92": {
+        "id": 92,
+        "polarity": "+",
+        "sentence": "No smell, easy to use with one hand free, and best of all it uses regular tall kitchen garbage bags so you don't get suckered in to using only the bags made for the pail that are imposible to find!",
+        "term": "garbage bags"
+    },
+    "93": {
+        "id": 93,
+        "polarity": "+",
+        "sentence": "No smell, easy to use with one hand free, and best of all it uses regular tall kitchen garbage bags so you don't get suckered in to using only the bags made for the pail that are imposible to find!",
+        "term": "ease of use"
+    },
+    "94": {
+        "id": 94,
+        "polarity": "+",
+        "sentence": "No smell, easy to use with one hand free, and best of all it uses regular tall kitchen garbage bags so you don't get suckered in to using only the bags made for the pail that are imposible to find!",
+        "term": "smell"
+    },
+    "95": {
+        "id": 95,
+        "polarity": "-",
+        "sentence": "Solid food poop is VERY STINKY and this diaper pail doesn't really contain the smell.",
+        "term": "diaper pail"
+    },
+    "96": {
+        "id": 96,
+        "polarity": "-",
+        "sentence": "I still like it a lot and am not changing it for another, but it is sort of stinky.",
+        "term": "diaper pail"
+    },
+    "97": {
+        "id": 97,
+        "polarity": "+",
+        "sentence": "I think it's great.",
+        "term": "diaper pail"
+    },
+    "98": {
+        "id": 98,
+        "polarity": "-",
+        "sentence": "I just wished that it didn't fill up so fast!",
+        "term": "diaper pail"
+    },
+    "99": {
+        "id": 99,
+        "polarity": "+",
+        "sentence": "It definitely keeps the smell out.",
+        "term": "diaper pail"
+    },
+    "100": {
+        "id": 100,
+        "polarity": "-",
+        "sentence": "But now that she is eating solids the odor is escaping out and we are constantly using airfreshner.",
+        "term": "odor"
+    },
+    "101": {
+        "id": 101,
+        "polarity": "+",
+        "sentence": "First 4 months it was in our bedroom and we did not even smell any odor.",
+        "term": "odor"
+    },
+    "102": {
+        "id": 102,
+        "polarity": "-",
+        "sentence": "But be prepared to buy something else (diaper genie ?) which can trap the odor better.",
+        "term": "odor"
+    },
+    "103": {
+        "id": 103,
+        "polarity": "+",
+        "sentence": "The diaper champ is the best!",
+        "term": "diaper champ"
+    },
+    "104": {
+        "id": 104,
+        "polarity": "+",
+        "sentence": "I have tried other pails, but none have compared positively to the Champ.",
+        "term": "Champ"
+    },
+    "105": {
+        "id": 105,
+        "polarity": "+",
+        "sentence": "1) The champ is easy to use.",
+        "term": "use"
+    },
+    "106": {
+        "id": 106,
+        "polarity": "+",
+        "sentence": "With the Champ all you had to do was drop the dirty diaper into the opening and flip the lid.",
+        "term": "Champ"
+    },
+    "107": {
+        "id": 107,
+        "polarity": "+",
+        "sentence": "It was so easy my toddler would dispose of her on diapers.",
+        "term": "dispose"
+    },
+    "108": {
+        "id": 108,
+        "polarity": "+",
+        "sentence": "2) The Champ uses regular store bags.",
+        "term": "store bags"
+    },
+    "109": {
+        "id": 109,
+        "polarity": "+",
+        "sentence": "You do not have to waste money or time trying to purchase special bags for the Champ.",
+        "term": "Champ"
+    },
+    "110": {
+        "id": 110,
+        "polarity": "+",
+        "sentence": "3)The Champ is Odor Free for at least 15 months.",
+        "term": "Champ"
+    },
+    "111": {
+        "id": 111,
+        "polarity": "+",
+        "sentence": "The Champ did not start letting a little odor through until well over a year.",
+        "term": "Champ"
+    },
+    "112": {
+        "id": 112,
+        "polarity": "-",
+        "sentence": "The other pail I used started to smell after 2 weeks of use.",
+        "term": "other pail"
+    },
+    "113": {
+        "id": 113,
+        "polarity": "+",
+        "sentence": "Regardless to this fact, I believe the Champ is the best way to go.",
+        "term": "Champ"
+    },
+    "114": {
+        "id": 114,
+        "polarity": "+",
+        "sentence": "Let the Champ win you over!",
+        "term": "Champ"
+    },
+    "115": {
+        "id": 115,
+        "polarity": "+",
+        "sentence": "No need for deodorizers.",
+        "term": "odor"
+    },
+    "116": {
+        "id": 116,
+        "polarity": "+",
+        "sentence": "I use the regular kitchen trash bags and it is so easy to empty.",
+        "term": "empty"
+    },
+    "117": {
+        "id": 117,
+        "polarity": "+",
+        "sentence": "even did while daughter sleep and no noise!",
+        "term": "noise"
+    },
+    "118": {
+        "id": 118,
+        "polarity": "+",
+        "sentence": "I use the scented bags and even if I don't no smell!",
+        "term": "smell"
+    },
+    "119": {
+        "id": 119,
+        "polarity": "+",
+        "sentence": "This holds alot and does not take up alot of space.",
+        "term": "space"
+    },
+    "120": {
+        "id": 120,
+        "polarity": "-",
+        "sentence": "We found that when you put a dirty diaper into the top loader, there was a tendency to get streaks which would then get on the plunger which would then have to get cleaned each time it was used.",
+        "term": "top loader"
+    },
+    "121": {
+        "id": 121,
+        "polarity": "-",
+        "sentence": "We resorted to using small plastic bags to store the dirty diapers and dumping them in a trash can and using the Diaper Champ for wet diapers only.",
+        "term": "Diaper Champ"
+    },
+    "122": {
+        "id": 122,
+        "polarity": "-",
+        "sentence": "We also had a problem with diaper wipes getting caught when the top was flipped.",
+        "term": "diaper wipes"
+    },
+    "123": {
+        "id": 123,
+        "polarity": "+",
+        "sentence": "But like I stated, its better then a trash can, but I'm not sure if its better then the Diaper Genie.",
+        "term": "Diaper Champ"
+    },
+    "124": {
+        "id": 124,
+        "polarity": "+",
+        "sentence": "It holds almost a week's worth of diapers, and you don't need expensive refills - any kitchen bags work.",
+        "term": "diapers"
+    },
+    "125": {
+        "id": 125,
+        "polarity": "+",
+        "sentence": "It holds almost a week's worth of diapers, and you don't need expensive refills - any kitchen bags work.",
+        "term": "refills"
+    },
+    "126": {
+        "id": 126,
+        "polarity": "+",
+        "sentence": "At first I had a problem with some smell, then I realized if you flip the lid back and always keep the same side facing in - then there is no smell at all!",
+        "term": "smell"
+    },
+    "127": {
+        "id": 127,
+        "polarity": "+",
+        "sentence": "Personally, I am VERY pleased with the Diaper Champ.",
+        "term": "Diaper Champ"
+    },
+    "128": {
+        "id": 128,
+        "polarity": "+",
+        "sentence": "It is mindless to operate.",
+        "term": "operate"
+    },
+    "129": {
+        "id": 129,
+        "polarity": "+",
+        "sentence": "It doesn't stink, ever (like some have assumed since it doesn't wrap each diaper into its own neat little cocoon).",
+        "term": "Diaper Champ"
+    },
+    "130": {
+        "id": 130,
+        "polarity": "+",
+        "sentence": "And it is very easy to clean.",
+        "term": "clean"
+    },
+    "131": {
+        "id": 131,
+        "polarity": "+",
+        "sentence": "I can keep one hand on my baby and dump the diaper at the same time, it is that simple.",
+        "term": "diaper"
+    },
+    "132": {
+        "id": 132,
+        "polarity": "+",
+        "sentence": "This is a great diaper pail.",
+        "term": "diaper pail"
+    },
+    "133": {
+        "id": 133,
+        "polarity": "+",
+        "sentence": "There is no odor and it is very easy to use.",
+        "term": "use"
+    },
+    "134": {
+        "id": 134,
+        "polarity": "+",
+        "sentence": "(You can do it one handed while still hanging on to the baby.) Also, we like using regular trash bags instead of having to worry about buying refills (like with the Diaper Genie).",
+        "term": "refills"
+    },
+    "135": {
+        "id": 135,
+        "polarity": "+",
+        "sentence": "And it's the largest diaper pail I've seen without taking up more floor space.",
+        "term": "space"
+    },
+    "136": {
+        "id": 136,
+        "polarity": "+",
+        "sentence": "And it's the largest diaper pail I've seen without taking up more floor space.",
+        "term": "diaper pail"
+    },
+    "137": {
+        "id": 137,
+        "polarity": "+",
+        "sentence": "and we definitely prefer our Champ!",
+        "term": "Champ"
+    },
+    "138": {
+        "id": 138,
+        "polarity": "+",
+        "sentence": "Not only is it much more cost effective (you can use regular trash bags rather than Refills at $5 a pop), it is easier to use and clean, and has a larger capacity.",
+        "term": "capacity"
+    },
+    "139": {
+        "id": 139,
+        "polarity": "+",
+        "sentence": "Not only is it much more cost effective (you can use regular trash bags rather than Refills at $5 a pop), it is easier to use and clean, and has a larger capacity.",
+        "term": "use"
+    },
+    "140": {
+        "id": 140,
+        "polarity": "+",
+        "sentence": "Not only is it much more cost effective (you can use regular trash bags rather than Refills at $5 a pop), it is easier to use and clean, and has a larger capacity.",
+        "term": "cost effective"
+    },
+    "141": {
+        "id": 141,
+        "polarity": "-",
+        "sentence": "it can be frustrating and messy when you put that last diaper in before realizing the unit is full.",
+        "term": "unit"
+    },
+    "142": {
+        "id": 142,
+        "polarity": "-",
+        "sentence": "The pluger gets stuck & you have to manually extract the mess.",
+        "term": "pluger"
+    },
+    "143": {
+        "id": 143,
+        "polarity": "-",
+        "sentence": "I registered for this item because of the good reviews it got, however I was not impressed.",
+        "term": "item"
+    },
+    "144": {
+        "id": 144,
+        "polarity": "-",
+        "sentence": "For one thing, The diapers always get jammed in it.",
+        "term": "diapers"
+    },
+    "145": {
+        "id": 145,
+        "polarity": "-",
+        "sentence": "The product also leaves a faint smell in the room.  ",
+        "term": "product"
+    },
+    "146": {
+        "id": 146,
+        "polarity": "-",
+        "sentence": "All in all, the Diaper Champ serves its purpose, but it does not live up to its good reviews.",
+        "term": "Diaper Champ"
+    },
+    "147": {
+        "id": 147,
+        "polarity": "+",
+        "sentence": "I got the diaper champ because of the great reviews as well as the fact that you can use regular garbage bags.",
+        "term": "diaper champ"
+    },
+    "148": {
+        "id": 148,
+        "polarity": "+",
+        "sentence": "It works great.",
+        "term": "works"
+    },
+    "149": {
+        "id": 149,
+        "polarity": "+",
+        "sentence": "I can't smell anything (and believe me, this is quite something with my baby).",
+        "term": "smell"
+    },
+    "150": {
+        "id": 150,
+        "polarity": "+",
+        "sentence": "I ended up buying one for upstairs and one for downstairs because it works so well and because I change him so often downstairs.",
+        "term": "works"
+    },
+    "151": {
+        "id": 151,
+        "polarity": "+",
+        "sentence": "We have been using our Diaper Champ for almost 14 months now and we are very happy with it.",
+        "term": "Diaper Champ"
+    },
+    "152": {
+        "id": 152,
+        "polarity": "+",
+        "sentence": "It sits in the corner of our bathroom and we have never had any problems with odors at all (and we live in the damp and humid South, where odors of all kinds are generally rife).",
+        "term": "odors"
+    },
+    "153": {
+        "id": 153,
+        "polarity": "+",
+        "sentence": "It is easy to install and change the ordinary trash bags, easy to clean, and most important, easy to use one handed - just insert folded dirty diaper and flip the handle.",
+        "term": "clean"
+    },
+    "154": {
+        "id": 154,
+        "polarity": "+",
+        "sentence": "It is easy to install and change the ordinary trash bags, easy to clean, and most important, easy to use one handed - just insert folded dirty diaper and flip the handle.",
+        "term": "use"
+    },
+    "155": {
+        "id": 155,
+        "polarity": "+",
+        "sentence": "It is easy to install and change the ordinary trash bags, easy to clean, and most important, easy to use one handed - just insert folded dirty diaper and flip the handle.",
+        "term": "change"
+    },
+    "156": {
+        "id": 156,
+        "polarity": "+",
+        "sentence": "It is easy to install and change the ordinary trash bags, easy to clean, and most important, easy to use one handed - just insert folded dirty diaper and flip the handle.",
+        "term": "install"
+    },
+    "157": {
+        "id": 157,
+        "polarity": "+",
+        "sentence": "We have never had any problems with anything like loose wipes getting stuck (we always wrap them in the dirty diaper).",
+        "term": "wipes"
+    },
+    "158": {
+        "id": 158,
+        "polarity": "+",
+        "sentence": "It is a bit difficult to get the unit open (the advice to take it slowly is sound), but now that our son is walking and exploring, I consider this a positive attribute!",
+        "term": "open"
+    },
+    "159": {
+        "id": 159,
+        "polarity": "+",
+        "sentence": "Update (March 2005): My son has been out of diapers for almost 2 years now, but the Diaper Champ hung in there till the very end - easy to use, no problems with odors, and one of the best bargains among all of the paraphernalia required for the modern baby :-)",
+        "term": "bargins"
+    },
+    "160": {
+        "id": 160,
+        "polarity": "+",
+        "sentence": "Update (March 2005): My son has been out of diapers for almost 2 years now, but the Diaper Champ hung in there till the very end - easy to use, no problems with odors, and one of the best bargains among all of the paraphernalia required for the modern baby :-)",
+        "term": "use"
+    },
+    "161": {
+        "id": 161,
+        "polarity": "+",
+        "sentence": "Update (March 2005): My son has been out of diapers for almost 2 years now, but the Diaper Champ hung in there till the very end - easy to use, no problems with odors, and one of the best bargains among all of the paraphernalia required for the modern baby :-)",
+        "term": "odors"
+    },
+    "162": {
+        "id": 162,
+        "polarity": "+",
+        "sentence": "I decided to go with the Diaper Champ rather than the more popular Diaper Genie, because I didn't like the idea of having to buy special bags.",
+        "term": "Diaper Champ"
+    },
+    "163": {
+        "id": 163,
+        "polarity": "-",
+        "sentence": " Too costly and not efficient if you ask me!",
+        "term": "costly"
+    },
+    "164": {
+        "id": 164,
+        "polarity": "+",
+        "sentence": "THIS PRODUCT IS A LIFESAVER!!",
+        "term": "PRODUCT"
+    },
+    "165": {
+        "id": 165,
+        "polarity": "+",
+        "sentence": "I HAVE NEVER HAD AN ODOR PROBLEM!",
+        "term": "ODOR"
+    },
+    "166": {
+        "id": 166,
+        "polarity": "+",
+        "sentence": "No one has ever come to my house and noticed 'diaper odor.'",
+        "term": "odor"
+    },
+    "167": {
+        "id": 167,
+        "polarity": "+",
+        "sentence": "In fact, people who have been present while I changed my almost 3 month old son's diaper have been amazed at how the very 'potent' smell of the dirty diaper seems to disappear once I dispose of the diaper in the Diaper Champ.",
+        "term": "Diaper Champ"
+    },
+    "168": {
+        "id": 168,
+        "polarity": "-",
+        "sentence": "2. YOU STILL HAVE TO CLEAN THE THING!!",
+        "term": "CLEAN"
+    },
+    "169": {
+        "id": 169,
+        "polarity": "+",
+        "sentence": "SIMPLE AND IT WORKS!",
+        "term": "WORKS"
+    },
+    "170": {
+        "id": 170,
+        "polarity": "-",
+        "sentence": "Also, for those that complain that the Diaper Champ isn't as effective as time passes, keep the following in mind: AS BABIES GET OLDER, THEIR DIETS CHANGES (aka SOLID FOODS!) AND SO DOES THE SMELL OF THEIR DIAPERS!",
+        "term": "Diaper Champ"
+    },
+    "171": {
+        "id": 171,
+        "polarity": "+",
+        "sentence": "All in all, this product is definitely one I would recommend and certainly worth the very reasonable price.",
+        "term": "price"
+    },
+    "172": {
+        "id": 172,
+        "polarity": "+",
+        "sentence": "All in all, this product is definitely one I would recommend and certainly worth the very reasonable price.",
+        "term": "product"
+    },
+    "173": {
+        "id": 173,
+        "polarity": "+",
+        "sentence": "I love the diaper champ, it is really easy to use and since you can use regular garbage bags it doesn't cost an arm and a leg for refills.",
+        "term": "refills"
+    },
+    "174": {
+        "id": 174,
+        "polarity": "+",
+        "sentence": "I love the diaper champ, it is really easy to use and since you can use regular garbage bags it doesn't cost an arm and a leg for refills.",
+        "term": "use"
+    },
+    "175": {
+        "id": 175,
+        "polarity": "+",
+        "sentence": "I love the diaper champ, it is really easy to use and since you can use regular garbage bags it doesn't cost an arm and a leg for refills.",
+        "term": "diaper champ"
+    },
+    "176": {
+        "id": 176,
+        "polarity": "-",
+        "sentence": "The only downside to this is that it can get pretty stinky long before the pail is full.",
+        "term": "pail"
+    },
+    "177": {
+        "id": 177,
+        "polarity": "-",
+        "sentence": "I wash ours out with lysol each time I empty it, and that helps, but when its hot out- well, just be prepared.",
+        "term": "pail"
+    },
+    "178": {
+        "id": 178,
+        "polarity": "-",
+        "sentence": "That's when it went from Oderless, to ODEROUS!",
+        "term": "ODEROUS"
+    },
+    "179": {
+        "id": 179,
+        "polarity": "-",
+        "sentence": "It still smelled.",
+        "term": "semelled"
+    },
+    "180": {
+        "id": 180,
+        "polarity": "-",
+        "sentence": "Then it started to smell whether there were diapers in it or not.",
+        "term": "smell"
+    },
+    "181": {
+        "id": 181,
+        "polarity": "+",
+        "sentence": "Using your own bags is much cheaper and convenient.",
+        "term": "bags"
+    },
+    "182": {
+        "id": 182,
+        "polarity": "+",
+        "sentence": "The height is a more convenient reach than others, where you have to hunch over.",
+        "term": "height"
+    },
+    "183": {
+        "id": 183,
+        "polarity": "+",
+        "sentence": "Its stable, so a curious toddler can't easily tip it over.",
+        "term": "stable"
+    },
+    "184": {
+        "id": 184,
+        "polarity": "-",
+        "sentence": "CONS - Difficult to open to change bag-twice my bags caught on a sharp edge inside and snagged as I was pulling out-leaving dirty diapers all over the floor.",
+        "term": "open"
+    },
+    "185": {
+        "id": 185,
+        "polarity": "-",
+        "sentence": "Also, diapers tend to stay in the middle, causing the pail to get backed up.",
+        "term": "diapers"
+    },
+    "186": {
+        "id": 186,
+        "polarity": "-",
+        "sentence": "Diapers can get stuck when turned around if you don't tightly wrap them first. ",
+        "term": "Diapers"
+    },
+    "187": {
+        "id": 187,
+        "polarity": "+",
+        "sentence": "I wanted this product because i didn't have to buy special bags for it and it also came highly recommended.",
+        "term": "product"
+    },
+    "188": {
+        "id": 188,
+        "polarity": "-",
+        "sentence": "The only problem i have is with the handle you use to open the top compartment.",
+        "term": "open"
+    },
+    "189": {
+        "id": 189,
+        "polarity": "-",
+        "sentence": "The way you have to shove your fingers under it and pull is just too tight.",
+        "term": "pull"
+    },
+    "190": {
+        "id": 190,
+        "polarity": "-",
+        "sentence": "I can't tell you how many times i've chipped a nail or hurt my fingertips because of the force needed to open it.",
+        "term": "open"
+    }
+}

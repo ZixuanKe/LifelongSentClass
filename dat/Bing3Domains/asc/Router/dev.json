@@ -1,0 +1,188 @@
+{
+    "245": {
+        "id": 245,
+        "polarity": "+",
+        "sentence": " It is a wonderful little router .",
+        "term": "router"
+    },
+    "246": {
+        "id": 246,
+        "polarity": "+",
+        "sentence": " Connection speed to the other 2 machines seems awesome - much quicker than the router I replaced , and when combined with the simplicity of the Valet Plus , this makes for a great product .",
+        "term": " product"
+    },
+    "247": {
+        "id": 247,
+        "polarity": "+",
+        "sentence": " Connection speed to the other 2 machines seems awesome - much quicker than the router I replaced , and when combined with the simplicity of the Valet Plus , this makes for a great product .",
+        "term": "Connection speed"
+    },
+    "248": {
+        "id": 248,
+        "polarity": "+",
+        "sentence": " This router is the best I have used to date .",
+        "term": "router"
+    },
+    "249": {
+        "id": 249,
+        "polarity": "+",
+        "sentence": " However , if speed , reliability , and power to transmit a signal across the house are your requirements , then this router will do the job .",
+        "term": " transmit a signal"
+    },
+    "250": {
+        "id": 250,
+        "polarity": "+",
+        "sentence": " However , if speed , reliability , and power to transmit a signal across the house are your requirements , then this router will do the job .",
+        "term": " reliability"
+    },
+    "251": {
+        "id": 251,
+        "polarity": "+",
+        "sentence": " However , if speed , reliability , and power to transmit a signal across the house are your requirements , then this router will do the job .",
+        "term": "speed"
+    },
+    "252": {
+        "id": 252,
+        "polarity": "+",
+        "sentence": " Worked great until the new firmware that installs SecureSpot .",
+        "term": "Worked"
+    },
+    "253": {
+        "id": 253,
+        "polarity": "-",
+        "sentence": " Worked great until the new firmware that installs SecureSpot .",
+        "term": " firmware"
+    },
+    "254": {
+        "id": 254,
+        "polarity": "-",
+        "sentence": " When the SecureSpot free trial finishes , they ask you to buy it and when you do n't , it stops working well .",
+        "term": "working"
+    },
+    "255": {
+        "id": 255,
+        "polarity": "-",
+        "sentence": " Even when you disable SecureSpot completely , it will upon reboot keep saying your computer is new even when it is n't and force you to tell it that your computer is authorized .",
+        "term": "SecureSpot"
+    },
+    "256": {
+        "id": 256,
+        "polarity": "-",
+        "sentence": " You ca n't , that `` upgrade '' is irreversible .",
+        "term": "upgrade"
+    },
+    "257": {
+        "id": 257,
+        "polarity": "-",
+        "sentence": " D-Link got greedy and in trying to sell you their pathetic extras made the product unusable .",
+        "term": "D-Link"
+    },
+    "258": {
+        "id": 258,
+        "polarity": "-",
+        "sentence": " D-Link got greedy and in trying to sell you their pathetic extras made the product unusable .",
+        "term": " product"
+    },
+    "259": {
+        "id": 259,
+        "polarity": "+",
+        "sentence": " Setup was easy -LRB- Windows XP wired , Windows 7 Professional wifi -RRB- .",
+        "term": "Setup"
+    },
+    "260": {
+        "id": 260,
+        "polarity": "+",
+        "sentence": " I followed the easy instructions in the manual , and once online at the router 's login , there is a setup Wizard which will work with your OS if you choose to use it .",
+        "term": "instructions"
+    },
+    "261": {
+        "id": 261,
+        "polarity": "+",
+        "sentence": " I just set it up manually , which is very easy .",
+        "term": "set"
+    },
+    "262": {
+        "id": 262,
+        "polarity": "+",
+        "sentence": " The router recognized my other wifi devices easily , and further setup was a breeze .",
+        "term": "setup"
+    },
+    "263": {
+        "id": 263,
+        "polarity": "-",
+        "sentence": " My Linksys froze for 30 minutes or longer when applying changes .",
+        "term": "Linksys"
+    },
+    "264": {
+        "id": 264,
+        "polarity": "+",
+        "sentence": " I 'm very happy with this router , and would recommend it .",
+        "term": "router"
+    },
+    "265": {
+        "id": 265,
+        "polarity": "+",
+        "sentence": " Update : I 've been using this router for 3 months and it 's still working very well - wifi remains strong and consistant .",
+        "term": "working"
+    },
+    "266": {
+        "id": 266,
+        "polarity": "+",
+        "sentence": " I remain extremely pleased with this router !",
+        "term": "router"
+    },
+    "267": {
+        "id": 267,
+        "polarity": "+",
+        "sentence": " It works fine but performance is no better than my old SMC G 54mbs .",
+        "term": "works"
+    },
+    "268": {
+        "id": 268,
+        "polarity": "-",
+        "sentence": " It works fine but performance is no better than my old SMC G 54mbs .",
+        "term": " performance"
+    },
+    "269": {
+        "id": 269,
+        "polarity": "-",
+        "sentence": " First thing I tested was the speed , and I have to say it was abysmal .",
+        "term": "speed"
+    },
+    "270": {
+        "id": 270,
+        "polarity": "-",
+        "sentence": " Hooked up to the D-Link extreme N , connected speed dropped to 18mbps and wireless down to 8mbps .",
+        "term": "speed"
+    },
+    "271": {
+        "id": 271,
+        "polarity": "+",
+        "sentence": " At first I dealt with this as 18mbps was still REALLY fast .",
+        "term": "fast"
+    },
+    "272": {
+        "id": 272,
+        "polarity": "-",
+        "sentence": " The next day , I turned on my laptop and it connected to the network , but no internet connection .",
+        "term": "internet connection"
+    },
+    "273": {
+        "id": 273,
+        "polarity": "+",
+        "sentence": " This is a good product .",
+        "term": "product"
+    },
+    "274": {
+        "id": 274,
+        "polarity": "+",
+        "sentence": " Not cheap but not expensive either .",
+        "term": " expensive"
+    },
+    "275": {
+        "id": 275,
+        "polarity": "-",
+        "sentence": " Not cheap but not expensive either .",
+        "term": "cheap"
+    }
+}

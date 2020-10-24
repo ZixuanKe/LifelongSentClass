@@ -1,0 +1,1472 @@
+{
+    "0": {
+        "id": 0,
+        "polarity": "+",
+        "sentence": " Affordable price , reliable item and excellent customer service .",
+        "term": " customer service"
+    },
+    "1": {
+        "id": 1,
+        "polarity": "+",
+        "sentence": " Affordable price , reliable item and excellent customer service .",
+        "term": "price"
+    },
+    "2": {
+        "id": 2,
+        "polarity": "+",
+        "sentence": " Affordable price , reliable item and excellent customer service .",
+        "term": " item"
+    },
+    "3": {
+        "id": 3,
+        "polarity": "+",
+        "sentence": " I did have problem connecting my laptop to the internet but there customer service representative was very helpful and patient in walking me through all the steps .",
+        "term": "customer service"
+    },
+    "4": {
+        "id": 4,
+        "polarity": "+",
+        "sentence": " I am above average with technical knowledge but it is easy enough for the beginner to set up .",
+        "term": "set up"
+    },
+    "5": {
+        "id": 5,
+        "polarity": "+",
+        "sentence": " Our connection and speed immediately soared once it was online and our network was set up .",
+        "term": " connection"
+    },
+    "6": {
+        "id": 6,
+        "polarity": "+",
+        "sentence": " Our connection and speed immediately soared once it was online and our network was set up .",
+        "term": "speed"
+    },
+    "7": {
+        "id": 7,
+        "polarity": "+",
+        "sentence": " PLEASE A firmware upgrade that enables all the usb drives attached to this wireless router to be seen in the actual networked local computer desktop portals AND be able to drag and drop , upload , attach , etc. .",
+        "term": "firmware upgrade"
+    },
+    "8": {
+        "id": 8,
+        "polarity": "-",
+        "sentence": " WITHOUT having to go through the netgear genie tool through the ISP and taking all the extra steps would be far better .",
+        "term": "netgear genie tool"
+    },
+    "9": {
+        "id": 9,
+        "polarity": "+",
+        "sentence": " I was pleasantly surprised that customer service was able to step me thru manual setup .",
+        "term": "customer service"
+    },
+    "10": {
+        "id": 10,
+        "polarity": "+",
+        "sentence": " Have n't setup any advanced features , but the signal strength and speed are roughly twice what I had with old router .",
+        "term": "signal strength"
+    },
+    "11": {
+        "id": 11,
+        "polarity": "+",
+        "sentence": " Have n't setup any advanced features , but the signal strength and speed are roughly twice what I had with old router .",
+        "term": " speed"
+    },
+    "12": {
+        "id": 12,
+        "polarity": "+",
+        "sentence": " It works , good customer service -LRB- so far -RRB- = 4 stars .",
+        "term": "customer service"
+    },
+    "13": {
+        "id": 13,
+        "polarity": "-",
+        "sentence": " Sometimes the system would hang , so I would have to restart the router , then get going again .",
+        "term": " hang"
+    },
+    "14": {
+        "id": 14,
+        "polarity": "-",
+        "sentence": " Sometimes the system would hang , so I would have to restart the router , then get going again .",
+        "term": "router"
+    },
+    "15": {
+        "id": 15,
+        "polarity": "+",
+        "sentence": " Oops , easy to go online , and adjust it there .",
+        "term": " adjust"
+    },
+    "16": {
+        "id": 16,
+        "polarity": "+",
+        "sentence": " Oops , easy to go online , and adjust it there .",
+        "term": "go online"
+    },
+    "17": {
+        "id": 17,
+        "polarity": "+",
+        "sentence": " From the Belkin my reception increased over 25 % .",
+        "term": "reception"
+    },
+    "18": {
+        "id": 18,
+        "polarity": "-",
+        "sentence": " It is tall , so I ended up laying it on its side .",
+        "term": "tall"
+    },
+    "19": {
+        "id": 19,
+        "polarity": "+",
+        "sentence": " Connection to the device is so easy .",
+        "term": "Connection"
+    },
+    "20": {
+        "id": 20,
+        "polarity": "+",
+        "sentence": " The D-Link DIR-655 Extreme N Wireless Router works fine as a 802.11 n wireless router .",
+        "term": "D-Link DIR-655 Extreme N Wireless Router"
+    },
+    "21": {
+        "id": 21,
+        "polarity": "-",
+        "sentence": " Shareport is not compatible with Mac OS .",
+        "term": "Shareport"
+    },
+    "22": {
+        "id": 22,
+        "polarity": "-",
+        "sentence": " D-Link does not provide Mac support for the adapter , however I was able to find a free third-party driver that is compatible .",
+        "term": "Mac support"
+    },
+    "23": {
+        "id": 23,
+        "polarity": "-",
+        "sentence": " The router does n't support port translation , e.g forward port 8080 in the outside to port 80 in the inside .",
+        "term": "port translation"
+    },
+    "24": {
+        "id": 24,
+        "polarity": "-",
+        "sentence": " Nor there is a clear manual offered by the manufacturer or by Qwest , Qwest does provide some info , but nothing about what is not intuitive enough in the screen .",
+        "term": "manual"
+    },
+    "25": {
+        "id": 25,
+        "polarity": "-",
+        "sentence": " -LRB- yeah , like you 'll use a new , very expensive dsl modem as dumb bridge -RRB- I returned the Item and got a linksys dsl modem instead .",
+        "term": "dsl modem"
+    },
+    "26": {
+        "id": 26,
+        "polarity": "-",
+        "sentence": " When I bought the third one , I thought I can give D-link one more try , but now I regret my decision .",
+        "term": "D-link"
+    },
+    "27": {
+        "id": 27,
+        "polarity": "-",
+        "sentence": " The router failed today -LRB- completely dead -RRB- , when I need to work from home due to heavy snow !",
+        "term": "router"
+    },
+    "28": {
+        "id": 28,
+        "polarity": "+",
+        "sentence": " With the small cost it packs a powerful wireless punch",
+        "term": " wireless punch"
+    },
+    "29": {
+        "id": 29,
+        "polarity": "+",
+        "sentence": " With the small cost it packs a powerful wireless punch",
+        "term": "cost"
+    },
+    "30": {
+        "id": 30,
+        "polarity": "+",
+        "sentence": " Setup was very easy .",
+        "term": "Setup"
+    },
+    "31": {
+        "id": 31,
+        "polarity": "-",
+        "sentence": " This router does drop every once in a while , but not like the old router did every hour or so !",
+        "term": "router"
+    },
+    "32": {
+        "id": 32,
+        "polarity": "+",
+        "sentence": " The USB port on the back is a nice feature .",
+        "term": "USB port"
+    },
+    "33": {
+        "id": 33,
+        "polarity": "+",
+        "sentence": " The USB port on the back is a nice feature .",
+        "term": " feature"
+    },
+    "34": {
+        "id": 34,
+        "polarity": "-",
+        "sentence": " The data rate over the network storage is rather slow , but I only use it for occasional backups so it does n't bother me too much .",
+        "term": "data rate"
+    },
+    "35": {
+        "id": 35,
+        "polarity": "+",
+        "sentence": " In all I 'd say this is a decent router for the money .",
+        "term": "router"
+    },
+    "36": {
+        "id": 36,
+        "polarity": "+",
+        "sentence": " My house is small , so it 's hard to judge the real strenght of the product through a lot of walls , but in my house the product worked perfectly in all rooms and corners , with no signal interruptions .",
+        "term": " signal interruptions"
+    },
+    "37": {
+        "id": 37,
+        "polarity": "+",
+        "sentence": " My house is small , so it 's hard to judge the real strenght of the product through a lot of walls , but in my house the product worked perfectly in all rooms and corners , with no signal interruptions .",
+        "term": "product"
+    },
+    "38": {
+        "id": 38,
+        "polarity": "+",
+        "sentence": " The model is also very clean and nice , and the software is very user-friendly .",
+        "term": " software"
+    },
+    "39": {
+        "id": 39,
+        "polarity": "+",
+        "sentence": " The model is also very clean and nice , and the software is very user-friendly .",
+        "term": "model"
+    },
+    "40": {
+        "id": 40,
+        "polarity": "+",
+        "sentence": " These were only my first week impressions but , until now , I strongly recommend this product and I 'm very satisfied with it .",
+        "term": "product"
+    },
+    "41": {
+        "id": 41,
+        "polarity": "-",
+        "sentence": " Technical support rude and unhelpful .",
+        "term": "Technical support"
+    },
+    "42": {
+        "id": 42,
+        "polarity": "+",
+        "sentence": " The D-Link has a ton of features including USB printer sharing , two wireless networks -LRB- one not connected to the LAN -RRB- , and a really comprehensive settings menu .",
+        "term": " menu"
+    },
+    "43": {
+        "id": 43,
+        "polarity": "+",
+        "sentence": " The D-Link has a ton of features including USB printer sharing , two wireless networks -LRB- one not connected to the LAN -RRB- , and a really comprehensive settings menu .",
+        "term": "printer sharing"
+    },
+    "44": {
+        "id": 44,
+        "polarity": "+",
+        "sentence": " I took a chance with this new product and am pleased , except in six months it will cost half of what I paid , but that 's the price for current state of the art .",
+        "term": " price"
+    },
+    "45": {
+        "id": 45,
+        "polarity": "+",
+        "sentence": " I took a chance with this new product and am pleased , except in six months it will cost half of what I paid , but that 's the price for current state of the art .",
+        "term": "product"
+    },
+    "46": {
+        "id": 46,
+        "polarity": "+",
+        "sentence": " Piece of cake to set up .",
+        "term": "set up"
+    },
+    "47": {
+        "id": 47,
+        "polarity": "+",
+        "sentence": " No dropouts , good signal strength all over my three story house -LRB- unit is located on the top floor -RRB- and very user friendly in the setup and security aspects .",
+        "term": "signal strength"
+    },
+    "48": {
+        "id": 48,
+        "polarity": "+",
+        "sentence": " No dropouts , good signal strength all over my three story house -LRB- unit is located on the top floor -RRB- and very user friendly in the setup and security aspects .",
+        "term": " security"
+    },
+    "49": {
+        "id": 49,
+        "polarity": "+",
+        "sentence": " No dropouts , good signal strength all over my three story house -LRB- unit is located on the top floor -RRB- and very user friendly in the setup and security aspects .",
+        "term": " setup"
+    },
+    "50": {
+        "id": 50,
+        "polarity": "+",
+        "sentence": " I would n't mind having an external adjustable antenna , but it does fine as is and the speed on the bottom floor of the house is much improved .",
+        "term": "speed"
+    },
+    "51": {
+        "id": 51,
+        "polarity": "+",
+        "sentence": " The set-up went fairly smooth with netgears online knowledge base .",
+        "term": "set-up"
+    },
+    "52": {
+        "id": 52,
+        "polarity": "-",
+        "sentence": " I started accessing and transfering files to find it to be extremely SLOW .",
+        "term": "SLOW"
+    },
+    "53": {
+        "id": 53,
+        "polarity": "-",
+        "sentence": " So slow , that it is not useable for files of any size or back-ups .",
+        "term": " useable"
+    },
+    "54": {
+        "id": 54,
+        "polarity": "-",
+        "sentence": " So slow , that it is not useable for files of any size or back-ups .",
+        "term": "slow"
+    },
+    "55": {
+        "id": 55,
+        "polarity": "+",
+        "sentence": " I verified the signal strengths with a laptop and there was no problem there .",
+        "term": "signal strengths"
+    },
+    "56": {
+        "id": 56,
+        "polarity": "-",
+        "sentence": " Bottom Line - Do n't buy this for the USB function .",
+        "term": "USB function"
+    },
+    "57": {
+        "id": 57,
+        "polarity": "+",
+        "sentence": " The set up was pretty simple , basically a matter of hooking everything up and rebooting your system at which time you 're taken to the D-Link website to finalize how your setup will be .",
+        "term": "set up"
+    },
+    "58": {
+        "id": 58,
+        "polarity": "+",
+        "sentence": " However , a phone call to the D-Link support crew was answered in a reasonable amount of time and they guided me through the process without a problem .",
+        "term": "D-Link support crew"
+    },
+    "59": {
+        "id": 59,
+        "polarity": "+",
+        "sentence": " As of this review I am using the router and it is working very nicely .",
+        "term": "router"
+    },
+    "60": {
+        "id": 60,
+        "polarity": "+",
+        "sentence": " As of this review I am using the router and it is working very nicely .",
+        "term": " working"
+    },
+    "61": {
+        "id": 61,
+        "polarity": "+",
+        "sentence": " As a final comment I am happy with the D-Link DIR-655 so far and my home wireless connections are smooth whether I 'm using my ASUS netbook or Apple iPad .",
+        "term": "D-Link DIR-655"
+    },
+    "62": {
+        "id": 62,
+        "polarity": "+",
+        "sentence": " As a final comment I am happy with the D-Link DIR-655 so far and my home wireless connections are smooth whether I 'm using my ASUS netbook or Apple iPad .",
+        "term": " connections"
+    },
+    "63": {
+        "id": 63,
+        "polarity": "+",
+        "sentence": " Installation was easy as advertised .",
+        "term": "Installation"
+    },
+    "64": {
+        "id": 64,
+        "polarity": "+",
+        "sentence": " Made call which was immediately answered by very helpful , competent tech .",
+        "term": "tech"
+    },
+    "65": {
+        "id": 65,
+        "polarity": "+",
+        "sentence": " Best tech support I have ever experienced .",
+        "term": "tech support"
+    },
+    "66": {
+        "id": 66,
+        "polarity": "+",
+        "sentence": " Amazing speed and easy to set up .",
+        "term": " set up"
+    },
+    "67": {
+        "id": 67,
+        "polarity": "+",
+        "sentence": " Amazing speed and easy to set up .",
+        "term": "speed"
+    },
+    "68": {
+        "id": 68,
+        "polarity": "+",
+        "sentence": " Very good range and seemed to be better in the horizontal position .",
+        "term": "range"
+    },
+    "69": {
+        "id": 69,
+        "polarity": "+",
+        "sentence": " I get complete coverage everywhere in my house -LRB- about 3500 sq ft -RRB- and it 's located in the corner of my basement .",
+        "term": "coverage"
+    },
+    "70": {
+        "id": 70,
+        "polarity": "+",
+        "sentence": " The set up for this product was a breeze .",
+        "term": "set up"
+    },
+    "71": {
+        "id": 71,
+        "polarity": "+",
+        "sentence": " Surprisingly , everything seems to work well .",
+        "term": "work"
+    },
+    "72": {
+        "id": 72,
+        "polarity": "+",
+        "sentence": " My 2 XBoxs , Ipod , Iphone , Ipad are all catching a nice strong signal .",
+        "term": "signal"
+    },
+    "73": {
+        "id": 73,
+        "polarity": "-",
+        "sentence": " Addition on 4\\/14\\/2011 \\*\\*\\* I 've just had the 2nd router of this model go bad inside of 5 months .",
+        "term": "router"
+    },
+    "74": {
+        "id": 74,
+        "polarity": "-",
+        "sentence": " Last night I needed to reset the router .",
+        "term": "reset"
+    },
+    "75": {
+        "id": 75,
+        "polarity": "-",
+        "sentence": " I unplugged it , plugged it back in , and the power supply failed .",
+        "term": "power supply"
+    },
+    "76": {
+        "id": 76,
+        "polarity": "-",
+        "sentence": " This model router has now failed me twice in the short span of time mentioned .",
+        "term": "model router"
+    },
+    "77": {
+        "id": 77,
+        "polarity": "-",
+        "sentence": " Avoid this model like the plague .",
+        "term": "model"
+    },
+    "78": {
+        "id": 78,
+        "polarity": "-",
+        "sentence": " However , some of the latest bandwidth hogging software was starting to bog it down , to the point where I was having to reset it and my computer far too often in order to reclaim a dropped Internet connection .",
+        "term": " Internet connection"
+    },
+    "79": {
+        "id": 79,
+        "polarity": "-",
+        "sentence": " However , some of the latest bandwidth hogging software was starting to bog it down , to the point where I was having to reset it and my computer far too often in order to reclaim a dropped Internet connection .",
+        "term": "bandwidth hogging software"
+    },
+    "80": {
+        "id": 80,
+        "polarity": "+",
+        "sentence": " PROS : So off I went to get a faster router , and this one did the job I bought it for admirably .",
+        "term": "router"
+    },
+    "81": {
+        "id": 81,
+        "polarity": "+",
+        "sentence": " Set up was smooth , and both wired and wireless devices worked very well on it .",
+        "term": "Set up"
+    },
+    "82": {
+        "id": 82,
+        "polarity": "+",
+        "sentence": " My blu-ray player and WD Live TV box normally lean back , smile , and light up a smoke after a good firmware upgrade , and perform well forever thereafter .",
+        "term": "perform"
+    },
+    "83": {
+        "id": 83,
+        "polarity": "-",
+        "sentence": " halfway through the firmware upgrade progress bar , the infamous browser `` Page not found '' screen replaced most of the router 's interface .",
+        "term": "firmware upgrade"
+    },
+    "84": {
+        "id": 84,
+        "polarity": "-",
+        "sentence": " The network was down , the Internet connection was gone , and the router was completely unresponsive .",
+        "term": " Internet connection"
+    },
+    "85": {
+        "id": 85,
+        "polarity": "-",
+        "sentence": " The network was down , the Internet connection was gone , and the router was completely unresponsive .",
+        "term": " router"
+    },
+    "86": {
+        "id": 86,
+        "polarity": "-",
+        "sentence": " The network was down , the Internet connection was gone , and the router was completely unresponsive .",
+        "term": "network"
+    },
+    "87": {
+        "id": 87,
+        "polarity": "-",
+        "sentence": " After that , the router would never even respond to its own internal browser link .",
+        "term": "router"
+    },
+    "88": {
+        "id": 88,
+        "polarity": "+",
+        "sentence": " I was pleased with its operation before the attempted firmware update .",
+        "term": "operation"
+    },
+    "89": {
+        "id": 89,
+        "polarity": "-",
+        "sentence": " I was pleased with its operation before the attempted firmware update .",
+        "term": " firmware update"
+    },
+    "90": {
+        "id": 90,
+        "polarity": "-",
+        "sentence": " In the end I would recommend that you go with a different router , If you decide to get this one , either never do a firmware update , or do it right away so that if the router fails , you are within the easy exchange period .",
+        "term": "firmware update"
+    },
+    "91": {
+        "id": 91,
+        "polarity": "+",
+        "sentence": " In the end I would recommend that you go with a different router , If you decide to get this one , either never do a firmware update , or do it right away so that if the router fails , you are within the easy exchange period .",
+        "term": " exchange period"
+    },
+    "92": {
+        "id": 92,
+        "polarity": "+",
+        "sentence": " No problems with any of those connections .",
+        "term": "connections"
+    },
+    "93": {
+        "id": 93,
+        "polarity": "+",
+        "sentence": " The ability to connect an external hard drive to the router is a nice feature when backing up from my various computers .",
+        "term": "connect"
+    },
+    "94": {
+        "id": 94,
+        "polarity": "+",
+        "sentence": " The ability to connect an external hard drive to the router is a nice feature when backing up from my various computers .",
+        "term": " feature"
+    },
+    "95": {
+        "id": 95,
+        "polarity": "+",
+        "sentence": " I am a novice at this stuff but it was extremely easy to set the router up .",
+        "term": "set"
+    },
+    "96": {
+        "id": 96,
+        "polarity": "+",
+        "sentence": " So far the router has worked well .",
+        "term": "worked"
+    },
+    "97": {
+        "id": 97,
+        "polarity": "-",
+        "sentence": " My only complaint to date is that it dropped the security settings once and I am not sure why ; do n't know if it was something that I did or if it was a malfunction of the router .",
+        "term": "security settings"
+    },
+    "98": {
+        "id": 98,
+        "polarity": "+",
+        "sentence": " After much frustration , I finally upgraded the firmware to the latest DD-WRT firmware at DD-WRT 's website and it resolved all my problems .",
+        "term": "DD-WRT firmware"
+    },
+    "99": {
+        "id": 99,
+        "polarity": "+",
+        "sentence": " You should use the firmware on the DD-WRT website instead .",
+        "term": "firmware"
+    },
+    "100": {
+        "id": 100,
+        "polarity": "+",
+        "sentence": " The first 2 routers worked good for years .",
+        "term": "routers"
+    },
+    "101": {
+        "id": 101,
+        "polarity": "-",
+        "sentence": " The customer support is very rude .",
+        "term": "customer support"
+    },
+    "102": {
+        "id": 102,
+        "polarity": "-",
+        "sentence": " Hopless product , Hopeless Company and Hopeless Customer Support .",
+        "term": " Customer Support"
+    },
+    "103": {
+        "id": 103,
+        "polarity": "-",
+        "sentence": " Hopless product , Hopeless Company and Hopeless Customer Support .",
+        "term": "product"
+    },
+    "104": {
+        "id": 104,
+        "polarity": "-",
+        "sentence": " Hopless product , Hopeless Company and Hopeless Customer Support .",
+        "term": " Company"
+    },
+    "105": {
+        "id": 105,
+        "polarity": "+",
+        "sentence": " The Netgear Router was simple to set up and has worked well for the last couple to few months I have had it .",
+        "term": " worked"
+    },
+    "106": {
+        "id": 106,
+        "polarity": "+",
+        "sentence": " The Netgear Router was simple to set up and has worked well for the last couple to few months I have had it .",
+        "term": "set up"
+    },
+    "107": {
+        "id": 107,
+        "polarity": "+",
+        "sentence": " I am very happy with this product and the price was very reasonable given its features and specifications .",
+        "term": " price"
+    },
+    "108": {
+        "id": 108,
+        "polarity": "+",
+        "sentence": " I am very happy with this product and the price was very reasonable given its features and specifications .",
+        "term": "product"
+    },
+    "109": {
+        "id": 109,
+        "polarity": "-",
+        "sentence": " It worked reasonably well for a while , although it frequently was barely able to keep up when I tried to stream movies , which was a big part of the reason I went to a faster router in the first place .",
+        "term": "worked"
+    },
+    "110": {
+        "id": 110,
+        "polarity": "-",
+        "sentence": " The hard drive I had attached to the USB port was sometimes accessible , sometimes not .",
+        "term": "USB port"
+    },
+    "111": {
+        "id": 111,
+        "polarity": "-",
+        "sentence": " Range was comparable to , or possibly slightly worse than the old Linksys router I had been using for years .",
+        "term": "Range"
+    },
+    "112": {
+        "id": 112,
+        "polarity": "-",
+        "sentence": " And finally , in early June , this router stopped broadcasting an internet signal .",
+        "term": "router"
+    },
+    "113": {
+        "id": 113,
+        "polarity": "-",
+        "sentence": " The internal network still functioned , but it would not pass through the internet signal from the cable modem .",
+        "term": "internet signal"
+    },
+    "114": {
+        "id": 114,
+        "polarity": "+",
+        "sentence": " I thought it might possibly be the modem or ISP until I hooked the old trusty Linksys back up to it and it worked fine .",
+        "term": "Linksys"
+    },
+    "115": {
+        "id": 115,
+        "polarity": "-",
+        "sentence": " I bought this set it up and would not connect at wireless N speeds .",
+        "term": "connect"
+    },
+    "116": {
+        "id": 116,
+        "polarity": "-",
+        "sentence": " When I reset it , like unplugging it and plugging it back in , I would get the N speeds 150 mbps the first time it connected and would transfer files at that speed , then usually next time I connected it would drop back to 65 or 52 mbps and stay at these speeds .",
+        "term": "speeds"
+    },
+    "117": {
+        "id": 117,
+        "polarity": "-",
+        "sentence": " Called their support , they did n't have a clue so I returned it and I am looking for something else that will give me 150 mbps .",
+        "term": "support"
+    },
+    "118": {
+        "id": 118,
+        "polarity": "+",
+        "sentence": " Selected it because it looked easy to install .",
+        "term": "install"
+    },
+    "119": {
+        "id": 119,
+        "polarity": "-",
+        "sentence": " Easy enough but it did not work .",
+        "term": "work"
+    },
+    "120": {
+        "id": 120,
+        "polarity": "-",
+        "sentence": " The interface was atrocious ; several elements simply did n't work at all .",
+        "term": "interface"
+    },
+    "121": {
+        "id": 121,
+        "polarity": "+",
+        "sentence": " Worked fine after that .",
+        "term": "Worked"
+    },
+    "122": {
+        "id": 122,
+        "polarity": "+",
+        "sentence": " I have very high praise for the tech support people .",
+        "term": "tech support people"
+    },
+    "123": {
+        "id": 123,
+        "polarity": "+",
+        "sentence": " The device is small and well designed ... I would recomment it highly",
+        "term": " small"
+    },
+    "124": {
+        "id": 124,
+        "polarity": "+",
+        "sentence": " The device is small and well designed ... I would recomment it highly",
+        "term": "device"
+    },
+    "125": {
+        "id": 125,
+        "polarity": "+",
+        "sentence": " The device is small and well designed ... I would recomment it highly",
+        "term": " designed"
+    },
+    "126": {
+        "id": 126,
+        "polarity": "-",
+        "sentence": " Since it would not work as advertised I called support .",
+        "term": "work"
+    },
+    "127": {
+        "id": 127,
+        "polarity": "-",
+        "sentence": " They caused the problem , ie wrong product in the box , the service tech failed to believe what the software said was wrong .",
+        "term": "service tech"
+    },
+    "128": {
+        "id": 128,
+        "polarity": "+",
+        "sentence": " THIS ROUTER IS AWESOM BUT IT WILL ONLY SUPPORT 1 XBOX WE HAVE 3 AND YOU CAN NEVER GET MORE THAN 1 TO HAVE A OPEN NAT TYPE THE OTHERS ARE USUALY MODERATE OR STRICT WHEN I CONTACED SUPPORT THEY WERE VERY NICE AND TRIED THRE BEST TO GET IT WORKING RIGHT BUT TO NO AVAIL BOTTOM LINE IF YOU JUST HAVE A COMPUTER A LAPTOP AND 1 360 YOU WILL BE FINE AND VERY SECURE THIS ROUTER IS WELL WORTH THE MONEY",
+        "term": "ROUTER"
+    },
+    "129": {
+        "id": 129,
+        "polarity": "-",
+        "sentence": " This router gets 1 star from me due to it 's disconnect issue .",
+        "term": "disconnect"
+    },
+    "130": {
+        "id": 130,
+        "polarity": "-",
+        "sentence": " Have the latest firmware but as many others have described , the router will randomly stop working for 5 minutes then work again .",
+        "term": "router"
+    },
+    "131": {
+        "id": 131,
+        "polarity": "-",
+        "sentence": " Paid more than what amazon is currently selling this router at -LRB- price depression due to poor quality no doubt -RRB- and expected to get a good quality product ... these random disconnects kills it for me .",
+        "term": " quality"
+    },
+    "132": {
+        "id": 132,
+        "polarity": "-",
+        "sentence": " Paid more than what amazon is currently selling this router at -LRB- price depression due to poor quality no doubt -RRB- and expected to get a good quality product ... these random disconnects kills it for me .",
+        "term": "price"
+    },
+    "133": {
+        "id": 133,
+        "polarity": "+",
+        "sentence": " Item shipped out quickly , was in good condition , came with easy to use set-up disk ... we have n't had to 're - set ' the router at all so far since it 's delivery , so my wife is no longer giving me the business about losing her wireless internet connection on her laptop ... added security benefits , neighbors no longer hogging signal , well worth the purchase price !",
+        "term": " condition"
+    },
+    "134": {
+        "id": 134,
+        "polarity": "+",
+        "sentence": " Item shipped out quickly , was in good condition , came with easy to use set-up disk ... we have n't had to 're - set ' the router at all so far since it 's delivery , so my wife is no longer giving me the business about losing her wireless internet connection on her laptop ... added security benefits , neighbors no longer hogging signal , well worth the purchase price !",
+        "term": " set-up disk"
+    },
+    "135": {
+        "id": 135,
+        "polarity": "+",
+        "sentence": " Item shipped out quickly , was in good condition , came with easy to use set-up disk ... we have n't had to 're - set ' the router at all so far since it 's delivery , so my wife is no longer giving me the business about losing her wireless internet connection on her laptop ... added security benefits , neighbors no longer hogging signal , well worth the purchase price !",
+        "term": "shipped out"
+    },
+    "136": {
+        "id": 136,
+        "polarity": "-",
+        "sentence": " -LRB- lost internet connection with the router , internet service was restored when the computer was connected directly to the modem -RRB- .",
+        "term": "internet connection"
+    },
+    "137": {
+        "id": 137,
+        "polarity": "-",
+        "sentence": " I guess that `` limited lifetime warranty '' means it may take a lifetime to collect on the warranty .",
+        "term": "warranty"
+    },
+    "138": {
+        "id": 138,
+        "polarity": "-",
+        "sentence": " Bottom line : it did n't work the way it was supposed to so we 're returning it We bought this router for our two computers .",
+        "term": "work"
+    },
+    "139": {
+        "id": 139,
+        "polarity": "-",
+        "sentence": " I spent 4 hours on that and I could n't connect to the internet .",
+        "term": "connect"
+    },
+    "140": {
+        "id": 140,
+        "polarity": "+",
+        "sentence": " I tried setting the router up with the laptop and it connected easily and hooked me up to the internet in under 15 minutes .",
+        "term": "connected"
+    },
+    "141": {
+        "id": 141,
+        "polarity": "+",
+        "sentence": " When I then moved the wire to the desktop and used the laptop wirelessly , the internet connection was just fine .",
+        "term": "internet connection"
+    },
+    "142": {
+        "id": 142,
+        "polarity": "-",
+        "sentence": " However , SharePort on this new router worked 0 % of the time .",
+        "term": "SharePort"
+    },
+    "143": {
+        "id": 143,
+        "polarity": "+",
+        "sentence": " This is an outstanding product , one that lives up to the PR .",
+        "term": "product"
+    },
+    "144": {
+        "id": 144,
+        "polarity": "+",
+        "sentence": " Valet PLUS is easy to configure , and was set up in about 7 minutes .",
+        "term": "Valet PLUS"
+    },
+    "145": {
+        "id": 145,
+        "polarity": "+",
+        "sentence": " Valet PLUS is easy to configure , and was set up in about 7 minutes .",
+        "term": " configure"
+    },
+    "146": {
+        "id": 146,
+        "polarity": "+",
+        "sentence": " The range is GREAT - upstairs , downstairs , outside , or in a basement - four bars , all the time .",
+        "term": "range"
+    },
+    "147": {
+        "id": 147,
+        "polarity": "+",
+        "sentence": " The set-up is goof-proof , and offers a superior result .",
+        "term": "set-up"
+    },
+    "148": {
+        "id": 148,
+        "polarity": "+",
+        "sentence": " Worked fine .",
+        "term": "Worked"
+    },
+    "149": {
+        "id": 149,
+        "polarity": "-",
+        "sentence": " Especially due to the odd sized plug designed by D-Link .",
+        "term": "plug"
+    },
+    "150": {
+        "id": 150,
+        "polarity": "-",
+        "sentence": " No one sells a 1.2 mm x 2.2 mm sized -LRB- or what ever stupid size it is -RRB- power adapter .",
+        "term": "size"
+    },
+    "151": {
+        "id": 151,
+        "polarity": "+",
+        "sentence": " The software on the router is pretty good .",
+        "term": "software"
+    },
+    "152": {
+        "id": 152,
+        "polarity": "+",
+        "sentence": " It 's easy to use , and it seems feature complete .",
+        "term": "use"
+    },
+    "153": {
+        "id": 153,
+        "polarity": "+",
+        "sentence": " It 's easy to use , and it seems feature complete .",
+        "term": " feature"
+    },
+    "154": {
+        "id": 154,
+        "polarity": "-",
+        "sentence": " The problem with this box is that it reboots several times an hour , if not more frequently .",
+        "term": "reboots"
+    },
+    "155": {
+        "id": 155,
+        "polarity": "-",
+        "sentence": " It takes approximately 20 to 90 seconds to come back online -LRB- I have n't timed it -RRB- , which does n't sound that bad until you get nailed 10 times in one hour -LRB- that 's about as bad as it gets ; sometimes it goes for hours without rebooting -RRB- .",
+        "term": "come back online"
+    },
+    "156": {
+        "id": 156,
+        "polarity": "+",
+        "sentence": " However the setup was easy and the results excellent .",
+        "term": "setup"
+    },
+    "157": {
+        "id": 157,
+        "polarity": "+",
+        "sentence": " I have been dealing with wireless routers and access points for a long time -LRB- most recently with Cisco\\/Linksys -RRB- and this was the easiest most efficient setup I 've ever experienced .",
+        "term": "setup"
+    },
+    "158": {
+        "id": 158,
+        "polarity": "+",
+        "sentence": " And it works great too !",
+        "term": "works"
+    },
+    "159": {
+        "id": 159,
+        "polarity": "+",
+        "sentence": " This device solves the problem nicely .",
+        "term": "device"
+    },
+    "160": {
+        "id": 160,
+        "polarity": "+",
+        "sentence": " Setup is simple and it worked right out of the box .",
+        "term": "Setup"
+    },
+    "161": {
+        "id": 161,
+        "polarity": "+",
+        "sentence": " Speed tests showed that the wireless speeds were comparable to those of my home wireless router when using my home broadband cable modem as input .",
+        "term": "speeds"
+    },
+    "162": {
+        "id": 162,
+        "polarity": "-",
+        "sentence": " Unfortunately my Verizon 3G signal strength where I live is very weak -LRB- 1-2 bars -RRB- so I could n't get much more than 1 Mbps download speed but I will test this again when I am in a location with decent signal strength .",
+        "term": "signal strength"
+    },
+    "163": {
+        "id": 163,
+        "polarity": "+",
+        "sentence": " Overall I am very satisfied with this product and will be using it often .",
+        "term": "product"
+    },
+    "164": {
+        "id": 164,
+        "polarity": "-",
+        "sentence": " Only issue is with updating firmware .",
+        "term": "updating firmware"
+    },
+    "165": {
+        "id": 165,
+        "polarity": "+",
+        "sentence": " It was a snap to set up and my PS3 , ASUS EEE Netbook , Droid 2 , and PCs all connect without issue .",
+        "term": "set up"
+    },
+    "166": {
+        "id": 166,
+        "polarity": "-",
+        "sentence": " The problem is that the fastest speed anything has connected to it has been around 72MB\\/s , even when in the same room .",
+        "term": "speed"
+    },
+    "167": {
+        "id": 167,
+        "polarity": "+",
+        "sentence": " Also , it was very easy to set up a route to my WAMP server as the process was exactly the same as my old NetGear .",
+        "term": "set up"
+    },
+    "168": {
+        "id": 168,
+        "polarity": "-",
+        "sentence": " Unfortunately , I just could not get it to work .",
+        "term": "work"
+    },
+    "169": {
+        "id": 169,
+        "polarity": "-",
+        "sentence": " D-Link support was polite and tried to help , but just worked through a script and was unsuccessful .",
+        "term": "support"
+    },
+    "170": {
+        "id": 170,
+        "polarity": "+",
+        "sentence": " This time , D-Link support was more helpful and guided me to the actual problem , which was that the router failed to `` auto-negotiate '' the Ethernet link speed from my FiOS optical network block .",
+        "term": "support"
+    },
+    "171": {
+        "id": 171,
+        "polarity": "+",
+        "sentence": " The switch negotiated the speed just fine and presented the router with a GigE link .",
+        "term": "switch"
+    },
+    "172": {
+        "id": 172,
+        "polarity": "-",
+        "sentence": " I conclude that the Ethernet transceiver D-Link uses is not as good as that of other brands .",
+        "term": "Ethernet transceiver"
+    },
+    "173": {
+        "id": 173,
+        "polarity": "+",
+        "sentence": " I am not to savy with a computer but the D-link is very easy to install and set up .",
+        "term": "install"
+    },
+    "174": {
+        "id": 174,
+        "polarity": "+",
+        "sentence": " I am not to savy with a computer but the D-link is very easy to install and set up .",
+        "term": " set up"
+    },
+    "175": {
+        "id": 175,
+        "polarity": "+",
+        "sentence": " No problems with dropped signals unlike the netgear router it replaced which only lasted 4 months .",
+        "term": "signals"
+    },
+    "176": {
+        "id": 176,
+        "polarity": "+",
+        "sentence": " Tech support was very pleasent and helpfull once you actually got someone .",
+        "term": "Tech support"
+    },
+    "177": {
+        "id": 177,
+        "polarity": "+",
+        "sentence": " It worked perfectly for about a week , then the problems came .",
+        "term": "worked"
+    },
+    "178": {
+        "id": 178,
+        "polarity": "-",
+        "sentence": " The connection is not reliable and constantly dropped .",
+        "term": "connection"
+    },
+    "179": {
+        "id": 179,
+        "polarity": "-",
+        "sentence": " I called the tech support and they helped me install new firmware , but this did not solve the problem .",
+        "term": "tech support"
+    },
+    "180": {
+        "id": 180,
+        "polarity": "-",
+        "sentence": " They said the product was defective and said they would send a new one .",
+        "term": "product"
+    },
+    "181": {
+        "id": 181,
+        "polarity": "+",
+        "sentence": " The replacement was even worse than the original one , which was now working fine .",
+        "term": "working"
+    },
+    "182": {
+        "id": 182,
+        "polarity": "-",
+        "sentence": " I am disappointed in this product .",
+        "term": "product"
+    },
+    "183": {
+        "id": 183,
+        "polarity": "+",
+        "sentence": " This router works fine and I am able to stream video in all rooms of the house at the same time .",
+        "term": " router"
+    },
+    "184": {
+        "id": 184,
+        "polarity": "+",
+        "sentence": " This router works fine and I am able to stream video in all rooms of the house at the same time .",
+        "term": "works"
+    },
+    "185": {
+        "id": 185,
+        "polarity": "+",
+        "sentence": " This router works very well right out of the box .",
+        "term": "router"
+    },
+    "186": {
+        "id": 186,
+        "polarity": "+",
+        "sentence": " This router works very well right out of the box .",
+        "term": " works"
+    },
+    "187": {
+        "id": 187,
+        "polarity": "+",
+        "sentence": " It also has excellent coverage through our two story house .",
+        "term": "coverage"
+    },
+    "188": {
+        "id": 188,
+        "polarity": "-",
+        "sentence": " In that regard , I am still having difficulty attempting to get the SharePort Utility to function normally .",
+        "term": "SharePort Utility"
+    },
+    "189": {
+        "id": 189,
+        "polarity": "+",
+        "sentence": " This router is phenomenal !",
+        "term": "router"
+    },
+    "190": {
+        "id": 190,
+        "polarity": "+",
+        "sentence": " It allows the USB interface on the router to be used either for NAS or print server .",
+        "term": "USB interface"
+    },
+    "191": {
+        "id": 191,
+        "polarity": "+",
+        "sentence": " The router has 4port 1gig Ethernet switch and wireless Access point AP -RRB- 802.11 n Working flawlessly !",
+        "term": "Working"
+    },
+    "192": {
+        "id": 192,
+        "polarity": "+",
+        "sentence": " In short , if you 're just someone that 's a little afraid of technology , and you just want a router to get online , do basic networking and play mafiawars and browse myspace all day , this router is great for you .",
+        "term": "router"
+    },
+    "193": {
+        "id": 193,
+        "polarity": "-",
+        "sentence": " More than likely , if you are forking over the money for this router , you have higher needs and expectations , which this router does n't meet .",
+        "term": "router"
+    },
+    "194": {
+        "id": 194,
+        "polarity": "-",
+        "sentence": " Well the theory was great , but upon enabling the guest network , things stopped working .",
+        "term": "guest network"
+    },
+    "195": {
+        "id": 195,
+        "polarity": "-",
+        "sentence": " With it enabled , anytime we made changes to the router , we had to manually press the `` turn on radio '' button on the front of the router because the GUI one would n't work .",
+        "term": "GUI"
+    },
+    "196": {
+        "id": 196,
+        "polarity": "-",
+        "sentence": " USB Network storage - `` supposedly '' it 's slow .",
+        "term": "USB Network storage"
+    },
+    "197": {
+        "id": 197,
+        "polarity": "-",
+        "sentence": " I 'd tell you myself my experiences but the router waiting to go back to the store so I never got far enough to try this .",
+        "term": "router"
+    },
+    "198": {
+        "id": 198,
+        "polarity": "-",
+        "sentence": " I was looking forward to it even if all the other reviews already said it was slow .",
+        "term": "slow"
+    },
+    "199": {
+        "id": 199,
+        "polarity": "-",
+        "sentence": " SLOW GUI - Be prepared to wait approximately 90 seconds every time you change one of the sub menu items and click that dreaded `` apply '' button ... yes , 1\ufffd1\\/2 minutes !",
+        "term": "SLOW"
+    },
+    "200": {
+        "id": 200,
+        "polarity": "+",
+        "sentence": " It was nice to have the faster internal network speeds while we tested this router -LRB- which was for all of about 3 hours while trying to get everything to work properly -RRB- .",
+        "term": "network speeds"
+    },
+    "201": {
+        "id": 201,
+        "polarity": "-",
+        "sentence": " Due to the lack of support for WHS \\/ UPNP \\/ Guestnetwork , and having just dropped the bones for this router , I was very unimpressed .",
+        "term": "support"
+    },
+    "202": {
+        "id": 202,
+        "polarity": "-",
+        "sentence": " Due to the lack of support for WHS \\/ UPNP \\/ Guestnetwork , and having just dropped the bones for this router , I was very unimpressed .",
+        "term": " router"
+    },
+    "203": {
+        "id": 203,
+        "polarity": "+",
+        "sentence": " You can stop looking : This is the best n-router you will find today -LRB- I am writing this on 03 Nov 2011 -RRB- .",
+        "term": "n-router"
+    },
+    "204": {
+        "id": 204,
+        "polarity": "+",
+        "sentence": " The DIR-655 was so easy to setup it was almost too easy .",
+        "term": "setup"
+    },
+    "205": {
+        "id": 205,
+        "polarity": "-",
+        "sentence": " Or maybe Netgear so screwed up the firmware for this device that it does n't know what to do .",
+        "term": "firmware"
+    },
+    "206": {
+        "id": 206,
+        "polarity": "-",
+        "sentence": " This router started out looking good but then gradually slowed down to the point that even standard def youtube videos and highly compressed IPTV from Hulu Plus would slow down and freeze or stutter .",
+        "term": "slowed down"
+    },
+    "207": {
+        "id": 207,
+        "polarity": "-",
+        "sentence": " The labeling of firmware itself is a mystery and suggests that this company is just scrambling to put out fires .",
+        "term": "labeling of firmware"
+    },
+    "208": {
+        "id": 208,
+        "polarity": "-",
+        "sentence": " I wanted the product to work soo bad , but it just did n't .",
+        "term": "product"
+    },
+    "209": {
+        "id": 209,
+        "polarity": "-",
+        "sentence": " I got great connection speeds and reception but the connection would drop several times a day on multiple computers both Linux and Windows .",
+        "term": " connection"
+    },
+    "210": {
+        "id": 210,
+        "polarity": "+",
+        "sentence": " I got great connection speeds and reception but the connection would drop several times a day on multiple computers both Linux and Windows .",
+        "term": "connection speeds"
+    },
+    "211": {
+        "id": 211,
+        "polarity": "+",
+        "sentence": " I got great connection speeds and reception but the connection would drop several times a day on multiple computers both Linux and Windows .",
+        "term": " reception"
+    },
+    "212": {
+        "id": 212,
+        "polarity": "+",
+        "sentence": " Thanks to Amazon 's amazing return policy , I was able to return the product at no loss on my part .",
+        "term": "return policy"
+    },
+    "213": {
+        "id": 213,
+        "polarity": "+",
+        "sentence": " My DWL-2100AP does not work as a repeater for DI-624S and there is no firmware update to support this product .",
+        "term": "firmware update"
+    },
+    "214": {
+        "id": 214,
+        "polarity": "-",
+        "sentence": " I gave up after several attempts to contact dlink support .",
+        "term": "dlink support"
+    },
+    "215": {
+        "id": 215,
+        "polarity": "-",
+        "sentence": " Simply this product was created and was left behind !",
+        "term": "product"
+    },
+    "216": {
+        "id": 216,
+        "polarity": "+",
+        "sentence": " As a Non-Technical person , I was surprised to install the Cisco Valet Plus Wireless Hotspot in less than 10 minutes .",
+        "term": "install"
+    },
+    "217": {
+        "id": 217,
+        "polarity": "+",
+        "sentence": " We still have our other network , which I use with my iPod , however , I will change it soon because the CISCO Valet is much better and faster .",
+        "term": "CISCO Valet"
+    },
+    "218": {
+        "id": 218,
+        "polarity": "+",
+        "sentence": " I 'm delighted with this product .",
+        "term": "product"
+    },
+    "219": {
+        "id": 219,
+        "polarity": "+",
+        "sentence": " I spent 1.5 hours on the phone with their Tech Support -LRB- you get connected right away and do n't have to wait -RRB- and got at least my iMac and MacBook back online .",
+        "term": "Tech Support"
+    },
+    "220": {
+        "id": 220,
+        "polarity": "-",
+        "sentence": " I guess I do n't have to mention that I do not recommend this product , that I most likely will return it and keep my fingers off Cisco\\/Linksys stuff in future .",
+        "term": "product"
+    },
+    "221": {
+        "id": 221,
+        "polarity": "-",
+        "sentence": " The router has obviously problems with static IP addresses , firewalls and numerous other programs .",
+        "term": "router"
+    },
+    "222": {
+        "id": 222,
+        "polarity": "+",
+        "sentence": " Easy Set Up .",
+        "term": "Set Up"
+    },
+    "223": {
+        "id": 223,
+        "polarity": "+",
+        "sentence": " Set up WPA with no problems .",
+        "term": "Set up"
+    },
+    "224": {
+        "id": 224,
+        "polarity": "+",
+        "sentence": " Great Coverage .",
+        "term": "Coverage"
+    },
+    "225": {
+        "id": 225,
+        "polarity": "+",
+        "sentence": " Even works better on G band than the Linksys .",
+        "term": "works"
+    },
+    "226": {
+        "id": 226,
+        "polarity": "-",
+        "sentence": " Unfortunately , the installation software crashed several times and I had to reboot my Vista PC at least twice -- not fun .",
+        "term": "installation software"
+    },
+    "227": {
+        "id": 227,
+        "polarity": "-",
+        "sentence": " Meanwhile , the instructions for Apple users indicated I should load the CD-ROM , but it turns out it only contained a PDF of instructions and offered nothing by way of explanation on installing for Apple computers .",
+        "term": "instructions"
+    },
+    "228": {
+        "id": 228,
+        "polarity": "+",
+        "sentence": " The final insult is that while this router comes with useful software to make sharing printers wirelessly a snap , it 's only a trial version -- you have to download the trial software from the internet then pay an additional $ 40-60 to some unknown company to unlock all the features !",
+        "term": "software"
+    },
+    "229": {
+        "id": 229,
+        "polarity": "-",
+        "sentence": " Exasperated at 3 AM , I called it quits and will be sending this awful , deceptive product back .",
+        "term": "product"
+    },
+    "230": {
+        "id": 230,
+        "polarity": "+",
+        "sentence": " This is a great product and carries a lot of pride in its networking capabilities for the price !",
+        "term": " price"
+    },
+    "231": {
+        "id": 231,
+        "polarity": "+",
+        "sentence": " This is a great product and carries a lot of pride in its networking capabilities for the price !",
+        "term": "product"
+    },
+    "232": {
+        "id": 232,
+        "polarity": "+",
+        "sentence": " I personally would recommend this router in every house hold or small buisiness environmnets .",
+        "term": "router"
+    },
+    "233": {
+        "id": 233,
+        "polarity": "+",
+        "sentence": " Reliable , Highly available and ease of administration and forget about me -LRB- Do n't bother anymore -RRB- equipment !",
+        "term": "administration"
+    },
+    "234": {
+        "id": 234,
+        "polarity": "+",
+        "sentence": " It was really easy to set up out of the box and I got all my wireless devices -LRB- 2 laptops , 1 desktop and 2 smartphones -RRB- connected to the internet in minutes .",
+        "term": "set up"
+    },
+    "235": {
+        "id": 235,
+        "polarity": "-",
+        "sentence": " Everything was great until it started dropping internet connection sporadically .",
+        "term": "internet connection"
+    },
+    "236": {
+        "id": 236,
+        "polarity": "-",
+        "sentence": " The new router worked well for 2 months after which it had failed .",
+        "term": "router"
+    },
+    "237": {
+        "id": 237,
+        "polarity": "-",
+        "sentence": " I am having the same problem with the router dropping connection every few minutes .",
+        "term": " connection"
+    },
+    "238": {
+        "id": 238,
+        "polarity": "-",
+        "sentence": " I am having the same problem with the router dropping connection every few minutes .",
+        "term": "router"
+    },
+    "239": {
+        "id": 239,
+        "polarity": "-",
+        "sentence": " Its annoying when you pay $ 100 + for a router and it does n't work as it is supposed straight out of the box !",
+        "term": "router"
+    },
+    "240": {
+        "id": 240,
+        "polarity": "-",
+        "sentence": " I am so tired of Netgear 's product quality & customer service that I would NEVER recommend netgear products to anyone I know .",
+        "term": "quality"
+    },
+    "241": {
+        "id": 241,
+        "polarity": "-",
+        "sentence": " I am so tired of Netgear 's product quality & customer service that I would NEVER recommend netgear products to anyone I know .",
+        "term": " customer service"
+    },
+    "242": {
+        "id": 242,
+        "polarity": "-",
+        "sentence": " All in all , bad device , bad customer service ... run like hell from this product .",
+        "term": " customer service"
+    },
+    "243": {
+        "id": 243,
+        "polarity": "-",
+        "sentence": " All in all , bad device , bad customer service ... run like hell from this product .",
+        "term": "device"
+    },
+    "244": {
+        "id": 244,
+        "polarity": "+",
+        "sentence": " Set up went pretty well and things seemed good .",
+        "term": "Set up"
+    }
+}

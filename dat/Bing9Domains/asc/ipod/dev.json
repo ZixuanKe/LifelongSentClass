@@ -1,0 +1,116 @@
+{
+    "153": {
+        "id": 153,
+        "polarity": "+",
+        "sentence": "  If, like me you simply want an iPod to play your mp3's, buy this one. ",
+        "term": "iPod"
+    },
+    "154": {
+        "id": 154,
+        "polarity": "+",
+        "sentence": "So reliability is the winner here for the iPod.",
+        "term": "reliability"
+    },
+    "155": {
+        "id": 155,
+        "polarity": "+",
+        "sentence": "For looks, well iPod is head and shoulders better, both the iRiver and Creative Zen look positively ugly when next to a gleaming iPod. ",
+        "term": "looks"
+    },
+    "156": {
+        "id": 156,
+        "polarity": "+",
+        "sentence": " The iPod package comes with everything you need, the AC adaptor, firewire cable (quicker than USB, but slower than USB 2 which it also gives), those snazzy and powerfull headphones, and of course the player. ",
+        "term": "package"
+    },
+    "157": {
+        "id": 157,
+        "polarity": "-",
+        "sentence": " Maybe this new design is more durable than the last, but I kind of doubt it.  ",
+        "term": "design"
+    },
+    "158": {
+        "id": 158,
+        "polarity": "-",
+        "sentence": " We can start by losing the shiny miracle-material cover that you can literally scratch just by looking at it wrong, and thus eliminate the need for third-party \"iSkin\" protective covers for an extra thirty bucks.",
+        "term": "scratch"
+    },
+    "159": {
+        "id": 159,
+        "polarity": "-",
+        "sentence": "First of all, I've never been big on earbuds - they're just not that comfortable.",
+        "term": "earbuds"
+    },
+    "160": {
+        "id": 160,
+        "polarity": "+",
+        "sentence": " These issues aside, the iPod is kind of like the cell phone in that once you have one, you can't be without one.",
+        "term": "iPod"
+    },
+    "161": {
+        "id": 161,
+        "polarity": "-",
+        "sentence": "  And if you're a Mac user like me, they've naturally made sure you have no viable alternative.  ",
+        "term": "alternative"
+    },
+    "162": {
+        "id": 162,
+        "polarity": "+",
+        "sentence": "Also, you have to use it with iTunes - or they'll sue, dammit!  But iTunes is about as good as anything. ",
+        "term": "iTunes"
+    },
+    "163": {
+        "id": 163,
+        "polarity": "+",
+        "sentence": " The player is great. ",
+        "term": "player"
+    },
+    "164": {
+        "id": 164,
+        "polarity": "-",
+        "sentence": " However, the battery life isn't as good as I would like. ",
+        "term": "battery "
+    },
+    "165": {
+        "id": 165,
+        "polarity": "+",
+        "sentence": " Overall, this product is AWESOME. ",
+        "term": "product"
+    },
+    "166": {
+        "id": 166,
+        "polarity": "+",
+        "sentence": " All the \"cool\" features of the mini, but with 20GB instead of 5.  ",
+        "term": "features"
+    },
+    "167": {
+        "id": 167,
+        "polarity": "+",
+        "sentence": " Really easy to use.",
+        "term": "use"
+    },
+    "168": {
+        "id": 168,
+        "polarity": "+",
+        "sentence": " Has the click wheel and the ability to scan through thousnds of songs and organizes them great.",
+        "term": "click wheel"
+    },
+    "169": {
+        "id": 169,
+        "polarity": "+",
+        "sentence": " Has a great helpline.",
+        "term": "helpline"
+    },
+    "170": {
+        "id": 170,
+        "polarity": "+",
+        "sentence": " They fix the problem and help you with whatever your I-Pod needs Comes with two USB ports and a charger.",
+        "term": "charger"
+    },
+    "171": {
+        "id": 171,
+        "polarity": "+",
+        "sentence": " They fix the problem and help you with whatever your I-Pod needs Comes with two USB ports and a charger.",
+        "term": "USB"
+    }
+}

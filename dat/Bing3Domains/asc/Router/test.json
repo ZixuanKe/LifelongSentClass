@@ -1,0 +1,188 @@
+{
+    "276": {
+        "id": 276,
+        "polarity": "+",
+        "sentence": " It has very good range -- much better than the Linksys router it replaced .",
+        "term": "range"
+    },
+    "277": {
+        "id": 277,
+        "polarity": "+",
+        "sentence": " It has a USB port -- so you can plug in a USB-powered drive and have network-accessible storage .",
+        "term": "USB port"
+    },
+    "278": {
+        "id": 278,
+        "polarity": "+",
+        "sentence": " It seems that with every firmware release the router gets better & better .",
+        "term": " router"
+    },
+    "279": {
+        "id": 279,
+        "polarity": "+",
+        "sentence": " It seems that with every firmware release the router gets better & better .",
+        "term": "firmware"
+    },
+    "280": {
+        "id": 280,
+        "polarity": "+",
+        "sentence": " Good range & speed .",
+        "term": "range"
+    },
+    "281": {
+        "id": 281,
+        "polarity": "+",
+        "sentence": " Good range & speed .",
+        "term": " speed"
+    },
+    "282": {
+        "id": 282,
+        "polarity": "+",
+        "sentence": " The price was the lowest I 'd seen in my research -LRB- Best Buy , Office Depot -RRB- .",
+        "term": "price"
+    },
+    "283": {
+        "id": 283,
+        "polarity": "+",
+        "sentence": " Easy to use with clear instructions contained in the install drive .",
+        "term": " instructions"
+    },
+    "284": {
+        "id": 284,
+        "polarity": "+",
+        "sentence": " Easy to use with clear instructions contained in the install drive .",
+        "term": "use"
+    },
+    "285": {
+        "id": 285,
+        "polarity": "+",
+        "sentence": " Also has a nice guest feature so your visitors can connect separate of your primary link .",
+        "term": "guest feature"
+    },
+    "286": {
+        "id": 286,
+        "polarity": "+",
+        "sentence": " It came well-packaged .",
+        "term": "packaged"
+    },
+    "287": {
+        "id": 287,
+        "polarity": "+",
+        "sentence": " It 's a really nice looking device and can be positioned horizontally or vertically .",
+        "term": "device"
+    },
+    "288": {
+        "id": 288,
+        "polarity": "+",
+        "sentence": " It 's a really nice looking device and can be positioned horizontally or vertically .",
+        "term": " looking"
+    },
+    "289": {
+        "id": 289,
+        "polarity": "+",
+        "sentence": " I give it a rating of 5 stars for looks .",
+        "term": "looks"
+    },
+    "290": {
+        "id": 290,
+        "polarity": "-",
+        "sentence": " I do n't think the external switch is much of a feature because in the end , you have to learn how to identify IP addresses , switch the router from from a dynamic to static IP address , and assign a static IP address that is compatible with your router or modem .",
+        "term": "external switch"
+    },
+    "291": {
+        "id": 291,
+        "polarity": "-",
+        "sentence": " SETUP SOFTWARE - For my application , I found the setup software on the enclosed CD to be useless .",
+        "term": "setup software"
+    },
+    "292": {
+        "id": 292,
+        "polarity": "+",
+        "sentence": " TECHNICAL SUPPORT LINE - The Buffalo Technical Support line on the other hand , was very helpful .",
+        "term": "Buffalo Technical Support line"
+    },
+    "293": {
+        "id": 293,
+        "polarity": "-",
+        "sentence": " Be prepared for a long wait -LRB- 30-45 minutes -RRB- , but the wait was worth it .",
+        "term": "wait"
+    },
+    "294": {
+        "id": 294,
+        "polarity": "+",
+        "sentence": " The technical support phone line was responsible for my giving technical support 4 stars .",
+        "term": "technical support"
+    },
+    "295": {
+        "id": 295,
+        "polarity": "-",
+        "sentence": " If I only considered the software or internet user manual I would have rated technical support as 2 or maybe 3 -LRB- at best -RRB- .",
+        "term": "software"
+    },
+    "296": {
+        "id": 296,
+        "polarity": "-",
+        "sentence": " If I only considered the software or internet user manual I would have rated technical support as 2 or maybe 3 -LRB- at best -RRB- .",
+        "term": " internet user manual"
+    },
+    "297": {
+        "id": 297,
+        "polarity": "+",
+        "sentence": " SUMMARY - I 'm happy to say that despite much frustration with setup , the Bufflo Nfinity G300N is working fantastic as a wireless access point with great range .",
+        "term": " range"
+    },
+    "298": {
+        "id": 298,
+        "polarity": "+",
+        "sentence": " SUMMARY - I 'm happy to say that despite much frustration with setup , the Bufflo Nfinity G300N is working fantastic as a wireless access point with great range .",
+        "term": " access point"
+    },
+    "299": {
+        "id": 299,
+        "polarity": "-",
+        "sentence": " SUMMARY - I 'm happy to say that despite much frustration with setup , the Bufflo Nfinity G300N is working fantastic as a wireless access point with great range .",
+        "term": "setup"
+    },
+    "300": {
+        "id": 300,
+        "polarity": "+",
+        "sentence": " SUMMARY - I 'm happy to say that despite much frustration with setup , the Bufflo Nfinity G300N is working fantastic as a wireless access point with great range .",
+        "term": " Bufflo Nfinity G300N"
+    },
+    "301": {
+        "id": 301,
+        "polarity": "+",
+        "sentence": " And it 's sleek and sexy looking as well .",
+        "term": "sleek"
+    },
+    "302": {
+        "id": 302,
+        "polarity": "+",
+        "sentence": " And it 's sleek and sexy looking as well .",
+        "term": " looking"
+    },
+    "303": {
+        "id": 303,
+        "polarity": "+",
+        "sentence": " UPDATE Jan 12 , 2012 The device has worked flawlessly for the past year .",
+        "term": "worked"
+    },
+    "304": {
+        "id": 304,
+        "polarity": "+",
+        "sentence": " The device itself is pretty solid .",
+        "term": "device"
+    },
+    "305": {
+        "id": 305,
+        "polarity": "-",
+        "sentence": " I only give it 4 stars because the device came with really old dd-wrt software .",
+        "term": "dd-wrt software"
+    },
+    "306": {
+        "id": 306,
+        "polarity": "+",
+        "sentence": " The system was nowhere near stable , and the code was in `` alpha '' stage at best .",
+        "term": "system"
+    }
+}

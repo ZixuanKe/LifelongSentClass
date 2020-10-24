@@ -1,0 +1,710 @@
+{
+    "0": {
+        "id": 0,
+        "polarity": "+",
+        "sentence": "We really enjoyed shooting with the Canon PowerShot SD500. ",
+        "term": "SD500"
+    },
+    "1": {
+        "id": 1,
+        "polarity": "+",
+        "sentence": "It has an exterior design that combines form and function more elegantly than any point-and-shoot we've ever tested. ",
+        "term": "design"
+    },
+    "2": {
+        "id": 2,
+        "polarity": "+",
+        "sentence": "A Digic II-powered image-processing system enables the SD500 to snap a limitless stream of 7-megapixel photos at a respectable clip, its start-up time is tops in its class, and it delivers decent photos when compared to its competition. ",
+        "term": "image-processing system"
+    },
+    "3": {
+        "id": 3,
+        "polarity": "+",
+        "sentence": "The SD500 rivals the Canon G6 in image quality. ",
+        "term": "image"
+    },
+    "4": {
+        "id": 4,
+        "polarity": "-",
+        "sentence": "I thought given all the \"10\" reviews about this camera that I would buy it in spite of being a bit pricey. ",
+        "term": "pricey"
+    },
+    "5": {
+        "id": 5,
+        "polarity": "-",
+        "sentence": "I did see the review here and other places about a cracked LCD screen. ",
+        "term": "LCD"
+    },
+    "6": {
+        "id": 6,
+        "polarity": "-",
+        "sentence": "When I went to put in the new SD Card I looked at the LCD Screen -- CRACKED-- and the fluid gave a Jackson Pollock type appearance to the screen, black and blue and purple blotches and streaks --useless. ",
+        "term": "LCD"
+    },
+    "7": {
+        "id": 7,
+        "polarity": "+",
+        "sentence": "This camera is truely superb.",
+        "term": "camera"
+    },
+    "8": {
+        "id": 8,
+        "polarity": "+",
+        "sentence": "The startup time, quality of pictures and videos is outstanding.",
+        "term": "pictures"
+    },
+    "9": {
+        "id": 9,
+        "polarity": "-",
+        "sentence": "Some more manual control would have been nice. ",
+        "term": "manual control"
+    },
+    "10": {
+        "id": 10,
+        "polarity": "+",
+        "sentence": "They say that they are the best pictures they have ever see from a compact. ",
+        "term": "pictures"
+    },
+    "11": {
+        "id": 11,
+        "polarity": "+",
+        "sentence": " I went out and got the Canon today. ",
+        "term": "Canon"
+    },
+    "12": {
+        "id": 12,
+        "polarity": "+",
+        "sentence": "I've taken about hundred shot with the Canon, in varying lighting situations, all in auto mode, and not one blurry picture!!! ",
+        "term": "picture"
+    },
+    "13": {
+        "id": 13,
+        "polarity": "-",
+        "sentence": "The quality, detail and clarity is much better than the Sony in my opinion. ",
+        "term": "Sony"
+    },
+    "14": {
+        "id": 14,
+        "polarity": "+",
+        "sentence": "The quality, detail and clarity is much better than the Sony in my opinion. ",
+        "term": "quality"
+    },
+    "15": {
+        "id": 15,
+        "polarity": "+",
+        "sentence": "I did not conduct a rigorous test, but just took some identical shots in identical lighting with both cameras, and the Canon won hands down. ",
+        "term": "Canon"
+    },
+    "16": {
+        "id": 16,
+        "polarity": "+",
+        "sentence": "Sharper pictures. ",
+        "term": "pictures"
+    },
+    "17": {
+        "id": 17,
+        "polarity": "+",
+        "sentence": "The Canon is very small, definitely pocket size, but still easy to hold firmly. ",
+        "term": "size"
+    },
+    "18": {
+        "id": 18,
+        "polarity": "+",
+        "sentence": "It powers up quickly, so you won't miss that quick shot. ",
+        "term": "powers up"
+    },
+    "19": {
+        "id": 19,
+        "polarity": "-",
+        "sentence": "The only knock I have is that the flash is underpowered. ",
+        "term": "flash"
+    },
+    "20": {
+        "id": 20,
+        "polarity": "+",
+        "sentence": "Good image quality. ",
+        "term": "image"
+    },
+    "21": {
+        "id": 21,
+        "polarity": "+",
+        "sentence": "All I have to say is that the pics I get with my SD500 are both rich and color and high in detail, the user interface is awesome, the battery charger is tiny and super light and SD cards are relatively cheap and getting cheaper all the time.",
+        "term": "pics"
+    },
+    "22": {
+        "id": 22,
+        "polarity": "+",
+        "sentence": "All I have to say is that the pics I get with my SD500 are both rich and color and high in detail, the user interface is awesome, the battery charger is tiny and super light and SD cards are relatively cheap and getting cheaper all the time.",
+        "term": "user interface"
+    },
+    "23": {
+        "id": 23,
+        "polarity": "+",
+        "sentence": "All I have to say is that the pics I get with my SD500 are both rich and color and high in detail, the user interface is awesome, the battery charger is tiny and super light and SD cards are relatively cheap and getting cheaper all the time.",
+        "term": "battery charger"
+    },
+    "24": {
+        "id": 24,
+        "polarity": "-",
+        "sentence": "After reading reviews of LCD problems, cracked, black blobs etc, I figured that it was probably a very limited problem. ",
+        "term": "LCD"
+    },
+    "25": {
+        "id": 25,
+        "polarity": "-",
+        "sentence": "After 57 pictures total the LCD went black except for the icons showing the settings. ",
+        "term": "LCD"
+    },
+    "26": {
+        "id": 26,
+        "polarity": "+",
+        "sentence": "Camera is a paper weight. ",
+        "term": "weight"
+    },
+    "27": {
+        "id": 27,
+        "polarity": "+",
+        "sentence": "I have been very impressed with my purchase of the SD500 I bought it at the beginning of the month as the ultimate pocket camera and have shot 300 images so far with it.",
+        "term": "SD500"
+    },
+    "28": {
+        "id": 28,
+        "polarity": "+",
+        "sentence": "The pictures are tack sharp, colors are vivid, and at 7 mega pixels the quality is plenty high to manipulate and crop images to your hearts desire. ",
+        "term": "pictures"
+    },
+    "29": {
+        "id": 29,
+        "polarity": "+",
+        "sentence": "Powerup is quick, and you can even set your favorite image to display for a second or so as it turns on. ",
+        "term": "Powerup"
+    },
+    "30": {
+        "id": 30,
+        "polarity": "+",
+        "sentence": "I have especially enjoyed the 640x480 mode, while not a replacement for a dedicated video camera, its quality easily surpasses that of my old Hi-8 camera and is perfect for quick clips of things that still images just dont describe (max 8 mins at 640 30fps on a one gig card). ",
+        "term": "640x480 mode"
+    },
+    "31": {
+        "id": 31,
+        "polarity": "+",
+        "sentence": "I have especially enjoyed the 640x480 mode, while not a replacement for a dedicated video camera, its quality easily surpasses that of my old Hi-8 camera and is perfect for quick clips of things that still images just dont describe (max 8 mins at 640 30fps on a one gig card). ",
+        "term": "quality"
+    },
+    "32": {
+        "id": 32,
+        "polarity": "-",
+        "sentence": "you can set the optical zoom before shooting and than while shooting video adjust a digital zoom in and out however due to the cameras light weight Camera shake is a problem to contend with. ",
+        "term": "Camera shake"
+    },
+    "33": {
+        "id": 33,
+        "polarity": "+",
+        "sentence": "Audio is mono and fairly acceptable, quiet also with little distortions. ",
+        "term": "Audio"
+    },
+    "34": {
+        "id": 34,
+        "polarity": "+",
+        "sentence": "The battery life is not that of the Casio's but its good and your going to get better pictures in my opionion with the battery life youve got. ",
+        "term": "battery"
+    },
+    "35": {
+        "id": 35,
+        "polarity": "-",
+        "sentence": "The disadvantages of this camera is it has been having some trouble with its autofocus on a few occasional pictures, especially quick candid shots where you start up and shot as quick as you can. ",
+        "term": "autofocus"
+    },
+    "36": {
+        "id": 36,
+        "polarity": "-",
+        "sentence": "I would imagine this is a problem with any camera of a compact nature. ",
+        "term": "compact"
+    },
+    "37": {
+        "id": 37,
+        "polarity": "-",
+        "sentence": "Also as someone who at least knows a little bit about the technical work of taking a photo i really miss having manual controls. ",
+        "term": "manual controls"
+    },
+    "38": {
+        "id": 38,
+        "polarity": "+",
+        "sentence": "Glad to see the Ed. revised the previous statements regarding image quality. ",
+        "term": "image"
+    },
+    "39": {
+        "id": 39,
+        "polarity": "+",
+        "sentence": "My SD500 focuses flawlessly, does not \"whine\" during video, and my pictures are razor sharp. ",
+        "term": "focuses"
+    },
+    "40": {
+        "id": 40,
+        "polarity": "+",
+        "sentence": "This camera is bulletproof. ",
+        "term": "camera"
+    },
+    "41": {
+        "id": 41,
+        "polarity": "+",
+        "sentence": "start up is so quick \u2013 ",
+        "term": "start up"
+    },
+    "42": {
+        "id": 42,
+        "polarity": "+",
+        "sentence": "you can take pictures seconds after you turn the camera on...literally! ",
+        "term": "pictures"
+    },
+    "43": {
+        "id": 43,
+        "polarity": "+",
+        "sentence": "big lcd screen - at least for me, 2\" is enough",
+        "term": "lcd"
+    },
+    "44": {
+        "id": 44,
+        "polarity": "+",
+        "sentence": "great picture quality - in automatic mode, quality is great. ",
+        "term": "picture"
+    },
+    "45": {
+        "id": 45,
+        "polarity": "+",
+        "sentence": "when you learn how to change some settings, you can make the quality even better ",
+        "term": "quality"
+    },
+    "46": {
+        "id": 46,
+        "polarity": "+",
+        "sentence": "digital zoom is clear too...say you used all 3x optical zoom, try to do digital zoom then...just try not to shake the camera at all and you'll still get a clear good quality picture",
+        "term": "zoom"
+    },
+    "47": {
+        "id": 47,
+        "polarity": "+",
+        "sentence": "great video clip quality for a digital camera - so much better than my old one (Canon A60(?)...the 2.0 megapixel one). ",
+        "term": "zoom"
+    },
+    "48": {
+        "id": 48,
+        "polarity": "+",
+        "sentence": "i connected my camera to the tv and played some video clips and for a digital camera to take such good quality clips, i give it 5/5 stars =) oh and btw, while you take video clips, you can zoom it too! (digital zoom only though)...but still...(my old one can't do that...you have to zoom it first if you want then take the video clip.)",
+        "term": "clips"
+    },
+    "49": {
+        "id": 49,
+        "polarity": "+",
+        "sentence": "photo stitch (merge pictures to create a panoramic one..even my old one can do this and it's really cool to have it now still)",
+        "term": "merge pictures"
+    },
+    "50": {
+        "id": 50,
+        "polarity": "+",
+        "sentence": "turn the camera on while pressing the button (or is it the menu button? i have to check again =)) and it'l show you the time and date. ",
+        "term": "camera"
+    },
+    "51": {
+        "id": 51,
+        "polarity": "-",
+        "sentence": " battery life is not long enough IF and ONLY IF you take a lot of video clips and play it back on the camera a lot of times...the camera/battery gets a little bit warm too when you use it for a long time but it's normal. ",
+        "term": "battery"
+    },
+    "52": {
+        "id": 52,
+        "polarity": "-",
+        "sentence": "the sound is not loud enough when i play back the video clips on the camera. ",
+        "term": "sound"
+    },
+    "53": {
+        "id": 53,
+        "polarity": "+",
+        "sentence": "i highly recommend this camera to anybody looking for a compact camera that can take good quality pictures. ",
+        "term": "pictures"
+    },
+    "54": {
+        "id": 54,
+        "polarity": "+",
+        "sentence": "i highly recommend this camera to anybody looking for a compact camera that can take good quality pictures. ",
+        "term": "camera"
+    },
+    "55": {
+        "id": 55,
+        "polarity": "+",
+        "sentence": "if you'll only read the whole manual, you'll find out even more cool features and you'll learn how to manipulate the quality you want to achieve and all those modes will make sense after reading ",
+        "term": "features"
+    },
+    "56": {
+        "id": 56,
+        "polarity": "+",
+        "sentence": "it's such a great camera! i think it really was worth the investment =)",
+        "term": "camera"
+    },
+    "57": {
+        "id": 57,
+        "polarity": "+",
+        "sentence": "if you haven't noticed, they designed it so that you can also take vertical pictures when you do the self-timer. ",
+        "term": "designed"
+    },
+    "58": {
+        "id": 58,
+        "polarity": "+",
+        "sentence": "they made the other end of the camera flat so you can put the camera upright on a flat surface if you don't like to take the usual horizontal pictures using the self-timer.",
+        "term": "made"
+    },
+    "59": {
+        "id": 59,
+        "polarity": "+",
+        "sentence": "I bought this camera two days ago, and I'm very pleased to say that it has been worth the money. ",
+        "term": "camera"
+    },
+    "60": {
+        "id": 60,
+        "polarity": "-",
+        "sentence": "Only downside is when taking pictures in low-light conditions without the flash. ",
+        "term": "low-light conditions"
+    },
+    "61": {
+        "id": 61,
+        "polarity": "+",
+        "sentence": "If you on the other hand always use automatic settings (and not manual) you should be just fine, as the camera features some of the best automatic settings I have ever seen.",
+        "term": "automatic settings"
+    },
+    "62": {
+        "id": 62,
+        "polarity": "+",
+        "sentence": "All in all, this is the camera for you if you can spare the extra cost in price. ",
+        "term": "camera"
+    },
+    "63": {
+        "id": 63,
+        "polarity": "+",
+        "sentence": "Having the Digic II chip helps a lot. ",
+        "term": "Digic II chip"
+    },
+    "64": {
+        "id": 64,
+        "polarity": "+",
+        "sentence": "This camera takes amazing pictures and its size cannot be beat. ",
+        "term": "pictures"
+    },
+    "65": {
+        "id": 65,
+        "polarity": "+",
+        "sentence": "This camera takes amazing pictures and its size cannot be beat. ",
+        "term": "size"
+    },
+    "66": {
+        "id": 66,
+        "polarity": "+",
+        "sentence": "I still can't believe how fast it starts up. ",
+        "term": "starts up"
+    },
+    "67": {
+        "id": 67,
+        "polarity": "+",
+        "sentence": "I take a lot of pictures and this camera is my first choice. ",
+        "term": "camera"
+    },
+    "68": {
+        "id": 68,
+        "polarity": "+",
+        "sentence": "I still have my s70 because I like the wider lens sometimes, but in general, if you are looking for a small camera with the whole package, the sd500 is the only one you should buy. ",
+        "term": "sd500"
+    },
+    "69": {
+        "id": 69,
+        "polarity": "+",
+        "sentence": "I love the rounded edges now, fits so much better in a pocket, jeans or suit. ",
+        "term": "edges"
+    },
+    "70": {
+        "id": 70,
+        "polarity": "-",
+        "sentence": "As much as I am happy about this great little camera, it is overshadowed by the fact that the LCD is easily spoilt.",
+        "term": "LCD"
+    },
+    "71": {
+        "id": 71,
+        "polarity": "+",
+        "sentence": "As much as I am happy about this great little camera, it is overshadowed by the fact that the LCD is easily spoilt.",
+        "term": "camera"
+    },
+    "72": {
+        "id": 72,
+        "polarity": "-",
+        "sentence": "The SD500 has only been in my possession for a little over 3 months, and the LCD has been broken twice. ",
+        "term": "LCD"
+    },
+    "73": {
+        "id": 73,
+        "polarity": "-",
+        "sentence": "I took it out one day and the LCD was not working. ",
+        "term": "LCD"
+    },
+    "74": {
+        "id": 74,
+        "polarity": "-",
+        "sentence": "Although the SD500 takes great quality photos, the sensitivity of the LCD compromises the quality overall.",
+        "term": "LCD"
+    },
+    "75": {
+        "id": 75,
+        "polarity": "+",
+        "sentence": "I tell you now, after lot of shooting in many different situations, this camera is amazing. ",
+        "term": "camera"
+    },
+    "76": {
+        "id": 76,
+        "polarity": "+",
+        "sentence": "The size of the camera is perfect. ",
+        "term": "size"
+    },
+    "77": {
+        "id": 77,
+        "polarity": "+",
+        "sentence": "Fits comfortably in my inside jacket pocket or in my pants pocket. ",
+        "term": "Fits"
+    },
+    "78": {
+        "id": 78,
+        "polarity": "+",
+        "sentence": "there was no compromise this little camera does amazing things. ",
+        "term": "camera"
+    },
+    "79": {
+        "id": 79,
+        "polarity": "+",
+        "sentence": "I like to take pictures when I Go out at night and perhaps some people would complain that noise levels are high at higher iso's but I don't really care that much, i think it gives the pictures a certain real-life quality. ",
+        "term": "pictures"
+    },
+    "80": {
+        "id": 80,
+        "polarity": "+",
+        "sentence": "The flash is surprisingly good and even the video quality is excellent. ",
+        "term": "flash"
+    },
+    "81": {
+        "id": 81,
+        "polarity": "+",
+        "sentence": "I'd be happy to talk to anyone about this camera. ",
+        "term": "camera"
+    },
+    "82": {
+        "id": 82,
+        "polarity": "+",
+        "sentence": "This camera is an excellent choice for an ultracompact, take anywhere device and boasts an outstanding movie mode to boot. ",
+        "term": "camera"
+    },
+    "83": {
+        "id": 83,
+        "polarity": "+",
+        "sentence": "This camera is an excellent choice for an ultracompact, take anywhere device and boasts an outstanding movie mode to boot. ",
+        "term": "movie mode"
+    },
+    "84": {
+        "id": 84,
+        "polarity": "+",
+        "sentence": "The instruction manuals and documentation are excellent so that the learning curve will be much less steep.",
+        "term": "instruction"
+    },
+    "85": {
+        "id": 85,
+        "polarity": "+",
+        "sentence": "I've only had this camera for a few days, but it's been great. ",
+        "term": "camera"
+    },
+    "86": {
+        "id": 86,
+        "polarity": "+",
+        "sentence": "The photo quality is amazing. ",
+        "term": "photo"
+    },
+    "87": {
+        "id": 87,
+        "polarity": "+",
+        "sentence": "it's fast, feels great in your hand and looks great too. ",
+        "term": "feels"
+    },
+    "88": {
+        "id": 88,
+        "polarity": "+",
+        "sentence": "it's fast, feels great in your hand and looks great too. ",
+        "term": "looks"
+    },
+    "89": {
+        "id": 89,
+        "polarity": "+",
+        "sentence": "I've printed several photos and the prints look as good as the screen views.",
+        "term": "prints"
+    },
+    "90": {
+        "id": 90,
+        "polarity": "+",
+        "sentence": "As any digital camera owner knows is that when you go to take a picture of a moving object to expect some blurring but with some preliminary testing we had somone move there hands back and forth under the lense and another person take the picture and suprisingly a crystal clear image apeared on the decently sized screen. ",
+        "term": "image"
+    },
+    "91": {
+        "id": 91,
+        "polarity": "+",
+        "sentence": "another thing i like about this camera is the way that you can swap colors around and the impressive video quality i would advise any person in the market for a camera to pay the little extra on the hefty $500 price tag and get a quality camera.",
+        "term": "video"
+    },
+    "92": {
+        "id": 92,
+        "polarity": "+",
+        "sentence": "another thing i like about this camera is the way that you can swap colors around and the impressive video quality i would advise any person in the market for a camera to pay the little extra on the hefty $500 price tag and get a quality camera.",
+        "term": "colors"
+    },
+    "93": {
+        "id": 93,
+        "polarity": "+",
+        "sentence": "Moreover, apart from the plastic cable cover, the camera has a nice, solid feel about it, and it's so tiny, I take it with me wherever I go. ",
+        "term": "camera"
+    },
+    "94": {
+        "id": 94,
+        "polarity": "+",
+        "sentence": "As it turns out, this is an awesome camera! ",
+        "term": "camera"
+    },
+    "95": {
+        "id": 95,
+        "polarity": "+",
+        "sentence": "However, this ultracompact allows the photographer to personalize his or her shooting preferences through a variety of preset and user definable modes. ",
+        "term": "user definable"
+    },
+    "96": {
+        "id": 96,
+        "polarity": "+",
+        "sentence": "However, this ultracompact allows the photographer to personalize his or her shooting preferences through a variety of preset and user definable modes. ",
+        "term": "preset"
+    },
+    "97": {
+        "id": 97,
+        "polarity": "-",
+        "sentence": "I also own a Canon Digital Rebel and I agree that the advanced controls on the SD500 are not as robust, but overall picture quality goes head-to-head with the Digital Rebel. ",
+        "term": "advanced controls"
+    },
+    "98": {
+        "id": 98,
+        "polarity": "+",
+        "sentence": "The SD500 software install was seamless and the product documentation is very detailed. ",
+        "term": "documentatio"
+    },
+    "99": {
+        "id": 99,
+        "polarity": "+",
+        "sentence": "The SD500 software install was seamless and the product documentation is very detailed. ",
+        "term": "software"
+    },
+    "100": {
+        "id": 100,
+        "polarity": "+",
+        "sentence": "Bottom line, this camera will give you a lot of bang for the buck!",
+        "term": "camera"
+    },
+    "101": {
+        "id": 101,
+        "polarity": "+",
+        "sentence": "I don't know why CNET says there is a problem with focus, I have all my pictures sharp and high quality. ",
+        "term": "pictures"
+    },
+    "102": {
+        "id": 102,
+        "polarity": "+",
+        "sentence": "Very good \"every day\" camera. Fits nicely in the pocket of my jeans and takes quality photos.",
+        "term": "camera"
+    },
+    "103": {
+        "id": 103,
+        "polarity": "+",
+        "sentence": "If you want a sharp looking, fast digital camera and you don't need or want manual controls, then this is the camera for you! ",
+        "term": "fast"
+    },
+    "104": {
+        "id": 104,
+        "polarity": "+",
+        "sentence": "If you want a sharp looking, fast digital camera and you don't need or want manual controls, then this is the camera for you! ",
+        "term": "looking"
+    },
+    "105": {
+        "id": 105,
+        "polarity": "+",
+        "sentence": " am so glad I bought this camera. ",
+        "term": "camera"
+    },
+    "106": {
+        "id": 106,
+        "polarity": "+",
+        "sentence": "All the good reviews for the SD500 are true. ",
+        "term": "SD500"
+    },
+    "107": {
+        "id": 107,
+        "polarity": "+",
+        "sentence": "The view finder shows crystal clear pictures that will look even better when you get them to the computer. ",
+        "term": "view finder"
+    },
+    "108": {
+        "id": 108,
+        "polarity": "+",
+        "sentence": "The included software removes any red eye easily. ",
+        "term": "software"
+    },
+    "109": {
+        "id": 109,
+        "polarity": "+",
+        "sentence": "if you are looking for a small camera to throw in your pocket, take great pics and video, get the SD500. ",
+        "term": "pics"
+    },
+    "110": {
+        "id": 110,
+        "polarity": "+",
+        "sentence": "if you are looking for a small camera to throw in your pocket, take great pics and video, get the SD500. ",
+        "term": "small"
+    },
+    "111": {
+        "id": 111,
+        "polarity": "+",
+        "sentence": "This is overall the best point and shoot camera I've used. ",
+        "term": "camera"
+    },
+    "112": {
+        "id": 112,
+        "polarity": "+",
+        "sentence": "Placement of the buttons and software user interface is near perfect. ",
+        "term": "buttons"
+    },
+    "113": {
+        "id": 113,
+        "polarity": "+",
+        "sentence": "Placement of the buttons and software user interface is near perfect. ",
+        "term": "user interface"
+    },
+    "114": {
+        "id": 114,
+        "polarity": "-",
+        "sentence": "The only problem I have with the buttons is that the power button and print/share button don't have a nice click. ",
+        "term": "power button"
+    },
+    "115": {
+        "id": 115,
+        "polarity": "-",
+        "sentence": "The buttons are rather stiff. ",
+        "term": "buttons"
+    },
+    "116": {
+        "id": 116,
+        "polarity": "+",
+        "sentence": "I also tend to like the sliding cover/on switch found on many compact PS cameras since it's much faster and easier to power on if you need to take that instant shot. ",
+        "term": "switch"
+    },
+    "117": {
+        "id": 117,
+        "polarity": "+",
+        "sentence": "overall build quality, good macros-results, impressive video-quality, good pictures with flash (good colours, sharp results), excellent auto white balance.",
+        "term": "video-quality"
+    }
+}

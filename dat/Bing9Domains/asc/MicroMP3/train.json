@@ -1,0 +1,2906 @@
+{
+    "0": {
+        "id": 0,
+        "polarity": "-",
+        "sentence": "Unfortunately, Creative offered scant few pages of instruction, which meant that I was on own from the outset. ",
+        "term": "instruction"
+    },
+    "1": {
+        "id": 1,
+        "polarity": "-",
+        "sentence": "After attempting to navigate the clumsy touch-pad system, I could not get the unit to download my wma files. ",
+        "term": "touch-pad"
+    },
+    "2": {
+        "id": 2,
+        "polarity": "-",
+        "sentence": "After attempting to navigate the clumsy touch-pad system, I could not get the unit to download my wma files. ",
+        "term": " navigate"
+    },
+    "3": {
+        "id": 3,
+        "polarity": "-",
+        "sentence": "SO, YOU MIGHT INQUIRE, WHY DON'T THEY MAKE IT A FIRST PRIORITY TO CAREFULLY, SIMPLY EXPLAIN HOW DOWNLOAD MUSIC FROM YOUR MUSIC LIBRARY TO THEIR DEVICE??? This seems academic to me.",
+        "term": "EXPLAIN"
+    },
+    "4": {
+        "id": 4,
+        "polarity": "-",
+        "sentence": "Most of us just want to plug and play, not spend a year navigating a maze of complicated options...like transfering everything on a hard drive to this stupid thing.",
+        "term": "navigating"
+    },
+    "5": {
+        "id": 5,
+        "polarity": "+",
+        "sentence": "All of this said [as it's on it's way back to Amazon], the one song it did include provided far better sound than the IPOD. ",
+        "term": "sound"
+    },
+    "6": {
+        "id": 6,
+        "polarity": "+",
+        "sentence": "The base was deeper and the highs were crisper. ",
+        "term": "highs"
+    },
+    "7": {
+        "id": 7,
+        "polarity": "+",
+        "sentence": "The base was deeper and the highs were crisper. ",
+        "term": "bass"
+    },
+    "8": {
+        "id": 8,
+        "polarity": "-",
+        "sentence": "Unfortunately, the touch-pad issues [non-intuitive] and poor instruction guide killed it. ",
+        "term": "touch-pad"
+    },
+    "9": {
+        "id": 9,
+        "polarity": "-",
+        "sentence": "Unfortunately, the touch-pad issues [non-intuitive] and poor instruction guide killed it. ",
+        "term": " instruction"
+    },
+    "10": {
+        "id": 10,
+        "polarity": "+",
+        "sentence": "what a kick butt Mp3 machine and the freedom to get songs from a reasonable source, instead of paying for them two or three times, then get the Creative Zen IPOD killer, kiss my ass Itunes!",
+        "term": "machine"
+    },
+    "11": {
+        "id": 11,
+        "polarity": "-",
+        "sentence": "This one is particularly bothersome: Allegedly one can use the Zen Micro as a portable drive to store and transport data from one computer to another.",
+        "term": "Zen Micro"
+    },
+    "12": {
+        "id": 12,
+        "polarity": "+",
+        "sentence": "Although you can store any type of file on the Zen Micro to download onto a different computer, you need to INSTALL (on the computer you are moving the data to) Zen Micro software and drivers to do it!!! ",
+        "term": "store"
+    },
+    "13": {
+        "id": 13,
+        "polarity": "-",
+        "sentence": "Although you can store any type of file on the Zen Micro to download onto a different computer, you need to INSTALL (on the computer you are moving the data to) Zen Micro software and drivers to do it!!! ",
+        "term": " INSTALL"
+    },
+    "14": {
+        "id": 14,
+        "polarity": "-",
+        "sentence": "Who wants to go through the hassles of loading software onto a \"foreign\" computer just to move over some simple (*.txt) files?  ",
+        "term": "software"
+    },
+    "15": {
+        "id": 15,
+        "polarity": "+",
+        "sentence": "The sound is great, the portability, etc... all the \"stuff\" you expect from a good MP-3 player, this Zen Micro has it. ",
+        "term": "sound"
+    },
+    "16": {
+        "id": 16,
+        "polarity": "+",
+        "sentence": "The sound is great, the portability, etc... all the \"stuff\" you expect from a good MP-3 player, this Zen Micro has it. ",
+        "term": " portability"
+    },
+    "17": {
+        "id": 17,
+        "polarity": "-",
+        "sentence": ") Button sensitivity: Even reduced to the lowest sensitivity setting, the buttons are far two sensitive, really takes some getting use to, and even then, it is still too sensitive. ",
+        "term": "Button sensitivity"
+    },
+    "18": {
+        "id": 18,
+        "polarity": "-",
+        "sentence": ") WORST FEATURE POSSIBLE, THIS ALONE MAKES IT RATE ONE STAR: What's up with no recharge cord? ",
+        "term": "FEATURE"
+    },
+    "19": {
+        "id": 19,
+        "polarity": "-",
+        "sentence": ") WORST FEATURE POSSIBLE, THIS ALONE MAKES IT RATE ONE STAR: What's up with no recharge cord? ",
+        "term": " recharge cord"
+    },
+    "20": {
+        "id": 20,
+        "polarity": "-",
+        "sentence": "You have to purchase that separately for some outrageous cost. ",
+        "term": "cost"
+    },
+    "21": {
+        "id": 21,
+        "polarity": "-",
+        "sentence": "I took my Zen Micro with me over the weekend, and was forced to lug my laptop with me on the trip for one reason: to keep the Zen Micro charged. ",
+        "term": "charged"
+    },
+    "22": {
+        "id": 22,
+        "polarity": "-",
+        "sentence": "I have trashed this product on other opinion sites based on this major flaw alone. ",
+        "term": "product"
+    },
+    "23": {
+        "id": 23,
+        "polarity": "-",
+        "sentence": ") Creative, Inc. the maker includes the barest of the bare minimum in the box, then through gross profiteering nickles and dimes you on EVERY single accessory at extraordinarily inflated prices. ",
+        "term": "prices"
+    },
+    "24": {
+        "id": 24,
+        "polarity": "-",
+        "sentence": "The box included a little polyester, pull-string BAG, (yes, you read right a BAG, something a boy would carry ten marbles in) and tries to pass it off as the case. ",
+        "term": "case"
+    },
+    "25": {
+        "id": 25,
+        "polarity": "-",
+        "sentence": "If you want to purchase a real case or container or clip-on carrier for you Zen Micro, expect to purchase it separately and to dish out big time. . ",
+        "term": "case"
+    },
+    "26": {
+        "id": 26,
+        "polarity": "+",
+        "sentence": ") One outstanding positive feature is the battery. It holds a charge for a long time, longer than most other similar products and the user can replace it easily or take another along as a backup. ",
+        "term": "battery"
+    },
+    "27": {
+        "id": 27,
+        "polarity": "+",
+        "sentence": "Creative did well on its rechargeable battery feature. .",
+        "term": "rechargeable battery"
+    },
+    "28": {
+        "id": 28,
+        "polarity": "+",
+        "sentence": "The Zen Micro FM receiver is ok, not great. ",
+        "term": "FM receiver"
+    },
+    "29": {
+        "id": 29,
+        "polarity": "-",
+        "sentence": "IRiver has a better FM receiver built in, but the drawback to IRiver products is they are flimsy and poorly constructed. ",
+        "term": "FM receiver"
+    },
+    "30": {
+        "id": 30,
+        "polarity": "+",
+        "sentence": ") The Zen Micro appears sturdy and well constructed, hefty, if you will, far better than many of its competitors. . ",
+        "term": "constructed"
+    },
+    "31": {
+        "id": 31,
+        "polarity": "-",
+        "sentence": "As I wrote, this COULD have been a great product, but expect hidden charges (read gross profiteering and price gouging) as the company royally sticks you on every conceivable accessory necessary for normal daily usage.     ",
+        "term": "charges"
+    },
+    "32": {
+        "id": 32,
+        "polarity": "+",
+        "sentence": "Well, I have an Ipod mini - and I really like it, but all in all, I like the Zen Micro more.",
+        "term": "Zen Micro"
+    },
+    "33": {
+        "id": 33,
+        "polarity": "+",
+        "sentence": "Smaller size, 1 gb of more space, radio, voice recording, removable battery, cooler look, all in one.  ",
+        "term": " space"
+    },
+    "34": {
+        "id": 34,
+        "polarity": "+",
+        "sentence": "Smaller size, 1 gb of more space, radio, voice recording, removable battery, cooler look, all in one.  ",
+        "term": "size"
+    },
+    "35": {
+        "id": 35,
+        "polarity": "+",
+        "sentence": "Smaller size, 1 gb of more space, radio, voice recording, removable battery, cooler look, all in one.  ",
+        "term": " battery"
+    },
+    "36": {
+        "id": 36,
+        "polarity": "+",
+        "sentence": "Smaller size, 1 gb of more space, radio, voice recording, removable battery, cooler look, all in one.  ",
+        "term": " look"
+    },
+    "37": {
+        "id": 37,
+        "polarity": "-",
+        "sentence": "The touchpad is annoying sometimes (give me the click-wheel and pressable buttons any day), but not at all as difficult to get over as other people are saying.",
+        "term": "touchpad"
+    },
+    "38": {
+        "id": 38,
+        "polarity": "+",
+        "sentence": "I love how small the thing is, and the blue glow - I've had it for two weeks with no electronic problems at all.  ",
+        "term": "small"
+    },
+    "39": {
+        "id": 39,
+        "polarity": "+",
+        "sentence": "Creative Media Source is very easy to use once you get the hang of it, and the file transfers are fast.  ",
+        "term": " file transfers"
+    },
+    "40": {
+        "id": 40,
+        "polarity": "+",
+        "sentence": "Creative Media Source is very easy to use once you get the hang of it, and the file transfers are fast.  ",
+        "term": "Media Source"
+    },
+    "41": {
+        "id": 41,
+        "polarity": "+",
+        "sentence": "Sound quality is great, fm tuner is fine, as is the recorder.  ",
+        "term": " recorder"
+    },
+    "42": {
+        "id": 42,
+        "polarity": "+",
+        "sentence": "Sound quality is great, fm tuner is fine, as is the recorder.  ",
+        "term": "Sound"
+    },
+    "43": {
+        "id": 43,
+        "polarity": "+",
+        "sentence": "Sound quality is great, fm tuner is fine, as is the recorder.  ",
+        "term": " fm tuner"
+    },
+    "44": {
+        "id": 44,
+        "polarity": "+",
+        "sentence": "This is the mp3 player with everything I need.  As long as it lasts me a good three years, I'm satisfied.        ",
+        "term": "player"
+    },
+    "45": {
+        "id": 45,
+        "polarity": "+",
+        "sentence": "Also If you want a device that does soo much more than the Ipod mini but is at the same price, this is the player for you. ",
+        "term": "player"
+    },
+    "46": {
+        "id": 46,
+        "polarity": "-",
+        "sentence": "and supply those stupid white Headphones. ",
+        "term": "Headphones"
+    },
+    "47": {
+        "id": 47,
+        "polarity": "+",
+        "sentence": "Upon opening the box I was confronted with this small cute little MP3 player. ",
+        "term": "small"
+    },
+    "48": {
+        "id": 48,
+        "polarity": "+",
+        "sentence": "The software included is an easy installation and you have the option of using the Creative software, Windows Media Player 10, or simply Windows Explorer to move music back and forth between your Zen Touch. ",
+        "term": "installation"
+    },
+    "49": {
+        "id": 49,
+        "polarity": "-",
+        "sentence": "The touch pad does take a little getting used to. ",
+        "term": "touch pad"
+    },
+    "50": {
+        "id": 50,
+        "polarity": "+",
+        "sentence": "The package also comes with a USB cable, an AC adapter, a pair of headphones (they're okay until you get a better pair), a stand, and a microfiber pouch to carry your Zen Touch in.  ",
+        "term": "headphones"
+    },
+    "51": {
+        "id": 51,
+        "polarity": "+",
+        "sentence": "The package also comes with a USB cable, an AC adapter, a pair of headphones (they're okay until you get a better pair), a stand, and a microfiber pouch to carry your Zen Touch in.  ",
+        "term": " stand"
+    },
+    "52": {
+        "id": 52,
+        "polarity": "+",
+        "sentence": "The package also comes with a USB cable, an AC adapter, a pair of headphones (they're okay until you get a better pair), a stand, and a microfiber pouch to carry your Zen Touch in.  ",
+        "term": "adapter"
+    },
+    "53": {
+        "id": 53,
+        "polarity": "+",
+        "sentence": "The package also comes with a USB cable, an AC adapter, a pair of headphones (they're okay until you get a better pair), a stand, and a microfiber pouch to carry your Zen Touch in.  ",
+        "term": "cable"
+    },
+    "54": {
+        "id": 54,
+        "polarity": "+",
+        "sentence": "The package also comes with a USB cable, an AC adapter, a pair of headphones (they're okay until you get a better pair), a stand, and a microfiber pouch to carry your Zen Touch in.  ",
+        "term": "pouch"
+    },
+    "55": {
+        "id": 55,
+        "polarity": "+",
+        "sentence": "Overall I'm incredibly impressed with my new Zen Touch. ",
+        "term": "Zen Touch"
+    },
+    "56": {
+        "id": 56,
+        "polarity": "+",
+        "sentence": "It's cute as anything and the glowing blue LED looks super cool around the edges. ",
+        "term": "looks"
+    },
+    "57": {
+        "id": 57,
+        "polarity": "+",
+        "sentence": "For the price I think this is a remarkably fun MP3 player.",
+        "term": "player"
+    },
+    "58": {
+        "id": 58,
+        "polarity": "+",
+        "sentence": "I've had this player for more than 4 months and I'm very happy with it. ",
+        "term": "player"
+    },
+    "59": {
+        "id": 59,
+        "polarity": "+",
+        "sentence": "1 Speakers at home, I rarely use it with the earbuds, though they are much better than the ones you normally get with other mp3 players.  ",
+        "term": "Speakers"
+    },
+    "60": {
+        "id": 60,
+        "polarity": "+",
+        "sentence": "The Look & Feel: I have the black one and the contrasting neon blue on the buttons add a very nice ambience. ",
+        "term": " Feel"
+    },
+    "61": {
+        "id": 61,
+        "polarity": "+",
+        "sentence": "The Look & Feel: I have the black one and the contrasting neon blue on the buttons add a very nice ambience. ",
+        "term": "Look"
+    },
+    "62": {
+        "id": 62,
+        "polarity": "+",
+        "sentence": "The player itself is tiny , it gets a bit bulky when you put it in the hardcase, which you need to do if you don't want to get scrathes on the back(its a nice looking back too ). ",
+        "term": " back"
+    },
+    "63": {
+        "id": 63,
+        "polarity": "-",
+        "sentence": "The player itself is tiny , it gets a bit bulky when you put it in the hardcase, which you need to do if you don't want to get scrathes on the back(its a nice looking back too ). ",
+        "term": "tiny"
+    },
+    "64": {
+        "id": 64,
+        "polarity": "+",
+        "sentence": "It feels tiny in the hand without it. ",
+        "term": "feels"
+    },
+    "65": {
+        "id": 65,
+        "polarity": "+",
+        "sentence": "The stand that comes with it is very useful to prop it up on the desk. ",
+        "term": "stand"
+    },
+    "66": {
+        "id": 66,
+        "polarity": "+",
+        "sentence": "The blue backlit LCD looks really neat and is easy to read. ",
+        "term": "looks"
+    },
+    "67": {
+        "id": 67,
+        "polarity": "+",
+        "sentence": "The blue backlit LCD looks really neat and is easy to read. ",
+        "term": " read"
+    },
+    "68": {
+        "id": 68,
+        "polarity": "-",
+        "sentence": "The touch controls took a little getting used to but now I wouldn't change it for the scroll wheel. ",
+        "term": "touch controls"
+    },
+    "69": {
+        "id": 69,
+        "polarity": "+",
+        "sentence": "The touch buttons are textured so that your finger sdon't slip which was very thoughtful.   ",
+        "term": "touch buttons"
+    },
+    "70": {
+        "id": 70,
+        "polarity": "+",
+        "sentence": "Reliability & Build  I dropped the player once from about 4 ft, and it fell hard, but kept on playing. ",
+        "term": "Build"
+    },
+    "71": {
+        "id": 71,
+        "polarity": "+",
+        "sentence": "The hardcase they give with it must work well.  ",
+        "term": "hardcase"
+    },
+    "72": {
+        "id": 72,
+        "polarity": "+",
+        "sentence": "It feels solid and not flimsy like the carbon.  ",
+        "term": "solid"
+    },
+    "73": {
+        "id": 73,
+        "polarity": "+",
+        "sentence": "Sound  I'm no audiophile but I was amazed by the clarity the player had, it was much better than the sound card on my Computer and louder too. ",
+        "term": "sound"
+    },
+    "74": {
+        "id": 74,
+        "polarity": "+",
+        "sentence": "I have had the ipod mini and it performs on the level with my sound card but the micro beats it outright.  ",
+        "term": "sound"
+    },
+    "75": {
+        "id": 75,
+        "polarity": "+",
+        "sentence": "Best of all the WMAs(I have a lot of them) sound great.  ",
+        "term": "sound"
+    },
+    "76": {
+        "id": 76,
+        "polarity": "+",
+        "sentence": "Utility Its got a huge list of features including an FM Recorder a Calender and contacts list. ",
+        "term": "features"
+    },
+    "77": {
+        "id": 77,
+        "polarity": "+",
+        "sentence": "The songs recorded with FM are as good as the original signal. ",
+        "term": "recorded"
+    },
+    "78": {
+        "id": 78,
+        "polarity": "-",
+        "sentence": "Software The software that comes along with it is not very intuitive but once you are used to it,it  does the job well. ",
+        "term": "software"
+    },
+    "79": {
+        "id": 79,
+        "polarity": "+",
+        "sentence": "Creating and modifying playlists is easy and clean.  ",
+        "term": "playlists"
+    },
+    "80": {
+        "id": 80,
+        "polarity": "-",
+        "sentence": "There are 2 things that need fixing  First is the battery life. It will run for 6 hrs without problems with medium usage of the buttons. ",
+        "term": "battery life"
+    },
+    "81": {
+        "id": 81,
+        "polarity": "-",
+        "sentence": "Second might be a problem I might have with my PC but not too sure, when the player is connected on the USB and I start playing on it and also using the windows explorer, it sometimes pauses by itself and tries to synchronise with the PC during play, which is a bit irritating.     ",
+        "term": "USB"
+    },
+    "82": {
+        "id": 82,
+        "polarity": "+",
+        "sentence": "I think that for its price compared to the ipod the creative zen is pretty good.  ",
+        "term": "creative zen"
+    },
+    "83": {
+        "id": 83,
+        "polarity": "-",
+        "sentence": "HOWEVER after just one month my headphone jack was BROKEN as a result of normal, every-day use.  ",
+        "term": "headphone jack"
+    },
+    "84": {
+        "id": 84,
+        "polarity": "+",
+        "sentence": "The good news is that the creative support is very responsive and after some emails and postal exchanges, i had a new zen.  ",
+        "term": "support"
+    },
+    "85": {
+        "id": 85,
+        "polarity": "-",
+        "sentence": "i dont especially like how music files are unstructured; basically they are just dumped into one folder with no organization, like you might have in windows explorer folders and subfolders.  ",
+        "term": "organization"
+    },
+    "86": {
+        "id": 86,
+        "polarity": "+",
+        "sentence": "the sound is quite good, in terms of volume.  ",
+        "term": "sound"
+    },
+    "87": {
+        "id": 87,
+        "polarity": "-",
+        "sentence": "the headphones are not very comfortable, but most people have a certain style they like so just go buy new ones or keep the ones you have.  ",
+        "term": "headphones"
+    },
+    "88": {
+        "id": 88,
+        "polarity": "+",
+        "sentence": "i didnt have any installation problems; and the touch pad is fine, even if it is sort of inaccurate.  ",
+        "term": " touch pad"
+    },
+    "89": {
+        "id": 89,
+        "polarity": "+",
+        "sentence": "i didnt have any installation problems; and the touch pad is fine, even if it is sort of inaccurate.  ",
+        "term": "installation"
+    },
+    "90": {
+        "id": 90,
+        "polarity": "+",
+        "sentence": "i didnt get ipod because i dont especially like itunes (no music i want, but thats just me) and the creative product was cheaper; and i needed to be able to use WMA files.  ",
+        "term": "cheaper"
+    },
+    "91": {
+        "id": 91,
+        "polarity": "+",
+        "sentence": "i didnt get ipod because i dont especially like itunes (no music i want, but thats just me) and the creative product was cheaper; and i needed to be able to use WMA files.  ",
+        "term": "WMA files"
+    },
+    "92": {
+        "id": 92,
+        "polarity": "+",
+        "sentence": "all-in-all, its good enough for its price as long as it doesnt break again due to normal use.       ",
+        "term": "price"
+    },
+    "93": {
+        "id": 93,
+        "polarity": "-",
+        "sentence": "The Creative MediaSource software that comes with the Zen Micro is cluttered, and excludes my favorite feature in iTunes, the ability to automatically copy everything you import into a certain folder. ",
+        "term": "software"
+    },
+    "94": {
+        "id": 94,
+        "polarity": "-",
+        "sentence": "The Creative MediaSource software that comes with the Zen Micro is cluttered, and excludes my favorite feature in iTunes, the ability to automatically copy everything you import into a certain folder. ",
+        "term": " feature"
+    },
+    "95": {
+        "id": 95,
+        "polarity": "-",
+        "sentence": "NAGATIVES of the Player itself:  You need to do a little work before having full enjoyement of this player.  ",
+        "term": "Player"
+    },
+    "96": {
+        "id": 96,
+        "polarity": "-",
+        "sentence": "Even on the LOW sensitivy level, a slight touch can skip or pause the track.  ",
+        "term": "sensitivy"
+    },
+    "97": {
+        "id": 97,
+        "polarity": "-",
+        "sentence": "This fixes some glitches such as the player freezing.    ",
+        "term": "player"
+    },
+    "98": {
+        "id": 98,
+        "polarity": "+",
+        "sentence": "The battery is removable. ",
+        "term": "battery"
+    },
+    "99": {
+        "id": 99,
+        "polarity": "+",
+        "sentence": " FM radio built in (Howard Stern).  ",
+        "term": "FM radio"
+    },
+    "100": {
+        "id": 100,
+        "polarity": "+",
+        "sentence": "Record memos using the built in microphone.  ",
+        "term": "microphone"
+    },
+    "101": {
+        "id": 101,
+        "polarity": "+",
+        "sentence": "The player looks SO much better when you're actually holding it. ",
+        "term": "looks"
+    },
+    "102": {
+        "id": 102,
+        "polarity": "+",
+        "sentence": "The back of the player is nice too, with water ripples inside the clear white coating.  ",
+        "term": "back"
+    },
+    "103": {
+        "id": 103,
+        "polarity": "+",
+        "sentence": "You can use it as a storage Hard Drive.    ",
+        "term": "storage"
+    },
+    "104": {
+        "id": 104,
+        "polarity": "+",
+        "sentence": "I have no problem using iTunes with the Zen Micro (in a makeshift sorta way).   ",
+        "term": "iTunes"
+    },
+    "105": {
+        "id": 105,
+        "polarity": "-",
+        "sentence": "First thing I noticed was that the creative wasn't well made. ",
+        "term": "made"
+    },
+    "106": {
+        "id": 106,
+        "polarity": "-",
+        "sentence": "One drop from a pocket or desktop, and it'd be a goner.  ",
+        "term": "player"
+    },
+    "107": {
+        "id": 107,
+        "polarity": "-",
+        "sentence": " Problems with the sound quality were evident right away, but even I couldn't imagine they'd be that bad. ",
+        "term": "sound"
+    },
+    "108": {
+        "id": 108,
+        "polarity": "-",
+        "sentence": "The eq is awful, and even at top volumes, the bass is flat sounding. ",
+        "term": " bass"
+    },
+    "109": {
+        "id": 109,
+        "polarity": "-",
+        "sentence": "The eq is awful, and even at top volumes, the bass is flat sounding. ",
+        "term": "eq"
+    },
+    "110": {
+        "id": 110,
+        "polarity": "-",
+        "sentence": "Cranking the master volume level up past the mark of the bar only leads to distortion and compromised sound quality. ",
+        "term": "volume "
+    },
+    "111": {
+        "id": 111,
+        "polarity": "-",
+        "sentence": "The headphone jack gave out after only a couple weeks of use, and the stock earbuds were replaced same day with some high end sony's I'd been having. ",
+        "term": "headphone jack"
+    },
+    "112": {
+        "id": 112,
+        "polarity": "-",
+        "sentence": "If you've been listening to cd's in your car for awhile, dealing with the drop-off in sound quality may take some getting used to. ",
+        "term": "sound"
+    },
+    "113": {
+        "id": 113,
+        "polarity": "+",
+        "sentence": "However, if there was one thing I liked about the creative, it would be the car adapter. ",
+        "term": "car adapter"
+    },
+    "114": {
+        "id": 114,
+        "polarity": "-",
+        "sentence": "Even after all the nightmare sound problems, I'd still half-way like this product if it kept it's promise; the ability to store 1500 songs. ",
+        "term": "storage"
+    },
+    "115": {
+        "id": 115,
+        "polarity": "-",
+        "sentence": "I got about 700 loaded up before it told me I was full, and at that point, I was ready to toss it out the window.   ",
+        "term": "storage"
+    },
+    "116": {
+        "id": 116,
+        "polarity": "-",
+        "sentence": "My friend has an ipod, and although the sound quality probably won't meet most audiophile standards, the product itself is better than anything creative has made.",
+        "term": "creative"
+    },
+    "117": {
+        "id": 117,
+        "polarity": "+",
+        "sentence": "While they all seem to have their own positives and negatives, I picked the Zen Micro over the Ipod mini, because I am not an Apple person, never has been - I wanted something that is fully compatible with Windows Media Player. ",
+        "term": "compatibility with windows media player"
+    },
+    "118": {
+        "id": 118,
+        "polarity": "+",
+        "sentence": "Also, the WMA compression format is superior to MP3, especially at lower bit rates, so I needed a player that could handle WMA and integrate well with my Windows XP computers.  ",
+        "term": "format"
+    },
+    "119": {
+        "id": 119,
+        "polarity": "+",
+        "sentence": "I was fortunate to get the packaging that still included all the accessories (desk stand/hard case, belt clip, wall charger, etc). ",
+        "term": "accessories"
+    },
+    "120": {
+        "id": 120,
+        "polarity": "+",
+        "sentence": "And so far, I have been very, very happy with my Zen Micro. ",
+        "term": "Zen Micro"
+    },
+    "121": {
+        "id": 121,
+        "polarity": "+",
+        "sentence": "It's being used daily and I have had none of the problems reported by other reviewers (headphone jack, player locking up, etc). ",
+        "term": "working"
+    },
+    "122": {
+        "id": 122,
+        "polarity": "+",
+        "sentence": "The Micro has an impressive array of very nice features and a well designed user interface. ",
+        "term": " user interface"
+    },
+    "123": {
+        "id": 123,
+        "polarity": "+",
+        "sentence": "The Micro has an impressive array of very nice features and a well designed user interface. ",
+        "term": "features"
+    },
+    "124": {
+        "id": 124,
+        "polarity": "+",
+        "sentence": "What I like the most:  - Small and solid feel. ",
+        "term": "feel"
+    },
+    "125": {
+        "id": 125,
+        "polarity": "+",
+        "sentence": "The Zen Micro is smaller than it looks in pictures, and feels very solid. ",
+        "term": "size"
+    },
+    "126": {
+        "id": 126,
+        "polarity": "+",
+        "sentence": "The Zen Micro is smaller than it looks in pictures, and feels very solid. ",
+        "term": "feel"
+    },
+    "127": {
+        "id": 127,
+        "polarity": "+",
+        "sentence": "The blue backlight is pretty cool. ",
+        "term": "backlight"
+    },
+    "128": {
+        "id": 128,
+        "polarity": "+",
+        "sentence": "The screen is clear and readable, and the touch pad works very well, it took me less than a day to get the hang of it, and now I like it better than having to click buttons or fiddle with a separate volume control.  ",
+        "term": "screen"
+    },
+    "129": {
+        "id": 129,
+        "polarity": "+",
+        "sentence": "The screen is clear and readable, and the touch pad works very well, it took me less than a day to get the hang of it, and now I like it better than having to click buttons or fiddle with a separate volume control.  ",
+        "term": " touchpad"
+    },
+    "130": {
+        "id": 130,
+        "polarity": "+",
+        "sentence": "- Great sound! I was very impressed, I encode at 192 kbps and the audio quality is great, especially with the better headphones. ",
+        "term": " audio quality"
+    },
+    "131": {
+        "id": 131,
+        "polarity": "+",
+        "sentence": "- Great sound! I was very impressed, I encode at 192 kbps and the audio quality is great, especially with the better headphones. ",
+        "term": "sound"
+    },
+    "132": {
+        "id": 132,
+        "polarity": "+",
+        "sentence": "The first thing I did was upgrade the firmware to the version required for WMP10, it syncs flawlessly with Media Player and transfers are fast.  ",
+        "term": " sync with media player"
+    },
+    "133": {
+        "id": 133,
+        "polarity": "+",
+        "sentence": "The first thing I did was upgrade the firmware to the version required for WMP10, it syncs flawlessly with Media Player and transfers are fast.  ",
+        "term": "transfer"
+    },
+    "134": {
+        "id": 134,
+        "polarity": "+",
+        "sentence": "- Replaceable battery. ",
+        "term": "battery"
+    },
+    "135": {
+        "id": 135,
+        "polarity": "+",
+        "sentence": "With the right firmware, drag and drop to and from the player like any other jump drive.  ",
+        "term": "interface"
+    },
+    "136": {
+        "id": 136,
+        "polarity": "+",
+        "sentence": "I have not yet used all the features, like the calendar, etc, but as a music player this little thing rocks.  ",
+        "term": "player"
+    },
+    "137": {
+        "id": 137,
+        "polarity": "-",
+        "sentence": "The only reason for not giving it 5 stars: the claimed battery life of 12 hours is very optimistic - possible maybe if you really sit down and listen continuously for 12 hours without ever touching the player, but in real life I can probably get 6-8 hours at most. ",
+        "term": "battery life"
+    },
+    "138": {
+        "id": 138,
+        "polarity": "-",
+        "sentence": "Even the \"shorter\" battery life, though, has not impaired my positive experience with the Zen Micro in any way. ",
+        "term": "battery life"
+    },
+    "139": {
+        "id": 139,
+        "polarity": "+",
+        "sentence": "If you can get one with all the accessories and a cheap extended warranty, this is the player to get! Highly recommended.     ",
+        "term": " player"
+    },
+    "140": {
+        "id": 140,
+        "polarity": "+",
+        "sentence": "If you can get one with all the accessories and a cheap extended warranty, this is the player to get! Highly recommended.     ",
+        "term": " accessories"
+    },
+    "141": {
+        "id": 141,
+        "polarity": "+",
+        "sentence": "If you can get one with all the accessories and a cheap extended warranty, this is the player to get! Highly recommended.     ",
+        "term": "warranty price"
+    },
+    "142": {
+        "id": 142,
+        "polarity": "+",
+        "sentence": "The Micro seeemed like an iPod for less. ",
+        "term": "price"
+    },
+    "143": {
+        "id": 143,
+        "polarity": "+",
+        "sentence": "Pros: - Excellent sound, even with the headphones that come out of the box, but it absolutely rocked with my Bose Quietcomfort 2 set. ",
+        "term": "sound"
+    },
+    "144": {
+        "id": 144,
+        "polarity": "+",
+        "sentence": "- Looks sleek, compact, has a radio.  ",
+        "term": "look"
+    },
+    "145": {
+        "id": 145,
+        "polarity": "+",
+        "sentence": "- Looks sleek, compact, has a radio.  ",
+        "term": " size"
+    },
+    "146": {
+        "id": 146,
+        "polarity": "-",
+        "sentence": "Limitations: - Not a lot of original accessories like the iPod. ",
+        "term": "accessories"
+    },
+    "147": {
+        "id": 147,
+        "polarity": "-",
+        "sentence": "- The battery life leaves a lot to be desired. ",
+        "term": "battery life"
+    },
+    "148": {
+        "id": 148,
+        "polarity": "-",
+        "sentence": "I downloaded the new firmware which was supposed to take care of the problem, but it hasn't worked. ",
+        "term": "firmware"
+    },
+    "149": {
+        "id": 149,
+        "polarity": "-",
+        "sentence": "- The outlook synch only works for non recurring appointments, which personally is very annoying to me but probably wont be to most people. -",
+        "term": "outlook sync"
+    },
+    "150": {
+        "id": 150,
+        "polarity": "-",
+        "sentence": "I occassionally flip songs while working out as i accidently hit the pad even lightly (yes i have it in maximum desensitized mode). ",
+        "term": "touchpad"
+    },
+    "151": {
+        "id": 151,
+        "polarity": "-",
+        "sentence": "- Not compatible with Audible.com books.  ",
+        "term": "audible.com book compatibility"
+    },
+    "152": {
+        "id": 152,
+        "polarity": "-",
+        "sentence": "Overall, it does its basic function very well, but we expect more from the mp3 players today and the Zen Micro does not rise to the occassion.     ",
+        "term": "Zen Micro"
+    },
+    "153": {
+        "id": 153,
+        "polarity": "+",
+        "sentence": "Don't worry this player rocks.  ",
+        "term": "player"
+    },
+    "154": {
+        "id": 154,
+        "polarity": "+",
+        "sentence": "It was also the most appealing.   ",
+        "term": "appeal"
+    },
+    "155": {
+        "id": 155,
+        "polarity": "+",
+        "sentence": "For the Zen Creative focused on packaging which looked well thought out, well presented and easy to open and put back together.  ",
+        "term": "packing"
+    },
+    "156": {
+        "id": 156,
+        "polarity": "+",
+        "sentence": "It has a cardboard slip cover with a nice layered box casing inside.  ",
+        "term": "casing"
+    },
+    "157": {
+        "id": 157,
+        "polarity": "+",
+        "sentence": "A distinct IPod relation is evident with white colored cables, power plug and the very nice Zen case with a white rubber inside covering.  ",
+        "term": "case"
+    },
+    "158": {
+        "id": 158,
+        "polarity": "+",
+        "sentence": "I do give create to Creative for their attractive design.    ",
+        "term": "design"
+    },
+    "159": {
+        "id": 159,
+        "polarity": "+",
+        "sentence": "Creative has put a lot of effort into making this player appeal to those true geeks that search for coolness and functionality in electronic devices. ",
+        "term": "functionality"
+    },
+    "160": {
+        "id": 160,
+        "polarity": "+",
+        "sentence": "Creative was defiantly giving the IPod a run for their money with this device.  ",
+        "term": "player"
+    },
+    "161": {
+        "id": 161,
+        "polarity": "+",
+        "sentence": "It makes the Nomad I purchase feel and look like junk.  ",
+        "term": "player"
+    },
+    "162": {
+        "id": 162,
+        "polarity": "+",
+        "sentence": "Everything shines of quality.  ",
+        "term": "quality"
+    },
+    "163": {
+        "id": 163,
+        "polarity": "+",
+        "sentence": "I was more excited about this player upon opening than I was about the Nomad.  ",
+        "term": "player"
+    },
+    "164": {
+        "id": 164,
+        "polarity": "+",
+        "sentence": "I am now staring at an array of stuff including Zen Micro player, stereo earbud headphones, a rechargeable lithium-ion battery, an AC/DC power adapter, a USB 2.0 cable, a belt-clip, a stand, a stylish cloth pouch, an installation CD, a quick-start guide, and Creative MediaSource software.  ",
+        "term": "accessories"
+    },
+    "165": {
+        "id": 165,
+        "polarity": "+",
+        "sentence": "The interface works great.  ",
+        "term": "interface"
+    },
+    "166": {
+        "id": 166,
+        "polarity": "+",
+        "sentence": "I enjoy getting use to the touch pad. ",
+        "term": "touchpad"
+    },
+    "167": {
+        "id": 167,
+        "polarity": "+",
+        "sentence": "In minutes I was easily navigating through the menus.  ",
+        "term": "navigation"
+    },
+    "168": {
+        "id": 168,
+        "polarity": "+",
+        "sentence": "What impressed me most was the sound.  ",
+        "term": "sound"
+    },
+    "169": {
+        "id": 169,
+        "polarity": "+",
+        "sentence": "At 128 the songs sound very good.  ",
+        "term": "sound"
+    },
+    "170": {
+        "id": 170,
+        "polarity": "+",
+        "sentence": "The Zen lives up to the audio quality I love and expect.  ",
+        "term": "audio quality"
+    },
+    "171": {
+        "id": 171,
+        "polarity": "+",
+        "sentence": "The Earbuds are great headphones as good as my AGK Studio 240, well not as good but darn close.  ",
+        "term": "headphones"
+    },
+    "172": {
+        "id": 172,
+        "polarity": "+",
+        "sentence": "The Zen was an impressive purchase and I would highly recommend it to anyone using Napster.  ",
+        "term": "Zen"
+    },
+    "173": {
+        "id": 173,
+        "polarity": "+",
+        "sentence": "I absolutely love it. ",
+        "term": "player"
+    },
+    "174": {
+        "id": 174,
+        "polarity": "+",
+        "sentence": "It's so small. ",
+        "term": "size"
+    },
+    "175": {
+        "id": 175,
+        "polarity": "+",
+        "sentence": "It looks sleek and modern. ",
+        "term": "look"
+    },
+    "176": {
+        "id": 176,
+        "polarity": "+",
+        "sentence": "It holds plenty of songs. ",
+        "term": "storage"
+    },
+    "177": {
+        "id": 177,
+        "polarity": "+",
+        "sentence": "The sound is amazing. ",
+        "term": "sound"
+    },
+    "178": {
+        "id": 178,
+        "polarity": "+",
+        "sentence": "The menu is easy to use and understand. ",
+        "term": "menu"
+    },
+    "179": {
+        "id": 179,
+        "polarity": "+",
+        "sentence": "I love the touchpade controls. ",
+        "term": "touchpad controls"
+    },
+    "180": {
+        "id": 180,
+        "polarity": "+",
+        "sentence": "They're easy to use. ",
+        "term": "touchpad controls"
+    },
+    "181": {
+        "id": 181,
+        "polarity": "+",
+        "sentence": "The radio and voice recording are nice. ",
+        "term": "radio"
+    },
+    "182": {
+        "id": 182,
+        "polarity": "+",
+        "sentence": "The radio and voice recording are nice. ",
+        "term": " voice recording"
+    },
+    "183": {
+        "id": 183,
+        "polarity": "+",
+        "sentence": "The earbud headphones are really nice. ",
+        "term": "headphones"
+    },
+    "184": {
+        "id": 184,
+        "polarity": "+",
+        "sentence": "The battery has a long life. ",
+        "term": "batterylife"
+    },
+    "185": {
+        "id": 185,
+        "polarity": "+",
+        "sentence": "It's rechargable and supposedly easy to replace though I haven't had to do it yet of course. ",
+        "term": "battery replacement"
+    },
+    "186": {
+        "id": 186,
+        "polarity": "+",
+        "sentence": "The file ripping/transfering software that comes with the player is easy to use. ",
+        "term": "file transfer/rip software"
+    },
+    "187": {
+        "id": 187,
+        "polarity": "+",
+        "sentence": "It's faster than WMP. ",
+        "term": "file transfer"
+    },
+    "188": {
+        "id": 188,
+        "polarity": "+",
+        "sentence": "So far I have no complaints with this player. ",
+        "term": "player"
+    },
+    "189": {
+        "id": 189,
+        "polarity": "+",
+        "sentence": "If anyone is thinkning of getting an ipod mini, forget it and go with this player. ",
+        "term": "player"
+    },
+    "190": {
+        "id": 190,
+        "polarity": "+",
+        "sentence": "It's cheaper, holds more songs and is smaller.      ",
+        "term": "price"
+    },
+    "191": {
+        "id": 191,
+        "polarity": "+",
+        "sentence": "It's cheaper, holds more songs and is smaller.      ",
+        "term": " storage"
+    },
+    "192": {
+        "id": 192,
+        "polarity": "+",
+        "sentence": "It's cheaper, holds more songs and is smaller.      ",
+        "term": " size"
+    },
+    "193": {
+        "id": 193,
+        "polarity": "+",
+        "sentence": "I have stored 40 audio CDs and i still have close to 2.8 GB free.   ",
+        "term": "storage"
+    },
+    "194": {
+        "id": 194,
+        "polarity": "+",
+        "sentence": "User Interface: The software is simple and straight forward. ",
+        "term": "software"
+    },
+    "195": {
+        "id": 195,
+        "polarity": "-",
+        "sentence": "PC software that comes with the player is not as simple as i Tunes but its not bad at all. ",
+        "term": "PC  software"
+    },
+    "196": {
+        "id": 196,
+        "polarity": "-",
+        "sentence": "The scrol bar agian takes some getting used to. ",
+        "term": "scroll bar"
+    },
+    "197": {
+        "id": 197,
+        "polarity": "+",
+        "sentence": "You can use the player to store your computer data files (Good feature to have).   ",
+        "term": "storage "
+    },
+    "198": {
+        "id": 198,
+        "polarity": "+",
+        "sentence": "Battery : A Big Big plus. ",
+        "term": "Battery"
+    },
+    "199": {
+        "id": 199,
+        "polarity": "+",
+        "sentence": "Most of the other players I checked dont have user servicable battery. ",
+        "term": "battery usage"
+    },
+    "200": {
+        "id": 200,
+        "polarity": "+",
+        "sentence": "Each battery lasts about 10-11 hours. ",
+        "term": "battery life"
+    },
+    "201": {
+        "id": 201,
+        "polarity": "+",
+        "sentence": "Another good feature is that you can charge the battery by just connecting the player to your computer using the USB cable.  ",
+        "term": "battery charging"
+    },
+    "202": {
+        "id": 202,
+        "polarity": "+",
+        "sentence": "FM tuner & Microphone : Having a tuner in the player is a blessing. ",
+        "term": "FM tuner"
+    },
+    "203": {
+        "id": 203,
+        "polarity": "-",
+        "sentence": "Since zen does not have an external antena it has some problems catching weak signals but it works. ",
+        "term": "FM reception"
+    },
+    "204": {
+        "id": 204,
+        "polarity": "+",
+        "sentence": "Builtin microphone is great for recording short voice notes. ",
+        "term": "microphone"
+    },
+    "205": {
+        "id": 205,
+        "polarity": "+",
+        "sentence": "Sound: This is where I love Zen the most. ",
+        "term": "sound"
+    },
+    "206": {
+        "id": 206,
+        "polarity": "+",
+        "sentence": "Excellent sound I mean the player has juice. ",
+        "term": "sound"
+    },
+    "207": {
+        "id": 207,
+        "polarity": "+",
+        "sentence": "The bass treble the sound detail is awsome. ",
+        "term": " treble"
+    },
+    "208": {
+        "id": 208,
+        "polarity": "+",
+        "sentence": "The bass treble the sound detail is awsome. ",
+        "term": "bass"
+    },
+    "209": {
+        "id": 209,
+        "polarity": "+",
+        "sentence": "I compared it to other CD players (Two models of Panasonic, Rio & samsung) and they were no way even near Zen Micro.  ",
+        "term": "player"
+    },
+    "210": {
+        "id": 210,
+        "polarity": "+",
+        "sentence": "Looks and shape: I have a black one and the first time I charged it and switched it on jeez the blue light looked so cool. ",
+        "term": "look"
+    },
+    "211": {
+        "id": 211,
+        "polarity": "+",
+        "sentence": "Its compact and has rounded edges. ",
+        "term": "size"
+    },
+    "212": {
+        "id": 212,
+        "polarity": "+",
+        "sentence": "Fits well in hand in trouser pockets.   ",
+        "term": "size"
+    },
+    "213": {
+        "id": 213,
+        "polarity": "+",
+        "sentence": "Freebies you get: A cradle with detachable stand and belt clip, some thing very handy and useful. ",
+        "term": " stand"
+    },
+    "214": {
+        "id": 214,
+        "polarity": "+",
+        "sentence": "Freebies you get: A cradle with detachable stand and belt clip, some thing very handy and useful. ",
+        "term": "belt clip"
+    },
+    "215": {
+        "id": 215,
+        "polarity": "-",
+        "sentence": "I dont use the belt clip cuz it fails to hold the player securely (design problem). ",
+        "term": "belt clip"
+    },
+    "216": {
+        "id": 216,
+        "polarity": "-",
+        "sentence": "I dont use the belt clip cuz it fails to hold the player securely (design problem). ",
+        "term": " design"
+    },
+    "217": {
+        "id": 217,
+        "polarity": "+",
+        "sentence": "You get a USB cable headphones, a pouch, software except headphones you will like every thing else.  ",
+        "term": " accessories"
+    },
+    "218": {
+        "id": 218,
+        "polarity": "-",
+        "sentence": "You get a USB cable headphones, a pouch, software except headphones you will like every thing else.  ",
+        "term": "headphones"
+    },
+    "219": {
+        "id": 219,
+        "polarity": "-",
+        "sentence": "What I dont like: Nothing much except Headphones, Belt clip design. ",
+        "term": " beltclip design"
+    },
+    "220": {
+        "id": 220,
+        "polarity": "-",
+        "sentence": "What I dont like: Nothing much except Headphones, Belt clip design. ",
+        "term": "headphones"
+    },
+    "221": {
+        "id": 221,
+        "polarity": "+",
+        "sentence": "FM transmitter (belkin has a good one) to use Zen with your car Sterio FM Tunner   Latest Find: Connected this baby to my $3800 audiophile audio system and it produced clean sound compared to Ipod. ",
+        "term": "sound"
+    },
+    "222": {
+        "id": 222,
+        "polarity": "+",
+        "sentence": "Thankfully, Creative has come through with a product that puts the Ipod back in its place.  ",
+        "term": "player"
+    },
+    "223": {
+        "id": 223,
+        "polarity": "+",
+        "sentence": "While I have not had the \"privilege\", as many call it, of owning an Ipod, based on the experience of friends who have had some misfortune with their Ipod (and subsequently purchased the Zen Touch or Zen Micro), I can pretty much rest assured that my decision to purchase the Zen Micro was one of the more informed ones.",
+        "term": "Zen micro"
+    },
+    "224": {
+        "id": 224,
+        "polarity": "+",
+        "sentence": "By focusing exclusively on quality rather than excessive marketing, they have introduced a player that can look the Ipod straight in the eye and not flinch.  ",
+        "term": "player"
+    },
+    "225": {
+        "id": 225,
+        "polarity": "+",
+        "sentence": "While I'm not too keen on their customer service (none of the products I have from Creative have given me issues), I can definitely recommend the Zen Micro for the simple fact that it does exactly what it is supposed to do and more...without needing any of the extra hype except word of mouth.  ",
+        "term": "Zen micro"
+    },
+    "226": {
+        "id": 226,
+        "polarity": "+",
+        "sentence": "About the product:  The Zen Micro is a sleek, stylish device that caters not just to \"hip\" youngsters but to people of all walks of life who like to listen on the go without having to worry frequently about battery life, size, or the \"awkward\" factor.  ",
+        "term": "look"
+    },
+    "227": {
+        "id": 227,
+        "polarity": "+",
+        "sentence": "About the product:  The Zen Micro is a sleek, stylish device that caters not just to \"hip\" youngsters but to people of all walks of life who like to listen on the go without having to worry frequently about battery life, size, or the \"awkward\" factor.  ",
+        "term": " battery life"
+    },
+    "228": {
+        "id": 228,
+        "polarity": "+",
+        "sentence": "About the product:  The Zen Micro is a sleek, stylish device that caters not just to \"hip\" youngsters but to people of all walks of life who like to listen on the go without having to worry frequently about battery life, size, or the \"awkward\" factor.  ",
+        "term": " size"
+    },
+    "229": {
+        "id": 229,
+        "polarity": "+",
+        "sentence": "It fits comfortably in my shirt pocket and while very well-designed, doesn't look to ostentatious while I'm walking around with it.  ",
+        "term": " design"
+    },
+    "230": {
+        "id": 230,
+        "polarity": "+",
+        "sentence": "It fits comfortably in my shirt pocket and while very well-designed, doesn't look to ostentatious while I'm walking around with it.  ",
+        "term": "size"
+    },
+    "231": {
+        "id": 231,
+        "polarity": "+",
+        "sentence": "The interface, while a bit confusing at first, is very easy to navigate after about 15 minutes.  ",
+        "term": "interface"
+    },
+    "232": {
+        "id": 232,
+        "polarity": "+",
+        "sentence": "Battery life is exceptional, lasting longer than the 8-10 hours that seem reasonable with most music players on the market.  ",
+        "term": "battery life"
+    },
+    "233": {
+        "id": 233,
+        "polarity": "+",
+        "sentence": "Transferring files couldn't be easier thanks to the included software bundle.  ",
+        "term": " software"
+    },
+    "234": {
+        "id": 234,
+        "polarity": "+",
+        "sentence": "Transferring files couldn't be easier thanks to the included software bundle.  ",
+        "term": "file transfer"
+    },
+    "235": {
+        "id": 235,
+        "polarity": "+",
+        "sentence": "Also, I am quite partial to the Creative MediaSource Organizer and Player software, which I had with Audigy ZS sound card originally; it is definitely an added plus.  ",
+        "term": "software"
+    },
+    "236": {
+        "id": 236,
+        "polarity": "+",
+        "sentence": "Also, I am quite partial to the Creative MediaSource Organizer and Player software, which I had with Audigy ZS sound card originally; it is definitely an added plus.  ",
+        "term": "organizer"
+    },
+    "237": {
+        "id": 237,
+        "polarity": "+",
+        "sentence": "All-in-all, Creative has definitely come up with a winner in terms of product design and features, and I look forward to the Nomad/Zen line of products seizing more market share as people begin to realize that quality is a better determinant of experience than quantity and hype.  ",
+        "term": " features"
+    },
+    "238": {
+        "id": 238,
+        "polarity": "+",
+        "sentence": "All-in-all, Creative has definitely come up with a winner in terms of product design and features, and I look forward to the Nomad/Zen line of products seizing more market share as people begin to realize that quality is a better determinant of experience than quantity and hype.  ",
+        "term": "design"
+    },
+    "239": {
+        "id": 239,
+        "polarity": "-",
+        "sentence": "P.S.  The only snag I encountered while initially configuring the device was trying to hook up the Micro to a front USB port.  The bus for the front port on my motherboard did not have enough power; after connecting it to the rear ports, it works perfectly.     ",
+        "term": "configuration"
+    },
+    "240": {
+        "id": 240,
+        "polarity": "+",
+        "sentence": "This device looks pretty nice but it's really not very competitive.  ",
+        "term": "look"
+    },
+    "241": {
+        "id": 241,
+        "polarity": "-",
+        "sentence": "This device looks pretty nice but it's really not very competitive.  ",
+        "term": " player"
+    },
+    "242": {
+        "id": 242,
+        "polarity": "-",
+        "sentence": "The iPod mini is smaller and sexier, albeit limited in supported formats and the Rio Karma is a far better value.  ",
+        "term": "player"
+    },
+    "243": {
+        "id": 243,
+        "polarity": "-",
+        "sentence": "The karma is only $5 more, it's small, had a 20 gig drive and supports more formats including ogg.  ",
+        "term": "storage"
+    },
+    "244": {
+        "id": 244,
+        "polarity": "-",
+        "sentence": "The karma is only $5 more, it's small, had a 20 gig drive and supports more formats including ogg.  ",
+        "term": " format"
+    },
+    "245": {
+        "id": 245,
+        "polarity": "+",
+        "sentence": "The karma doesn't look as sexy but it's interface is very efficiently designed.  ",
+        "term": "look"
+    },
+    "246": {
+        "id": 246,
+        "polarity": "-",
+        "sentence": "The karma doesn't look as sexy but it's interface is very efficiently designed.  ",
+        "term": " interface"
+    },
+    "247": {
+        "id": 247,
+        "polarity": "+",
+        "sentence": "Initially, I was very impressed, after loading 180 songs it seemed to function very well but then it would lock up on me and a battery removal remedied this, I then downloaded the upgrades and everything seemed to be alright. ",
+        "term": "functioning"
+    },
+    "248": {
+        "id": 248,
+        "polarity": "-",
+        "sentence": "After a week I tried to load some more songs and delete a few but the auto load didn't do anything but turn on my player. ",
+        "term": "auto load"
+    },
+    "249": {
+        "id": 249,
+        "polarity": "-",
+        "sentence": "It seems like the software is just not responding. ",
+        "term": "software"
+    },
+    "250": {
+        "id": 250,
+        "polarity": "-",
+        "sentence": "The support has been less than impressive, considering the cost. ",
+        "term": "support"
+    },
+    "251": {
+        "id": 251,
+        "polarity": "-",
+        "sentence": "I'm going to try to get a refund but considering all the hoops I jumped through (emails, downloads, reboots, a purge and another download, plus reading through the help menu) a refund should be twice as frustrating.     ",
+        "term": "support"
+    },
+    "252": {
+        "id": 252,
+        "polarity": "+",
+        "sentence": "The extra GB of hardrive space, removeable battery and FM tuner, as well as the fact that I was previously a satisfied owner of the Nomad II put it over the top for me. ",
+        "term": "storage"
+    },
+    "253": {
+        "id": 253,
+        "polarity": "+",
+        "sentence": "The extra GB of hardrive space, removeable battery and FM tuner, as well as the fact that I was previously a satisfied owner of the Nomad II put it over the top for me. ",
+        "term": " battery"
+    },
+    "254": {
+        "id": 254,
+        "polarity": "+",
+        "sentence": "The extra GB of hardrive space, removeable battery and FM tuner, as well as the fact that I was previously a satisfied owner of the Nomad II put it over the top for me. ",
+        "term": " features"
+    },
+    "255": {
+        "id": 255,
+        "polarity": "+",
+        "sentence": "Fortunately for me, I have yet to have a single problem with this player.  ",
+        "term": "working"
+    },
+    "256": {
+        "id": 256,
+        "polarity": "+",
+        "sentence": "I think the OS and controls are very well thought out and although I'll admit I was a bit intimidated during my first few hours with the Micro, the interface and controls became second nature after the first day or so. ",
+        "term": "interface"
+    },
+    "257": {
+        "id": 257,
+        "polarity": "+",
+        "sentence": "I think the OS and controls are very well thought out and although I'll admit I was a bit intimidated during my first few hours with the Micro, the interface and controls became second nature after the first day or so. ",
+        "term": " controls"
+    },
+    "258": {
+        "id": 258,
+        "polarity": "+",
+        "sentence": "However, there is a more detailed PDF manual on the CD (and online) that should answer any questions about the operational features of the Zen Micro. ",
+        "term": "manual"
+    },
+    "259": {
+        "id": 259,
+        "polarity": "-",
+        "sentence": "While the software may not be as easy as I-Tunes, it is not difficult to use by any stretch. ",
+        "term": "software"
+    },
+    "260": {
+        "id": 260,
+        "polarity": "+",
+        "sentence": "As opposed to the Nomad II or any other flash based player, the songs load extremely fast...about one or two seconds per song. ",
+        "term": "loading speed"
+    },
+    "261": {
+        "id": 261,
+        "polarity": "+",
+        "sentence": "I also like the fact that you can edit your MP3 titles, etc. ",
+        "term": "editing titles"
+    },
+    "262": {
+        "id": 262,
+        "polarity": "+",
+        "sentence": "After comparing the included Creative earbuds directly against my Sony MD-E828LP's and Sennheiser MX-400's, I find myself still using the Creative's, which in my opinion, sound every bit as good and have a slightly longer cord.  ",
+        "term": "sound"
+    },
+    "263": {
+        "id": 263,
+        "polarity": "-",
+        "sentence": "If I was pressed to find a negative aspect of the Zen Micro I would probably have to mention weak FM reception, but the building where I primarily use the Micro seems to have a history of terrible radio reception anyway, so you can take that for what it's worth.  ",
+        "term": "FM reception"
+    },
+    "264": {
+        "id": 264,
+        "polarity": "-",
+        "sentence": "It had issues right off the bat, with freezing up, staying in 'SHUTTING DOWN' mode, and just not functioning very well in general. ",
+        "term": "functioning"
+    },
+    "265": {
+        "id": 265,
+        "polarity": "-",
+        "sentence": "The touch-pad would be a great thing if it worked well, and as I never had issues getting songs transferred to the player, I did have problems accessing them from the player.   ",
+        "term": "touch pad"
+    },
+    "266": {
+        "id": 266,
+        "polarity": "-",
+        "sentence": "The touch-pad would be a great thing if it worked well, and as I never had issues getting songs transferred to the player, I did have problems accessing them from the player.   ",
+        "term": " access"
+    },
+    "267": {
+        "id": 267,
+        "polarity": "-",
+        "sentence": "Many other reviewers are mentioning that they have had no problems at all> I would say that the main problem is that this player is just not made very well. ",
+        "term": "make"
+    },
+    "268": {
+        "id": 268,
+        "polarity": "-",
+        "sentence": "It is the 'first generation' of the player, and while I still agree that it is a great alternative to the iPod, I think there are many others that would be a much better value for your buck.   ",
+        "term": "player"
+    },
+    "269": {
+        "id": 269,
+        "polarity": "-",
+        "sentence": "If someone asked me flat out, i'd say to go woth something else.      ",
+        "term": "player"
+    },
+    "270": {
+        "id": 270,
+        "polarity": "+",
+        "sentence": "Perhaps I bought the Micro to be different, the cheaper price tag (from Amazon), the design, or avoiding the high iPod theft in NYC subways. ",
+        "term": "price"
+    },
+    "271": {
+        "id": 271,
+        "polarity": "+",
+        "sentence": "Perhaps I bought the Micro to be different, the cheaper price tag (from Amazon), the design, or avoiding the high iPod theft in NYC subways. ",
+        "term": " design"
+    },
+    "272": {
+        "id": 272,
+        "polarity": "+",
+        "sentence": "Whichever it may be, I'm happy I've made this purchase.  ",
+        "term": "player"
+    },
+    "273": {
+        "id": 273,
+        "polarity": "+",
+        "sentence": "When I opened the box, I was shocked by the size of this thing... It's TINY! ",
+        "term": "size"
+    },
+    "274": {
+        "id": 274,
+        "polarity": "+",
+        "sentence": "It's shorter, sleeker, more compact and fits comfortably in my small hand than the iPod...My Nokia cell phone towers over this bad boy! ",
+        "term": "look"
+    },
+    "275": {
+        "id": 275,
+        "polarity": "+",
+        "sentence": "It's shorter, sleeker, more compact and fits comfortably in my small hand than the iPod...My Nokia cell phone towers over this bad boy! ",
+        "term": " size"
+    },
+    "276": {
+        "id": 276,
+        "polarity": "+",
+        "sentence": "The interface has a sassier flair and the blue-lit trimming is an added bonus. ",
+        "term": "interface"
+    },
+    "277": {
+        "id": 277,
+        "polarity": "+",
+        "sentence": "The interface has a sassier flair and the blue-lit trimming is an added bonus. ",
+        "term": " trim"
+    },
+    "278": {
+        "id": 278,
+        "polarity": "+",
+        "sentence": "Moving on to sound department... It delivers! ",
+        "term": "sound"
+    },
+    "279": {
+        "id": 279,
+        "polarity": "-",
+        "sentence": "The earbuds, on the other hand, are decent in sound, but lacking in bass. ",
+        "term": " bass"
+    },
+    "280": {
+        "id": 280,
+        "polarity": "+",
+        "sentence": "The earbuds, on the other hand, are decent in sound, but lacking in bass. ",
+        "term": "earbuds"
+    },
+    "281": {
+        "id": 281,
+        "polarity": "-",
+        "sentence": "I've since replaced it with a pair of black Sennheisers... Not only are the packaged earbuds pretty uncomfortable, but are too similar to iPod's and can target iPod theives here in NYC. ",
+        "term": "earbuds"
+    },
+    "282": {
+        "id": 282,
+        "polarity": "-",
+        "sentence": "Functionality, menus are easy to navigate... As many have mentioned, the touch pads take some time to get used to, but I've gotten used to it. ",
+        "term": " touchpad"
+    },
+    "283": {
+        "id": 283,
+        "polarity": "+",
+        "sentence": "Functionality, menus are easy to navigate... As many have mentioned, the touch pads take some time to get used to, but I've gotten used to it. ",
+        "term": " navigation"
+    },
+    "284": {
+        "id": 284,
+        "polarity": "+",
+        "sentence": "Functionality, menus are easy to navigate... As many have mentioned, the touch pads take some time to get used to, but I've gotten used to it. ",
+        "term": "functionality"
+    },
+    "285": {
+        "id": 285,
+        "polarity": "-",
+        "sentence": "Although, I thought it could've been designed a bit better.  ",
+        "term": "design"
+    },
+    "286": {
+        "id": 286,
+        "polarity": "+",
+        "sentence": "There are extra features packed inside this unit (some that most will hardly ever use) such as FM radio tuner, voice recorder, calendar, and alarm clock. ",
+        "term": "extra features"
+    },
+    "287": {
+        "id": 287,
+        "polarity": "+",
+        "sentence": "Speaking of battery, it's removable AND replaceable! ",
+        "term": "battery usage"
+    },
+    "288": {
+        "id": 288,
+        "polarity": "+",
+        "sentence": "Overall, the Micro is a solid device and I haven't fell into a problem with it yet *knocks on wood*. ",
+        "term": "Micro"
+    },
+    "289": {
+        "id": 289,
+        "polarity": "-",
+        "sentence": "It's perfect for those who aren't planning on storing tons of music. ",
+        "term": "storage"
+    },
+    "290": {
+        "id": 290,
+        "polarity": "+",
+        "sentence": "Transferring music is a breeze. I don't subscribe to music services, but as mentioned on other reviews, Micro allows you to subscribe to services OTHER than iTunes. ",
+        "term": "music transfer"
+    },
+    "291": {
+        "id": 291,
+        "polarity": "+",
+        "sentence": "It may not top the iPod Mini, but it's definitely an alternative if you also want the extra features and good sound quality.  ",
+        "term": " sound quality"
+    },
+    "292": {
+        "id": 292,
+        "polarity": "+",
+        "sentence": "It may not top the iPod Mini, but it's definitely an alternative if you also want the extra features and good sound quality.  ",
+        "term": "features"
+    },
+    "293": {
+        "id": 293,
+        "polarity": "+",
+        "sentence": "Strong Points: - Design: small, comfortable, curved, and stylish. ",
+        "term": " look"
+    },
+    "294": {
+        "id": 294,
+        "polarity": "+",
+        "sentence": "Strong Points: - Design: small, comfortable, curved, and stylish. ",
+        "term": "design"
+    },
+    "295": {
+        "id": 295,
+        "polarity": "+",
+        "sentence": "Strong Points: - Design: small, comfortable, curved, and stylish. ",
+        "term": " size"
+    },
+    "296": {
+        "id": 296,
+        "polarity": "+",
+        "sentence": "Strong Points: - Design: small, comfortable, curved, and stylish. ",
+        "term": " comfort"
+    },
+    "297": {
+        "id": 297,
+        "polarity": "+",
+        "sentence": "You don't need to cough up an extra couple bucks for a \"special edition\" to get black! - Sound: Awesome! - Batteries: removable/replaceable. ",
+        "term": "sound"
+    },
+    "298": {
+        "id": 298,
+        "polarity": "+",
+        "sentence": "- Audio Formats: supports both MP3, WMA... And yeah, WAV too.  ",
+        "term": "audio formats"
+    },
+    "299": {
+        "id": 299,
+        "polarity": "-",
+        "sentence": "- Radio Quality: weak reception     ",
+        "term": "FM reception"
+    },
+    "300": {
+        "id": 300,
+        "polarity": "+",
+        "sentence": "It's nice that the Zen Micro has bells and whistles like FM (but where's AM???) and voice recording, and 20% more storage than \"the other\" mini MP3 player, but why is it so (...)ugly?  ",
+        "term": " storage"
+    },
+    "301": {
+        "id": 301,
+        "polarity": "-",
+        "sentence": "It's nice that the Zen Micro has bells and whistles like FM (but where's AM???) and voice recording, and 20% more storage than \"the other\" mini MP3 player, but why is it so (...)ugly?  ",
+        "term": "look"
+    },
+    "302": {
+        "id": 302,
+        "polarity": "-",
+        "sentence": "The colors are a joke, and I personally hate the stupid vertical touchpad. ",
+        "term": "color"
+    },
+    "303": {
+        "id": 303,
+        "polarity": "-",
+        "sentence": "The colors are a joke, and I personally hate the stupid vertical touchpad. ",
+        "term": " touchpad"
+    },
+    "304": {
+        "id": 304,
+        "polarity": "-",
+        "sentence": "But my biggest gripe is still the extremely ugly design.  ",
+        "term": "design"
+    },
+    "305": {
+        "id": 305,
+        "polarity": "+",
+        "sentence": "What's the point of having \"good audio\" in your hand when your g/f thinks you have no taste whatsoever and your friends laugh their heads off while proudly showing off their iPod Mini?  ",
+        "term": "audio"
+    },
+    "306": {
+        "id": 306,
+        "polarity": "-",
+        "sentence": "What's the point of having \"good audio\" in your hand when your g/f thinks you have no taste whatsoever and your friends laugh their heads off while proudly showing off their iPod Mini?  ",
+        "term": " player"
+    },
+    "307": {
+        "id": 307,
+        "polarity": "-",
+        "sentence": "Still has terrible software.  ",
+        "term": "software"
+    },
+    "308": {
+        "id": 308,
+        "polarity": "-",
+        "sentence": "You have to wonder why Creative can't get this right.  ",
+        "term": "software"
+    },
+    "309": {
+        "id": 309,
+        "polarity": "+",
+        "sentence": "Looks nice but the conrols are awkward and the entire front is touch sensitive.  ",
+        "term": "look"
+    },
+    "310": {
+        "id": 310,
+        "polarity": "-",
+        "sentence": "Looks nice but the conrols are awkward and the entire front is touch sensitive.  ",
+        "term": " touchpad"
+    },
+    "311": {
+        "id": 311,
+        "polarity": "-",
+        "sentence": "Looks nice but the conrols are awkward and the entire front is touch sensitive.  ",
+        "term": " controls"
+    },
+    "312": {
+        "id": 312,
+        "polarity": "+",
+        "sentence": "You do get 1 more GB than an iPod mini.  ",
+        "term": "storage"
+    },
+    "313": {
+        "id": 313,
+        "polarity": "-",
+        "sentence": "Screen review could be better.  ",
+        "term": "screen review"
+    },
+    "314": {
+        "id": 314,
+        "polarity": "-",
+        "sentence": "Apple stil does it better but needs to come out with a 5 gig mini.     ",
+        "term": "screen review"
+    },
+    "315": {
+        "id": 315,
+        "polarity": "+",
+        "sentence": "This product is amazing and better than the Ipod you can get at the same price. ",
+        "term": "player"
+    },
+    "316": {
+        "id": 316,
+        "polarity": "+",
+        "sentence": "the 4G Ipod costs the same as this 5G Zen Micro. ",
+        "term": "storage"
+    },
+    "317": {
+        "id": 317,
+        "polarity": "+",
+        "sentence": "the 4G Ipod costs the same as this 5G Zen Micro. ",
+        "term": " cost"
+    },
+    "318": {
+        "id": 318,
+        "polarity": "+",
+        "sentence": "It also has a voice recorder and FM radio that you can only get on an Ipod if you but an adapter seperately. ",
+        "term": "features"
+    },
+    "319": {
+        "id": 319,
+        "polarity": "+",
+        "sentence": "Creative did an awesome job with the design. ",
+        "term": "design"
+    },
+    "320": {
+        "id": 320,
+        "polarity": "+",
+        "sentence": "The headphones have great sound and durability and mine came with some extras when I bought it (a stand, a belt hook, charger) that I know doesn't come with every one. ",
+        "term": " extra accessories"
+    },
+    "321": {
+        "id": 321,
+        "polarity": "+",
+        "sentence": "The headphones have great sound and durability and mine came with some extras when I bought it (a stand, a belt hook, charger) that I know doesn't come with every one. ",
+        "term": "headphones"
+    },
+    "322": {
+        "id": 322,
+        "polarity": "+",
+        "sentence": "I have the black one and adore it. ",
+        "term": "player"
+    },
+    "323": {
+        "id": 323,
+        "polarity": "+",
+        "sentence": "It looks nice and sleek and the blue background light looks awesome against the black. ",
+        "term": " background light"
+    },
+    "324": {
+        "id": 324,
+        "polarity": "+",
+        "sentence": "It looks nice and sleek and the blue background light looks awesome against the black. ",
+        "term": "look"
+    },
+    "325": {
+        "id": 325,
+        "polarity": "+",
+        "sentence": "I bought my Zen Micro three months ago mainly because I preferred the size and style to the iPod mini. ",
+        "term": "size"
+    },
+    "326": {
+        "id": 326,
+        "polarity": "+",
+        "sentence": "I bought my Zen Micro three months ago mainly because I preferred the size and style to the iPod mini. ",
+        "term": " style"
+    },
+    "327": {
+        "id": 327,
+        "polarity": "+",
+        "sentence": "Overall, I've been very impressed with the player. ",
+        "term": "player"
+    },
+    "328": {
+        "id": 328,
+        "polarity": "+",
+        "sentence": "I've had almost no problems with the firmware (ie, lock-ups, shut-downs etc), but I have kept the player up to date. ",
+        "term": "functioning"
+    },
+    "329": {
+        "id": 329,
+        "polarity": "+",
+        "sentence": "I'm not sure whether this is related to the charge cycle of its Li-Ion battery, the better firmware, or a combination of both factors. ",
+        "term": "firmware"
+    },
+    "330": {
+        "id": 330,
+        "polarity": "+",
+        "sentence": "I imagine if I left my player untouched (no backlight) it could play for considerably more than 12 hours at a low volume level.  ",
+        "term": "battery life"
+    },
+    "331": {
+        "id": 331,
+        "polarity": "+",
+        "sentence": "One of my favorite features about the player is its ability to sync to Windows Media Player. ",
+        "term": "sync to windows media player"
+    },
+    "332": {
+        "id": 332,
+        "polarity": "+",
+        "sentence": "Its just as fast as the included Creative software, but much less invasive, and overall better looking. ",
+        "term": " look"
+    },
+    "333": {
+        "id": 333,
+        "polarity": "+",
+        "sentence": "Its just as fast as the included Creative software, but much less invasive, and overall better looking. ",
+        "term": "speed"
+    },
+    "334": {
+        "id": 334,
+        "polarity": "+",
+        "sentence": "The touchpad is great once you get used to it, and I much prefer it to standard buttons or scroll wheels (as on the Dell DJ for example). ",
+        "term": "touchpad"
+    },
+    "335": {
+        "id": 335,
+        "polarity": "+",
+        "sentence": "They are sensitive and accurate (perhaps too accurate, it senses through t-shirt cloth, but the touchpad can be locked), but easy to clean, unlike buttons. ",
+        "term": "touchpad"
+    },
+    "336": {
+        "id": 336,
+        "polarity": "+",
+        "sentence": "Also, the touchpad seems to be waterproof to some degree.  ",
+        "term": "touchpad"
+    },
+    "337": {
+        "id": 337,
+        "polarity": "-",
+        "sentence": "The FM radio's reception isn't spectacular, but it will pick up the most powerful stations in any given metro area. ",
+        "term": "FM reception"
+    },
+    "338": {
+        "id": 338,
+        "polarity": "+",
+        "sentence": "Its ability to record radio is useful as well, but would have been moreso if it could be preset.  ",
+        "term": "radio record"
+    },
+    "339": {
+        "id": 339,
+        "polarity": "+",
+        "sentence": "The player looks great, feels great, and sounds great. ",
+        "term": "look"
+    },
+    "340": {
+        "id": 340,
+        "polarity": "+",
+        "sentence": "The player looks great, feels great, and sounds great. ",
+        "term": " sound"
+    },
+    "341": {
+        "id": 341,
+        "polarity": "+",
+        "sentence": "The player looks great, feels great, and sounds great. ",
+        "term": " feel"
+    },
+    "342": {
+        "id": 342,
+        "polarity": "+",
+        "sentence": "So far it has been very durable (other than the little pads on the earbuds), but those aren't really necessary as I find them comfortable on their own. ",
+        "term": "durability"
+    },
+    "343": {
+        "id": 343,
+        "polarity": "+",
+        "sentence": "They also sound excellent compared to other earbuds including retail sets like Panasonics and Sennheisers. ",
+        "term": "earbuds"
+    },
+    "344": {
+        "id": 344,
+        "polarity": "+",
+        "sentence": "This year, it seems that I choose my timing perfectly, having discovered the awesome device that is the Zen Micro.  ",
+        "term": "Zen micro"
+    },
+    "345": {
+        "id": 345,
+        "polarity": "+",
+        "sentence": "Everything that I have listed above, the Zen has, and more. ",
+        "term": "features"
+    },
+    "346": {
+        "id": 346,
+        "polarity": "+",
+        "sentence": "The menus are easy to scroll through; they are laid out naturally, and make sense. ",
+        "term": "navigation"
+    },
+    "347": {
+        "id": 347,
+        "polarity": "+",
+        "sentence": "The computer interface is 90% good, only losing points due to the fact that \"Creative\" branding is all over the place within it. ",
+        "term": "interface"
+    },
+    "348": {
+        "id": 348,
+        "polarity": "+",
+        "sentence": "Songs transfer lightning fast, and the two batteries that came in my box give me 24 hours of listen time. ",
+        "term": "transfer speed"
+    },
+    "349": {
+        "id": 349,
+        "polarity": "+",
+        "sentence": "Songs transfer lightning fast, and the two batteries that came in my box give me 24 hours of listen time. ",
+        "term": " battery life"
+    },
+    "350": {
+        "id": 350,
+        "polarity": "+",
+        "sentence": "On the fly play list creation, address book, removable storage drive capabilities, sound recorder, the list goes on people, this thing is literally so chalked full of goodies, it was like Halloween all over again. ",
+        "term": "features"
+    },
+    "351": {
+        "id": 351,
+        "polarity": "+",
+        "sentence": "So far I have used all of the above-mentioned features, and find them well designed, and easy to understand.  ",
+        "term": "design"
+    },
+    "352": {
+        "id": 352,
+        "polarity": "+",
+        "sentence": "So far I have used all of the above-mentioned features, and find them well designed, and easy to understand.  ",
+        "term": " ease ofuse"
+    },
+    "353": {
+        "id": 353,
+        "polarity": "-",
+        "sentence": "00% good though, and the Zen does have a few drawbacks. ",
+        "term": "Zen"
+    },
+    "354": {
+        "id": 354,
+        "polarity": "-",
+        "sentence": "While transferring songs to the player, the interface has crashed a few times (4-5 times in a 4-5 hour period) normally this would cause me major concern, but it appears that this bug is reproducible, which leads me to believe that Creative will fix it with a patched version shortly (or maybe it's just my computer). ",
+        "term": "file transfer"
+    },
+    "355": {
+        "id": 355,
+        "polarity": "-",
+        "sentence": "Another thing I don't like is that some of the features take 1-2 seconds to load up. ",
+        "term": "response speed"
+    },
+    "356": {
+        "id": 356,
+        "polarity": "+",
+        "sentence": "That's it for now, what are you doing still reading this, click the \"Add to Cart\" button already!      ",
+        "term": "plaeyr"
+    },
+    "357": {
+        "id": 357,
+        "polarity": "+",
+        "sentence": "Right out of the box, I loved it, better features than the Ipod, great sound quality and no limitations on what music sources I can use. ",
+        "term": " sound quality"
+    },
+    "358": {
+        "id": 358,
+        "polarity": "+",
+        "sentence": "Right out of the box, I loved it, better features than the Ipod, great sound quality and no limitations on what music sources I can use. ",
+        "term": "features"
+    },
+    "359": {
+        "id": 359,
+        "polarity": "+",
+        "sentence": "Right out of the box, I loved it, better features than the Ipod, great sound quality and no limitations on what music sources I can use. ",
+        "term": " music source support"
+    },
+    "360": {
+        "id": 360,
+        "polarity": "+",
+        "sentence": "So, I was one who was ready to give it 5 stars with no complaints at all. ",
+        "term": "player"
+    },
+    "361": {
+        "id": 361,
+        "polarity": "-",
+        "sentence": "After consulting with Creative's customer support, they determined that the hard drive was broken and the only recourse was to send it in for repair, which would cost me $40, since it's past the 90 day warranty (pretty short warranty). ",
+        "term": "warranty"
+    },
+    "362": {
+        "id": 362,
+        "polarity": "-",
+        "sentence": "Well, I got my second player, and right out of the box it wasn't working right and once again, after consulting customer se!",
+        "term": "working"
+    },
+    "363": {
+        "id": 363,
+        "polarity": "-",
+        "sentence": "They obviously have quality and reliability problems. ",
+        "term": "quality"
+    },
+    "364": {
+        "id": 364,
+        "polarity": "-",
+        "sentence": "They obviously have quality and reliability problems. ",
+        "term": " reliability"
+    },
+    "365": {
+        "id": 365,
+        "polarity": "-",
+        "sentence": "They have a good concept here, and I normally expect a lot better quality from Creative, so maybe they will do better with the next gen version, but for now I say buyer beware.  ",
+        "term": "player"
+    },
+    "366": {
+        "id": 366,
+        "polarity": "+",
+        "sentence": "ORIGINAL REVIEW December 2004 I'm sorry to read about other people having problems with their Zen Micro, but mine has worked great! ",
+        "term": "player"
+    },
+    "367": {
+        "id": 367,
+        "polarity": "+",
+        "sentence": "This is my first MP3 player and I am so impressed with what such a small device can do.  ",
+        "term": "player"
+    },
+    "368": {
+        "id": 368,
+        "polarity": "+",
+        "sentence": "I have ripped over 100 songs from my CD collection and it was so easy and fast, and they all sound great.  ",
+        "term": "sound"
+    },
+    "369": {
+        "id": 369,
+        "polarity": "+",
+        "sentence": "I have ripped over 100 songs from my CD collection and it was so easy and fast, and they all sound great.  ",
+        "term": " rip"
+    },
+    "370": {
+        "id": 370,
+        "polarity": "-",
+        "sentence": "es, the interface took a little getting used to, but once I did, it's almost second nature now.  ",
+        "term": "interface"
+    },
+    "371": {
+        "id": 371,
+        "polarity": "+",
+        "sentence": "I love that you can create custom playlists, and organize music in so many different ways.  ",
+        "term": "organization"
+    },
+    "372": {
+        "id": 372,
+        "polarity": "-",
+        "sentence": "Only slight negatives I've had so far is that I haven't been able to get it to accept any of my WAV files yet.  ",
+        "term": "WAV format"
+    },
+    "373": {
+        "id": 373,
+        "polarity": "-",
+        "sentence": "My other nit is that it didn't include at least some kind of carrying case for everything.  ",
+        "term": "case"
+    },
+    "374": {
+        "id": 374,
+        "polarity": "-",
+        "sentence": "Yes, there is a belt clip, but that doesn't hold the extra battery and usb cable.  ",
+        "term": "belt clip"
+    },
+    "375": {
+        "id": 375,
+        "polarity": "-",
+        "sentence": "The little bag it comes with is cheap and useless.  ",
+        "term": "bag"
+    },
+    "376": {
+        "id": 376,
+        "polarity": "-",
+        "sentence": "It barely holds anything and mine just puts a bunch of thread fuzzies all over the player, because the bag is cheap and seems to be coming apart.  ",
+        "term": "bag"
+    },
+    "377": {
+        "id": 377,
+        "polarity": "+",
+        "sentence": "I love my dark blue zen micro and would definitely recommend it.  ",
+        "term": "player"
+    },
+    "378": {
+        "id": 378,
+        "polarity": "-",
+        "sentence": "It is not a perfect product but it does have a lot going for it.  ",
+        "term": "player"
+    },
+    "379": {
+        "id": 379,
+        "polarity": "+",
+        "sentence": "The FM tuner, the 5G of storage, and the removable disk are all great features.  ",
+        "term": "features"
+    },
+    "380": {
+        "id": 380,
+        "polarity": "+",
+        "sentence": "The fit and finish of the product is first-rate.  ",
+        "term": "look"
+    },
+    "381": {
+        "id": 381,
+        "polarity": "-",
+        "sentence": "On the downside, I think the interface takes some getting used to and the Zen software !",
+        "term": "interface"
+    },
+    "382": {
+        "id": 382,
+        "polarity": "-",
+        "sentence": "is not as intuitive as I would like.  ",
+        "term": "software"
+    },
+    "383": {
+        "id": 383,
+        "polarity": "-",
+        "sentence": "Also, the earbuds that came with it sound great but are uncomfortable (although my wife didn't have a problem), so I bought a pair of over-the-ear headphones.  ",
+        "term": "earbuds"
+    },
+    "384": {
+        "id": 384,
+        "polarity": "+",
+        "sentence": "Overall, I am very pleased with it.  ",
+        "term": "player"
+    },
+    "385": {
+        "id": 385,
+        "polarity": "+",
+        "sentence": "The more I use it and figure out how to do things, the more I like it.     ",
+        "term": "player"
+    },
+    "386": {
+        "id": 386,
+        "polarity": "+",
+        "sentence": "Before you run out and buy an iPod, understand something: there are REASONS the Zen is worth encountering this kind of hassle, principally excellent (for MP3) sound quality.  ",
+        "term": "sound quality"
+    },
+    "387": {
+        "id": 387,
+        "polarity": "+",
+        "sentence": "The supplied headphones are hands-down better than the mediocre iPod buds. ",
+        "term": "headphones"
+    },
+    "388": {
+        "id": 388,
+        "polarity": "+",
+        "sentence": "The player is smaller than you think. ",
+        "term": "size"
+    },
+    "389": {
+        "id": 389,
+        "polarity": "-",
+        "sentence": "The touch pad is over-sensitive, and is adjustable to only slightly oversensitive. ",
+        "term": "touchpad"
+    },
+    "390": {
+        "id": 390,
+        "polarity": "+",
+        "sentence": "Bottom line: If you value excellent sound quality and the ability to use music subscription services, and are willing to deal with the possibility (not the certainty) of setup gremlins, by all means get the Zen Micro.     ",
+        "term": "sound quality"
+    },
+    "391": {
+        "id": 391,
+        "polarity": "+",
+        "sentence": "Bottom line: If you value excellent sound quality and the ability to use music subscription services, and are willing to deal with the possibility (not the certainty) of setup gremlins, by all means get the Zen Micro.     ",
+        "term": " music subscription service"
+    },
+    "392": {
+        "id": 392,
+        "polarity": "-",
+        "sentence": "The machine itself seems fine, but the software that came with it is AWFUL. ",
+        "term": "software"
+    },
+    "393": {
+        "id": 393,
+        "polarity": "-",
+        "sentence": "After installation, the very first time I booted up the Creative MediaSource Organizer, intending to use its CD burning and ripping functions, it totally shorted out. ",
+        "term": "player"
+    },
+    "394": {
+        "id": 394,
+        "polarity": "-",
+        "sentence": "I was up all night trying to make the stupid thing work, to no avail. ",
+        "term": "working"
+    },
+    "395": {
+        "id": 395,
+        "polarity": "-",
+        "sentence": "Of course one of the first things I did was write an email to the customer support at Creative, through their website, and by the time they finally got back to me - several working days later when they promise only one - their suggestions were completely worthless. ",
+        "term": "customer support"
+    },
+    "396": {
+        "id": 396,
+        "polarity": "-",
+        "sentence": "his is what I get for my $200 on this MP3 player?  ",
+        "term": "player"
+    },
+    "397": {
+        "id": 397,
+        "polarity": "+",
+        "sentence": "The Zen Micro is near perfect.   ",
+        "term": "Zen micro"
+    },
+    "398": {
+        "id": 398,
+        "polarity": "+",
+        "sentence": "It's still alive, still kicking, and still playing.   ",
+        "term": "built"
+    },
+    "399": {
+        "id": 399,
+        "polarity": "+",
+        "sentence": "The Zen Micro (mine's black) has a lot going for it.   ",
+        "term": "windows compatibility"
+    },
+    "400": {
+        "id": 400,
+        "polarity": "+",
+        "sentence": "It fits into a hand well, it has a removable battery (this is important), great sound quality, fm stereo, recorder, smooth UI, and a feature that most unipods lack... char!",
+        "term": " interface"
+    },
+    "401": {
+        "id": 401,
+        "polarity": "+",
+        "sentence": "It fits into a hand well, it has a removable battery (this is important), great sound quality, fm stereo, recorder, smooth UI, and a feature that most unipods lack... char!",
+        "term": " look"
+    },
+    "402": {
+        "id": 402,
+        "polarity": "+",
+        "sentence": "It fits into a hand well, it has a removable battery (this is important), great sound quality, fm stereo, recorder, smooth UI, and a feature that most unipods lack... char!",
+        "term": " features"
+    },
+    "403": {
+        "id": 403,
+        "polarity": "+",
+        "sentence": "It fits into a hand well, it has a removable battery (this is important), great sound quality, fm stereo, recorder, smooth UI, and a feature that most unipods lack... char!",
+        "term": "size"
+    },
+    "404": {
+        "id": 404,
+        "polarity": "+",
+        "sentence": "It fits into a hand well, it has a removable battery (this is important), great sound quality, fm stereo, recorder, smooth UI, and a feature that most unipods lack... char!",
+        "term": " sound quality"
+    },
+    "405": {
+        "id": 405,
+        "polarity": "+",
+        "sentence": "It fits into a hand well, it has a removable battery (this is important), great sound quality, fm stereo, recorder, smooth UI, and a feature that most unipods lack... char!",
+        "term": " battery"
+    },
+    "406": {
+        "id": 406,
+        "polarity": "-",
+        "sentence": "It wouldn't always work seemlessly with WMP and it often required me to restart the frozen micro by taking out the battery and restarting it. ",
+        "term": "work with WMP"
+    },
+    "407": {
+        "id": 407,
+        "polarity": "+",
+        "sentence": "The accesories that come with the player are great. ",
+        "term": "accessories"
+    },
+    "408": {
+        "id": 408,
+        "polarity": "+",
+        "sentence": "White earbuds ( i replaced those with some shure headphones, big difference), a case, a stand, a clip (which doesn't really work), and a nice little zen micro bag. ",
+        "term": "bag"
+    },
+    "409": {
+        "id": 409,
+        "polarity": "+",
+        "sentence": "best in class. ",
+        "term": "player"
+    },
+    "410": {
+        "id": 410,
+        "polarity": "+",
+        "sentence": "It gives you the most bang for your buck, period.   ",
+        "term": "player"
+    },
+    "411": {
+        "id": 411,
+        "polarity": "+",
+        "sentence": "Creative has been making computer sound equipment for decades and with the zen micro it finally has something with enough quality and, yes, charm to win a nice size of the digital player pie.   ",
+        "term": "quality"
+    },
+    "412": {
+        "id": 412,
+        "polarity": "+",
+        "sentence": "Pick your favorite color and buy it.      ",
+        "term": "player"
+    },
+    "413": {
+        "id": 413,
+        "polarity": "-",
+        "sentence": "As for the Zen Micro:\\  Cons:  I read that every button is touch sensitive, and thats very annoying when all the main buttons are on the front. ",
+        "term": "touch sensitivity"
+    },
+    "414": {
+        "id": 414,
+        "polarity": "-",
+        "sentence": "Putting the Micro into your pocket could trigger just about anything (unless the hold feature is improved: it asks if you want to \"unhold\" for every button up press) Second, I'm worried about the durability of the player. ",
+        "term": "durability"
+    },
+    "415": {
+        "id": 415,
+        "polarity": "-",
+        "sentence": "After research of other creative hard drive players, i found that most of them aren't very durable and tend to crash (read most reviews on amazon.com and see for yourself). ",
+        "term": "durability"
+    },
+    "416": {
+        "id": 416,
+        "polarity": "-",
+        "sentence": "Last, i find the price a bit expensive for a product such as this. ",
+        "term": "price"
+    },
+    "417": {
+        "id": 417,
+        "polarity": "+",
+        "sentence": "Pros The Design is very nice, and the colors are too. ",
+        "term": "design"
+    },
+    "418": {
+        "id": 418,
+        "polarity": "+",
+        "sentence": "Pros The Design is very nice, and the colors are too. ",
+        "term": " color"
+    },
+    "419": {
+        "id": 419,
+        "polarity": "+",
+        "sentence": "It also has tons more features then previous creative products, and most of them are very useful such as the ability to custimize the main menu to show the stuff you want, not the default items (creativelabs.com for more on that).  ",
+        "term": "features"
+    },
+    "420": {
+        "id": 420,
+        "polarity": "+",
+        "sentence": "The battery is also convenient, but could have been better, such as the Zen Touch's battery (but at least this one is removable).    ",
+        "term": "battery"
+    },
+    "421": {
+        "id": 421,
+        "polarity": "-",
+        "sentence": "Verdict:  Had I not needed something with a tad bit more space, I consider this player fair game. ",
+        "term": "storage"
+    },
+    "422": {
+        "id": 422,
+        "polarity": "+",
+        "sentence": "If you don't mind all the buttons being touch sensitive, I'd recomment buying it to try out, and also buy an extra 2 year warrenty for it (there are some offered here, for about $15 dollors I think).  ",
+        "term": "player"
+    },
+    "423": {
+        "id": 423,
+        "polarity": "+",
+        "sentence": "anyway, my wife got this for me for my birthday and I love the thing. ",
+        "term": "player"
+    },
+    "424": {
+        "id": 424,
+        "polarity": "+",
+        "sentence": "the program is called Gnomad and works great for me and seems to cover all the features the included windows sofware does. ",
+        "term": "firmware"
+    },
+    "425": {
+        "id": 425,
+        "polarity": "+",
+        "sentence": "+looks snazzy +smaller than a pack of smokes - easily transported +ac charger included as well as a hardshell that comes with a clip and a stand adapter +USB cable !",
+        "term": "look"
+    },
+    "426": {
+        "id": 426,
+        "polarity": "+",
+        "sentence": "+looks snazzy +smaller than a pack of smokes - easily transported +ac charger included as well as a hardshell that comes with a clip and a stand adapter +USB cable !",
+        "term": " accessories"
+    },
+    "427": {
+        "id": 427,
+        "polarity": "+",
+        "sentence": "+looks snazzy +smaller than a pack of smokes - easily transported +ac charger included as well as a hardshell that comes with a clip and a stand adapter +USB cable !",
+        "term": "size"
+    },
+    "428": {
+        "id": 428,
+        "polarity": "+",
+        "sentence": "+Battery life is awesome IF you upgrade the firmware [requires a windows pc] OR make sure to always plug the ac adapter into the player before plugging into the outlet +Awesome sound quality... I mean it is Creative right? ",
+        "term": " sound quality"
+    },
+    "429": {
+        "id": 429,
+        "polarity": "+",
+        "sentence": "+Battery life is awesome IF you upgrade the firmware [requires a windows pc] OR make sure to always plug the ac adapter into the player before plugging into the outlet +Awesome sound quality... I mean it is Creative right? ",
+        "term": "battery life"
+    },
+    "430": {
+        "id": 430,
+        "polarity": "+",
+        "sentence": "+Sorts music by artist, album, genre, etc... it's easy to wade through 5 gigs of tunes to find what you're looking for. ",
+        "term": "navigation"
+    },
+    "431": {
+        "id": 431,
+        "polarity": "-",
+        "sentence": "It DOES take some getting used to. ",
+        "term": "scrollpad"
+    },
+    "432": {
+        "id": 432,
+        "polarity": "-",
+        "sentence": "whatever...  on to the negatives:  -touchy about charging... you can damage the battery and seriously decrease it's life if you don't upgrade the firmware OR dont' heed the advice to always plug in the player side of the cord before plugging in the outlet side. ",
+        "term": "charging"
+    },
+    "433": {
+        "id": 433,
+        "polarity": "-",
+        "sentence": "It has the odd side effect of the buttons only partially working? ",
+        "term": "button functioning"
+    },
+    "434": {
+        "id": 434,
+        "polarity": "-",
+        "sentence": "-User's guide doesn't cover a lot of important info that is covered on their website. ",
+        "term": "users guide"
+    },
+    "435": {
+        "id": 435,
+        "polarity": "-",
+        "sentence": ") -Can't be left in the car... it immediately shuts down with an overheating error if left in a hot car for too long. ",
+        "term": "heat"
+    },
+    "436": {
+        "id": 436,
+        "polarity": "+",
+        "sentence": "But since it's so small, it isn't a big deal to bring it with me.  ",
+        "term": "size"
+    },
+    "437": {
+        "id": 437,
+        "polarity": "+",
+        "sentence": "Overall though, i'm very happy with it and highly recommend it to folks looking for a mp3 player, even if it is to pretend your not a braindead consumer giving into the marketing hype of the iPod. ;)     ",
+        "term": "player"
+    },
+    "438": {
+        "id": 438,
+        "polarity": "+",
+        "sentence": "I finally decided to purchase this player because it was compatible with Napster 2 Go....which is a subscription service, allowing me to download as much music as I want for a $14.95 flat fee.  ",
+        "term": "Napster 2 go compatibility"
+    },
+    "439": {
+        "id": 439,
+        "polarity": "+",
+        "sentence": "And I must say...this MP3 is very cool.  ",
+        "term": "player"
+    },
+    "440": {
+        "id": 440,
+        "polarity": "+",
+        "sentence": "It's so cute...and behind the black panel it glows in a neon blue.   ",
+        "term": "look"
+    },
+    "441": {
+        "id": 441,
+        "polarity": "+",
+        "sentence": "After installation, which was VERY simple....I downloaded any updated software from the Creative website, before I downloaded any music.   ",
+        "term": "installation"
+    },
+    "442": {
+        "id": 442,
+        "polarity": "+",
+        "sentence": "The sound is very nice.  ",
+        "term": "sound"
+    },
+    "443": {
+        "id": 443,
+        "polarity": "+",
+        "sentence": "I also like the lock feature, so it makes the touch pad inactive.   ",
+        "term": "lock feature"
+    },
+    "444": {
+        "id": 444,
+        "polarity": "-",
+        "sentence": "I tried to use the FM radio option, but it doesn't seem to really pick up the stations I listen, however I am going to try it in a different location, it may have just been my residential location.   ",
+        "term": "FM reception"
+    },
+    "445": {
+        "id": 445,
+        "polarity": "-",
+        "sentence": "Even when I set it to low, it's still very hard for me to adjust the player to where and what I want it to do.  ",
+        "term": "touchpad"
+    },
+    "446": {
+        "id": 446,
+        "polarity": "+",
+        "sentence": "Otherwise, I am extremely please with the Creative Zen Micro 5GB MP3 player.    ",
+        "term": "player"
+    },
+    "447": {
+        "id": 447,
+        "polarity": "+",
+        "sentence": "However after playing with it for three weeks now, I'm convinced, the Zen Micro is superior. ",
+        "term": "Zen micro"
+    },
+    "448": {
+        "id": 448,
+        "polarity": "+",
+        "sentence": "I think sound quality should be the first and foremost feature, and the Zen is leaps and bounds better in sound quality, with no need to upgrade the earphones. ",
+        "term": "sound quality"
+    },
+    "449": {
+        "id": 449,
+        "polarity": "+",
+        "sentence": "I thought the FM radio would not see much use with so many tracks avaiable to me, but its great for tuning in to TV programs at the gym while on the treadmill, concerts and programs being simulcast, NPR, and on and on. ",
+        "term": "FM tuner"
+    },
+    "450": {
+        "id": 450,
+        "polarity": "-",
+        "sentence": "I've read about the issues with the scroll bar, but they must have taken care of that now. ",
+        "term": "scroll bar"
+    },
+    "451": {
+        "id": 451,
+        "polarity": "+",
+        "sentence": "Mine is as easy to use as the mini without any firmware download. ",
+        "term": "ease of usage"
+    },
+    "452": {
+        "id": 452,
+        "polarity": "+",
+        "sentence": "Its also smaller, and gets more looks. ",
+        "term": "size"
+    },
+    "453": {
+        "id": 453,
+        "polarity": "+",
+        "sentence": "Its also smaller, and gets more looks. ",
+        "term": " look"
+    },
+    "454": {
+        "id": 454,
+        "polarity": "+",
+        "sentence": "An extra gig of room, FM radio, voice recorder, PIM applications with sync to Outlook. ",
+        "term": "extra features"
+    },
+    "455": {
+        "id": 455,
+        "polarity": "+",
+        "sentence": "This is really a no brainer. ",
+        "term": "player"
+    },
+    "456": {
+        "id": 456,
+        "polarity": "+",
+        "sentence": "I purchased this over the Ipod Mini because it had several nice features: extra 1G storage, WMA support, replaceable battery, and especially that it wasn't an Apple product with their proprietary architecture.  ",
+        "term": "features"
+    },
+    "457": {
+        "id": 457,
+        "polarity": "-",
+        "sentence": "The Touchpad is virtually unusable -- sometimes you have to press like mad to make a selection and other times the slightest brush causes something to be selected that you don't want. ",
+        "term": "touchpad"
+    },
+    "458": {
+        "id": 458,
+        "polarity": "-",
+        "sentence": "Another problem is that the latest 2.0 firmware upgrade moves you into Windows Media Player 10 which seems to be very, very slow for downloads.  charging[-2]",
+        "term": "download speed"
+    },
+    "459": {
+        "id": 459,
+        "polarity": "+",
+        "sentence": "Better for the Zen Micro is Outlook compatibility. ",
+        "term": "Outlook compatibility"
+    },
+    "460": {
+        "id": 460,
+        "polarity": "+",
+        "sentence": "Creative has excellent music software, a very responsive tech support group (they are quick on firmware updates, and make them publicly available), and usually a good array of accessories.  ",
+        "term": " accessories"
+    },
+    "461": {
+        "id": 461,
+        "polarity": "+",
+        "sentence": "Creative has excellent music software, a very responsive tech support group (they are quick on firmware updates, and make them publicly available), and usually a good array of accessories.  ",
+        "term": "software"
+    },
+    "462": {
+        "id": 462,
+        "polarity": "+",
+        "sentence": "Creative has excellent music software, a very responsive tech support group (they are quick on firmware updates, and make them publicly available), and usually a good array of accessories.  ",
+        "term": " tech support"
+    },
+    "463": {
+        "id": 463,
+        "polarity": "+",
+        "sentence": "The Zen Micro is no exception: in addition to the case, it comes with a neck strap, and has all of the necessary cables for syncing and charging.  ",
+        "term": "additional accesories"
+    },
+    "464": {
+        "id": 464,
+        "polarity": "+",
+        "sentence": "The extra spare battery is just a neat bonus.  ",
+        "term": "extra battery"
+    },
+    "465": {
+        "id": 465,
+        "polarity": "+",
+        "sentence": "If I could, I'd trade-up on my Creative Muvo2 and snag a Zen Micro tomorrow.  ",
+        "term": "player"
+    },
+    "466": {
+        "id": 466,
+        "polarity": "+",
+        "sentence": "This is a perfect blend to accomplish both tasks.  ",
+        "term": "player"
+    },
+    "467": {
+        "id": 467,
+        "polarity": "+",
+        "sentence": "This is a perfect blend to accomplish both tasks.  ",
+        "term": " size"
+    },
+    "468": {
+        "id": 468,
+        "polarity": "+",
+        "sentence": "This is a perfect blend to accomplish both tasks.  ",
+        "term": " portability"
+    },
+    "469": {
+        "id": 469,
+        "polarity": "+",
+        "sentence": "I also own a retail store and this little guy easily plugs into my AUX slot in the store's sound system.  ",
+        "term": "plug in"
+    },
+    "470": {
+        "id": 470,
+        "polarity": "+",
+        "sentence": "Feature for feature, I find it a very sweet little player; equipped with a higher end headphone system, between this and th larger Zen Ihardly use my home stereo system anymore. ",
+        "term": "features"
+    },
+    "471": {
+        "id": 471,
+        "polarity": "+",
+        "sentence": "Feature for feature, I find it a very sweet little player; equipped with a higher end headphone system, between this and th larger Zen Ihardly use my home stereo system anymore. ",
+        "term": " headphones"
+    },
+    "472": {
+        "id": 472,
+        "polarity": "-",
+        "sentence": "If you buying this player to use with Napster to Go, wait a while. ",
+        "term": "Napster to go compatibility"
+    },
+    "473": {
+        "id": 473,
+        "polarity": "-",
+        "sentence": "A lot of people are having problems with the firmware update required to use the player for Napster to Go.. The firmware is beta and they are are a lot of bugs in it. ",
+        "term": "firmware"
+    },
+    "474": {
+        "id": 474,
+        "polarity": "+",
+        "sentence": "On the whole, I'm quite happy with the purchase.  ",
+        "term": "player"
+    },
+    "475": {
+        "id": 475,
+        "polarity": "+",
+        "sentence": "The sound is bright and clear, the ability to store any MP3's (and not just Apple-approved files) is great, and I plan to make use of the storage space and sound recording from time to time.    ",
+        "term": "sound"
+    },
+    "476": {
+        "id": 476,
+        "polarity": "+",
+        "sentence": "The sound is bright and clear, the ability to store any MP3's (and not just Apple-approved files) is great, and I plan to make use of the storage space and sound recording from time to time.    ",
+        "term": " storage"
+    },
+    "477": {
+        "id": 477,
+        "polarity": "+",
+        "sentence": "The device looks very cool, I think (exactly as the photos promise), it's comfortable and lightweight in my jacket pocket, and the interface and controls are easy enough to navigate after a bit of practice.  ",
+        "term": "look"
+    },
+    "478": {
+        "id": 478,
+        "polarity": "+",
+        "sentence": "The device looks very cool, I think (exactly as the photos promise), it's comfortable and lightweight in my jacket pocket, and the interface and controls are easy enough to navigate after a bit of practice.  ",
+        "term": " interface"
+    },
+    "479": {
+        "id": 479,
+        "polarity": "+",
+        "sentence": "The device looks very cool, I think (exactly as the photos promise), it's comfortable and lightweight in my jacket pocket, and the interface and controls are easy enough to navigate after a bit of practice.  ",
+        "term": " weight"
+    },
+    "480": {
+        "id": 480,
+        "polarity": "+",
+        "sentence": "The device looks very cool, I think (exactly as the photos promise), it's comfortable and lightweight in my jacket pocket, and the interface and controls are easy enough to navigate after a bit of practice.  ",
+        "term": " comfort"
+    },
+    "481": {
+        "id": 481,
+        "polarity": "+",
+        "sentence": "No offense to Amazon, but I was able to find one online for just over 200 bucks (I'm sure prices here will continue to sink), and that also seemed quite a good bargain for the amount of storage space.    ",
+        "term": "srorage"
+    },
+    "482": {
+        "id": 482,
+        "polarity": "+",
+        "sentence": "I like some local stations, Stern, and NPR, and so the radio seemed like a great option.  ",
+        "term": "radio feature"
+    },
+    "483": {
+        "id": 483,
+        "polarity": "-",
+        "sentence": "Imagine my disappointment, though, when the Zen Micro proved able to play only the mega-strongest FM signals in my area.  ",
+        "term": "FM reception"
+    }
+}

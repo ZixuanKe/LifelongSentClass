@@ -1,0 +1,2114 @@
+{
+    "0": {
+        "id": 0,
+        "polarity": "+",
+        "sentence": " These speakers are incredibly amazing .",
+        "term": "speakers"
+    },
+    "1": {
+        "id": 1,
+        "polarity": "+",
+        "sentence": " I didnt want one in which I would have to put in batteries myself -LRB- that is a pain -RRB- I did alot of research and read a bunch of reviews and im glad I purchased these speakers .",
+        "term": "speakers"
+    },
+    "2": {
+        "id": 2,
+        "polarity": "+",
+        "sentence": " The speakers have a very rich sound and good bass also , obviously not thumping bass for which you would need a huge subwoofer !!",
+        "term": " sound"
+    },
+    "3": {
+        "id": 3,
+        "polarity": "+",
+        "sentence": " The speakers have a very rich sound and good bass also , obviously not thumping bass for which you would need a huge subwoofer !!",
+        "term": " bass"
+    },
+    "4": {
+        "id": 4,
+        "polarity": "+",
+        "sentence": " The speakers have a very rich sound and good bass also , obviously not thumping bass for which you would need a huge subwoofer !!",
+        "term": "speakers"
+    },
+    "5": {
+        "id": 5,
+        "polarity": "+",
+        "sentence": " Without a doubt I would say that these speakers have the same sound quality as the jbl on stage , and are truly portable -LRB- can be played without a power outlet , I love that feature -RRB- .",
+        "term": " sound quality"
+    },
+    "6": {
+        "id": 6,
+        "polarity": "+",
+        "sentence": " Without a doubt I would say that these speakers have the same sound quality as the jbl on stage , and are truly portable -LRB- can be played without a power outlet , I love that feature -RRB- .",
+        "term": " portable"
+    },
+    "7": {
+        "id": 7,
+        "polarity": "+",
+        "sentence": " Without a doubt I would say that these speakers have the same sound quality as the jbl on stage , and are truly portable -LRB- can be played without a power outlet , I love that feature -RRB- .",
+        "term": "speakers"
+    },
+    "8": {
+        "id": 8,
+        "polarity": "-",
+        "sentence": " The only downside is the remote which requires a line of sight .",
+        "term": "remote"
+    },
+    "9": {
+        "id": 9,
+        "polarity": "+",
+        "sentence": " - Sound quality is good .",
+        "term": "Sound quality"
+    },
+    "10": {
+        "id": 10,
+        "polarity": "+",
+        "sentence": " - Tuner quality is good .",
+        "term": "Tuner quality"
+    },
+    "11": {
+        "id": 11,
+        "polarity": "+",
+        "sentence": " - Looks fantastic , esp w\\/iPhone4 docked !!",
+        "term": "Looks"
+    },
+    "12": {
+        "id": 12,
+        "polarity": "+",
+        "sentence": " - Setup , from in the box to completely working , and programmed for 20 preset FM stations , was under 5 minutes .",
+        "term": "Setup"
+    },
+    "13": {
+        "id": 13,
+        "polarity": "+",
+        "sentence": " Yes , the buttons are a bit small and close , but they are functional .",
+        "term": "buttons"
+    },
+    "14": {
+        "id": 14,
+        "polarity": "-",
+        "sentence": " The sound quality has been poor since day one , the base constantly drops calls , and now there seems to be some sort of short circuit in the base -- we can no longer use the AC adapter with the base or it turns off completely .",
+        "term": "sound quality"
+    },
+    "15": {
+        "id": 15,
+        "polarity": "-",
+        "sentence": " The incoming call volume is incredibly low and it is often difficult to hear my customers -LRB- it was so bad I had my hearing tested because I thought something was wrong with me .",
+        "term": "volume"
+    },
+    "16": {
+        "id": 16,
+        "polarity": "+",
+        "sentence": " I got this for use on my truck and I 'm happy with it for the most part , it is loud and super easy to install , however you are going to want an amp for i",
+        "term": "loud"
+    },
+    "17": {
+        "id": 17,
+        "polarity": "+",
+        "sentence": " I got this for use on my truck and I 'm happy with it for the most part , it is loud and super easy to install , however you are going to want an amp for i",
+        "term": " install"
+    },
+    "18": {
+        "id": 18,
+        "polarity": "+",
+        "sentence": " These speakers have great sound but they will buzz if you leave them on with the sound turned up .",
+        "term": " sound"
+    },
+    "19": {
+        "id": 19,
+        "polarity": "+",
+        "sentence": " These speakers have great sound but they will buzz if you leave them on with the sound turned up .",
+        "term": "speakers"
+    },
+    "20": {
+        "id": 20,
+        "polarity": "+",
+        "sentence": " Even the bass is pretty impressive from such rather small drivers .",
+        "term": "bass"
+    },
+    "21": {
+        "id": 21,
+        "polarity": "-",
+        "sentence": " I tried to use these with my laptop -LRB- Dell Inspiron 1720 -RRB- but could n't get rid of the buzzing noise others have mentioned , no matter how far I moved them from the computer or where I plugged them in .",
+        "term": "noise"
+    },
+    "22": {
+        "id": 22,
+        "polarity": "+",
+        "sentence": " I took them to a different room and tested them with my mp3 player , where they worked fine and sounded pretty good .",
+        "term": "worked"
+    },
+    "23": {
+        "id": 23,
+        "polarity": "+",
+        "sentence": " I took them to a different room and tested them with my mp3 player , where they worked fine and sounded pretty good .",
+        "term": " sounded"
+    },
+    "24": {
+        "id": 24,
+        "polarity": "+",
+        "sentence": " This little speaker has dynamite sound !!",
+        "term": " sound"
+    },
+    "25": {
+        "id": 25,
+        "polarity": "+",
+        "sentence": " This little speaker has dynamite sound !!",
+        "term": "speaker"
+    },
+    "26": {
+        "id": 26,
+        "polarity": "-",
+        "sentence": " My only complaint , is that the cord is not long enough .",
+        "term": "cord"
+    },
+    "27": {
+        "id": 27,
+        "polarity": "+",
+        "sentence": " Excellent heavy build quality , and the stands are not imposing and blend fairly well into the rest of my furniture .",
+        "term": " stands"
+    },
+    "28": {
+        "id": 28,
+        "polarity": "+",
+        "sentence": " Excellent heavy build quality , and the stands are not imposing and blend fairly well into the rest of my furniture .",
+        "term": "quality"
+    },
+    "29": {
+        "id": 29,
+        "polarity": "+",
+        "sentence": " Wire runs through the body of the stand - giving it a very clean look .",
+        "term": "look"
+    },
+    "30": {
+        "id": 30,
+        "polarity": "+",
+        "sentence": " I 'm also running in-wall rated insulated 14 gauge speaker wire , and the stands accommodate this thick wire perfectly , even through the groove in the bottom of the base .",
+        "term": "stands"
+    },
+    "31": {
+        "id": 31,
+        "polarity": "+",
+        "sentence": " I 'm also running in-wall rated insulated 14 gauge speaker wire , and the stands accommodate this thick wire perfectly , even through the groove in the bottom of the base .",
+        "term": " wire"
+    },
+    "32": {
+        "id": 32,
+        "polarity": "+",
+        "sentence": " I 'm very happy with these , I 'll probably buy 2 more for the front channels .",
+        "term": "front channels"
+    },
+    "33": {
+        "id": 33,
+        "polarity": "-",
+        "sentence": " One thing to consider is that these stands are not height adjustable and the speakers will not angle down .",
+        "term": " speakers"
+    },
+    "34": {
+        "id": 34,
+        "polarity": "-",
+        "sentence": " One thing to consider is that these stands are not height adjustable and the speakers will not angle down .",
+        "term": "stands"
+    },
+    "35": {
+        "id": 35,
+        "polarity": "-",
+        "sentence": " Pros : - Big crisp screen 1920x1080 resolution - Under $ 200 - Decent sounding speakers Cons : Volume adjustment is a little annoying but not really a big problem since windows has volume controls .",
+        "term": " Volume adjustment"
+    },
+    "36": {
+        "id": 36,
+        "polarity": "+",
+        "sentence": " Pros : - Big crisp screen 1920x1080 resolution - Under $ 200 - Decent sounding speakers Cons : Volume adjustment is a little annoying but not really a big problem since windows has volume controls .",
+        "term": "speakers"
+    },
+    "37": {
+        "id": 37,
+        "polarity": "-",
+        "sentence": " The main problems for me is that the dsub cord from the sub to the control station is too short .",
+        "term": "dsub cord"
+    },
+    "38": {
+        "id": 38,
+        "polarity": "-",
+        "sentence": " That and for the center speaker , when I mount it on the wall its so top heavy that it falls forward , leaning out about and inch from the wall .",
+        "term": "heavy"
+    },
+    "39": {
+        "id": 39,
+        "polarity": "+",
+        "sentence": " Thats pretty much it , the speakers rock , the control station and remote are nifty , and the sub is powerful .",
+        "term": " sub"
+    },
+    "40": {
+        "id": 40,
+        "polarity": "+",
+        "sentence": " Thats pretty much it , the speakers rock , the control station and remote are nifty , and the sub is powerful .",
+        "term": " control station"
+    },
+    "41": {
+        "id": 41,
+        "polarity": "+",
+        "sentence": " Thats pretty much it , the speakers rock , the control station and remote are nifty , and the sub is powerful .",
+        "term": "speakers"
+    },
+    "42": {
+        "id": 42,
+        "polarity": "+",
+        "sentence": " Thats pretty much it , the speakers rock , the control station and remote are nifty , and the sub is powerful .",
+        "term": " remote"
+    },
+    "43": {
+        "id": 43,
+        "polarity": "+",
+        "sentence": " Great speakers overall .",
+        "term": "speakers"
+    },
+    "44": {
+        "id": 44,
+        "polarity": "+",
+        "sentence": " I loved the sound of these and the Polk and Klipsich floorstandings of similar characteristics .",
+        "term": "sound"
+    },
+    "45": {
+        "id": 45,
+        "polarity": "+",
+        "sentence": " Living in a small college apartment the E90s and E100s were beautiful , but a bit overkill for what I needed .",
+        "term": "E90s"
+    },
+    "46": {
+        "id": 46,
+        "polarity": "+",
+        "sentence": " Living in a small college apartment the E90s and E100s were beautiful , but a bit overkill for what I needed .",
+        "term": " E100s"
+    },
+    "47": {
+        "id": 47,
+        "polarity": "+",
+        "sentence": " Beautiful home theater and music speaker ... crisp highs , defined mids , and respectable bass .",
+        "term": " mids"
+    },
+    "48": {
+        "id": 48,
+        "polarity": "+",
+        "sentence": " Beautiful home theater and music speaker ... crisp highs , defined mids , and respectable bass .",
+        "term": "home theater"
+    },
+    "49": {
+        "id": 49,
+        "polarity": "+",
+        "sentence": " Beautiful home theater and music speaker ... crisp highs , defined mids , and respectable bass .",
+        "term": " music speaker"
+    },
+    "50": {
+        "id": 50,
+        "polarity": "+",
+        "sentence": " Beautiful home theater and music speaker ... crisp highs , defined mids , and respectable bass .",
+        "term": " highs"
+    },
+    "51": {
+        "id": 51,
+        "polarity": "+",
+        "sentence": " Beautiful home theater and music speaker ... crisp highs , defined mids , and respectable bass .",
+        "term": " bass"
+    },
+    "52": {
+        "id": 52,
+        "polarity": "-",
+        "sentence": " They are a bit top heavy , as any tower will be .",
+        "term": "heavy"
+    },
+    "53": {
+        "id": 53,
+        "polarity": "+",
+        "sentence": " and I love extremely low , loud bass , and as such , I suplemented the system with a sweet JBL sub .",
+        "term": "bass"
+    },
+    "54": {
+        "id": 54,
+        "polarity": "+",
+        "sentence": " and I love extremely low , loud bass , and as such , I suplemented the system with a sweet JBL sub .",
+        "term": " JBL sub"
+    },
+    "55": {
+        "id": 55,
+        "polarity": "+",
+        "sentence": " If you 're looking for a quality tower speaker ... this is it .",
+        "term": "quality tower speaker"
+    },
+    "56": {
+        "id": 56,
+        "polarity": "+",
+        "sentence": " Bass fanatics , look at the S120PII .",
+        "term": "Bass"
+    },
+    "57": {
+        "id": 57,
+        "polarity": "+",
+        "sentence": " These a great speakers - full of sound .",
+        "term": "speakers"
+    },
+    "58": {
+        "id": 58,
+        "polarity": "+",
+        "sentence": " The bass is solid and can be quite impressive if turned up .",
+        "term": "bass"
+    },
+    "59": {
+        "id": 59,
+        "polarity": "+",
+        "sentence": " The speakers look nice and are easy to use .",
+        "term": " use"
+    },
+    "60": {
+        "id": 60,
+        "polarity": "+",
+        "sentence": " The speakers look nice and are easy to use .",
+        "term": "speakers"
+    },
+    "61": {
+        "id": 61,
+        "polarity": "+",
+        "sentence": " The speakers look nice and are easy to use .",
+        "term": " look"
+    },
+    "62": {
+        "id": 62,
+        "polarity": "+",
+        "sentence": " This is a great portable speaker system , but wanted to let people know that if your ipod is in an iSkin case you can not dock the ipod without first removing the skin .",
+        "term": " portable"
+    },
+    "63": {
+        "id": 63,
+        "polarity": "+",
+        "sentence": " This is a great portable speaker system , but wanted to let people know that if your ipod is in an iSkin case you can not dock the ipod without first removing the skin .",
+        "term": "speaker system"
+    },
+    "64": {
+        "id": 64,
+        "polarity": "+",
+        "sentence": " if you 're okay with removing the skin each time you want to use the speaker system , then by all means purchase these speakers as they are great !",
+        "term": "speakers"
+    },
+    "65": {
+        "id": 65,
+        "polarity": "+",
+        "sentence": " Most products will last if taken care of , and Logitech 's products are no exception to this rule , however , since they are somewhat , in fact a great deal more sturdy , than my old radio .",
+        "term": "Logitech 's products"
+    },
+    "66": {
+        "id": 66,
+        "polarity": "+",
+        "sentence": " The comparable product in quality is the old style Shelf Speaker popular in the 80 's , called the brick , but this unit does not have the weight of that product .",
+        "term": " quality"
+    },
+    "67": {
+        "id": 67,
+        "polarity": "+",
+        "sentence": " The comparable product in quality is the old style Shelf Speaker popular in the 80 's , called the brick , but this unit does not have the weight of that product .",
+        "term": " weight"
+    },
+    "68": {
+        "id": 68,
+        "polarity": "+",
+        "sentence": " The comparable product in quality is the old style Shelf Speaker popular in the 80 's , called the brick , but this unit does not have the weight of that product .",
+        "term": "product"
+    },
+    "69": {
+        "id": 69,
+        "polarity": "+",
+        "sentence": " The speakers perform very well , and with the bass boost , the sound fills outs exceedingly well .",
+        "term": " sound"
+    },
+    "70": {
+        "id": 70,
+        "polarity": "+",
+        "sentence": " The speakers perform very well , and with the bass boost , the sound fills outs exceedingly well .",
+        "term": "speakers"
+    },
+    "71": {
+        "id": 71,
+        "polarity": "+",
+        "sentence": " The speakers perform very well , and with the bass boost , the sound fills outs exceedingly well .",
+        "term": " perform"
+    },
+    "72": {
+        "id": 72,
+        "polarity": "+",
+        "sentence": " For a small , portable , unit , this allows you to listen to , as well as share Ipod music , and podcasts , in an intimate setting .",
+        "term": "unit"
+    },
+    "73": {
+        "id": 73,
+        "polarity": "+",
+        "sentence": " An excellent product with excellent and typically superb Logitech production values .",
+        "term": " Logitech production values"
+    },
+    "74": {
+        "id": 74,
+        "polarity": "+",
+        "sentence": " An excellent product with excellent and typically superb Logitech production values .",
+        "term": "product"
+    },
+    "75": {
+        "id": 75,
+        "polarity": "+",
+        "sentence": " For the price there 's nothing better .",
+        "term": "price"
+    },
+    "76": {
+        "id": 76,
+        "polarity": "+",
+        "sentence": " I especially love the ` remote ' controller stand with it 's big volume knob and simple selector buttons .",
+        "term": " selector buttons"
+    },
+    "77": {
+        "id": 77,
+        "polarity": "+",
+        "sentence": " I especially love the ` remote ' controller stand with it 's big volume knob and simple selector buttons .",
+        "term": " volume knob"
+    },
+    "78": {
+        "id": 78,
+        "polarity": "+",
+        "sentence": " I especially love the ` remote ' controller stand with it 's big volume knob and simple selector buttons .",
+        "term": "controller"
+    },
+    "79": {
+        "id": 79,
+        "polarity": "-",
+        "sentence": " They offered to replace my controller but -- important to note -- they were unwilling to cross-ship it .",
+        "term": "cross-ship"
+    },
+    "80": {
+        "id": 80,
+        "polarity": "+",
+        "sentence": " The sound quality is really good .",
+        "term": "sound quality"
+    },
+    "81": {
+        "id": 81,
+        "polarity": "+",
+        "sentence": " The size is small .",
+        "term": "size"
+    },
+    "82": {
+        "id": 82,
+        "polarity": "+",
+        "sentence": " The way I have to put in my I-Pod was a little tricky but when it was done the speakers sound really good .",
+        "term": "speakers"
+    },
+    "83": {
+        "id": 83,
+        "polarity": "-",
+        "sentence": " The Klipsh subwoofer is laughable .",
+        "term": "Klipsh subwoofer"
+    },
+    "84": {
+        "id": 84,
+        "polarity": "+",
+        "sentence": " The Satellites are good but the corsair is more responsive and clean .",
+        "term": " corsair"
+    },
+    "85": {
+        "id": 85,
+        "polarity": "+",
+        "sentence": " The Satellites are good but the corsair is more responsive and clean .",
+        "term": "Satellites"
+    },
+    "86": {
+        "id": 86,
+        "polarity": "+",
+        "sentence": " The speaker arived in excellent condition .",
+        "term": " condition"
+    },
+    "87": {
+        "id": 87,
+        "polarity": "+",
+        "sentence": " The speaker arived in excellent condition .",
+        "term": "speaker"
+    },
+    "88": {
+        "id": 88,
+        "polarity": "+",
+        "sentence": " The build quality is top notch .",
+        "term": "quality"
+    },
+    "89": {
+        "id": 89,
+        "polarity": "+",
+        "sentence": " Very tight joints , excellent black finish , and precise speaker wire hook-ups .",
+        "term": " speaker wire hook-ups"
+    },
+    "90": {
+        "id": 90,
+        "polarity": "+",
+        "sentence": " Very tight joints , excellent black finish , and precise speaker wire hook-ups .",
+        "term": "joints"
+    },
+    "91": {
+        "id": 91,
+        "polarity": "+",
+        "sentence": " Very tight joints , excellent black finish , and precise speaker wire hook-ups .",
+        "term": " finish"
+    },
+    "92": {
+        "id": 92,
+        "polarity": "-",
+        "sentence": " Initially the sound was low and sounded `` off '' .",
+        "term": "sound"
+    },
+    "93": {
+        "id": 93,
+        "polarity": "+",
+        "sentence": " The sound was crisp , clear , and no distortion .",
+        "term": "sound"
+    },
+    "94": {
+        "id": 94,
+        "polarity": "+",
+        "sentence": " The speaker bar response was spot-on .",
+        "term": "speaker bar"
+    },
+    "95": {
+        "id": 95,
+        "polarity": "+",
+        "sentence": " The sounds were as the movie directors intended .",
+        "term": "sounds"
+    },
+    "96": {
+        "id": 96,
+        "polarity": "+",
+        "sentence": " I did n't get any wierd sounds from the side speakers like I did with my old front speakers .",
+        "term": "sounds"
+    },
+    "97": {
+        "id": 97,
+        "polarity": "+",
+        "sentence": " Again , the sounds were spot-on and projected from where they should , the front of the TV .",
+        "term": "sounds"
+    },
+    "98": {
+        "id": 98,
+        "polarity": "+",
+        "sentence": " I 'm quite happy with my new speaker bar .",
+        "term": "speaker bar"
+    },
+    "99": {
+        "id": 99,
+        "polarity": "+",
+        "sentence": " For those of you looking for excellent sound reproduction , expecially during a raging Decepticon battle , look no further .",
+        "term": "sound reproduction"
+    },
+    "100": {
+        "id": 100,
+        "polarity": "+",
+        "sentence": " This Pinnacle speaker bar is well worth the money .",
+        "term": "Pinnacle speaker bar"
+    },
+    "101": {
+        "id": 101,
+        "polarity": "+",
+        "sentence": " It also has a 10 year warranty , which is just icing on the cake .",
+        "term": "warranty"
+    },
+    "102": {
+        "id": 102,
+        "polarity": "+",
+        "sentence": " Over for the price this is a good unit .",
+        "term": "price"
+    },
+    "103": {
+        "id": 103,
+        "polarity": "+",
+        "sentence": " Over for the price this is a good unit .",
+        "term": " unit"
+    },
+    "104": {
+        "id": 104,
+        "polarity": "+",
+        "sentence": " Sound quality is great , bass quality is beyond good .",
+        "term": "Sound quality"
+    },
+    "105": {
+        "id": 105,
+        "polarity": "+",
+        "sentence": " Sound quality is great , bass quality is beyond good .",
+        "term": " bass quality"
+    },
+    "106": {
+        "id": 106,
+        "polarity": "+",
+        "sentence": " Build quality is great .",
+        "term": "quality"
+    },
+    "107": {
+        "id": 107,
+        "polarity": "-",
+        "sentence": " The remote control and reciever not so good .",
+        "term": " reciever"
+    },
+    "108": {
+        "id": 108,
+        "polarity": "-",
+        "sentence": " The remote control and reciever not so good .",
+        "term": "remote control"
+    },
+    "109": {
+        "id": 109,
+        "polarity": "-",
+        "sentence": " The buttons are confusing and super small .",
+        "term": "buttons"
+    },
+    "110": {
+        "id": 110,
+        "polarity": "+",
+        "sentence": " Still for the price you ca n't find better for the cost .",
+        "term": "price"
+    },
+    "111": {
+        "id": 111,
+        "polarity": "+",
+        "sentence": " They look cool but they have a quality issue for sure ... hit or miss I guess , a gamble for sure !",
+        "term": "look"
+    },
+    "112": {
+        "id": 112,
+        "polarity": "-",
+        "sentence": " They look cool but they have a quality issue for sure ... hit or miss I guess , a gamble for sure !",
+        "term": " quality issue"
+    },
+    "113": {
+        "id": 113,
+        "polarity": "+",
+        "sentence": " This audio bar has a great sound , even when i turn it up to the highest level on my laptop .",
+        "term": " sound"
+    },
+    "114": {
+        "id": 114,
+        "polarity": "+",
+        "sentence": " This audio bar has a great sound , even when i turn it up to the highest level on my laptop .",
+        "term": "audio bar"
+    },
+    "115": {
+        "id": 115,
+        "polarity": "+",
+        "sentence": " Other than that the sound is so crisp and clear and I would still purchase this all over again .",
+        "term": "sound"
+    },
+    "116": {
+        "id": 116,
+        "polarity": "+",
+        "sentence": " The sound is so good that my boyfriend wants one now !",
+        "term": "sound"
+    },
+    "117": {
+        "id": 117,
+        "polarity": "+",
+        "sentence": " they were easy to install and ended up using 300 feet of cable .",
+        "term": "install"
+    },
+    "118": {
+        "id": 118,
+        "polarity": "+",
+        "sentence": " For the price of theese speakers the sound that comes out is unbelievable .",
+        "term": "price"
+    },
+    "119": {
+        "id": 119,
+        "polarity": "+",
+        "sentence": " For the price of theese speakers the sound that comes out is unbelievable .",
+        "term": " sound"
+    },
+    "120": {
+        "id": 120,
+        "polarity": "+",
+        "sentence": " Billy Joel was n't kidding when he said you get more mileage from a cheep pair of speakers .",
+        "term": " cheep"
+    },
+    "121": {
+        "id": 121,
+        "polarity": "+",
+        "sentence": " Billy Joel was n't kidding when he said you get more mileage from a cheep pair of speakers .",
+        "term": "speakers"
+    },
+    "122": {
+        "id": 122,
+        "polarity": "+",
+        "sentence": " I highly recomend theese speakers .",
+        "term": "speakers"
+    },
+    "123": {
+        "id": 123,
+        "polarity": "+",
+        "sentence": " As always , super quick shipping by Amazon , items arrived in great shape .",
+        "term": "shipping"
+    },
+    "124": {
+        "id": 124,
+        "polarity": "+",
+        "sentence": " As always , super quick shipping by Amazon , items arrived in great shape .",
+        "term": " shape"
+    },
+    "125": {
+        "id": 125,
+        "polarity": "+",
+        "sentence": " Assembly of the stands is very straightforward , and well detailed in the instructions .",
+        "term": " instructions"
+    },
+    "126": {
+        "id": 126,
+        "polarity": "+",
+        "sentence": " Assembly of the stands is very straightforward , and well detailed in the instructions .",
+        "term": "stands"
+    },
+    "127": {
+        "id": 127,
+        "polarity": "+",
+        "sentence": " They are very sturdy , and have no trouble balance wise , or handling oddly shaped speakers .",
+        "term": "speakers"
+    },
+    "128": {
+        "id": 128,
+        "polarity": "+",
+        "sentence": " I have no problem at all recommending these stands .",
+        "term": "stands"
+    },
+    "129": {
+        "id": 129,
+        "polarity": "+",
+        "sentence": " The sound is clear and clean but if your not on top of it you ca n't hear a thing .",
+        "term": "sound"
+    },
+    "130": {
+        "id": 130,
+        "polarity": "+",
+        "sentence": " I 'm sure it would and can be useful in a different setting ; one where you would only need your volume to be at a whisper .",
+        "term": "setting"
+    },
+    "131": {
+        "id": 131,
+        "polarity": "+",
+        "sentence": " Good quality for a small portable speaker .",
+        "term": " portable"
+    },
+    "132": {
+        "id": 132,
+        "polarity": "+",
+        "sentence": " Good quality for a small portable speaker .",
+        "term": " speaker"
+    },
+    "133": {
+        "id": 133,
+        "polarity": "+",
+        "sentence": " Good quality for a small portable speaker .",
+        "term": "quality"
+    },
+    "134": {
+        "id": 134,
+        "polarity": "+",
+        "sentence": " Convenience because it works through the USB port .",
+        "term": "USB port"
+    },
+    "135": {
+        "id": 135,
+        "polarity": "-",
+        "sentence": " I wished that they could make the volumn a little bit louder .",
+        "term": "volumn"
+    },
+    "136": {
+        "id": 136,
+        "polarity": "+",
+        "sentence": " After seeing and hearing the sound of the I-Tour Pop speaker , I was sold .",
+        "term": "sound"
+    },
+    "137": {
+        "id": 137,
+        "polarity": "+",
+        "sentence": " Its tiny and has really decent sound for something so small .",
+        "term": "tiny"
+    },
+    "138": {
+        "id": 138,
+        "polarity": "+",
+        "sentence": " Its tiny and has really decent sound for something so small .",
+        "term": " sound"
+    },
+    "139": {
+        "id": 139,
+        "polarity": "+",
+        "sentence": " The rechargeable battery is a great feature .",
+        "term": "battery"
+    },
+    "140": {
+        "id": 140,
+        "polarity": "+",
+        "sentence": " The rechargeable battery is a great feature .",
+        "term": " feature"
+    },
+    "141": {
+        "id": 141,
+        "polarity": "+",
+        "sentence": " Very good value for the money .",
+        "term": "value"
+    },
+    "142": {
+        "id": 142,
+        "polarity": "+",
+        "sentence": " I love this little speaker .",
+        "term": "speaker"
+    },
+    "143": {
+        "id": 143,
+        "polarity": "+",
+        "sentence": " I was surprised how good the sound was and I especially like to use it when I am listening to audio books .",
+        "term": "sound"
+    },
+    "144": {
+        "id": 144,
+        "polarity": "+",
+        "sentence": " Both the black and the white speakers are economically priced and worth it .",
+        "term": "speakers"
+    },
+    "145": {
+        "id": 145,
+        "polarity": "+",
+        "sentence": " Both the black and the white speakers are economically priced and worth it .",
+        "term": " priced"
+    },
+    "146": {
+        "id": 146,
+        "polarity": "+",
+        "sentence": " The speakers are nice , no question about it ; the sound is good for the size ; the range is what you might expect from speakers this size -LRB- perhaps even better than expected -RRB- .",
+        "term": " range"
+    },
+    "147": {
+        "id": 147,
+        "polarity": "+",
+        "sentence": " The speakers are nice , no question about it ; the sound is good for the size ; the range is what you might expect from speakers this size -LRB- perhaps even better than expected -RRB- .",
+        "term": " sound"
+    },
+    "148": {
+        "id": 148,
+        "polarity": "+",
+        "sentence": " The speakers are nice , no question about it ; the sound is good for the size ; the range is what you might expect from speakers this size -LRB- perhaps even better than expected -RRB- .",
+        "term": "speakers"
+    },
+    "149": {
+        "id": 149,
+        "polarity": "+",
+        "sentence": " The speakers are nice , no question about it ; the sound is good for the size ; the range is what you might expect from speakers this size -LRB- perhaps even better than expected -RRB- .",
+        "term": " size"
+    },
+    "150": {
+        "id": 150,
+        "polarity": "+",
+        "sentence": " There are no incompatibility problems and they work fine .",
+        "term": "work"
+    },
+    "151": {
+        "id": 151,
+        "polarity": "-",
+        "sentence": " The range of response seems a little limited to me -LRB- changing the EQ setting on the iPod produces a definite change in the sound , but I would expect a little more richness in the changes -RRB- .",
+        "term": "range of response"
+    },
+    "152": {
+        "id": 152,
+        "polarity": "+",
+        "sentence": " The size is a bit more than I expected from Bose , a company that excels at putting good sound in small packages .",
+        "term": " sound"
+    },
+    "153": {
+        "id": 153,
+        "polarity": "-",
+        "sentence": " The size is a bit more than I expected from Bose , a company that excels at putting good sound in small packages .",
+        "term": "size"
+    },
+    "154": {
+        "id": 154,
+        "polarity": "+",
+        "sentence": " Lastly , I feel that the speakers were over priced for what I got -LRB- unless there is some inherent benefit in the Bose label that I do n't know of -RRB- .",
+        "term": "speakers"
+    },
+    "155": {
+        "id": 155,
+        "polarity": "+",
+        "sentence": " Bottom line , I have a better set of speakers , in the Creative Labs I-Trigue 2200 2.0 Speakers , on my computer -LRB- at least to my ears -RRB- , for less than half the cost .",
+        "term": "speakers"
+    },
+    "156": {
+        "id": 156,
+        "polarity": "+",
+        "sentence": " This portable speaker is easy to use , powerful enough for everyday use , and available at a pretty decent price .",
+        "term": " use"
+    },
+    "157": {
+        "id": 157,
+        "polarity": "+",
+        "sentence": " This portable speaker is easy to use , powerful enough for everyday use , and available at a pretty decent price .",
+        "term": " price"
+    },
+    "158": {
+        "id": 158,
+        "polarity": "+",
+        "sentence": " This portable speaker is easy to use , powerful enough for everyday use , and available at a pretty decent price .",
+        "term": "speaker"
+    },
+    "159": {
+        "id": 159,
+        "polarity": "+",
+        "sentence": " The battery has a great life and the sound quality is very good -LRB- not professional but definitely good enough for the average consumer -RRB- .",
+        "term": " sound quality"
+    },
+    "160": {
+        "id": 160,
+        "polarity": "+",
+        "sentence": " The battery has a great life and the sound quality is very good -LRB- not professional but definitely good enough for the average consumer -RRB- .",
+        "term": "battery"
+    },
+    "161": {
+        "id": 161,
+        "polarity": "+",
+        "sentence": " Awesome sound system .",
+        "term": "sound system"
+    },
+    "162": {
+        "id": 162,
+        "polarity": "+",
+        "sentence": " Had a JVC system that was 6 years old and I thought it was good , but the Onkyo sound is amazing !",
+        "term": "Onkyo sound"
+    },
+    "163": {
+        "id": 163,
+        "polarity": "+",
+        "sentence": " It was easy to install all of the components and directions were easy to understand , even for an old guy like me .",
+        "term": " components and directions"
+    },
+    "164": {
+        "id": 164,
+        "polarity": "+",
+        "sentence": " It was easy to install all of the components and directions were easy to understand , even for an old guy like me .",
+        "term": "install"
+    },
+    "165": {
+        "id": 165,
+        "polarity": "-",
+        "sentence": " The only drawback is the speaker wire is very thin .",
+        "term": "speaker wire"
+    },
+    "166": {
+        "id": 166,
+        "polarity": "+",
+        "sentence": " This set is not my preferred to use in my car -LRB- I use the JBL On Tour - great sound for a small , compact speaker -RRB- , but I was very impressed with the Phillip speaker sound and use them very regularly around the house .",
+        "term": "sound"
+    },
+    "167": {
+        "id": 167,
+        "polarity": "+",
+        "sentence": " This set is not my preferred to use in my car -LRB- I use the JBL On Tour - great sound for a small , compact speaker -RRB- , but I was very impressed with the Phillip speaker sound and use them very regularly around the house .",
+        "term": " Phillip speaker sound"
+    },
+    "168": {
+        "id": 168,
+        "polarity": "+",
+        "sentence": " This set is not my preferred to use in my car -LRB- I use the JBL On Tour - great sound for a small , compact speaker -RRB- , but I was very impressed with the Phillip speaker sound and use them very regularly around the house .",
+        "term": " speaker"
+    },
+    "169": {
+        "id": 169,
+        "polarity": "+",
+        "sentence": " For the price , the sound is great and their portability -LRB- pack down to a large egg-shape -RRB- is quite good .",
+        "term": "price"
+    },
+    "170": {
+        "id": 170,
+        "polarity": "+",
+        "sentence": " For the price , the sound is great and their portability -LRB- pack down to a large egg-shape -RRB- is quite good .",
+        "term": " sound"
+    },
+    "171": {
+        "id": 171,
+        "polarity": "+",
+        "sentence": " For the price , the sound is great and their portability -LRB- pack down to a large egg-shape -RRB- is quite good .",
+        "term": " portability"
+    },
+    "172": {
+        "id": 172,
+        "polarity": "+",
+        "sentence": " You ca n't go wrong with these if what you are looking for is a good sound in a small package !",
+        "term": "sound"
+    },
+    "173": {
+        "id": 173,
+        "polarity": "+",
+        "sentence": " the soft orange glow at the base is a nice nightlight .",
+        "term": "base"
+    },
+    "174": {
+        "id": 174,
+        "polarity": "+",
+        "sentence": " and the sound well there is no complaints about that .",
+        "term": "sound"
+    },
+    "175": {
+        "id": 175,
+        "polarity": "+",
+        "sentence": " It 's loud and the quality is good .",
+        "term": "quality"
+    },
+    "176": {
+        "id": 176,
+        "polarity": "+",
+        "sentence": " A + + + + + + product and very well built for apple users in mind ... ... oh yeah theres a usb port in the back for you droid people .",
+        "term": " built"
+    },
+    "177": {
+        "id": 177,
+        "polarity": "+",
+        "sentence": " A + + + + + + product and very well built for apple users in mind ... ... oh yeah theres a usb port in the back for you droid people .",
+        "term": "product"
+    },
+    "178": {
+        "id": 178,
+        "polarity": "+",
+        "sentence": " The sound is great , not as good as my $ 1000 each Klipsch R7s , but come on , for the size and price , you will not beat these units .",
+        "term": "sound"
+    },
+    "179": {
+        "id": 179,
+        "polarity": "+",
+        "sentence": " The sound is great , not as good as my $ 1000 each Klipsch R7s , but come on , for the size and price , you will not beat these units .",
+        "term": " size"
+    },
+    "180": {
+        "id": 180,
+        "polarity": "+",
+        "sentence": " The sound is great , not as good as my $ 1000 each Klipsch R7s , but come on , for the size and price , you will not beat these units .",
+        "term": " price"
+    },
+    "181": {
+        "id": 181,
+        "polarity": "+",
+        "sentence": " Well , I can not complain about the volume , bass or mounting abilities of the system .",
+        "term": "volume"
+    },
+    "182": {
+        "id": 182,
+        "polarity": "+",
+        "sentence": " Well , I can not complain about the volume , bass or mounting abilities of the system .",
+        "term": " bass"
+    },
+    "183": {
+        "id": 183,
+        "polarity": "+",
+        "sentence": " Well , I can not complain about the volume , bass or mounting abilities of the system .",
+        "term": " mounting abilities"
+    },
+    "184": {
+        "id": 184,
+        "polarity": "+",
+        "sentence": " These INSTEN `` Folding Speakers '' are a surprisingly good value for decent quality portable speakers !",
+        "term": " quality"
+    },
+    "185": {
+        "id": 185,
+        "polarity": "+",
+        "sentence": " These INSTEN `` Folding Speakers '' are a surprisingly good value for decent quality portable speakers !",
+        "term": "value"
+    },
+    "186": {
+        "id": 186,
+        "polarity": "+",
+        "sentence": " These INSTEN `` Folding Speakers '' are a surprisingly good value for decent quality portable speakers !",
+        "term": " speakers"
+    },
+    "187": {
+        "id": 187,
+        "polarity": "+",
+        "sentence": " We own two sets of these -LRB- black -RRB- and I am very pleased with the performance of the these compact speakers , especially at the low price these sell for here on Amazon .",
+        "term": " speakers"
+    },
+    "188": {
+        "id": 188,
+        "polarity": "+",
+        "sentence": " We own two sets of these -LRB- black -RRB- and I am very pleased with the performance of the these compact speakers , especially at the low price these sell for here on Amazon .",
+        "term": " price"
+    },
+    "189": {
+        "id": 189,
+        "polarity": "+",
+        "sentence": " We own two sets of these -LRB- black -RRB- and I am very pleased with the performance of the these compact speakers , especially at the low price these sell for here on Amazon .",
+        "term": "performance"
+    },
+    "190": {
+        "id": 190,
+        "polarity": "+",
+        "sentence": " Here are my observations : Pros : + Folding ; these have a very clever design that allows them to fold in to a small cube for easy transporting + Good Sound ; produces fairly good sound at all but the highest volume levels -LRB- see `` Cons '' , below -RRB- , at least to my untrained ear + Universal Connector ; the unit uses a standard mini connector , so this can be used with all of MP3 players + Power Options ; comes with a USB power cable or it can use 4 x AAA batteries .",
+        "term": " sound"
+    },
+    "191": {
+        "id": 191,
+        "polarity": "+",
+        "sentence": " Here are my observations : Pros : + Folding ; these have a very clever design that allows them to fold in to a small cube for easy transporting + Good Sound ; produces fairly good sound at all but the highest volume levels -LRB- see `` Cons '' , below -RRB- , at least to my untrained ear + Universal Connector ; the unit uses a standard mini connector , so this can be used with all of MP3 players + Power Options ; comes with a USB power cable or it can use 4 x AAA batteries .",
+        "term": "design"
+    },
+    "192": {
+        "id": 192,
+        "polarity": "+",
+        "sentence": " Here are my observations : Pros : + Folding ; these have a very clever design that allows them to fold in to a small cube for easy transporting + Good Sound ; produces fairly good sound at all but the highest volume levels -LRB- see `` Cons '' , below -RRB- , at least to my untrained ear + Universal Connector ; the unit uses a standard mini connector , so this can be used with all of MP3 players + Power Options ; comes with a USB power cable or it can use 4 x AAA batteries .",
+        "term": " volume levels"
+    },
+    "193": {
+        "id": 193,
+        "polarity": "+",
+        "sentence": " Here are my observations : Pros : + Folding ; these have a very clever design that allows them to fold in to a small cube for easy transporting + Good Sound ; produces fairly good sound at all but the highest volume levels -LRB- see `` Cons '' , below -RRB- , at least to my untrained ear + Universal Connector ; the unit uses a standard mini connector , so this can be used with all of MP3 players + Power Options ; comes with a USB power cable or it can use 4 x AAA batteries .",
+        "term": " Sound"
+    },
+    "194": {
+        "id": 194,
+        "polarity": "+",
+        "sentence": " Here are my observations : Pros : + Folding ; these have a very clever design that allows them to fold in to a small cube for easy transporting + Good Sound ; produces fairly good sound at all but the highest volume levels -LRB- see `` Cons '' , below -RRB- , at least to my untrained ear + Universal Connector ; the unit uses a standard mini connector , so this can be used with all of MP3 players + Power Options ; comes with a USB power cable or it can use 4 x AAA batteries .",
+        "term": " transporting"
+    },
+    "195": {
+        "id": 195,
+        "polarity": "-",
+        "sentence": " You can also use a 6v DC power supply -LRB- not included -RRB- Cons : - Bad Instructions ; like many products of this type the instructions manual is lacking and , in this case , erroneously lists the power requirements as AC when it should be DC .",
+        "term": " instructions manual"
+    },
+    "196": {
+        "id": 196,
+        "polarity": "-",
+        "sentence": " You can also use a 6v DC power supply -LRB- not included -RRB- Cons : - Bad Instructions ; like many products of this type the instructions manual is lacking and , in this case , erroneously lists the power requirements as AC when it should be DC .",
+        "term": "Instructions"
+    },
+    "197": {
+        "id": 197,
+        "polarity": "+",
+        "sentence": " Very compact and portable just as described with great sound quality .",
+        "term": "sound quality"
+    },
+    "198": {
+        "id": 198,
+        "polarity": "+",
+        "sentence": " Would definatley recommend to a friend and its volume can fill a small house for such a small speaker system .",
+        "term": "volume"
+    },
+    "199": {
+        "id": 199,
+        "polarity": "+",
+        "sentence": " Would definatley recommend to a friend and its volume can fill a small house for such a small speaker system .",
+        "term": " speaker system"
+    },
+    "200": {
+        "id": 200,
+        "polarity": "+",
+        "sentence": " This product is good enough to integrate my clarion cx501 to my Toyota camry 2001 mode .",
+        "term": "product"
+    },
+    "201": {
+        "id": 201,
+        "polarity": "+",
+        "sentence": " It works flawlessly during installation of cx501 .",
+        "term": "works"
+    },
+    "202": {
+        "id": 202,
+        "polarity": "+",
+        "sentence": " It works flawlessly during installation of cx501 .",
+        "term": " installation"
+    },
+    "203": {
+        "id": 203,
+        "polarity": "+",
+        "sentence": " I was looking for an inexpensive , room-suited ipod speaker and this is what I got .",
+        "term": "inexpensive"
+    },
+    "204": {
+        "id": 204,
+        "polarity": "+",
+        "sentence": " I was looking for an inexpensive , room-suited ipod speaker and this is what I got .",
+        "term": " speaker"
+    },
+    "205": {
+        "id": 205,
+        "polarity": "+",
+        "sentence": " The volume is loud enough , but at louder levels there is noticable vibration and some distortion .",
+        "term": "volume"
+    },
+    "206": {
+        "id": 206,
+        "polarity": "-",
+        "sentence": " The volume is loud enough , but at louder levels there is noticable vibration and some distortion .",
+        "term": " vibration"
+    },
+    "207": {
+        "id": 207,
+        "polarity": "-",
+        "sentence": " The volume is loud enough , but at louder levels there is noticable vibration and some distortion .",
+        "term": " distortion"
+    },
+    "208": {
+        "id": 208,
+        "polarity": "-",
+        "sentence": " My biggest problem with this speaker is the incompatibility with my 2nd generation iPod Nano .",
+        "term": "incompatibility"
+    },
+    "209": {
+        "id": 209,
+        "polarity": "+",
+        "sentence": " It works fine without the dock , but it 's shaky and unstable .",
+        "term": "works"
+    },
+    "210": {
+        "id": 210,
+        "polarity": "+",
+        "sentence": " So besides the annoyances , this is a fine speaker for the amount I paid .",
+        "term": "speaker"
+    },
+    "211": {
+        "id": 211,
+        "polarity": "+",
+        "sentence": " For the cost of this product i could not ask for more .",
+        "term": "cost"
+    },
+    "212": {
+        "id": 212,
+        "polarity": "+",
+        "sentence": " The sound quality is very exceptable .",
+        "term": "sound quality"
+    },
+    "213": {
+        "id": 213,
+        "polarity": "-",
+        "sentence": " The only issue i have against the speakers is its a little on the low tone side , but still is very good , and you can set your equalizer to make up for it .",
+        "term": " tone side"
+    },
+    "214": {
+        "id": 214,
+        "polarity": "-",
+        "sentence": " The only issue i have against the speakers is its a little on the low tone side , but still is very good , and you can set your equalizer to make up for it .",
+        "term": "speakers"
+    },
+    "215": {
+        "id": 215,
+        "polarity": "+",
+        "sentence": " Easy set up and the picture was crystal clear .",
+        "term": " picture"
+    },
+    "216": {
+        "id": 216,
+        "polarity": "+",
+        "sentence": " Easy set up and the picture was crystal clear .",
+        "term": "set up"
+    },
+    "217": {
+        "id": 217,
+        "polarity": "+",
+        "sentence": " Love this speaker .",
+        "term": "speaker"
+    },
+    "218": {
+        "id": 218,
+        "polarity": "+",
+        "sentence": " Sounds awesome .",
+        "term": "Sounds"
+    },
+    "219": {
+        "id": 219,
+        "polarity": "+",
+        "sentence": " Works super easy .",
+        "term": "Works"
+    },
+    "220": {
+        "id": 220,
+        "polarity": "+",
+        "sentence": " Looks great .",
+        "term": "Looks"
+    },
+    "221": {
+        "id": 221,
+        "polarity": "-",
+        "sentence": " My only complaint is like others here ... it randomly disconnects from the bluetooth and it 's really annoying when it does because it does it so often .",
+        "term": "disconnects"
+    },
+    "222": {
+        "id": 222,
+        "polarity": "+",
+        "sentence": " full spectrum sound from full base to great highs .",
+        "term": "highs"
+    },
+    "223": {
+        "id": 223,
+        "polarity": "+",
+        "sentence": " it sounds great out on the patio or on my night stand .",
+        "term": "sounds"
+    },
+    "224": {
+        "id": 224,
+        "polarity": "+",
+        "sentence": " I have found this little device to be quite fun to use .",
+        "term": " use"
+    },
+    "225": {
+        "id": 225,
+        "polarity": "+",
+        "sentence": " I have found this little device to be quite fun to use .",
+        "term": "device"
+    },
+    "226": {
+        "id": 226,
+        "polarity": "+",
+        "sentence": " The range seems quite good even through walls .",
+        "term": "range"
+    },
+    "227": {
+        "id": 227,
+        "polarity": "+",
+        "sentence": " I mainly use it with my Apple IPad and it really sounds quite good for it diminutive size .",
+        "term": "sounds"
+    },
+    "228": {
+        "id": 228,
+        "polarity": "+",
+        "sentence": " I mainly use it with my Apple IPad and it really sounds quite good for it diminutive size .",
+        "term": " size"
+    },
+    "229": {
+        "id": 229,
+        "polarity": "+",
+        "sentence": " The range is great , I can list to my radio anywhere in the house .",
+        "term": "range"
+    },
+    "230": {
+        "id": 230,
+        "polarity": "-",
+        "sentence": " While my laptop and netbook have decent speakers , the volume on such devices is inherently lower than with standard speakers , making it harder to hear some audio .",
+        "term": "volume"
+    },
+    "231": {
+        "id": 231,
+        "polarity": "+",
+        "sentence": " Logitech 's N550 Speaker Lapdesk wins in the area of comfort .",
+        "term": "N550 Speaker Lapdesk"
+    },
+    "232": {
+        "id": 232,
+        "polarity": "+",
+        "sentence": " The padded underside is great even when set on bare legs and the unit is angled for a comfortable typing experience .",
+        "term": " typing experience"
+    },
+    "233": {
+        "id": 233,
+        "polarity": "+",
+        "sentence": " The padded underside is great even when set on bare legs and the unit is angled for a comfortable typing experience .",
+        "term": "underside"
+    },
+    "234": {
+        "id": 234,
+        "polarity": "+",
+        "sentence": " The speakers themselves sound really good .",
+        "term": " sound"
+    },
+    "235": {
+        "id": 235,
+        "polarity": "+",
+        "sentence": " The speakers themselves sound really good .",
+        "term": "speakers"
+    },
+    "236": {
+        "id": 236,
+        "polarity": "+",
+        "sentence": " Even better , you do n't have to worry about constantly replacing batteries .",
+        "term": "batteries"
+    },
+    "237": {
+        "id": 237,
+        "polarity": "+",
+        "sentence": " All in all , this is a very good option for anyone who has a small portable computer and wants a lapdesk and external speakers .",
+        "term": "option"
+    },
+    "238": {
+        "id": 238,
+        "polarity": "+",
+        "sentence": " This is one of the nicest electronic devices that I 've ever owned .",
+        "term": "devices"
+    },
+    "239": {
+        "id": 239,
+        "polarity": "+",
+        "sentence": " The speakers are pretty small , so they wo n't take up a lot of space , but they play as loud as you want them to , and they have great quality .",
+        "term": " quality"
+    },
+    "240": {
+        "id": 240,
+        "polarity": "+",
+        "sentence": " The speakers are pretty small , so they wo n't take up a lot of space , but they play as loud as you want them to , and they have great quality .",
+        "term": " small"
+    },
+    "241": {
+        "id": 241,
+        "polarity": "+",
+        "sentence": " The speakers are pretty small , so they wo n't take up a lot of space , but they play as loud as you want them to , and they have great quality .",
+        "term": "speakers"
+    },
+    "242": {
+        "id": 242,
+        "polarity": "+",
+        "sentence": " I paired this very easily to two different Android phones .",
+        "term": "paired"
+    },
+    "243": {
+        "id": 243,
+        "polarity": "+",
+        "sentence": " This product is amazing !!!",
+        "term": "product"
+    },
+    "244": {
+        "id": 244,
+        "polarity": "+",
+        "sentence": " The sound this slim design puts out !!",
+        "term": "sound"
+    },
+    "245": {
+        "id": 245,
+        "polarity": "+",
+        "sentence": " The sound this slim design puts out !!",
+        "term": " design"
+    },
+    "246": {
+        "id": 246,
+        "polarity": "-",
+        "sentence": " Very cheap quality item and beside that one of the speaker was bad and the sound out of it was like you are whisling .",
+        "term": "quality item"
+    },
+    "247": {
+        "id": 247,
+        "polarity": "-",
+        "sentence": " Very cheap quality item and beside that one of the speaker was bad and the sound out of it was like you are whisling .",
+        "term": " speaker"
+    },
+    "248": {
+        "id": 248,
+        "polarity": "-",
+        "sentence": " Very cheap quality item and beside that one of the speaker was bad and the sound out of it was like you are whisling .",
+        "term": " sound"
+    },
+    "249": {
+        "id": 249,
+        "polarity": "-",
+        "sentence": " It 's a fun little gadget , do n't expect high definition sound .",
+        "term": "definition sound"
+    },
+    "250": {
+        "id": 250,
+        "polarity": "+",
+        "sentence": " They sound really good just as the reviews say .",
+        "term": "sound"
+    },
+    "251": {
+        "id": 251,
+        "polarity": "+",
+        "sentence": " A little bit of control over the mids would be nice but the bass is solid for the size .",
+        "term": "bass"
+    },
+    "252": {
+        "id": 252,
+        "polarity": "-",
+        "sentence": " A little bit of control over the mids would be nice but the bass is solid for the size .",
+        "term": " mids"
+    },
+    "253": {
+        "id": 253,
+        "polarity": "-",
+        "sentence": " The switch being in the back is a little awkward as the other reviews also mention and the `` pulse '' is n't really all that but that is irrelevant to me .",
+        "term": "switch"
+    },
+    "254": {
+        "id": 254,
+        "polarity": "-",
+        "sentence": " They do look cool in the dark though .",
+        "term": "look"
+    },
+    "255": {
+        "id": 255,
+        "polarity": "+",
+        "sentence": " Overall I would reccomend these to someone who wants a set of small but effective computer speakers at a reasonable price .",
+        "term": "computer speakers"
+    },
+    "256": {
+        "id": 256,
+        "polarity": "+",
+        "sentence": " Overall I would reccomend these to someone who wants a set of small but effective computer speakers at a reasonable price .",
+        "term": " price"
+    },
+    "257": {
+        "id": 257,
+        "polarity": "-",
+        "sentence": " I tried these speakers and found them to preform well below expectations for this price .",
+        "term": " preform"
+    },
+    "258": {
+        "id": 258,
+        "polarity": "-",
+        "sentence": " I tried these speakers and found them to preform well below expectations for this price .",
+        "term": "speakers"
+    },
+    "259": {
+        "id": 259,
+        "polarity": "+",
+        "sentence": " If you are concerned about looks , get these .",
+        "term": "looks"
+    },
+    "260": {
+        "id": 260,
+        "polarity": "-",
+        "sentence": " If you want good sound , STAY AWAY !!!",
+        "term": "sound"
+    },
+    "261": {
+        "id": 261,
+        "polarity": "+",
+        "sentence": " Best HT upgrade I 've made in over 2 years .",
+        "term": "HT upgrade"
+    },
+    "262": {
+        "id": 262,
+        "polarity": "-",
+        "sentence": " I will have to wholeheartedly agree with others here about the quality of this speaker .",
+        "term": "quality"
+    },
+    "263": {
+        "id": 263,
+        "polarity": "+",
+        "sentence": " Well , this speaker does the same wonders for my low-end HT setup .",
+        "term": "speaker"
+    },
+    "264": {
+        "id": 264,
+        "polarity": "+",
+        "sentence": " Dialogue is very noticeably clearer .",
+        "term": "Dialogue"
+    },
+    "265": {
+        "id": 265,
+        "polarity": "+",
+        "sentence": " Sound effects really sound more authentic .",
+        "term": "Sound effects"
+    },
+    "266": {
+        "id": 266,
+        "polarity": "-",
+        "sentence": " The first set I received had a loud audible tone coming from the speakers and had to be returned .",
+        "term": " speakers"
+    },
+    "267": {
+        "id": 267,
+        "polarity": "-",
+        "sentence": " The first set I received had a loud audible tone coming from the speakers and had to be returned .",
+        "term": "tone"
+    },
+    "268": {
+        "id": 268,
+        "polarity": "+",
+        "sentence": " The second set is working just fine .",
+        "term": "working"
+    },
+    "269": {
+        "id": 269,
+        "polarity": "+",
+        "sentence": " You can fill a small room with sound pretty good , but do n't think it rivals a home theater system .",
+        "term": "sound"
+    },
+    "270": {
+        "id": 270,
+        "polarity": "+",
+        "sentence": " Music sounds great but having surround sound in game is nice and a big difference from headphones .",
+        "term": "surround sound"
+    },
+    "271": {
+        "id": 271,
+        "polarity": "+",
+        "sentence": " These speakers are a greatg value I use them as rear speakers with polk fronts and center .",
+        "term": "speakers"
+    },
+    "272": {
+        "id": 272,
+        "polarity": "+",
+        "sentence": " These speakers are a greatg value I use them as rear speakers with polk fronts and center .",
+        "term": " value"
+    },
+    "273": {
+        "id": 273,
+        "polarity": "+",
+        "sentence": " They are clears and perfect to be used along with a sub .",
+        "term": "used"
+    },
+    "274": {
+        "id": 274,
+        "polarity": "+",
+        "sentence": " In addition the price point is spectacular .",
+        "term": "price point"
+    },
+    "275": {
+        "id": 275,
+        "polarity": "+",
+        "sentence": " These are the only computer speakers I 've ever bought so I have no comparison to anything else .",
+        "term": "computer speakers"
+    },
+    "276": {
+        "id": 276,
+        "polarity": "-",
+        "sentence": " The subwoofer is a tad boomy and s l o w and it still sounds unnatural even with the subwoofer know turned ALL THE WAY DOWN , but it 's all right because these are computer speakers .",
+        "term": "subwoofer"
+    },
+    "277": {
+        "id": 277,
+        "polarity": "-",
+        "sentence": " Some may not like the horn tweeters , as they tend to sound too hot .",
+        "term": "horn tweeters"
+    },
+    "278": {
+        "id": 278,
+        "polarity": "-",
+        "sentence": " I usually avoid horns but I do n't hear anything overly extreme .",
+        "term": "horns"
+    },
+    "279": {
+        "id": 279,
+        "polarity": "+",
+        "sentence": " This system is very powerful .",
+        "term": "system"
+    },
+    "280": {
+        "id": 280,
+        "polarity": "+",
+        "sentence": " This is a great 3-piece speaker system for a computer , and it 's worth every penny .",
+        "term": "speaker system"
+    },
+    "281": {
+        "id": 281,
+        "polarity": "+",
+        "sentence": " This is the best sound system I have ever heard .",
+        "term": "sound system"
+    },
+    "282": {
+        "id": 282,
+        "polarity": "+",
+        "sentence": " The woofer is much larger .",
+        "term": "woofer"
+    },
+    "283": {
+        "id": 283,
+        "polarity": "+",
+        "sentence": " When I saw a lot of plastic where there was metal I was concerned that the sound would not be as good .",
+        "term": "sound"
+    },
+    "284": {
+        "id": 284,
+        "polarity": "+",
+        "sentence": " If I were to rate these speakers on my listening needs , I would give a 2.5 stars , but I 'm giving 4 because I think they do the job that most people want them for .",
+        "term": "speakers"
+    },
+    "285": {
+        "id": 285,
+        "polarity": "-",
+        "sentence": " What I do n't like is that at lower volume music listening , tonal qualities are very poor .",
+        "term": "tonal qualities"
+    },
+    "286": {
+        "id": 286,
+        "polarity": "-",
+        "sentence": " There are limitations to what you can do with frequency adjustments because of the built-in speaker crossovers .",
+        "term": "speaker crossovers"
+    },
+    "287": {
+        "id": 287,
+        "polarity": "-",
+        "sentence": " You can not get decent mid-range or bass at lower levels without inaccurate booming from the sub woofer no matter how you tweak the levels .",
+        "term": "mid-range"
+    },
+    "288": {
+        "id": 288,
+        "polarity": "-",
+        "sentence": " You can not get decent mid-range or bass at lower levels without inaccurate booming from the sub woofer no matter how you tweak the levels .",
+        "term": " bass"
+    },
+    "289": {
+        "id": 289,
+        "polarity": "+",
+        "sentence": " However , once you crank the volume a little to a level a bit too distracting for the work I like to get done with some background music , viola , the audio is great -LRB- well , this is relative - great for a computer speaker -RRB- .",
+        "term": "computer speaker"
+    },
+    "290": {
+        "id": 290,
+        "polarity": "+",
+        "sentence": " Pros : - Great sound for a $ 100 speaker at mid to higher levels .",
+        "term": "sound"
+    },
+    "291": {
+        "id": 291,
+        "polarity": "+",
+        "sentence": " Definitely more capable of filling the room with sound than any other computer speakers I 've owned .",
+        "term": "computer speakers"
+    },
+    "292": {
+        "id": 292,
+        "polarity": "+",
+        "sentence": " - Input and headphone on right jack is super handy .",
+        "term": "Input"
+    },
+    "293": {
+        "id": 293,
+        "polarity": "+",
+        "sentence": " - Input and headphone on right jack is super handy .",
+        "term": " headphone"
+    },
+    "294": {
+        "id": 294,
+        "polarity": "-",
+        "sentence": " - Construction : all components are pretty rugged and seem built to last .",
+        "term": "components"
+    },
+    "295": {
+        "id": 295,
+        "polarity": "+",
+        "sentence": " - Power , volume , and bass controls on the right speaker are fairly handy .",
+        "term": " bass controls"
+    },
+    "296": {
+        "id": 296,
+        "polarity": "+",
+        "sentence": " - Power , volume , and bass controls on the right speaker are fairly handy .",
+        "term": "Power"
+    },
+    "297": {
+        "id": 297,
+        "polarity": "+",
+        "sentence": " - Power , volume , and bass controls on the right speaker are fairly handy .",
+        "term": " speaker"
+    },
+    "298": {
+        "id": 298,
+        "polarity": "+",
+        "sentence": " - Power , volume , and bass controls on the right speaker are fairly handy .",
+        "term": " volume"
+    },
+    "299": {
+        "id": 299,
+        "polarity": "+",
+        "sentence": " - If you want loud , boomy bass , this does the job very well for a computer speaker -LRB- no , these are n't going to hit as hard as larger power-guzzling woofers , but they perform as nice as or better than many home theater woofers I 've heard -RRB- .",
+        "term": " bass"
+    },
+    "300": {
+        "id": 300,
+        "polarity": "+",
+        "sentence": " - If you want loud , boomy bass , this does the job very well for a computer speaker -LRB- no , these are n't going to hit as hard as larger power-guzzling woofers , but they perform as nice as or better than many home theater woofers I 've heard -RRB- .",
+        "term": "computer speaker"
+    },
+    "301": {
+        "id": 301,
+        "polarity": "-",
+        "sentence": " Cons : - I think the satellites look ugly .",
+        "term": "satellites"
+    },
+    "302": {
+        "id": 302,
+        "polarity": "-",
+        "sentence": " - Ported sub woofer not appropriate for this set up .",
+        "term": "sub woofer"
+    },
+    "303": {
+        "id": 303,
+        "polarity": "+",
+        "sentence": " This is a preference , but since these speakers are more than capable of loud levels , I 'd be willing to sacrifice some efficiency to have an enclosed woofer that is much more accurate and less ... redolent of a teenager 's car system .",
+        "term": "speakers"
+    },
+    "304": {
+        "id": 304,
+        "polarity": "-",
+        "sentence": " While these speakers are capable of sounding good , I have to do more adjustments every time I change media type to keep it from sounding bad .",
+        "term": " adjustments"
+    },
+    "305": {
+        "id": 305,
+        "polarity": "+",
+        "sentence": " While these speakers are capable of sounding good , I have to do more adjustments every time I change media type to keep it from sounding bad .",
+        "term": "speakers"
+    },
+    "306": {
+        "id": 306,
+        "polarity": "-",
+        "sentence": " - Fixed speaker cable -- why do this ?",
+        "term": "speaker cable"
+    },
+    "307": {
+        "id": 307,
+        "polarity": "+",
+        "sentence": " - Sub woofer is large .",
+        "term": "Sub woofer"
+    },
+    "308": {
+        "id": 308,
+        "polarity": "+",
+        "sentence": " For those who want the thump that this is capable of producing -LRB- very good for a computer speaker -RRB- , this is probably necessary .",
+        "term": "computer speaker"
+    },
+    "309": {
+        "id": 309,
+        "polarity": "-",
+        "sentence": " Conclusion : I was ready to pay the shipping to return the speakers the day I got them .",
+        "term": "speakers"
+    },
+    "310": {
+        "id": 310,
+        "polarity": "-",
+        "sentence": " I 'm still very frustrated with some of the properties , but now that I have saved equalizer settings and know I have to open up my sound card 's control panel every time I switch between music and videos or games , the sound is much more acceptable .",
+        "term": "properties"
+    },
+    "311": {
+        "id": 311,
+        "polarity": "+",
+        "sentence": " I love this speakers .",
+        "term": "speakers"
+    },
+    "312": {
+        "id": 312,
+        "polarity": "+",
+        "sentence": " Sound quality and base is amazing .",
+        "term": "Sound quality"
+    },
+    "313": {
+        "id": 313,
+        "polarity": "+",
+        "sentence": " Sound quality and base is amazing .",
+        "term": " base"
+    },
+    "314": {
+        "id": 314,
+        "polarity": "+",
+        "sentence": " This tiny speakers produce really big sound .",
+        "term": " sound"
+    },
+    "315": {
+        "id": 315,
+        "polarity": "+",
+        "sentence": " This tiny speakers produce really big sound .",
+        "term": "speakers"
+    },
+    "316": {
+        "id": 316,
+        "polarity": "+",
+        "sentence": " I would strongly recommend this product !",
+        "term": "product"
+    },
+    "317": {
+        "id": 317,
+        "polarity": "-",
+        "sentence": " The speakers are very small and can not handle loud volume gracefully as voice coils top and bottom out , they clip the audio .",
+        "term": " volume"
+    },
+    "318": {
+        "id": 318,
+        "polarity": "-",
+        "sentence": " The speakers are very small and can not handle loud volume gracefully as voice coils top and bottom out , they clip the audio .",
+        "term": "speakers"
+    },
+    "319": {
+        "id": 319,
+        "polarity": "+",
+        "sentence": " This small size speaker system pumps out great sounds with most MP3 players , including Sansas and Ipods .",
+        "term": " speaker system"
+    },
+    "320": {
+        "id": 320,
+        "polarity": "+",
+        "sentence": " This small size speaker system pumps out great sounds with most MP3 players , including Sansas and Ipods .",
+        "term": "size"
+    },
+    "321": {
+        "id": 321,
+        "polarity": "+",
+        "sentence": " This small size speaker system pumps out great sounds with most MP3 players , including Sansas and Ipods .",
+        "term": " sounds"
+    },
+    "322": {
+        "id": 322,
+        "polarity": "+",
+        "sentence": " I set it up in my living room and the sound was superb .",
+        "term": "sound"
+    },
+    "323": {
+        "id": 323,
+        "polarity": "+",
+        "sentence": " This is a superb system and highly recommended .",
+        "term": "system"
+    },
+    "324": {
+        "id": 324,
+        "polarity": "+",
+        "sentence": " It is smaller than I expected when I ordered it , but as it turns out , so much the better .",
+        "term": "smaller"
+    },
+    "325": {
+        "id": 325,
+        "polarity": "+",
+        "sentence": " A great system at an incredible price .",
+        "term": "system"
+    },
+    "326": {
+        "id": 326,
+        "polarity": "+",
+        "sentence": " A great system at an incredible price .",
+        "term": " price"
+    },
+    "327": {
+        "id": 327,
+        "polarity": "+",
+        "sentence": " I 'm not easily impressed by electronics , tending to be a little conservative , but this product really deserves five stars .",
+        "term": "product"
+    },
+    "328": {
+        "id": 328,
+        "polarity": "+",
+        "sentence": " However , because this dock plays about any MP3 player and is of good quality and low price , it should sell very well .",
+        "term": " price"
+    },
+    "329": {
+        "id": 329,
+        "polarity": "+",
+        "sentence": " However , because this dock plays about any MP3 player and is of good quality and low price , it should sell very well .",
+        "term": "quality"
+    },
+    "330": {
+        "id": 330,
+        "polarity": "+",
+        "sentence": " These are good looking , durable speaker stands .",
+        "term": " speaker stands"
+    },
+    "331": {
+        "id": 331,
+        "polarity": "+",
+        "sentence": " These are good looking , durable speaker stands .",
+        "term": "looking"
+    },
+    "332": {
+        "id": 332,
+        "polarity": "-",
+        "sentence": " I have n't even used the carpet tacks that came with the stands and they are hard to knock over .",
+        "term": "carpet tacks"
+    },
+    "333": {
+        "id": 333,
+        "polarity": "+",
+        "sentence": " Overall they are great stands and look good .",
+        "term": "stands"
+    },
+    "334": {
+        "id": 334,
+        "polarity": "+",
+        "sentence": " Overall they are great stands and look good .",
+        "term": " look"
+    },
+    "335": {
+        "id": 335,
+        "polarity": "-",
+        "sentence": " Assembly is a little awkward because the drawings are n't that great .",
+        "term": "drawings"
+    },
+    "336": {
+        "id": 336,
+        "polarity": "+",
+        "sentence": " Both units are small , with similarly small speakers .",
+        "term": " speakers"
+    },
+    "337": {
+        "id": 337,
+        "polarity": "+",
+        "sentence": " Both units are small , with similarly small speakers .",
+        "term": "units"
+    },
+    "338": {
+        "id": 338,
+        "polarity": "+",
+        "sentence": " The iHome , however , has markedly better stereo separation as well as bass level .",
+        "term": " bass level"
+    },
+    "339": {
+        "id": 339,
+        "polarity": "+",
+        "sentence": " The iHome , however , has markedly better stereo separation as well as bass level .",
+        "term": "stereo separation"
+    },
+    "340": {
+        "id": 340,
+        "polarity": "+",
+        "sentence": " The iHome 's stereo reproduction is clearly superior .",
+        "term": "stereo reproduction"
+    },
+    "341": {
+        "id": 341,
+        "polarity": "+",
+        "sentence": " Vocals have greater clarity with the iHome as well .",
+        "term": "clarity"
+    },
+    "342": {
+        "id": 342,
+        "polarity": "+",
+        "sentence": " Obviously , one of the advantages of this design is the improvement in sound quality , but there is the disadvantage as well of potential damage .",
+        "term": "design"
+    },
+    "343": {
+        "id": 343,
+        "polarity": "+",
+        "sentence": " Obviously , one of the advantages of this design is the improvement in sound quality , but there is the disadvantage as well of potential damage .",
+        "term": " sound quality"
+    },
+    "344": {
+        "id": 344,
+        "polarity": "+",
+        "sentence": " I got it today , it works great , great sound for its size and price , I understand that the volume for iPhone and the towers own volume are two different things that should be placed at the right measures to get the better sound quality so I do n't complain for the fact of the remote not being able to control my iPhone , I highly recommend this tower .",
+        "term": "works"
+    },
+    "345": {
+        "id": 345,
+        "polarity": "+",
+        "sentence": " I got it today , it works great , great sound for its size and price , I understand that the volume for iPhone and the towers own volume are two different things that should be placed at the right measures to get the better sound quality so I do n't complain for the fact of the remote not being able to control my iPhone , I highly recommend this tower .",
+        "term": " sound"
+    },
+    "346": {
+        "id": 346,
+        "polarity": "+",
+        "sentence": " I got it today , it works great , great sound for its size and price , I understand that the volume for iPhone and the towers own volume are two different things that should be placed at the right measures to get the better sound quality so I do n't complain for the fact of the remote not being able to control my iPhone , I highly recommend this tower .",
+        "term": " size"
+    },
+    "347": {
+        "id": 347,
+        "polarity": "+",
+        "sentence": " I got it today , it works great , great sound for its size and price , I understand that the volume for iPhone and the towers own volume are two different things that should be placed at the right measures to get the better sound quality so I do n't complain for the fact of the remote not being able to control my iPhone , I highly recommend this tower .",
+        "term": " price"
+    },
+    "348": {
+        "id": 348,
+        "polarity": "-",
+        "sentence": " First of all , I disagree with any suggestions that the bass on this system is boomy in a bad way .",
+        "term": "bass"
+    },
+    "349": {
+        "id": 349,
+        "polarity": "-",
+        "sentence": " First of all , I disagree with any suggestions that the bass on this system is boomy in a bad way .",
+        "term": " system"
+    },
+    "350": {
+        "id": 350,
+        "polarity": "+",
+        "sentence": " They sound wonderful , in my opinion , and I have n't even touched any equalizers .",
+        "term": "sound"
+    },
+    "351": {
+        "id": 351,
+        "polarity": "-",
+        "sentence": " Mid-range is n't the best , but it 's certainly there and enough to satisfy anyone not looking to spend $ 300 + on computer speakers .",
+        "term": "Mid-range"
+    }
+}

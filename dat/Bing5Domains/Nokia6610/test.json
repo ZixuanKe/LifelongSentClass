@@ -1,0 +1,170 @@
+{
+    "237": {
+        "id": 237,
+        "polarity": "-",
+        "sentence": "finally , i reiterate my thumbs-down rating for t-mobile as a carrier . ",
+        "term": "t-mobile"
+    },
+    "238": {
+        "id": 238,
+        "polarity": "-",
+        "sentence": "their network coverage is very sporadic , and the network always seems overloaded , resulting in very unpleasant calling experience . ",
+        "term": "t-mobile"
+    },
+    "239": {
+        "id": 239,
+        "polarity": "+",
+        "sentence": "the nokia 6610 is a relatively new phone , and what a great phone it is . ",
+        "term": "phone"
+    },
+    "240": {
+        "id": 240,
+        "polarity": "+",
+        "sentence": "after using it , i found the size to be perfect for carrying in a pocket . ",
+        "term": "size"
+    },
+    "241": {
+        "id": 241,
+        "polarity": "+",
+        "sentence": "it is just a tad small to hold to your ear with your shoulder , but that is solved with the very comfortable handsfree ear-piece which is included . ",
+        "term": "earpiece"
+    },
+    "242": {
+        "id": 242,
+        "polarity": "-",
+        "sentence": "unfortunately , the 6610 does not offer voice dialing like my previous phone , but the other features it packs outweighs this shortcoming . ",
+        "term": "voice dialing"
+    },
+    "243": {
+        "id": 243,
+        "polarity": "+",
+        "sentence": "when i turned the phone on , the first thing that hit me is how good the screen is . ",
+        "term": "screen"
+    },
+    "244": {
+        "id": 244,
+        "polarity": "+",
+        "sentence": "the resolution is very good and the colors are bright and even changeable ! ",
+        "term": "resolution"
+    },
+    "245": {
+        "id": 245,
+        "polarity": "+",
+        "sentence": "the ringtones included are awesome , and did i mention they were polyphonic ? ",
+        "term": "ringtone"
+    },
+    "246": {
+        "id": 246,
+        "polarity": "+",
+        "sentence": "you can also assign special rings and graphics to special people when they call . ",
+        "term": "ring"
+    },
+    "247": {
+        "id": 247,
+        "polarity": "+",
+        "sentence": "the phone also sports an image gallery ( with option camera attachment ) , a calendar / organizer , alarm clock with snooze , fm radio ( way cool , even if it is just through an ear-peice ) , games , java applications and gprs high-speed internet connection . ",
+        "term": "phone"
+    },
+    "248": {
+        "id": 248,
+        "polarity": "-",
+        "sentence": "the gprs connection is sometimes slow , and writing instant messages with the included aol instant messenger software is a pain , but the other t-zones applications are quite useful . ",
+        "term": "gprs"
+    },
+    "249": {
+        "id": 249,
+        "polarity": "-",
+        "sentence": "one downside : as of this writing , t-mobile has n't updated their t-zone system to fully support the 6610 . ",
+        "term": "t-zone"
+    },
+    "250": {
+        "id": 250,
+        "polarity": "+",
+        "sentence": "all my questions or problems have been quickly and satisfactorily resolved . ",
+        "term": "t-mobile service"
+    },
+    "251": {
+        "id": 251,
+        "polarity": "+",
+        "sentence": "the rate plans are also very good , at least for me . ",
+        "term": "rate plan"
+    },
+    "252": {
+        "id": 252,
+        "polarity": "+",
+        "sentence": "this phone is highly recommended otherwise . ",
+        "term": "phone"
+    },
+    "253": {
+        "id": 253,
+        "polarity": "+",
+        "sentence": "nokia makes a great phone , that 's clear . ",
+        "term": "phone"
+    },
+    "254": {
+        "id": 254,
+        "polarity": "+",
+        "sentence": "with all its complicated features , the menus are easily accessible and the quality of the features is great . ",
+        "term": " feature"
+    },
+    "255": {
+        "id": 255,
+        "polarity": "-",
+        "sentence": "the one huge disappointment is that the phones manufactured for t-mobile lack many of the menus and functions that a nokia straight from the manufacturer should have . ",
+        "term": "menu"
+    },
+    "256": {
+        "id": 256,
+        "polarity": "-",
+        "sentence": "the internet functions of the phone - wap and gprs - will only work through t-mobile 's services , because they have deleted the menu options that would enable you to configure the phone to be used on a different network . ",
+        "term": "internet"
+    },
+    "257": {
+        "id": 257,
+        "polarity": "+",
+        "sentence": "this phone is good with a huge array of features built into it . ",
+        "term": "phone"
+    },
+    "258": {
+        "id": 258,
+        "polarity": "+",
+        "sentence": "the design is sleek and the color screen has good resolution . ",
+        "term": "design"
+    },
+    "259": {
+        "id": 259,
+        "polarity": "+",
+        "sentence": "it is very light weight and has a good signal strength . ",
+        "term": "weight"
+    },
+    "260": {
+        "id": 260,
+        "polarity": "-",
+        "sentence": "however , the main problem that i think is the with the sound quality . ",
+        "term": "sound quality"
+    },
+    "261": {
+        "id": 261,
+        "polarity": "-",
+        "sentence": "when talking the voice is not very clear . ",
+        "term": "voice"
+    },
+    "262": {
+        "id": 262,
+        "polarity": "+",
+        "sentence": "but , i would definately recommend this phone . ",
+        "term": "phone"
+    },
+    "263": {
+        "id": 263,
+        "polarity": "+",
+        "sentence": "it is crystal clear . ",
+        "term": "sound quality"
+    },
+    "264": {
+        "id": 264,
+        "polarity": "+",
+        "sentence": "this is one of the nicest phones nokia has made . ",
+        "term": "phone"
+    }
+}

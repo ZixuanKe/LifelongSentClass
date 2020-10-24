@@ -1,0 +1,278 @@
+{
+    "407": {
+        "id": 407,
+        "polarity": "-",
+        "sentence": "3) Phone is kinda heavy, but small in size.",
+        "term": "heavy"
+    },
+    "408": {
+        "id": 408,
+        "polarity": "-",
+        "sentence": "4) Buttons are quite small and is really a pain exp if one is fond of text messaging.",
+        "term": "Buttons"
+    },
+    "409": {
+        "id": 409,
+        "polarity": "-",
+        "sentence": "There will be much erasing of text as, one would tend to type something instead of the actual letters.",
+        "term": "Buttons"
+    },
+    "410": {
+        "id": 410,
+        "polarity": "-",
+        "sentence": "5) Video recorder is of no use and one cannot record something useful in 10 seconds and it takes a while to send the same through the \"Free picture and video messaging\" offered by service provider.",
+        "term": "video recorder"
+    },
+    "411": {
+        "id": 411,
+        "polarity": "+",
+        "sentence": "The bottom line is \"Phone is cool one - only for the moment, as its the latest phone in the market and has all the new features, but this will soon be displaced by upcoming newer phones\".",
+        "term": "Phone"
+    },
+    "412": {
+        "id": 412,
+        "polarity": "-",
+        "sentence": "so, right out of the box i had issue.",
+        "term": "iSync compaibility"
+    },
+    "413": {
+        "id": 413,
+        "polarity": "-",
+        "sentence": "namely, it wouldnt sync.",
+        "term": "sync"
+    },
+    "414": {
+        "id": 414,
+        "polarity": "-",
+        "sentence": "after scouring the various boards i find this is an arbitrary and pervasive problem.",
+        "term": "iSync compaibility"
+    },
+    "415": {
+        "id": 415,
+        "polarity": "-",
+        "sentence": "but, i am quite unhappy with nokia at the moment.",
+        "term": "nokia"
+    },
+    "416": {
+        "id": 416,
+        "polarity": "+",
+        "sentence": "if you are looking for a phone to integrate as easily as the sonyericsson phones with iSync, i say stick with a sonyericsson.",
+        "term": "sonyericsson"
+    },
+    "417": {
+        "id": 417,
+        "polarity": "-",
+        "sentence": "if there was a zero-star rating i would give it.",
+        "term": "phone"
+    },
+    "418": {
+        "id": 418,
+        "polarity": "+",
+        "sentence": "It is a multifunction phone, reception quality is better than the 610.",
+        "term": "reception"
+    },
+    "419": {
+        "id": 419,
+        "polarity": "+",
+        "sentence": "It is a multifunction phone, reception quality is better than the 610.",
+        "term": "phone"
+    },
+    "420": {
+        "id": 420,
+        "polarity": "+",
+        "sentence": "speaker phone quality is good, and poping in a 512mb MMC card, it rocks !",
+        "term": "speaker phone"
+    },
+    "421": {
+        "id": 421,
+        "polarity": "+",
+        "sentence": "speaker phone quality is good, and poping in a 512mb MMC card, it rocks !",
+        "term": "MMC card"
+    },
+    "422": {
+        "id": 422,
+        "polarity": "+",
+        "sentence": "putting in MP3 player, lots of games and application to download.",
+        "term": "application"
+    },
+    "423": {
+        "id": 423,
+        "polarity": "+",
+        "sentence": "putting in MP3 player, lots of games and application to download.",
+        "term": "MP3 player"
+    },
+    "424": {
+        "id": 424,
+        "polarity": "+",
+        "sentence": "putting in MP3 player, lots of games and application to download.",
+        "term": "games"
+    },
+    "425": {
+        "id": 425,
+        "polarity": "-",
+        "sentence": "DOwnside is the size of the phone, it is BIG for today's standard.",
+        "term": "size"
+    },
+    "426": {
+        "id": 426,
+        "polarity": "-",
+        "sentence": "and the battery life is bad !",
+        "term": "battery life"
+    },
+    "427": {
+        "id": 427,
+        "polarity": "-",
+        "sentence": "I could hardly use it without a recharge in 2 days!",
+        "term": "battery life"
+    },
+    "428": {
+        "id": 428,
+        "polarity": "-",
+        "sentence": "a bit dissapoitnd on that!",
+        "term": "battery life"
+    },
+    "429": {
+        "id": 429,
+        "polarity": "-",
+        "sentence": "the GPRS web access is sloooooooooooooow!",
+        "term": "GPRS"
+    },
+    "430": {
+        "id": 430,
+        "polarity": "+",
+        "sentence": "I got this phone yesterday and didn't find any problems with it yet.",
+        "term": "phone"
+    },
+    "431": {
+        "id": 431,
+        "polarity": "+",
+        "sentence": "Picture and video quality is ok.",
+        "term": "video"
+    },
+    "432": {
+        "id": 432,
+        "polarity": "+",
+        "sentence": "Picture and video quality is ok.",
+        "term": "Picture"
+    },
+    "433": {
+        "id": 433,
+        "polarity": "+",
+        "sentence": "Love the speaker phone.",
+        "term": "speaker phone"
+    },
+    "434": {
+        "id": 434,
+        "polarity": "+",
+        "sentence": "INCREDIBLE MEMORY!",
+        "term": "MEMORY"
+    },
+    "435": {
+        "id": 435,
+        "polarity": "+",
+        "sentence": "Aside from a 6MB++ built-in phone memory, there's a 32MB MMC card that goes with it!",
+        "term": "MMC card"
+    },
+    "436": {
+        "id": 436,
+        "polarity": "+",
+        "sentence": "Picture quality's great for still and video with sound.",
+        "term": "video"
+    },
+    "437": {
+        "id": 437,
+        "polarity": "+",
+        "sentence": "Picture quality's great for still and video with sound.",
+        "term": "Picture"
+    },
+    "438": {
+        "id": 438,
+        "polarity": "+",
+        "sentence": "you can record your voice and turn it into a ringtone.",
+        "term": "ringtone"
+    },
+    "439": {
+        "id": 439,
+        "polarity": "-",
+        "sentence": "you can't do that with a Sony T610 (which i traded for a 6600).",
+        "term": "Sony T610"
+    },
+    "440": {
+        "id": 440,
+        "polarity": "-",
+        "sentence": "T610 supports only midi files.",
+        "term": "T610"
+    },
+    "441": {
+        "id": 441,
+        "polarity": "+",
+        "sentence": "N6600 supports midi, wav, amr, mp3 etc.",
+        "term": "N6600"
+    },
+    "442": {
+        "id": 442,
+        "polarity": "+",
+        "sentence": "it has a handsfree loudspeaker, conference and transfer!",
+        "term": "N6600"
+    },
+    "443": {
+        "id": 443,
+        "polarity": "+",
+        "sentence": "I love this phone.",
+        "term": "phone"
+    },
+    "444": {
+        "id": 444,
+        "polarity": "+",
+        "sentence": "This phone is one of the milestones in the history of the cellular phones.",
+        "term": "phone"
+    },
+    "445": {
+        "id": 445,
+        "polarity": "+",
+        "sentence": "Supporting an operating system, Symbian OS, you can download and run a lot of programs on this phone.",
+        "term": "OS"
+    },
+    "446": {
+        "id": 446,
+        "polarity": "+",
+        "sentence": "You can turn this phone into a gaming machine, a camcorder or a digital camera, an mp3-player, a movie viewer, a voice recorder, a personal secretary, a GPS map browser, a book, a multifunction remote controller, practically everything that you can do with the computer, plus it is a phone(!!) and also you can carry it in your pocket :).",
+        "term": "size"
+    },
+    "447": {
+        "id": 447,
+        "polarity": "+",
+        "sentence": "You can turn this phone into a gaming machine, a camcorder or a digital camera, an mp3-player, a movie viewer, a voice recorder, a personal secretary, a GPS map browser, a book, a multifunction remote controller, practically everything that you can do with the computer, plus it is a phone(!!) and also you can carry it in your pocket :).",
+        "term": "phone"
+    },
+    "448": {
+        "id": 448,
+        "polarity": "+",
+        "sentence": "Many of these programs are shareware, some can be purchased by paying a little bit of bucks.",
+        "term": "programs"
+    },
+    "449": {
+        "id": 449,
+        "polarity": "+",
+        "sentence": "It uses the extendable MMC memory, it is perfect for storing videos, pictures and mp3s.",
+        "term": "MMC memory"
+    },
+    "450": {
+        "id": 450,
+        "polarity": "+",
+        "sentence": "Its nice look is also a plus.",
+        "term": "look"
+    },
+    "451": {
+        "id": 451,
+        "polarity": "+",
+        "sentence": "And also, since it is tri band and since it uses SIM-card, you can just use it in Europe and many other parts of the world, wherever GSM exists.",
+        "term": "SIM-card"
+    },
+    "452": {
+        "id": 452,
+        "polarity": "+",
+        "sentence": "I am just in love with this phone, especially after using a more primitve phone about 3 years.",
+        "term": "phone"
+    }
+}

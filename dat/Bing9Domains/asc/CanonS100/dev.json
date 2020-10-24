@@ -1,0 +1,134 @@
+{
+    "175": {
+        "id": 175,
+        "polarity": "+",
+        "sentence": "It's so small and light, even with a spare battery, you really can take it anywhere.",
+        "term": "light"
+    },
+    "176": {
+        "id": 176,
+        "polarity": "+",
+        "sentence": "In auto mode anyone can use it as a point and shoot camera.",
+        "term": "auto mode"
+    },
+    "177": {
+        "id": 177,
+        "polarity": "+",
+        "sentence": "The manual modes give you a lot of control over exposure and white balance (but there is no manual focus or manual exposure).",
+        "term": "manual modes"
+    },
+    "178": {
+        "id": 178,
+        "polarity": "+",
+        "sentence": "There are better cameras but none anywhere near as light and compact.",
+        "term": "compact"
+    },
+    "179": {
+        "id": 179,
+        "polarity": "+",
+        "sentence": "There are better cameras but none anywhere near as light and compact.",
+        "term": "light"
+    },
+    "180": {
+        "id": 180,
+        "polarity": "+",
+        "sentence": "1- Small.",
+        "term": "Small"
+    },
+    "181": {
+        "id": 181,
+        "polarity": "+",
+        "sentence": "VERY smal.",
+        "term": "smal"
+    },
+    "182": {
+        "id": 182,
+        "polarity": "+",
+        "sentence": "I've had a lot of cameras, but this one is ACTUALLY being used, and not stored in a desk: it's allways in my shist pocket.",
+        "term": "cameras"
+    },
+    "183": {
+        "id": 183,
+        "polarity": "+",
+        "sentence": "2- Excellent picture quality and so simple to use!!!",
+        "term": "picture quality"
+    },
+    "184": {
+        "id": 184,
+        "polarity": "+",
+        "sentence": "2- Excellent picture quality and so simple to use!!!",
+        "term": "use"
+    },
+    "185": {
+        "id": 185,
+        "polarity": "+",
+        "sentence": "4- Looks great.",
+        "term": "Looks"
+    },
+    "186": {
+        "id": 186,
+        "polarity": "+",
+        "sentence": "Silver metal case -NOT PLASTIC.",
+        "term": "case"
+    },
+    "187": {
+        "id": 187,
+        "polarity": "+",
+        "sentence": "5- Excelent software package.",
+        "term": "software"
+    },
+    "188": {
+        "id": 188,
+        "polarity": "+",
+        "sentence": "6- Small but very clear TFT screen.",
+        "term": "TFT screen"
+    },
+    "189": {
+        "id": 189,
+        "polarity": "+",
+        "sentence": "Don't care about sunlight: it's TFT.",
+        "term": "TFT"
+    },
+    "190": {
+        "id": 190,
+        "polarity": "+",
+        "sentence": "7- 360\u001a panoramic pictures are a very big deal.",
+        "term": "panorama mode"
+    },
+    "191": {
+        "id": 191,
+        "polarity": "-",
+        "sentence": "8- Buttons are little, but If you have steady fingers and dealed with a casio wirst calculator watch, you can deal with almost anything.",
+        "term": "buttons"
+    },
+    "192": {
+        "id": 192,
+        "polarity": "-",
+        "sentence": "Buttons size is OK for me, my wife, but not my grany.",
+        "term": "buttons"
+    },
+    "193": {
+        "id": 193,
+        "polarity": "+",
+        "sentence": "i researched and researched between getting the canon s20 or the canon s100, and of course i got the latter!",
+        "term": "canon s100"
+    },
+    "194": {
+        "id": 194,
+        "polarity": "+",
+        "sentence": "I was looking for something that wasn't too complicated to use and to help the pics I post on Ebay show more detial.",
+        "term": "picture detail"
+    },
+    "195": {
+        "id": 195,
+        "polarity": "+",
+        "sentence": "I was looking for something that wasn't too complicated to use and to help the pics I post on Ebay show more detial.",
+        "term": "ease of use"
+    },
+    "196": {
+        "id": 196,
+        "polarity": "+",
+        "sentence": "This camera is great, wonderfully small, and has attactive hi-tech casing.",
+        "term": "casing"
+    }
+}

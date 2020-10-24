@@ -1,0 +1,80 @@
+{
+    "113": {
+        "id": 113,
+        "polarity": "+",
+        "sentence": "Very fast powerup and great speed when taking multiple pictures. ",
+        "term": "multiple pictures"
+    },
+    "114": {
+        "id": 114,
+        "polarity": "+",
+        "sentence": "Perfect size! Beats the competition by leaps and bounds. ",
+        "term": "size"
+    },
+    "115": {
+        "id": 115,
+        "polarity": "+",
+        "sentence": "I am impressed with this camera inside and out.",
+        "term": "camera"
+    },
+    "116": {
+        "id": 116,
+        "polarity": "+",
+        "sentence": "I love the camera.",
+        "term": "camera"
+    },
+    "117": {
+        "id": 117,
+        "polarity": "+",
+        "sentence": "This camera is perfect for the person who wants a compact camera that produces excellent photos in just about any situation. ",
+        "term": "photo"
+    },
+    "118": {
+        "id": 118,
+        "polarity": "+",
+        "sentence": "The camera responce is VERY quick. ",
+        "term": "responce"
+    },
+    "119": {
+        "id": 119,
+        "polarity": "+",
+        "sentence": "I have a Canon A 70 , and now this SD500, its amazing, how this little camera produces, such great pics, it even brings out ur pimples on the face. ",
+        "term": "pics"
+    },
+    "120": {
+        "id": 120,
+        "polarity": "+",
+        "sentence": "And the video quality is amazing. ",
+        "term": "video"
+    },
+    "121": {
+        "id": 121,
+        "polarity": "+",
+        "sentence": "And it fits right in my pocket much easier than my old S30. ",
+        "term": "fits"
+    },
+    "122": {
+        "id": 122,
+        "polarity": "-",
+        "sentence": "I thought this camera was awful and I did tons of research on CNET and other sites. ",
+        "term": "camera"
+    },
+    "123": {
+        "id": 123,
+        "polarity": "-",
+        "sentence": "There were many times when I clicked the automatic shutter and nothing happens. ",
+        "term": "automatic shutter"
+    },
+    "124": {
+        "id": 124,
+        "polarity": "-",
+        "sentence": "The controls are hard to manipulate, especially in the dark. ",
+        "term": "controls"
+    },
+    "125": {
+        "id": 125,
+        "polarity": "-",
+        "sentence": "The LCD screen is too small since there are so many cameras that have larger ones",
+        "term": "LCD"
+    }
+}

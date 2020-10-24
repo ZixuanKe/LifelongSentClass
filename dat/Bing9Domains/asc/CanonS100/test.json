@@ -1,0 +1,134 @@
+{
+    "197": {
+        "id": 197,
+        "polarity": "+",
+        "sentence": "This camera is great, wonderfully small, and has attactive hi-tech casing.",
+        "term": "size"
+    },
+    "198": {
+        "id": 198,
+        "polarity": "+",
+        "sentence": "Very easy to use for someone like me who's just hopping on the digital camera bandwagon.",
+        "term": "ease of use"
+    },
+    "199": {
+        "id": 199,
+        "polarity": "+",
+        "sentence": "The controls are easy to understand and big enough that they are easy to see and use.",
+        "term": "controls"
+    },
+    "200": {
+        "id": 200,
+        "polarity": "+",
+        "sentence": "The controls are easy to understand and big enough that they are easy to see and use.",
+        "term": "ease of use"
+    },
+    "201": {
+        "id": 201,
+        "polarity": "+",
+        "sentence": "The optical and digital zooms combine to give an effective 4x zoom.",
+        "term": "zoom"
+    },
+    "202": {
+        "id": 202,
+        "polarity": "+",
+        "sentence": "This is enough capacity and capability to do a complete household inventory, for example.",
+        "term": "capacity"
+    },
+    "203": {
+        "id": 203,
+        "polarity": "+",
+        "sentence": "So, why the small Digital Elph, rather than one of the other cameras with better resolution or picture quality? size[+2",
+        "term": "size"
+    },
+    "204": {
+        "id": 204,
+        "polarity": "+",
+        "sentence": "After getting one for Christmas from Amazon, I'm now a believer:  The Digital Elph is truly the world's smallest digital camera that shoots great pictures.",
+        "term": "pictures"
+    },
+    "205": {
+        "id": 205,
+        "polarity": "+",
+        "sentence": "After getting one for Christmas from Amazon, I'm now a believer:  The Digital Elph is truly the world's smallest digital camera that shoots great pictures.",
+        "term": "size"
+    },
+    "206": {
+        "id": 206,
+        "polarity": "+",
+        "sentence": "I've had this camera just over 2 years and it takes pretty good pictures.",
+        "term": "pictures"
+    },
+    "207": {
+        "id": 207,
+        "polarity": "+",
+        "sentence": "The size is tiny, which I love.",
+        "term": "size"
+    },
+    "208": {
+        "id": 208,
+        "polarity": "-",
+        "sentence": "Sometimes the pictures are onthe dark side, but I'm able to fix that using the Photoshop 6.0 \"adjust levels\" function ... not sure how a person would do that without Photoshop, though.",
+        "term": "pictures"
+    },
+    "209": {
+        "id": 209,
+        "polarity": "+",
+        "sentence": "This camera is so easy to use!",
+        "term": "ease of use"
+    },
+    "210": {
+        "id": 210,
+        "polarity": "+",
+        "sentence": "All the features are incredibly intuitive, even for a novice like me.",
+        "term": "features"
+    },
+    "211": {
+        "id": 211,
+        "polarity": "+",
+        "sentence": "The pictures are beautiful, and the camera is so small you can carry it anywhere.",
+        "term": "pictures"
+    },
+    "212": {
+        "id": 212,
+        "polarity": "+",
+        "sentence": "The pictures are beautiful, and the camera is so small you can carry it anywhere.",
+        "term": "size"
+    },
+    "213": {
+        "id": 213,
+        "polarity": "+",
+        "sentence": "I, as many others, have waited for many years for the convergence of price, features, size and ease of use to hit that happy center point.",
+        "term": "price"
+    },
+    "214": {
+        "id": 214,
+        "polarity": "+",
+        "sentence": "I, as many others, have waited for many years for the convergence of price, features, size and ease of use to hit that happy center point.",
+        "term": "size"
+    },
+    "215": {
+        "id": 215,
+        "polarity": "+",
+        "sentence": "I, as many others, have waited for many years for the convergence of price, features, size and ease of use to hit that happy center point.",
+        "term": "features"
+    },
+    "216": {
+        "id": 216,
+        "polarity": "+",
+        "sentence": "I, as many others, have waited for many years for the convergence of price, features, size and ease of use to hit that happy center point.",
+        "term": "ease of use"
+    },
+    "217": {
+        "id": 217,
+        "polarity": "+",
+        "sentence": "I bought this little guy a few weeks back, and I have to saythat I never had so much fun with a new toy as this.",
+        "term": "fun"
+    },
+    "218": {
+        "id": 218,
+        "polarity": "+",
+        "sentence": "You willdefinitly appreciate the small size.",
+        "term": "size"
+    }
+}

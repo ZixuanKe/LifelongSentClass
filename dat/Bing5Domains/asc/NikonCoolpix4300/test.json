@@ -1,0 +1,128 @@
+{
+    "182": {
+        "id": 182,
+        "polarity": "+",
+        "sentence": "3 it is very compact but the controls are so well designed that they 're still easy to use . ",
+        "term": "size"
+    },
+    "183": {
+        "id": 183,
+        "polarity": "+",
+        "sentence": "6 the nikon coolpix line is a well-established line so you know support and parts are going to be available even when nikon releases a newer model . ",
+        "term": "nikon support"
+    },
+    "184": {
+        "id": 184,
+        "polarity": "+",
+        "sentence": "7 picture quality is excellent . ",
+        "term": "picture quality"
+    },
+    "185": {
+        "id": 185,
+        "polarity": "+",
+        "sentence": "8 battery life is excellent . ",
+        "term": "battery life"
+    },
+    "186": {
+        "id": 186,
+        "polarity": "+",
+        "sentence": "9 3x built-in optical zoom is a lot for this price range . ",
+        "term": "optical zoom"
+    },
+    "187": {
+        "id": 187,
+        "polarity": "+",
+        "sentence": "10 great price for all the features . ",
+        "term": "price"
+    },
+    "188": {
+        "id": 188,
+        "polarity": "-",
+        "sentence": "1 no direct firewire to the camera . ",
+        "term": "firewire"
+    },
+    "189": {
+        "id": 189,
+        "polarity": "-",
+        "sentence": "2 the camera is so small that when you attach some lenses i have the 19mm wide-angle -- wc-e 68 , the optical viewfinder is partially obscured . ",
+        "term": "viewfinder"
+    },
+    "190": {
+        "id": 190,
+        "polarity": "+",
+        "sentence": "this camera was affordable , very easy to learn , and produces spectacular images . ",
+        "term": "price"
+    },
+    "191": {
+        "id": 191,
+        "polarity": "+",
+        "sentence": "this camera was affordable , very easy to learn , and produces spectacular images . ",
+        "term": "image"
+    },
+    "192": {
+        "id": 192,
+        "polarity": "+",
+        "sentence": "this camera was affordable , very easy to learn , and produces spectacular images . ",
+        "term": "learn"
+    },
+    "193": {
+        "id": 193,
+        "polarity": "+",
+        "sentence": "the auto-mode is good enough for most shots but the 4300 also boasts 12 versatile scene modes as well as a manual mode though i admit i have n't played with it too much on manual . ",
+        "term": "scene mode"
+    },
+    "194": {
+        "id": 194,
+        "polarity": "+",
+        "sentence": "the auto-mode is good enough for most shots but the 4300 also boasts 12 versatile scene modes as well as a manual mode though i admit i have n't played with it too much on manual . ",
+        "term": "auto mode"
+    },
+    "195": {
+        "id": 195,
+        "polarity": "+",
+        "sentence": "the auto-mode is good enough for most shots but the 4300 also boasts 12 versatile scene modes as well as a manual mode though i admit i have n't played with it too much on manual . ",
+        "term": "manual mode"
+    },
+    "196": {
+        "id": 196,
+        "polarity": "+",
+        "sentence": "it 's size also makes it ideal for travel . ",
+        "term": "size"
+    },
+    "197": {
+        "id": 197,
+        "polarity": "+",
+        "sentence": "overall the nikon 4300 is a very dependable , robust , and useful little camera . ",
+        "term": "camera"
+    },
+    "198": {
+        "id": 198,
+        "polarity": "+",
+        "sentence": "awesome camera with huge print quality in a tiny package . ",
+        "term": " print quality"
+    },
+    "199": {
+        "id": 199,
+        "polarity": "+",
+        "sentence": "awesome camera with huge print quality in a tiny package . ",
+        "term": "camera"
+    },
+    "200": {
+        "id": 200,
+        "polarity": "+",
+        "sentence": "the same 4mp chip from the 4500 camera , plus a 3x zoom with the ability to expand upon that with extenders , great closeup mode , long lasting rechargable battery , etc etc. ",
+        "term": " battery"
+    },
+    "201": {
+        "id": 201,
+        "polarity": "+",
+        "sentence": "the same 4mp chip from the 4500 camera , plus a 3x zoom with the ability to expand upon that with extenders , great closeup mode , long lasting rechargable battery , etc etc. ",
+        "term": "closeup mode"
+    },
+    "202": {
+        "id": 202,
+        "polarity": "+",
+        "sentence": "in my opinion it 's the best camera for the money if you 're looking for something that 's easy to use , small good for travel , and provides excellent , sharp images . ",
+        "term": "camera"
+    }
+}

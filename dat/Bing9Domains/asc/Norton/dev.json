@@ -1,0 +1,146 @@
+{
+    "194": {
+        "id": 194,
+        "polarity": "-",
+        "sentence": "However, Symantec has taken a significant turn for the worse with this release.",
+        "term": "Symantec"
+    },
+    "195": {
+        "id": 195,
+        "polarity": "+",
+        "sentence": "While it has a rather effective firewall, and comes with Norton Antivirus (which I'm actually rather fond of), the Security Suite has significantly slowed down my system.",
+        "term": "firewall"
+    },
+    "196": {
+        "id": 196,
+        "polarity": "-",
+        "sentence": "While it has a rather effective firewall, and comes with Norton Antivirus (which I'm actually rather fond of), the Security Suite has significantly slowed down my system.",
+        "term": " security suite"
+    },
+    "197": {
+        "id": 197,
+        "polarity": "-",
+        "sentence": "I'm currently using a Sony Vaio S-150 (which I bought at the end of this past August), and it takes about five minutes just to boot the system - in fact, I've taken to just hibernating, rather than shutting down completely.",
+        "term": "boot"
+    },
+    "198": {
+        "id": 198,
+        "polarity": "-",
+        "sentence": "The Antivirus is good, but \"Internet Security\" just isn't worth it.",
+        "term": " internet security"
+    },
+    "199": {
+        "id": 199,
+        "polarity": "+",
+        "sentence": "The Antivirus is good, but \"Internet Security\" just isn't worth it.",
+        "term": "antivirus"
+    },
+    "200": {
+        "id": 200,
+        "polarity": "+",
+        "sentence": "I've owned many Norton products in my time, and for the most part, I've been pleased with their performance.",
+        "term": "performance"
+    },
+    "201": {
+        "id": 201,
+        "polarity": "+",
+        "sentence": "This is also the case with NIS 2004.",
+        "term": "NIS 2004"
+    },
+    "202": {
+        "id": 202,
+        "polarity": "+",
+        "sentence": "I upgraded from NIS 2003, and the change in performance has not been noticeable.",
+        "term": "upgrade"
+    },
+    "203": {
+        "id": 203,
+        "polarity": "+",
+        "sentence": "On the contrary, I'm quite pleased with my upgrade.",
+        "term": "upgrade"
+    },
+    "204": {
+        "id": 204,
+        "polarity": "+",
+        "sentence": "It works better and has more useful features than NIS 2003.",
+        "term": " features"
+    },
+    "205": {
+        "id": 205,
+        "polarity": "+",
+        "sentence": "It works better and has more useful features than NIS 2003.",
+        "term": "performance"
+    },
+    "206": {
+        "id": 206,
+        "polarity": "+",
+        "sentence": "The program is fully featured, with much of what you'd want from a security program --",
+        "term": "program"
+    },
+    "207": {
+        "id": 207,
+        "polarity": "+",
+        "sentence": "The installation, set-up, and operating interfaces are well organized and intuitive and the email spam component works well.",
+        "term": " email spam"
+    },
+    "208": {
+        "id": 208,
+        "polarity": "+",
+        "sentence": "The installation, set-up, and operating interfaces are well organized and intuitive and the email spam component works well.",
+        "term": " set-up"
+    },
+    "209": {
+        "id": 209,
+        "polarity": "+",
+        "sentence": "The installation, set-up, and operating interfaces are well organized and intuitive and the email spam component works well.",
+        "term": " operation interfaces"
+    },
+    "210": {
+        "id": 210,
+        "polarity": "+",
+        "sentence": "The installation, set-up, and operating interfaces are well organized and intuitive and the email spam component works well.",
+        "term": "installation"
+    },
+    "211": {
+        "id": 211,
+        "polarity": "-",
+        "sentence": "HOWEVER, I AM VERY DISAPPOINTED WITH THIS PRODUCT AND WITH SYMANTEC.",
+        "term": "symantec"
+    },
+    "212": {
+        "id": 212,
+        "polarity": "-",
+        "sentence": "It feels like I'm back to the days of 56k dial-up internet service, even though I'm running a Dell 2GHz Pentium 4 with 256MB memory and have had excellent broadband service for the past year.",
+        "term": "performance"
+    },
+    "213": {
+        "id": 213,
+        "polarity": "-",
+        "sentence": "I tried disabling the various components provided with this product, paring it all the way back to anti-virus only service... and saw no improvement.",
+        "term": "performance"
+    },
+    "214": {
+        "id": 214,
+        "polarity": "-",
+        "sentence": "There is absolutely nothing useful at the Symantec/Norton site.",
+        "term": "symantec/Norton site"
+    },
+    "215": {
+        "id": 215,
+        "polarity": "-",
+        "sentence": "However, I suspect that many people are having a bad experience -- DO NOT PURCHASE THIS PRODUCT.",
+        "term": "PRODUCT"
+    },
+    "216": {
+        "id": 216,
+        "polarity": "+",
+        "sentence": "PIII 1Ghz 512MB RDRAM Windows XP Pro 80GB HD  I was able to Uninstall NIS 2003 and Install NIS 2004 with no trouble.",
+        "term": "Uninstall"
+    },
+    "217": {
+        "id": 217,
+        "polarity": "+",
+        "sentence": "PIII 1Ghz 512MB RDRAM Windows XP Pro 80GB HD  I was able to Uninstall NIS 2003 and Install NIS 2004 with no trouble.",
+        "term": " Install"
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "191": {
+        "id": 191,
+        "polarity": "+",
+        "sentence": "This is a GREAT product!",
+        "term": "product"
+    },
+    "192": {
+        "id": 192,
+        "polarity": "-",
+        "sentence": "I had never liked the idea of the Diaper Genie because of the refills.",
+        "term": "Diapers"
+    },
+    "193": {
+        "id": 193,
+        "polarity": "+",
+        "sentence": "The Champ works great.",
+        "term": "works"
+    },
+    "194": {
+        "id": 194,
+        "polarity": "+",
+        "sentence": "We use regular kitchen sized garbage bags.",
+        "term": "garbage bags"
+    },
+    "195": {
+        "id": 195,
+        "polarity": "+",
+        "sentence": "We've never experienced odor from the pail.",
+        "term": "odor"
+    },
+    "196": {
+        "id": 196,
+        "polarity": "+",
+        "sentence": "It was easy to assemble, and the diapers fit perfectly into the little nook before they make their way into the pail portion.",
+        "term": " fit"
+    },
+    "197": {
+        "id": 197,
+        "polarity": "+",
+        "sentence": "It was easy to assemble, and the diapers fit perfectly into the little nook before they make their way into the pail portion.",
+        "term": "assemble"
+    },
+    "198": {
+        "id": 198,
+        "polarity": "+",
+        "sentence": "I also love that you can flip the device with one hand...",
+        "term": "filp"
+    },
+    "199": {
+        "id": 199,
+        "polarity": "+",
+        "sentence": "Excellent diaper disposal unit.",
+        "term": "unit"
+    },
+    "200": {
+        "id": 200,
+        "polarity": "+",
+        "sentence": "I am soooo pleased with this product!!!",
+        "term": "product"
+    },
+    "201": {
+        "id": 201,
+        "polarity": "+",
+        "sentence": "A wise investment for the pocketbook & for the nose!!!",
+        "term": "investment"
+    },
+    "202": {
+        "id": 202,
+        "polarity": "+",
+        "sentence": "Diaper Champ is great.",
+        "term": "Diaper Champ"
+    },
+    "203": {
+        "id": 203,
+        "polarity": "+",
+        "sentence": "So I can't tell you if Diaper Champ will be as good at containing the formula generated poop smell, but it's excellent at containing the smell of poop of my breastfed baby!",
+        "term": "Diaper Champ"
+    },
+    "204": {
+        "id": 204,
+        "polarity": "+",
+        "sentence": "Friends told me that the Diaper Genie did not work very well, so bought the Diaper Champ based on on-line reviews and I have been happy with it.",
+        "term": "Diaper Champ"
+    },
+    "205": {
+        "id": 205,
+        "polarity": "+",
+        "sentence": "It works easily with one hand, which is important.",
+        "term": "works"
+    },
+    "206": {
+        "id": 206,
+        "polarity": "+",
+        "sentence": "Also, it takes any kitchen sized trash bag, so there is no special bag to stock.",
+        "term": "trash bag"
+    },
+    "207": {
+        "id": 207,
+        "polarity": "+",
+        "sentence": "While the perfect ordor free diaper pail has yet to be invented, the Diaper Champ is a good as it gets.",
+        "term": "Diaper Champ"
+    },
+    "208": {
+        "id": 208,
+        "polarity": "-",
+        "sentence": "Gets stinky after a few months, the seal on the piston doesn't seal anymore.",
+        "term": "seal"
+    },
+    "209": {
+        "id": 209,
+        "polarity": "-",
+        "sentence": "Also, diapers and wipes get stuck in the grove below the piston.",
+        "term": "wipes"
+    },
+    "210": {
+        "id": 210,
+        "polarity": "-",
+        "sentence": "I gave up and got a diaper Dekor.",
+        "term": "diaper Dekor"
+    },
+    "211": {
+        "id": 211,
+        "polarity": "-",
+        "sentence": "Also much less stinky.",
+        "term": "stinky"
+    },
+    "212": {
+        "id": 212,
+        "polarity": "-",
+        "sentence": "Don't buy the diaper champ.",
+        "term": "diaper champ"
+    },
+    "213": {
+        "id": 213,
+        "polarity": "+",
+        "sentence": "I was using the cheapie pail...and it worked ok until the opening device fell apart.",
+        "term": "worked"
+    },
+    "214": {
+        "id": 214,
+        "polarity": "+",
+        "sentence": "I was using the cheapie pail...and it worked ok until the opening device fell apart.",
+        "term": "pail"
+    }
+}

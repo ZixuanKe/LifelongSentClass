@@ -1,0 +1,152 @@
+{
+    "218": {
+        "id": 218,
+        "polarity": "+",
+        "sentence": "I installed, activated and registered NIS 2004 without issue.",
+        "term": "install"
+    },
+    "219": {
+        "id": 219,
+        "polarity": "+",
+        "sentence": "So far, the Anti-Spam feature seems to be very good.",
+        "term": "Anti-Spam"
+    },
+    "220": {
+        "id": 220,
+        "polarity": "-",
+        "sentence": "This program would not let me send Outlook Email or listen to Audible sample books online.",
+        "term": "program"
+    },
+    "221": {
+        "id": 221,
+        "polarity": "-",
+        "sentence": "Buy this if you like mental challenges or trying how to pick locks.",
+        "term": "product"
+    },
+    "222": {
+        "id": 222,
+        "polarity": "-",
+        "sentence": "I had much of the same problems that everyone else has listed (mainly the SLOOOOOOOOOW processor), and then I couldn't get the damn thing off my computer completely!",
+        "term": "processor"
+    },
+    "223": {
+        "id": 223,
+        "polarity": "-",
+        "sentence": "It locked during install and I had to reformat the drive and start from scratch (GRRRRRR!)",
+        "term": "install"
+    },
+    "224": {
+        "id": 224,
+        "polarity": "+",
+        "sentence": "I downloaded a trial version of Computer Associates EZ Firewall and Antivirus and fell in love with a computer security system all over again.",
+        "term": "Computer Associates EZ"
+    },
+    "225": {
+        "id": 225,
+        "polarity": "-",
+        "sentence": "And I can't warn you enough to STAY AWAY FROM NORTON!!",
+        "term": "Norton"
+    },
+    "226": {
+        "id": 226,
+        "polarity": "+",
+        "sentence": "I did not have any of the installation problems that people highlighted here.",
+        "term": "installation"
+    },
+    "227": {
+        "id": 227,
+        "polarity": "-",
+        "sentence": "It was immediately noticeable that NIS slows down my computer (Pent4, 256 RAM).",
+        "term": "speed"
+    },
+    "228": {
+        "id": 228,
+        "polarity": "-",
+        "sentence": "I think it is a combination of the program size taking up resources and the open/close scanning that it does with every program.",
+        "term": " scanning"
+    },
+    "229": {
+        "id": 229,
+        "polarity": "-",
+        "sentence": "I think it is a combination of the program size taking up resources and the open/close scanning that it does with every program.",
+        "term": "size"
+    },
+    "230": {
+        "id": 230,
+        "polarity": "-",
+        "sentence": "Is it necessary to scan my MS Money database when I close the program?",
+        "term": "scan"
+    },
+    "231": {
+        "id": 231,
+        "polarity": "-",
+        "sentence": "I have a modern PC with lots of speed and memory, but this firewall just brought it to a halt.",
+        "term": "firewall"
+    },
+    "232": {
+        "id": 232,
+        "polarity": "-",
+        "sentence": "Start up, log off, log on...everything became very slow.",
+        "term": "slow"
+    },
+    "233": {
+        "id": 233,
+        "polarity": "-",
+        "sentence": "Configuring it for a home network was almost impossible.",
+        "term": "home network"
+    },
+    "234": {
+        "id": 234,
+        "polarity": "-",
+        "sentence": "Multiple users on one machine never seemed to behave like you'd expect.",
+        "term": "network"
+    },
+    "235": {
+        "id": 235,
+        "polarity": "-",
+        "sentence": "While I was trying to play Half Life 2 it started popping up with \"alerts\" every twenty seconds (literally), warning me my antivirus protection was off.",
+        "term": "alerts"
+    },
+    "236": {
+        "id": 236,
+        "polarity": "-",
+        "sentence": "But it wouldn't let me turn the AV protection back on and it wouldn't stop with the alerts.",
+        "term": "alerts"
+    },
+    "237": {
+        "id": 237,
+        "polarity": "-",
+        "sentence": "I had tried to uninstall Norton Internet Security a few weeks ago, and it wouldn't let me do that either.",
+        "term": "uninstall"
+    },
+    "238": {
+        "id": 238,
+        "polarity": "-",
+        "sentence": "I tried it again this morning and it said I didn't have the required \"permissions\" and lacked proper administrator status.",
+        "term": "Uninstall"
+    },
+    "239": {
+        "id": 239,
+        "polarity": "-",
+        "sentence": "Of course, if you try to reach Symantec customer service you get useless automated systems unless you want to pay $30 per incident.",
+        "term": "Symantec customer service"
+    },
+    "240": {
+        "id": 240,
+        "polarity": "-",
+        "sentence": "This time, it started the uninstallation process, then I left for work. I think it will work. I hope it will work.",
+        "term": "uninstallation"
+    },
+    "241": {
+        "id": 241,
+        "polarity": "-",
+        "sentence": "I simply hate Symantec. I swear, if I could have physically ripped that software out of my computer with my bare, bleeding hands, I would have.",
+        "term": "Symantec"
+    },
+    "242": {
+        "id": 242,
+        "polarity": "+",
+        "sentence": "Their products have been great and have saved my bacon on numerous occasions.",
+        "term": "products"
+    }
+}

@@ -1,0 +1,1628 @@
+{
+    "0": {
+        "id": 0,
+        "polarity": "+",
+        "sentence": "there is much which has been said in other reviews about the features of this phone , it is a great phone , mine worked without any problems right out of the box . ",
+        "term": " work"
+    },
+    "1": {
+        "id": 1,
+        "polarity": "+",
+        "sentence": "there is much which has been said in other reviews about the features of this phone , it is a great phone , mine worked without any problems right out of the box . ",
+        "term": "phone"
+    },
+    "2": {
+        "id": 2,
+        "polarity": "-",
+        "sentence": "after several years of torture in the hands of at&t customer service i am delighted to drop them , and look forward to august 2004 when i will convert our other 3 family-phones from at&t to t-mobile ! ",
+        "term": "at&t customer service"
+    },
+    "3": {
+        "id": 3,
+        "polarity": "+",
+        "sentence": "i have had the phone for 1 week , the signal quality has been great in the detroit area ( suburbs ) and in my recent road trip between detroit and northern kentucky ( cincinnati ) i experienced perfect signal and reception along i-75 , far superior to at &#38; t 's which does not work along several long stretches on that same route . ",
+        "term": "signal quality"
+    },
+    "4": {
+        "id": 4,
+        "polarity": "+",
+        "sentence": "my favorite features , although there are many , are the speaker phone , the radio and the infrared . ",
+        "term": "infrared"
+    },
+    "5": {
+        "id": 5,
+        "polarity": "+",
+        "sentence": "my favorite features , although there are many , are the speaker phone , the radio and the infrared . ",
+        "term": "radio"
+    },
+    "6": {
+        "id": 6,
+        "polarity": "+",
+        "sentence": "my favorite features , although there are many , are the speaker phone , the radio and the infrared . ",
+        "term": "speaker phone"
+    },
+    "7": {
+        "id": 7,
+        "polarity": "+",
+        "sentence": "the speaker phone is very functional and i use it in the car , very audible even with freeway noise . ",
+        "term": "speaker phone"
+    },
+    "8": {
+        "id": 8,
+        "polarity": "+",
+        "sentence": "the infrared is a blessing if you have a previous nokia and want to transfer your old phone book to this phone , saved me hours of re-entering my numbers . ",
+        "term": "infrared"
+    },
+    "9": {
+        "id": 9,
+        "polarity": "-",
+        "sentence": "the day finally arrived when i was sure i 'd leave sprint . ",
+        "term": "sprint"
+    },
+    "10": {
+        "id": 10,
+        "polarity": "-",
+        "sentence": "after years with that carrier 's expensive plans and horrible customer service , portability seemed heaven-sent . ",
+        "term": "sprint plan"
+    },
+    "11": {
+        "id": 11,
+        "polarity": "-",
+        "sentence": "after years with that carrier 's expensive plans and horrible customer service , portability seemed heaven-sent . ",
+        "term": "sprint customer service"
+    },
+    "12": {
+        "id": 12,
+        "polarity": "+",
+        "sentence": "here 's the brief synopsis : the phone is tiny , cute , feels kind of \" plastic-like \" ( as if it might break ) , but seems pretty sturdy . ",
+        "term": "size"
+    },
+    "13": {
+        "id": 13,
+        "polarity": "+",
+        "sentence": "here 's the brief synopsis : the phone is tiny , cute , feels kind of \" plastic-like \" ( as if it might break ) , but seems pretty sturdy . ",
+        "term": " sturdy"
+    },
+    "14": {
+        "id": 14,
+        "polarity": "+",
+        "sentence": "it has lots of little cute features , my favorite being the games and the pim ( personal information manager -- i.e. organizer ) , and the radio ! ",
+        "term": "radio"
+    },
+    "15": {
+        "id": 15,
+        "polarity": "+",
+        "sentence": "it has lots of little cute features , my favorite being the games and the pim ( personal information manager -- i.e. organizer ) , and the radio ! ",
+        "term": "game"
+    },
+    "16": {
+        "id": 16,
+        "polarity": "+",
+        "sentence": "it has lots of little cute features , my favorite being the games and the pim ( personal information manager -- i.e. organizer ) , and the radio ! ",
+        "term": "pim"
+    },
+    "17": {
+        "id": 17,
+        "polarity": "-",
+        "sentence": "i spent hours setting up the stations ( accepts about 13-14 , i believe ) , though the reception is unpredictable . ",
+        "term": "reception"
+    },
+    "18": {
+        "id": 18,
+        "polarity": "+",
+        "sentence": "the headset that comes with the phone has good sound volume but it hurts the ears like you cannot imagine ! ",
+        "term": "sound volume"
+    },
+    "19": {
+        "id": 19,
+        "polarity": "-",
+        "sentence": "the headset that comes with the phone has good sound volume but it hurts the ears like you cannot imagine ! ",
+        "term": " ear"
+    },
+    "20": {
+        "id": 20,
+        "polarity": "-",
+        "sentence": "the phone comes with okay ringtones , some decent backgrounds / screensavers , but the phone has very little memory ( mine had 230kb as it arrived from amazon , so you do n't have too many options on what you can put on there ) . ",
+        "term": "memory"
+    },
+    "21": {
+        "id": 21,
+        "polarity": "+",
+        "sentence": "the phone comes with okay ringtones , some decent backgrounds / screensavers , but the phone has very little memory ( mine had 230kb as it arrived from amazon , so you do n't have too many options on what you can put on there ) . ",
+        "term": "ringtone"
+    },
+    "22": {
+        "id": 22,
+        "polarity": "+",
+        "sentence": "the phone comes with okay ringtones , some decent backgrounds / screensavers , but the phone has very little memory ( mine had 230kb as it arrived from amazon , so you do n't have too many options on what you can put on there ) . ",
+        "term": "background"
+    },
+    "23": {
+        "id": 23,
+        "polarity": "+",
+        "sentence": "the phone comes with okay ringtones , some decent backgrounds / screensavers , but the phone has very little memory ( mine had 230kb as it arrived from amazon , so you do n't have too many options on what you can put on there ) . ",
+        "term": "screensaver"
+    },
+    "24": {
+        "id": 24,
+        "polarity": "-",
+        "sentence": "the colors on the screen are not as crisp as i 'd have liked them to be . ",
+        "term": "color"
+    },
+    "25": {
+        "id": 25,
+        "polarity": "-",
+        "sentence": "the backlight on the phone goes off way too quickly ( dangerous when you 're driving at night ) , and there 's no way to change this -- ",
+        "term": "backlight"
+    },
+    "26": {
+        "id": 26,
+        "polarity": "-",
+        "sentence": "the buttons on the phone are small , even for my small fingertips , but you get used to them rather quickly . ",
+        "term": "button"
+    },
+    "27": {
+        "id": 27,
+        "polarity": "-",
+        "sentence": "the menu options are uncreative , as you can 't see a full screen of menu items to pick from ; you have to scroll up and down to find what you 're looking for ( yes , this is minor , but not when you 're trying to keep your eye on the road ! ) . ",
+        "term": "menu options"
+    },
+    "28": {
+        "id": 28,
+        "polarity": "-",
+        "sentence": "the volume . ",
+        "term": "volume"
+    },
+    "29": {
+        "id": 29,
+        "polarity": "-",
+        "sentence": "i have excellent hearing but the volume level on this phone is especially quiet . ",
+        "term": "volume"
+    },
+    "30": {
+        "id": 30,
+        "polarity": "+",
+        "sentence": "on the up-side , the phone has amazing battery life . ",
+        "term": "battery life"
+    },
+    "31": {
+        "id": 31,
+        "polarity": "+",
+        "sentence": "i do like this phone overall ( would give it a 3.5 ) , but unforutnately , i am returning it . ",
+        "term": "phone"
+    },
+    "32": {
+        "id": 32,
+        "polarity": "-",
+        "sentence": "i assumed they had exceptional service , but their reception in my area ( los angeles ) is horrendous . ",
+        "term": "t-mobile reception"
+    },
+    "33": {
+        "id": 33,
+        "polarity": "-",
+        "sentence": "also , their t-zones , although cheap ( $ 4.99 / mo. ) never works . ",
+        "term": "t-zone"
+    },
+    "34": {
+        "id": 34,
+        "polarity": "-",
+        "sentence": "since i received the phone , i spent countless hours on the phone with customer service reps who promised t-zones would work \" in 24 hours \" . ",
+        "term": "customer service"
+    },
+    "35": {
+        "id": 35,
+        "polarity": "-",
+        "sentence": "i must have heard this about a dozen times over the span of 2 weeks , when t-zones never worked . ",
+        "term": "t-zone"
+    },
+    "36": {
+        "id": 36,
+        "polarity": "-",
+        "sentence": "apparently , t-mobile is heavily back-logged and can 't keep up with demands . ",
+        "term": "t-mobile"
+    },
+    "37": {
+        "id": 37,
+        "polarity": "+",
+        "sentence": "in all fairness , customer reps are very nice , and they ( most of them ) try hard to answer your questions . ",
+        "term": "customer rep"
+    },
+    "38": {
+        "id": 38,
+        "polarity": "+",
+        "sentence": "t-mobile is trying very hard , and again -- they do have pretty good csr 's . ",
+        "term": "csr"
+    },
+    "39": {
+        "id": 39,
+        "polarity": "-",
+        "sentence": "however , the calls constantly drop in my area and i experince mega-static , to the point where i 'd have to dial numbers 6-7 times to get a clear line . ",
+        "term": "call"
+    },
+    "40": {
+        "id": 40,
+        "polarity": "+",
+        "sentence": "i 'm staying with sprint , and though i fear that their csr is n't nearly as good as t-mobile 's , the clarity of their reception is exceptional . ",
+        "term": "sprint"
+    },
+    "41": {
+        "id": 41,
+        "polarity": "+",
+        "sentence": "while i like the performance of the phone in every regard , i would buy another one solely upon the apparent indestructibility of it . ",
+        "term": "phone performance"
+    },
+    "42": {
+        "id": 42,
+        "polarity": "+",
+        "sentence": "i highly recommend a nokia 6610 . ",
+        "term": "nokia"
+    },
+    "43": {
+        "id": 43,
+        "polarity": "+",
+        "sentence": "no other color phone has the combination of features that the 6610 offers . ",
+        "term": "feature"
+    },
+    "44": {
+        "id": 44,
+        "polarity": "+",
+        "sentence": "from the speakerphone that can be used up to 15 feet away with clarity , to the downloadable poly-graphic megatones that adds a personal touch to this nifty phone . ",
+        "term": "speakerphone"
+    },
+    "45": {
+        "id": 45,
+        "polarity": "+",
+        "sentence": "whether you 're taking a brisk jog , waiting for a bus or just having lunch at the park , you 'll be glad you had the fm radio . ",
+        "term": "radio"
+    },
+    "46": {
+        "id": 46,
+        "polarity": "+",
+        "sentence": "i treat the battery well and it has lasted . ",
+        "term": "battery"
+    },
+    "47": {
+        "id": 47,
+        "polarity": "-",
+        "sentence": "the volume level of the phone is not all that good . ",
+        "term": "volume"
+    },
+    "48": {
+        "id": 48,
+        "polarity": "-",
+        "sentence": "some of the higher pitched rings are very easy to hear , but not easy to listen to . ",
+        "term": "ring"
+    },
+    "49": {
+        "id": 49,
+        "polarity": "-",
+        "sentence": "the more subtle tones that were included with the phone are hard to hear at times . ",
+        "term": "tone"
+    },
+    "50": {
+        "id": 50,
+        "polarity": "-",
+        "sentence": "the vibration is not top . ",
+        "term": "vibration"
+    },
+    "51": {
+        "id": 51,
+        "polarity": "+",
+        "sentence": "overall this has been my favorite phone that i have owned . ",
+        "term": "phone"
+    },
+    "52": {
+        "id": 52,
+        "polarity": "+",
+        "sentence": "great battery life , perfect size , but a tid bit quieter than i would like . ",
+        "term": "size"
+    },
+    "53": {
+        "id": 53,
+        "polarity": "-",
+        "sentence": "great battery life , perfect size , but a tid bit quieter than i would like . ",
+        "term": "volume"
+    },
+    "54": {
+        "id": 54,
+        "polarity": "+",
+        "sentence": "great battery life , perfect size , but a tid bit quieter than i would like . ",
+        "term": "battery life"
+    },
+    "55": {
+        "id": 55,
+        "polarity": "-",
+        "sentence": "i am bored with the silver look . ",
+        "term": "look"
+    },
+    "56": {
+        "id": 56,
+        "polarity": "+",
+        "sentence": "it has a nice color screen . ",
+        "term": "color screen"
+    },
+    "57": {
+        "id": 57,
+        "polarity": "+",
+        "sentence": "it is small . ",
+        "term": "size"
+    },
+    "58": {
+        "id": 58,
+        "polarity": "+",
+        "sentence": "radio is awsome , but it does n't work unless you have the earpice in . ",
+        "term": "radio"
+    },
+    "59": {
+        "id": 59,
+        "polarity": "-",
+        "sentence": "radio is awsome , but it does n't work unless you have the earpice in . ",
+        "term": " radio"
+    },
+    "60": {
+        "id": 60,
+        "polarity": "+",
+        "sentence": "t-mobile was a pretty good server . ",
+        "term": "t-mobile"
+    },
+    "61": {
+        "id": 61,
+        "polarity": "-",
+        "sentence": "they are not wowable good . ",
+        "term": "game"
+    },
+    "62": {
+        "id": 62,
+        "polarity": "-",
+        "sentence": "it also does n't have voice activated dialing . big minus ! ! ",
+        "term": "voice dialing"
+    },
+    "63": {
+        "id": 63,
+        "polarity": "+",
+        "sentence": "this is a very nice phone , but there is no warranty on it . ",
+        "term": "phone"
+    },
+    "64": {
+        "id": 64,
+        "polarity": "-",
+        "sentence": "this is a very nice phone , but there is no warranty on it . ",
+        "term": "warranty"
+    },
+    "65": {
+        "id": 65,
+        "polarity": "-",
+        "sentence": "we got two phones for the t-mobile family plan ( indeed very easy to switch to the family plan ) and one came with a broken headphone ( can hear but cannot be heard ) and one died today after less than two weeks of use . ",
+        "term": "phone"
+    },
+    "66": {
+        "id": 66,
+        "polarity": "-",
+        "sentence": "when i got it home , i discovered that the menu options for sending messages via either text or email simply were n't there : ",
+        "term": "message"
+    },
+    "67": {
+        "id": 67,
+        "polarity": "+",
+        "sentence": "while i had the phone , the positive features were : good sound quality and an excellent fm phone and earpiece . ",
+        "term": " fm"
+    },
+    "68": {
+        "id": 68,
+        "polarity": "+",
+        "sentence": "while i had the phone , the positive features were : good sound quality and an excellent fm phone and earpiece . ",
+        "term": "sound quality"
+    },
+    "69": {
+        "id": 69,
+        "polarity": "+",
+        "sentence": "while i had the phone , the positive features were : good sound quality and an excellent fm phone and earpiece . ",
+        "term": " earpiece"
+    },
+    "70": {
+        "id": 70,
+        "polarity": "-",
+        "sentence": "negative : impossibly tiny and difficult to operate , barely visible , power button . ",
+        "term": " operate"
+    },
+    "71": {
+        "id": 71,
+        "polarity": "-",
+        "sentence": "negative : impossibly tiny and difficult to operate , barely visible , power button . ",
+        "term": "size"
+    },
+    "72": {
+        "id": 72,
+        "polarity": "-",
+        "sentence": "negative : impossibly tiny and difficult to operate , barely visible , power button . ",
+        "term": " button"
+    },
+    "73": {
+        "id": 73,
+        "polarity": "-",
+        "sentence": "poor visibility on the keys . ",
+        "term": "key"
+    },
+    "74": {
+        "id": 74,
+        "polarity": "+",
+        "sentence": "the two biggest things is the excellent working speakerphone \" unlike the nokia 3650 \" and the superb reception nokia is known for in the gsm phones they make ... ",
+        "term": "speakerphone"
+    },
+    "75": {
+        "id": 75,
+        "polarity": "+",
+        "sentence": "the two biggest things is the excellent working speakerphone \" unlike the nokia 3650 \" and the superb reception nokia is known for in the gsm phones they make ... ",
+        "term": " reception"
+    },
+    "76": {
+        "id": 76,
+        "polarity": "-",
+        "sentence": "only con i can think of is no camera ... . ",
+        "term": "camera"
+    },
+    "77": {
+        "id": 77,
+        "polarity": "+",
+        "sentence": "this phone is a winner ... ",
+        "term": "phone"
+    },
+    "78": {
+        "id": 78,
+        "polarity": "+",
+        "sentence": "anything this phone does , it does perfectly . ",
+        "term": "phone"
+    },
+    "79": {
+        "id": 79,
+        "polarity": "+",
+        "sentence": "the speakerphone , the radio , all features work perfectly . ",
+        "term": "speakerphone"
+    },
+    "80": {
+        "id": 80,
+        "polarity": "+",
+        "sentence": "the speakerphone , the radio , all features work perfectly . ",
+        "term": "radio"
+    },
+    "81": {
+        "id": 81,
+        "polarity": "+",
+        "sentence": "this phone has a very cool and useful feature -- the speakerphone . ",
+        "term": "speakerphone"
+    },
+    "82": {
+        "id": 82,
+        "polarity": "+",
+        "sentence": "as said before this works perfectly . ",
+        "term": "speakerphone"
+    },
+    "83": {
+        "id": 83,
+        "polarity": "+",
+        "sentence": "you can adjust the volume to be heard anywhere or so that it does n't make that big of a disturbance . ",
+        "term": "volume"
+    },
+    "84": {
+        "id": 84,
+        "polarity": "+",
+        "sentence": "the person on the other end of the call can hear you perfectly . ",
+        "term": "speakerphone"
+    },
+    "85": {
+        "id": 85,
+        "polarity": "+",
+        "sentence": "you can be up to about 3 feet away from it and it will still work perfectly . ",
+        "term": "speakerphone"
+    },
+    "86": {
+        "id": 86,
+        "polarity": "-",
+        "sentence": "only one complaint about the speakerphone , you can only activate the speakerphone feature once the person you are calling answers the phone , not while it is ringing . ",
+        "term": "speakerphone"
+    },
+    "87": {
+        "id": 87,
+        "polarity": "+",
+        "sentence": "this phone is one of the few phones that have an fm radio tuner built in . ",
+        "term": "radio"
+    },
+    "88": {
+        "id": 88,
+        "polarity": "+",
+        "sentence": "this radio receives fairly decent reception but not nearly as good as a normal radio , but as long as the stations are coming in clearly the phone 's radio should work perfectly . ",
+        "term": "radio"
+    },
+    "89": {
+        "id": 89,
+        "polarity": "+",
+        "sentence": "i bought this phone for my trip to south africa and it worked almost perfectly . ",
+        "term": "phone"
+    },
+    "90": {
+        "id": 90,
+        "polarity": "-",
+        "sentence": "the only problem i had was a small glitch with t-mobile . ",
+        "term": "t-mobile"
+    },
+    "91": {
+        "id": 91,
+        "polarity": "+",
+        "sentence": "anywhere i went in south africa this phone received full bar reception . ",
+        "term": "reception"
+    },
+    "92": {
+        "id": 92,
+        "polarity": "+",
+        "sentence": "another benefit of this phone is that it is truly an international phone ; the 6610 is sold in almost everywhere in the world . ",
+        "term": "phone"
+    },
+    "93": {
+        "id": 93,
+        "polarity": "+",
+        "sentence": "this means that there is a good chance that this phone will not break easily like typical american phones . ",
+        "term": "phone"
+    },
+    "94": {
+        "id": 94,
+        "polarity": "+",
+        "sentence": "when you put this phone in your pocket you forget it is there ; it is unbelievably small and oh , so light . ",
+        "term": "weight"
+    },
+    "95": {
+        "id": 95,
+        "polarity": "+",
+        "sentence": "when you put this phone in your pocket you forget it is there ; it is unbelievably small and oh , so light . ",
+        "term": "size"
+    },
+    "96": {
+        "id": 96,
+        "polarity": "+",
+        "sentence": "this is a benefit for many reasons ; one being just for appearance , your pants wo n't be bulging with this phone in your pocket . ",
+        "term": "size"
+    },
+    "97": {
+        "id": 97,
+        "polarity": "+",
+        "sentence": "the battery life on this phone is surreal . ",
+        "term": "battery life"
+    },
+    "98": {
+        "id": 98,
+        "polarity": "+",
+        "sentence": "i 've used the speakerphone for almost two hours once and the battery did not even go down one single bar . ",
+        "term": "battery"
+    },
+    "99": {
+        "id": 99,
+        "polarity": "+",
+        "sentence": "it is amazing that the battery lasts so long when the phone is so small and light . ",
+        "term": "battery"
+    },
+    "100": {
+        "id": 100,
+        "polarity": "+",
+        "sentence": "this phone has many other features , ir , ; just to name one , the features above i view as the most beneficial . ",
+        "term": "phone"
+    },
+    "101": {
+        "id": 101,
+        "polarity": "-",
+        "sentence": "the phone has a few minor inconveniences , but only because it lacks those features , bluetooth and high spend internet , but there are very few problems with things that you expected this phone to do . ",
+        "term": "high speed internet"
+    },
+    "102": {
+        "id": 102,
+        "polarity": "-",
+        "sentence": "the phone has a few minor inconveniences , but only because it lacks those features , bluetooth and high spend internet , but there are very few problems with things that you expected this phone to do . ",
+        "term": "bluetooth"
+    },
+    "103": {
+        "id": 103,
+        "polarity": "+",
+        "sentence": "overall , i highly recommend this phone . ",
+        "term": "phone"
+    },
+    "104": {
+        "id": 104,
+        "polarity": "+",
+        "sentence": "it is a perfect phone in such a small and appealing package . ",
+        "term": "phone"
+    },
+    "105": {
+        "id": 105,
+        "polarity": "+",
+        "sentence": "size - extremely small and convenient will fit in your pocket and not bother you . ",
+        "term": "size"
+    },
+    "106": {
+        "id": 106,
+        "polarity": "+",
+        "sentence": "sound - excellent polyphonic ringing tones are very nice ( check cons ) it also doubles as a radio , which is a nice feature when you are bored . ",
+        "term": "radio"
+    },
+    "107": {
+        "id": 107,
+        "polarity": "+",
+        "sentence": "sound - excellent polyphonic ringing tones are very nice ( check cons ) it also doubles as a radio , which is a nice feature when you are bored . ",
+        "term": "ringing tone"
+    },
+    "108": {
+        "id": 108,
+        "polarity": "+",
+        "sentence": "speakerphone - loud and clear has some nice extra features like currency converter and a stopwatch . ",
+        "term": "speakerphone"
+    },
+    "109": {
+        "id": 109,
+        "polarity": "+",
+        "sentence": "surfing the web on it is nice as well , i just wish there were more wap pages available . ",
+        "term": "web"
+    },
+    "110": {
+        "id": 110,
+        "polarity": "-",
+        "sentence": "ring tones only come with crazy songs and annoying rings , there is only one ring that sounds close to a regular ring . ",
+        "term": "ring tone"
+    },
+    "111": {
+        "id": 111,
+        "polarity": "-",
+        "sentence": "the screen is easily scratched but if you have the warranty you should be able to swap it out . ",
+        "term": "screen"
+    },
+    "112": {
+        "id": 112,
+        "polarity": "-",
+        "sentence": "games kind of stink and you cant download them you have to get the link cable to get additional games . ",
+        "term": "game"
+    },
+    "113": {
+        "id": 113,
+        "polarity": "+",
+        "sentence": "nice little phone ... light compact . . ",
+        "term": "size"
+    },
+    "114": {
+        "id": 114,
+        "polarity": "+",
+        "sentence": "nice little phone ... light compact . . ",
+        "term": "phone"
+    },
+    "115": {
+        "id": 115,
+        "polarity": "-",
+        "sentence": "buttons do seem a little sticky tho .. and the hands free kits ' connector might be a problem .. ",
+        "term": "button"
+    },
+    "116": {
+        "id": 116,
+        "polarity": "+",
+        "sentence": "although the nokia 6610 is a little short on the features department , it is an outstanding piece of hardware for doing what it was primarily meant to do : to be a wireless telephone . ",
+        "term": "wireless telephone"
+    },
+    "117": {
+        "id": 117,
+        "polarity": "+",
+        "sentence": "the reception and sound quality are top-notch . ",
+        "term": "reception"
+    },
+    "118": {
+        "id": 118,
+        "polarity": "+",
+        "sentence": "the reception and sound quality are top-notch . ",
+        "term": "sound quality"
+    },
+    "119": {
+        "id": 119,
+        "polarity": "+",
+        "sentence": "i like the size and weight of this little critter . ",
+        "term": "weight"
+    },
+    "120": {
+        "id": 120,
+        "polarity": "+",
+        "sentence": "i like the size and weight of this little critter . ",
+        "term": "size"
+    },
+    "121": {
+        "id": 121,
+        "polarity": "+",
+        "sentence": "i am able to carry it close to my body , in places where other phones are not so easily concealed . ",
+        "term": "size"
+    },
+    "122": {
+        "id": 122,
+        "polarity": "-",
+        "sentence": "the keys are close together , and the layout is a bit funky in relation to standard rectangular layout keypads , but it 's not too weird . ",
+        "term": "layout"
+    },
+    "123": {
+        "id": 123,
+        "polarity": "-",
+        "sentence": "the fact that the \" 0 \" key is the space key for text input is a bit confusing , as many phones use the \" # \" key instead . ",
+        "term": "key"
+    },
+    "124": {
+        "id": 124,
+        "polarity": "+",
+        "sentence": "the screen is bright , easy to see in the daylight , with nice colors . ",
+        "term": "screen"
+    },
+    "125": {
+        "id": 125,
+        "polarity": "+",
+        "sentence": "it receives very nice mms pictures from other gsm phones . ",
+        "term": "picture"
+    },
+    "126": {
+        "id": 126,
+        "polarity": "-",
+        "sentence": "there are some features in the user interface that i find a little inconvenient . ",
+        "term": "user interface"
+    },
+    "127": {
+        "id": 127,
+        "polarity": "-",
+        "sentence": "the menu options appear one at a time , taking up the whole screen , and one has to scroll down one by one , or have memorized where they are in the menu order , to select them by using the number keypad . ",
+        "term": "menu option"
+    },
+    "128": {
+        "id": 128,
+        "polarity": "-",
+        "sentence": "the vibrate setting is loud ! ",
+        "term": "vibrate setting"
+    },
+    "129": {
+        "id": 129,
+        "polarity": "-",
+        "sentence": "so loud , really , that it does n't work terribly well as a silent ringer option . ",
+        "term": "vibrate setting"
+    },
+    "130": {
+        "id": 130,
+        "polarity": "+",
+        "sentence": "but , then again , the ringer can be so loud that i heard it ringing inside my office , when i was already out on the street .. . ",
+        "term": "ringer"
+    },
+    "131": {
+        "id": 131,
+        "polarity": "-",
+        "sentence": "other things that i miss are voice-activated dialing and a standard 2.5 mm headset jack . ",
+        "term": "voice dialing"
+    },
+    "132": {
+        "id": 132,
+        "polarity": "-",
+        "sentence": "other things that i miss are voice-activated dialing and a standard 2.5 mm headset jack . ",
+        "term": "headset jack"
+    },
+    "133": {
+        "id": 133,
+        "polarity": "+",
+        "sentence": "- light , compact design ",
+        "term": "weight"
+    },
+    "134": {
+        "id": 134,
+        "polarity": "+",
+        "sentence": "- light , compact design ",
+        "term": " design"
+    },
+    "135": {
+        "id": 135,
+        "polarity": "+",
+        "sentence": "- solid , high-quality construction ",
+        "term": "construction"
+    },
+    "136": {
+        "id": 136,
+        "polarity": "+",
+        "sentence": "- well-backlit keypad ",
+        "term": "keypad"
+    },
+    "137": {
+        "id": 137,
+        "polarity": "+",
+        "sentence": "- outstanding signal reception ",
+        "term": "reception"
+    },
+    "138": {
+        "id": 138,
+        "polarity": "+",
+        "sentence": "- excellent sound quality ",
+        "term": "sound quality"
+    },
+    "139": {
+        "id": 139,
+        "polarity": "+",
+        "sentence": "- bright , visible screen ",
+        "term": "screen"
+    },
+    "140": {
+        "id": 140,
+        "polarity": "+",
+        "sentence": "- speakerphone ",
+        "term": "speakerphone"
+    },
+    "141": {
+        "id": 141,
+        "polarity": "+",
+        "sentence": "- very long-lasting battery life ",
+        "term": "battery life"
+    },
+    "142": {
+        "id": 142,
+        "polarity": "-",
+        "sentence": "- some features in the user interface ",
+        "term": "user interface"
+    },
+    "143": {
+        "id": 143,
+        "polarity": "-",
+        "sentence": "- no voice activated dialing ( what were they thinking ",
+        "term": "voice dialing"
+    },
+    "144": {
+        "id": 144,
+        "polarity": "-",
+        "sentence": "- no option for caller-id pictures or individualized ringtones . ",
+        "term": "picture"
+    },
+    "145": {
+        "id": 145,
+        "polarity": "-",
+        "sentence": "- no option for caller-id pictures or individualized ringtones . ",
+        "term": " ringtone"
+    },
+    "146": {
+        "id": 146,
+        "polarity": "-",
+        "sentence": "- no propietary headset jack ",
+        "term": "headset jack"
+    },
+    "147": {
+        "id": 147,
+        "polarity": "+",
+        "sentence": "one of the best cell phones i have ever used to-date . ",
+        "term": "phone"
+    },
+    "148": {
+        "id": 148,
+        "polarity": "+",
+        "sentence": "i like the speakphone function a lot . ",
+        "term": "speakerphone"
+    },
+    "149": {
+        "id": 149,
+        "polarity": "+",
+        "sentence": "i am very pleased with its quality and durability . ",
+        "term": "durability"
+    },
+    "150": {
+        "id": 150,
+        "polarity": "+",
+        "sentence": "i am very pleased with its quality and durability . ",
+        "term": "quality"
+    },
+    "151": {
+        "id": 151,
+        "polarity": "+",
+        "sentence": "i like the automatic key lock function . ",
+        "term": "key lock"
+    },
+    "152": {
+        "id": 152,
+        "polarity": "+",
+        "sentence": "the phone is very light weight . ",
+        "term": "weight"
+    },
+    "153": {
+        "id": 153,
+        "polarity": "+",
+        "sentence": "the screen is bright and ring tones are unlimited . ",
+        "term": " ring tone"
+    },
+    "154": {
+        "id": 154,
+        "polarity": "+",
+        "sentence": "the screen is bright and ring tones are unlimited . ",
+        "term": "screen"
+    },
+    "155": {
+        "id": 155,
+        "polarity": "+",
+        "sentence": "the fm radio is cool . ",
+        "term": "fm radio"
+    },
+    "156": {
+        "id": 156,
+        "polarity": "+",
+        "sentence": "while going for a cellphone , i was fully determined to buy a nokia only as it is the best in cellphones . ",
+        "term": "nokia"
+    },
+    "157": {
+        "id": 157,
+        "polarity": "+",
+        "sentence": "and really this is the best phone one could have . ",
+        "term": "phone"
+    },
+    "158": {
+        "id": 158,
+        "polarity": "+",
+        "sentence": "it has all the features one would need in a cellphone . ",
+        "term": "feature"
+    },
+    "159": {
+        "id": 159,
+        "polarity": "+",
+        "sentence": "it is lightweight , sleek and attractive . ",
+        "term": "weight"
+    },
+    "160": {
+        "id": 160,
+        "polarity": "+",
+        "sentence": "it is lightweight , sleek and attractive . ",
+        "term": "phone"
+    },
+    "161": {
+        "id": 161,
+        "polarity": "+",
+        "sentence": "this phone is very user-friendly , easy to manipulate &#38; very convenient to scroll in menu etc . ",
+        "term": " menu"
+    },
+    "162": {
+        "id": 162,
+        "polarity": "+",
+        "sentence": "this phone is very user-friendly , easy to manipulate &#38; very convenient to scroll in menu etc . ",
+        "term": "phone"
+    },
+    "163": {
+        "id": 163,
+        "polarity": "+",
+        "sentence": "it has fm radio option and i can listen to music anytime . ",
+        "term": "radio"
+    },
+    "164": {
+        "id": 164,
+        "polarity": "+",
+        "sentence": "its speakerphone option allows us to do long talks conveniently , lying on bed &#38; phone lying by your pillowside . ",
+        "term": "speakerphone"
+    },
+    "165": {
+        "id": 165,
+        "polarity": "+",
+        "sentence": "it comes equipped with lot of wallpapers and polyphonic sweet tunes . ",
+        "term": "tune"
+    },
+    "166": {
+        "id": 166,
+        "polarity": "+",
+        "sentence": "it comes equipped with lot of wallpapers and polyphonic sweet tunes . ",
+        "term": "wallpaper"
+    },
+    "167": {
+        "id": 167,
+        "polarity": "-",
+        "sentence": "only if we could get one camera in it . . ",
+        "term": "camera"
+    },
+    "168": {
+        "id": 168,
+        "polarity": "+",
+        "sentence": "i am enjoying my phone a lot .... ",
+        "term": "phone"
+    },
+    "169": {
+        "id": 169,
+        "polarity": "+",
+        "sentence": "small size . ",
+        "term": "size"
+    },
+    "170": {
+        "id": 170,
+        "polarity": "+",
+        "sentence": "i love the fact i can carry it in my shirt or pants pocket and forget about it . ",
+        "term": "size"
+    },
+    "171": {
+        "id": 171,
+        "polarity": "+",
+        "sentence": "color screen is good . ",
+        "term": "color screen"
+    },
+    "172": {
+        "id": 172,
+        "polarity": "+",
+        "sentence": "it has lots of features such as the calendar which works like my outlook calendar . ",
+        "term": "calendar"
+    },
+    "173": {
+        "id": 173,
+        "polarity": "+",
+        "sentence": "the keys are laid out normal so there is no guessing . ",
+        "term": "key"
+    },
+    "174": {
+        "id": 174,
+        "polarity": "+",
+        "sentence": "navigating through the menus is super easy , especially if you have owned a previous model nokia phone . ",
+        "term": "menu"
+    },
+    "175": {
+        "id": 175,
+        "polarity": "+",
+        "sentence": "battery life is very good , i use it every day and i have to charge it every 5 or 6 days or so . ",
+        "term": "battery life"
+    },
+    "176": {
+        "id": 176,
+        "polarity": "-",
+        "sentence": "the volume key can be hard to press , but i think this may be by design rather than a flaw , perhaps to keep you from pressing it accidentally when you are in a call . ",
+        "term": "volume key"
+    },
+    "177": {
+        "id": 177,
+        "polarity": "-",
+        "sentence": "pc cable is too expensive ... $ 50 for a usb cable ? ",
+        "term": "pc cable"
+    },
+    "178": {
+        "id": 178,
+        "polarity": "+",
+        "sentence": "nokias have always had good sound quality and this is no exception . ",
+        "term": "sound quality"
+    },
+    "179": {
+        "id": 179,
+        "polarity": "+",
+        "sentence": "the loud speaker function on the 6610 is great because you do n't need to put your phone right next to your ear to talk . ",
+        "term": "loud phone"
+    },
+    "180": {
+        "id": 180,
+        "polarity": "+",
+        "sentence": "i like my phones to be small so i can fit it in my pockets . ",
+        "term": "size"
+    },
+    "181": {
+        "id": 181,
+        "polarity": "-",
+        "sentence": "the 6610 has the radio function which is utterly useless . ",
+        "term": "radio"
+    },
+    "182": {
+        "id": 182,
+        "polarity": "-",
+        "sentence": "it also has a stock tracking app built in ( also useless ) and a somewhat useful application which converts all types of metrics ( currency , length , area , etc ) . ",
+        "term": "application"
+    },
+    "183": {
+        "id": 183,
+        "polarity": "-",
+        "sentence": "regarding pc software support nokia suite does not work with some versions of xp as i tried to connect my phone via infrared port on my laptop . ",
+        "term": "software"
+    },
+    "184": {
+        "id": 184,
+        "polarity": "+",
+        "sentence": "overall this is a slightly better than average phone . ",
+        "term": "phone"
+    },
+    "185": {
+        "id": 185,
+        "polarity": "+",
+        "sentence": "this is the best phone i have seen . ",
+        "term": "phone"
+    },
+    "186": {
+        "id": 186,
+        "polarity": "+",
+        "sentence": "the phones are awesome . ",
+        "term": "phone"
+    },
+    "187": {
+        "id": 187,
+        "polarity": "+",
+        "sentence": "we hardly ever have to charge them , get great reception ( live in chicago ) , and the customization and applications are awesome . ",
+        "term": "reception"
+    },
+    "188": {
+        "id": 188,
+        "polarity": "+",
+        "sentence": "we hardly ever have to charge them , get great reception ( live in chicago ) , and the customization and applications are awesome . ",
+        "term": "battery life"
+    },
+    "189": {
+        "id": 189,
+        "polarity": "+",
+        "sentence": "we hardly ever have to charge them , get great reception ( live in chicago ) , and the customization and applications are awesome . ",
+        "term": " application"
+    },
+    "190": {
+        "id": 190,
+        "polarity": "+",
+        "sentence": "you can do * so * much more with the pc suite , i.e. free ringtones from midi files , free graphics from any picture on your computer , and if you know how to program jme you can even make your own apps / games . ",
+        "term": "pc suite"
+    },
+    "191": {
+        "id": 191,
+        "polarity": "+",
+        "sentence": "the phone 's sound quality is great ( turn up the volume if its too quiet , people , this thing will get loud ) i dont have any complaints about this phone and the only thing that i miss from my 8290 is voice dialing . ",
+        "term": "sound quality"
+    },
+    "192": {
+        "id": 192,
+        "polarity": "+",
+        "sentence": "i bought this slick phone and i am very happy with it . ",
+        "term": "phone"
+    },
+    "193": {
+        "id": 193,
+        "polarity": "+",
+        "sentence": "nice and small and excellent when it comes to downloading games , graphics and ringtones from www.crazycellphone.com ",
+        "term": "size"
+    },
+    "194": {
+        "id": 194,
+        "polarity": "+",
+        "sentence": "nice and small and excellent when it comes to downloading games , graphics and ringtones from www.crazycellphone.com ",
+        "term": "game"
+    },
+    "195": {
+        "id": 195,
+        "polarity": "+",
+        "sentence": "nice and small and excellent when it comes to downloading games , graphics and ringtones from www.crazycellphone.com ",
+        "term": "ringtone"
+    },
+    "196": {
+        "id": 196,
+        "polarity": "+",
+        "sentence": "i just purchased this phone and i think this is the coolest phone i ever had . ",
+        "term": "phone"
+    },
+    "197": {
+        "id": 197,
+        "polarity": "+",
+        "sentence": "the features are really cool like the radio . ",
+        "term": "radio"
+    },
+    "198": {
+        "id": 198,
+        "polarity": "+",
+        "sentence": "the first night i got this phone i put it next to me when i went to bed just to listen to my favorite music station and the handset itself doesnt weight anything its too light and feel so comfy with it . ",
+        "term": "radio"
+    },
+    "199": {
+        "id": 199,
+        "polarity": "+",
+        "sentence": "technology wise , i think this is awesome plus the speaker makes it even great ! ! ! ! i love this phone ! ! ! ",
+        "term": "speaker"
+    },
+    "200": {
+        "id": 200,
+        "polarity": "-",
+        "sentence": "i thought this was the ultimate phone when it comes to basic features , but i was dissapointed when i saw that it was only a gsm comaptible phone . ",
+        "term": "gsm"
+    },
+    "201": {
+        "id": 201,
+        "polarity": "+",
+        "sentence": "i thought this was the ultimate phone when it comes to basic features , but i was dissapointed when i saw that it was only a gsm comaptible phone . ",
+        "term": "phone"
+    },
+    "202": {
+        "id": 202,
+        "polarity": "+",
+        "sentence": "for a specific location , i still think its a great phone . ",
+        "term": "phone"
+    },
+    "203": {
+        "id": 203,
+        "polarity": "+",
+        "sentence": "this really is a great little phone ; its got nice features , a beatiful screen , great ergonomics , and its tiny ! ",
+        "term": "screen"
+    },
+    "204": {
+        "id": 204,
+        "polarity": "+",
+        "sentence": "this really is a great little phone ; its got nice features , a beatiful screen , great ergonomics , and its tiny ! ",
+        "term": "ergonomics"
+    },
+    "205": {
+        "id": 205,
+        "polarity": "+",
+        "sentence": "this really is a great little phone ; its got nice features , a beatiful screen , great ergonomics , and its tiny ! ",
+        "term": "size"
+    },
+    "206": {
+        "id": 206,
+        "polarity": "+",
+        "sentence": "this really is a great little phone ; its got nice features , a beatiful screen , great ergonomics , and its tiny ! ",
+        "term": "phone"
+    },
+    "207": {
+        "id": 207,
+        "polarity": "+",
+        "sentence": "this phone won me over , and a big seller was the size ; it fits nicely into any pocket without falling out . ",
+        "term": "size"
+    },
+    "208": {
+        "id": 208,
+        "polarity": "-",
+        "sentence": "its quiet . ",
+        "term": "volume"
+    },
+    "209": {
+        "id": 209,
+        "polarity": "+",
+        "sentence": "nokia was my first nonflip phone , and i 'm glad i decided to go with them . ",
+        "term": "nokia"
+    },
+    "210": {
+        "id": 210,
+        "polarity": "+",
+        "sentence": "first of all , my calls were loud and clear , unlike with sprint . ",
+        "term": "volume"
+    },
+    "211": {
+        "id": 211,
+        "polarity": "+",
+        "sentence": "i could make phone calls from locations i previously could not ( like my apartment ) . ",
+        "term": "reception"
+    },
+    "212": {
+        "id": 212,
+        "polarity": "+",
+        "sentence": "the phone is small , light , and very attractive . ",
+        "term": "weight"
+    },
+    "213": {
+        "id": 213,
+        "polarity": "+",
+        "sentence": "the phone is small , light , and very attractive . ",
+        "term": "design"
+    },
+    "214": {
+        "id": 214,
+        "polarity": "+",
+        "sentence": "the phone is small , light , and very attractive . ",
+        "term": "size"
+    },
+    "215": {
+        "id": 215,
+        "polarity": "+",
+        "sentence": "the battery life is amazing . ",
+        "term": "battery life"
+    },
+    "216": {
+        "id": 216,
+        "polarity": "+",
+        "sentence": "the color screen is a plus , as are the polyphonic ringtones . ",
+        "term": "ringtone"
+    },
+    "217": {
+        "id": 217,
+        "polarity": "+",
+        "sentence": "the color screen is a plus , as are the polyphonic ringtones . ",
+        "term": "color screen"
+    },
+    "218": {
+        "id": 218,
+        "polarity": "+",
+        "sentence": "i 'm not one who uses web browsing , so this phone easily met and surpassed my needs . ",
+        "term": "phone"
+    },
+    "219": {
+        "id": 219,
+        "polarity": "+",
+        "sentence": "i highly recommend this phone to anyone . ",
+        "term": "phone"
+    },
+    "220": {
+        "id": 220,
+        "polarity": "-",
+        "sentence": "i do here a constant high-pitched distorted sound , not to mention the volume does not seem to be loud enough . ",
+        "term": "volume"
+    },
+    "221": {
+        "id": 221,
+        "polarity": "-",
+        "sentence": "i do here a constant high-pitched distorted sound , not to mention the volume does not seem to be loud enough . ",
+        "term": "sound"
+    },
+    "222": {
+        "id": 222,
+        "polarity": "+",
+        "sentence": "it is a great phone , if you are traveling all over the world , packed with wonderful features . ",
+        "term": "phone"
+    },
+    "223": {
+        "id": 223,
+        "polarity": "+",
+        "sentence": "it is a great phone , if you are traveling all over the world , packed with wonderful features . ",
+        "term": " feature"
+    },
+    "224": {
+        "id": 224,
+        "polarity": "+",
+        "sentence": "this is a very light phone - a little less than 3 oz , with long battery life ( not as long as the new polymer technology ) . ",
+        "term": "weight"
+    },
+    "225": {
+        "id": 225,
+        "polarity": "+",
+        "sentence": "this is a very light phone - a little less than 3 oz , with long battery life ( not as long as the new polymer technology ) . ",
+        "term": "battery life"
+    },
+    "226": {
+        "id": 226,
+        "polarity": "+",
+        "sentence": "the hands-free speakerphone is quite powerful ( like the motorola phone , i used to own ) . ",
+        "term": "speakerphone"
+    },
+    "227": {
+        "id": 227,
+        "polarity": "+",
+        "sentence": "i simply love this feature . ",
+        "term": "speakerphone"
+    },
+    "228": {
+        "id": 228,
+        "polarity": "+",
+        "sentence": "in addition it comes with a sleek and powerful headset . ",
+        "term": "headset"
+    },
+    "229": {
+        "id": 229,
+        "polarity": "+",
+        "sentence": "the built in fm radio is excellent for people traveling by public transport . ",
+        "term": "radio"
+    },
+    "230": {
+        "id": 230,
+        "polarity": "+",
+        "sentence": "the pc sync feature is superb that comes with nokia pc suite software ( with data cable or infrared port or bluetooth ) . ",
+        "term": "pc sync"
+    },
+    "231": {
+        "id": 231,
+        "polarity": "+",
+        "sentence": "additionally , it has more fun stuff like more tones , wallpapers , screensaver , stop clock , alarm , java applications ( chess , currency converter etc. ) ",
+        "term": "application"
+    },
+    "232": {
+        "id": 232,
+        "polarity": "+",
+        "sentence": "additionally , it has more fun stuff like more tones , wallpapers , screensaver , stop clock , alarm , java applications ( chess , currency converter etc. ) ",
+        "term": "tone"
+    },
+    "233": {
+        "id": 233,
+        "polarity": "+",
+        "sentence": "additionally , it has more fun stuff like more tones , wallpapers , screensaver , stop clock , alarm , java applications ( chess , currency converter etc. ) ",
+        "term": "wallpaper"
+    },
+    "234": {
+        "id": 234,
+        "polarity": "+",
+        "sentence": "the mobile text messaging , chat , picture sharing etc. other nicities , that you would enjoy . ",
+        "term": "message"
+    },
+    "235": {
+        "id": 235,
+        "polarity": "+",
+        "sentence": "the mobile text messaging , chat , picture sharing etc. other nicities , that you would enjoy . ",
+        "term": "picture sharing"
+    },
+    "236": {
+        "id": 236,
+        "polarity": "+",
+        "sentence": "the mms technology is very well integrated with this phone , which you will enjoy . ",
+        "term": "mms"
+    },
+    "237": {
+        "id": 237,
+        "polarity": "+",
+        "sentence": "i can recommend this phone to anyone , anytime . ",
+        "term": "phone"
+    },
+    "238": {
+        "id": 238,
+        "polarity": "+",
+        "sentence": "not only is it the perfect size ( not too small , not too large ) , it also has all the features a high-tech phone user would want . ",
+        "term": "size"
+    },
+    "239": {
+        "id": 239,
+        "polarity": "+",
+        "sentence": "not only is it the perfect size ( not too small , not too large ) , it also has all the features a high-tech phone user would want . ",
+        "term": "feature"
+    },
+    "240": {
+        "id": 240,
+        "polarity": "+",
+        "sentence": "in true nokia style , the phone is simple to use and despite its delicate appearance , this little guy is as durable as other nokias i have owned . ",
+        "term": "use"
+    },
+    "241": {
+        "id": 241,
+        "polarity": "+",
+        "sentence": "the phone book is very user-friendly and the speakerphone is excellent . ",
+        "term": "speakerphone"
+    },
+    "242": {
+        "id": 242,
+        "polarity": "+",
+        "sentence": "the phone book is very user-friendly and the speakerphone is excellent . ",
+        "term": "phone book"
+    },
+    "243": {
+        "id": 243,
+        "polarity": "+",
+        "sentence": "even better , with the optional headset you can listen to music over the integrated radio . ",
+        "term": "radio"
+    },
+    "244": {
+        "id": 244,
+        "polarity": "-",
+        "sentence": "although i find it more convenient to use 1-touch dialing , this phone does not have voice dialing . ",
+        "term": "voice dialing"
+    },
+    "245": {
+        "id": 245,
+        "polarity": "-",
+        "sentence": "the keypad is a decent size , but the power on/off key is small and difficult to press . ",
+        "term": "key"
+    },
+    "246": {
+        "id": 246,
+        "polarity": "+",
+        "sentence": "however , the battery life is good enough you should n't be overly concerned with turning this phone off . ",
+        "term": "battery life"
+    },
+    "247": {
+        "id": 247,
+        "polarity": "-",
+        "sentence": "in my opinion the worst issue on this phone is the side-mounted volume control . ",
+        "term": "volume control"
+    },
+    "248": {
+        "id": 248,
+        "polarity": "-",
+        "sentence": "one other issue is that the headphone jack is unique to nokia , so standard headphones will not work . ",
+        "term": "headphone jack"
+    },
+    "249": {
+        "id": 249,
+        "polarity": "+",
+        "sentence": "overall this is the best phone i have ever owned . ",
+        "term": "phone"
+    },
+    "250": {
+        "id": 250,
+        "polarity": "+",
+        "sentence": "nokia does not disappoint in this model . ",
+        "term": "phone"
+    },
+    "251": {
+        "id": 251,
+        "polarity": "-",
+        "sentence": "one complaint ... the screen is too easily scratched ! ",
+        "term": "screen"
+    },
+    "252": {
+        "id": 252,
+        "polarity": "+",
+        "sentence": "it has great battery life , fm radio , excellent signal , hands free speakerphone ( which i have to say is probably my favorite function ) and downloadable java apps . ",
+        "term": "speakerphone"
+    },
+    "253": {
+        "id": 253,
+        "polarity": "+",
+        "sentence": "it has great battery life , fm radio , excellent signal , hands free speakerphone ( which i have to say is probably my favorite function ) and downloadable java apps . ",
+        "term": "application"
+    },
+    "254": {
+        "id": 254,
+        "polarity": "+",
+        "sentence": "it has great battery life , fm radio , excellent signal , hands free speakerphone ( which i have to say is probably my favorite function ) and downloadable java apps . ",
+        "term": "radio"
+    },
+    "255": {
+        "id": 255,
+        "polarity": "+",
+        "sentence": "it has great battery life , fm radio , excellent signal , hands free speakerphone ( which i have to say is probably my favorite function ) and downloadable java apps . ",
+        "term": "battery life"
+    },
+    "256": {
+        "id": 256,
+        "polarity": "+",
+        "sentence": "it has great battery life , fm radio , excellent signal , hands free speakerphone ( which i have to say is probably my favorite function ) and downloadable java apps . ",
+        "term": "signal"
+    },
+    "257": {
+        "id": 257,
+        "polarity": "+",
+        "sentence": "great phone .. . ",
+        "term": "phone"
+    },
+    "258": {
+        "id": 258,
+        "polarity": "+",
+        "sentence": "great features .. . ",
+        "term": "feature"
+    },
+    "259": {
+        "id": 259,
+        "polarity": "+",
+        "sentence": "i did a ton of research and settled on this phone because of the small size , speakerphone option , great priced calling plan and access to my corporate email . ",
+        "term": "speakerphone"
+    },
+    "260": {
+        "id": 260,
+        "polarity": "+",
+        "sentence": "i did a ton of research and settled on this phone because of the small size , speakerphone option , great priced calling plan and access to my corporate email . ",
+        "term": "plan"
+    },
+    "261": {
+        "id": 261,
+        "polarity": "+",
+        "sentence": "i did a ton of research and settled on this phone because of the small size , speakerphone option , great priced calling plan and access to my corporate email . ",
+        "term": "size"
+    },
+    "262": {
+        "id": 262,
+        "polarity": "+",
+        "sentence": "i have had no problems with the phone . ",
+        "term": "phone"
+    },
+    "263": {
+        "id": 263,
+        "polarity": "+",
+        "sentence": "great phone , i 'd buy another . ",
+        "term": "phone"
+    },
+    "264": {
+        "id": 264,
+        "polarity": "+",
+        "sentence": "excellent phone , the phone looks much better than what u see in the pictures . ",
+        "term": "phone"
+    },
+    "265": {
+        "id": 265,
+        "polarity": "+",
+        "sentence": "excellent phone , the phone looks much better than what u see in the pictures . ",
+        "term": " look"
+    },
+    "266": {
+        "id": 266,
+        "polarity": "-",
+        "sentence": "one more thing , the default ringtones that come with the phone are horrible . ",
+        "term": "default ringtone"
+    },
+    "267": {
+        "id": 267,
+        "polarity": "+",
+        "sentence": "overall an excellent phone . ",
+        "term": "phone"
+    },
+    "268": {
+        "id": 268,
+        "polarity": "+",
+        "sentence": "the service from t-mobile is very good too . ",
+        "term": "t-mobile"
+    },
+    "269": {
+        "id": 269,
+        "polarity": "+",
+        "sentence": "great phone , easy to use , excellent network , no regrets ! ! ! ",
+        "term": "network"
+    },
+    "270": {
+        "id": 270,
+        "polarity": "+",
+        "sentence": "great phone , easy to use , excellent network , no regrets ! ! ! ",
+        "term": "use"
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "176": {
+        "id": 176,
+        "polarity": "-",
+        "sentence": " Cons. 1. Configuration is not easy as it made out to be 2.Lousy Initial Software 3. Does not work with BitSpirit with UPnP, Besides that its an excellent choice , If you know your way around network configuration go for it.",
+        "term": "Configuration"
+    },
+    "177": {
+        "id": 177,
+        "polarity": "-",
+        "sentence": " Cons. 1. Configuration is not easy as it made out to be 2.Lousy Initial Software 3. Does not work with BitSpirit with UPnP, Besides that its an excellent choice , If you know your way around network configuration go for it.",
+        "term": "UPnP"
+    },
+    "178": {
+        "id": 178,
+        "polarity": "-",
+        "sentence": " Cons. 1. Configuration is not easy as it made out to be 2.Lousy Initial Software 3. Does not work with BitSpirit with UPnP, Besides that its an excellent choice , If you know your way around network configuration go for it.",
+        "term": "Software"
+    },
+    "179": {
+        "id": 179,
+        "polarity": "-",
+        "sentence": "Both of them keep disconnecting on me and interruptions are 3 or 4 times per day at best. ",
+        "term": "disconnecting"
+    },
+    "180": {
+        "id": 180,
+        "polarity": "-",
+        "sentence": "Stay away from this junk. ",
+        "term": "junk"
+    },
+    "181": {
+        "id": 181,
+        "polarity": "+",
+        "sentence": "Purchased this router a few months back, NO PROBLEMS whatsoever.  ",
+        "term": "router"
+    },
+    "182": {
+        "id": 182,
+        "polarity": "+",
+        "sentence": "In fact, it supports the new WPA encryption standard, which is WAY better than WEP.  ",
+        "term": "WPA encryption"
+    },
+    "183": {
+        "id": 183,
+        "polarity": "+",
+        "sentence": "Works perfectly with my netgear wireless PCMCIA. ",
+        "term": "Works"
+    },
+    "184": {
+        "id": 184,
+        "polarity": "+",
+        "sentence": "Feature wise, its a lot better than the dlink and netgear routers out there.     ",
+        "term": "Feature"
+    },
+    "185": {
+        "id": 185,
+        "polarity": "-",
+        "sentence": "Was a bit wary because the software is Windows only and I have an iMac. ",
+        "term": "software"
+    },
+    "186": {
+        "id": 186,
+        "polarity": "+",
+        "sentence": "Reset the network, tried the connection, and it's working like a charm. ",
+        "term": "working"
+    },
+    "187": {
+        "id": 187,
+        "polarity": "-",
+        "sentence": "The downside being that the Tivo can only connect at 802.11b speeds and not 802.11g. ",
+        "term": "Tivo"
+    },
+    "188": {
+        "id": 188,
+        "polarity": "+",
+        "sentence": "However since this Router is backward compatible, that doesn't pose a problem at all.  ",
+        "term": "backward compatible"
+    },
+    "189": {
+        "id": 189,
+        "polarity": "+",
+        "sentence": "Overall, it'll make my move that much easier knowing I don't have to worry about connectivity.     ",
+        "term": "connectivity"
+    },
+    "190": {
+        "id": 190,
+        "polarity": "-",
+        "sentence": "(...)  Like most SOHO routers, it has nearly non-existant logging. ",
+        "term": "logging"
+    },
+    "191": {
+        "id": 191,
+        "polarity": "+",
+        "sentence": "For more than a year, and it is totally reliable.  ",
+        "term": "reliable"
+    },
+    "192": {
+        "id": 192,
+        "polarity": "+",
+        "sentence": "No down time, great signal strength.  ",
+        "term": "signal"
+    },
+    "193": {
+        "id": 193,
+        "polarity": "+",
+        "sentence": "There is an open-source firmware on the net which has tons of extra features.  ",
+        "term": "features"
+    },
+    "194": {
+        "id": 194,
+        "polarity": "+",
+        "sentence": "Setup is totally breeze and Linksys's web site is pretty easy to navigate.  ",
+        "term": "Setup"
+    },
+    "195": {
+        "id": 195,
+        "polarity": "+",
+        "sentence": "Setup is totally breeze and Linksys's web site is pretty easy to navigate.  ",
+        "term": " web site"
+    },
+    "196": {
+        "id": 196,
+        "polarity": "-",
+        "sentence": "Now this router is not the cheapest on the market.  ",
+        "term": "cheapest"
+    },
+    "197": {
+        "id": 197,
+        "polarity": "+",
+        "sentence": "The fact that has an open-source firmware makes it a great option in my opinion. ",
+        "term": "firmware"
+    }
+}

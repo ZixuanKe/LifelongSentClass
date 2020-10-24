@@ -1,0 +1,1688 @@
+{
+    "0": {
+        "id": 0,
+        "polarity": "+",
+        "sentence": "im a more happier person after discovering the i/p button ! ",
+        "term": "i/p button"
+    },
+    "1": {
+        "id": 1,
+        "polarity": "+",
+        "sentence": "but , if you 're looking for my opinion of the apex dvd player , i love it ! ",
+        "term": "dvd player"
+    },
+    "2": {
+        "id": 2,
+        "polarity": "+",
+        "sentence": "it practically plays almost everything you give it . ",
+        "term": "dvd player"
+    },
+    "3": {
+        "id": 3,
+        "polarity": "-",
+        "sentence": "i 've had the player for about 2 years now and it still performs nicely with the exception of an occasional wwhhhrrr sound from the motor . ",
+        "term": "sound"
+    },
+    "4": {
+        "id": 4,
+        "polarity": "+",
+        "sentence": "for the price it is a well spent investment ! ",
+        "term": "price"
+    },
+    "5": {
+        "id": 5,
+        "polarity": "+",
+        "sentence": "this is by far the nicest one , in so many ways . ",
+        "term": "dvd player"
+    },
+    "6": {
+        "id": 6,
+        "polarity": "+",
+        "sentence": "it 's very sleek looking with a very good front panel button layout , and it has a great feature set . ",
+        "term": "feature"
+    },
+    "7": {
+        "id": 7,
+        "polarity": "+",
+        "sentence": "its fast-forward and rewind work much more smoothly and consistently than those of other models i 've had . ",
+        "term": " rewind"
+    },
+    "8": {
+        "id": 8,
+        "polarity": "+",
+        "sentence": "it plays alternate video formats ( vcds , svcds , cvds ) very well . ",
+        "term": "video format"
+    },
+    "9": {
+        "id": 9,
+        "polarity": "+",
+        "sentence": "and amazon.com has it for such a great price -- how can you go wrong ? ",
+        "term": "price"
+    },
+    "10": {
+        "id": 10,
+        "polarity": "+",
+        "sentence": "what got me to buy was the reviewer that said it would play dvd-rs fill of files ( e. , mp3s ) . ",
+        "term": " dvd-r"
+    },
+    "11": {
+        "id": 11,
+        "polarity": "+",
+        "sentence": "it sure does ! ",
+        "term": "dvd-r"
+    },
+    "12": {
+        "id": 12,
+        "polarity": "+",
+        "sentence": "that 's a rare and valuable feature . ",
+        "term": "dvd-r"
+    },
+    "13": {
+        "id": 13,
+        "polarity": "+",
+        "sentence": "another nice thing is that the unit has both optical and coax digital audio outputs , though the latter was not mentioned in the literature i 'd scanned before buying . ",
+        "term": "audio output"
+    },
+    "14": {
+        "id": 14,
+        "polarity": "+",
+        "sentence": "at double-speed ( 2x forward speed ) , it still plays mp3s with sound -- they are pitch-corrected and smooth , but twice as fast ! ",
+        "term": "forward"
+    },
+    "15": {
+        "id": 15,
+        "polarity": "-",
+        "sentence": "weaknesses are minor : the feel and layout of the remote control are only so-so ; it does n't show the complete filenames of mp3s with really long names ; you must cycle through every zoom setting ( 2x , 3x , 4x , 1/2x , etc. ) before getting back to normal size [ sorry if i 'm just ignorant of a way to get back to 1x quickly ] . ",
+        "term": "remote control"
+    },
+    "16": {
+        "id": 16,
+        "polarity": "+",
+        "sentence": "update : the finish is more \" mirror \" than silver -- and i like it ! ",
+        "term": "finish"
+    },
+    "17": {
+        "id": 17,
+        "polarity": "-",
+        "sentence": "many of our disney movies do n't play on this dvd player . ",
+        "term": "play"
+    },
+    "18": {
+        "id": 18,
+        "polarity": "-",
+        "sentence": "player has a problem with dual-layer dvd 's such as alias season 1 and season 2 . ",
+        "term": "dual-layer dvd"
+    },
+    "19": {
+        "id": 19,
+        "polarity": "+",
+        "sentence": "player works and looks great - if you can get the dvd 's to play . ",
+        "term": " look"
+    },
+    "20": {
+        "id": 20,
+        "polarity": "-",
+        "sentence": "i know the saying is \" you get what you pay for \" but at this stage of game dvd players must have better quality than this - there is no excuse . ",
+        "term": "player"
+    },
+    "21": {
+        "id": 21,
+        "polarity": "-",
+        "sentence": "will never purchase apex again . ",
+        "term": "apex"
+    },
+    "22": {
+        "id": 22,
+        "polarity": "-",
+        "sentence": "customer service and technical support are overloaded and nonresponsive - tells you about the quality of their products and their willingness to stand behind them . ",
+        "term": " technical support"
+    },
+    "23": {
+        "id": 23,
+        "polarity": "+",
+        "sentence": "for the first few weeks , this player was everything i expected it to be , an affordable multi-format dvd player with a stylish slim case as advertised . ",
+        "term": "case"
+    },
+    "24": {
+        "id": 24,
+        "polarity": "-",
+        "sentence": "then my dvds would stop playing in the middle , or not even be read at all . ",
+        "term": "dvd"
+    },
+    "25": {
+        "id": 25,
+        "polarity": "-",
+        "sentence": "new cds almost always began skipping after a few plays . ",
+        "term": "cd"
+    },
+    "26": {
+        "id": 26,
+        "polarity": "-",
+        "sentence": "i thought it was just the player , but then i started checking the discs to find that the apex 2600 is actually ruining my media . ",
+        "term": "player"
+    },
+    "27": {
+        "id": 27,
+        "polarity": "-",
+        "sentence": "this player is not worth any price and i recommend that you do n't purchase it . ",
+        "term": "player"
+    },
+    "28": {
+        "id": 28,
+        "polarity": "-",
+        "sentence": "apex does n't answer the phone . ",
+        "term": "support"
+    },
+    "29": {
+        "id": 29,
+        "polarity": "-",
+        "sentence": "no way to contact their customer service . ",
+        "term": "customer service"
+    },
+    "30": {
+        "id": 30,
+        "polarity": "-",
+        "sentence": "very bad quality . ",
+        "term": "quality"
+    },
+    "31": {
+        "id": 31,
+        "polarity": "+",
+        "sentence": "i bought this apex 2600 dvd player for myself at christmas because it got good reviews as a good value for the money on a variety of different sites . ",
+        "term": "player"
+    },
+    "32": {
+        "id": 32,
+        "polarity": "+",
+        "sentence": "i took it to my father 's house to play a tom jones concert dvd and he loved the player so much i gave it to him . ",
+        "term": "player"
+    },
+    "33": {
+        "id": 33,
+        "polarity": "+",
+        "sentence": "have used it frequently and have had no problems . ",
+        "term": "player"
+    },
+    "34": {
+        "id": 34,
+        "polarity": "+",
+        "sentence": "i liked this one enough to buy another . ",
+        "term": "player"
+    },
+    "35": {
+        "id": 35,
+        "polarity": "+",
+        "sentence": "my dad also has an apex tv and it was another great value for the money . ",
+        "term": "apex"
+    },
+    "36": {
+        "id": 36,
+        "polarity": "+",
+        "sentence": "great quality picture and features . ",
+        "term": "picture quality"
+    },
+    "37": {
+        "id": 37,
+        "polarity": "-",
+        "sentence": "they play just about everything , but # 2 and # 3 died very shortly after getting them . ",
+        "term": "player"
+    },
+    "38": {
+        "id": 38,
+        "polarity": "-",
+        "sentence": "nice machines , but i consider their quality pretty low now . ",
+        "term": "player"
+    },
+    "39": {
+        "id": 39,
+        "polarity": "-",
+        "sentence": "this item broke just two weeks after i gave it to my kids for christmas . ",
+        "term": "player"
+    },
+    "40": {
+        "id": 40,
+        "polarity": "-",
+        "sentence": "the door would not close . ",
+        "term": "door"
+    },
+    "41": {
+        "id": 41,
+        "polarity": "-",
+        "sentence": "i tried to contact apex to return it ( i missed the amazon return period ) and it took 3 months to get through to their customer service dept . ",
+        "term": "customer service"
+    },
+    "42": {
+        "id": 42,
+        "polarity": "+",
+        "sentence": "it looks great - and is loaded with features . ",
+        "term": "look"
+    },
+    "43": {
+        "id": 43,
+        "polarity": "-",
+        "sentence": "unfortunately it turns out to be the \" disposable \" type . ",
+        "term": "player"
+    },
+    "44": {
+        "id": 44,
+        "polarity": "-",
+        "sentence": "have had problems since the first day ",
+        "term": "player"
+    },
+    "45": {
+        "id": 45,
+        "polarity": "-",
+        "sentence": "- not playing some dvds and then finally after less than 60 days , it just would not recognize anything i pop in it . ",
+        "term": "play"
+    },
+    "46": {
+        "id": 46,
+        "polarity": "+",
+        "sentence": "the apex 2600 has been a steady performer for me . ",
+        "term": "apex"
+    },
+    "47": {
+        "id": 47,
+        "polarity": "+",
+        "sentence": "i bought mine in december of 2003 , and have had no real problems with it . ",
+        "term": "player"
+    },
+    "48": {
+        "id": 48,
+        "polarity": "-",
+        "sentence": "it does tend to run quite hot and should be given lots of room for air circulation . ",
+        "term": "heat"
+    },
+    "49": {
+        "id": 49,
+        "polarity": "-",
+        "sentence": "it did also seem to have a strong \" new electronics \" smell for some time . ",
+        "term": "smell"
+    },
+    "50": {
+        "id": 50,
+        "polarity": "-",
+        "sentence": "the only thing i did experience was a problem of the player freezing while playing , which i was able to clear by opening it up and blowing it out with \" canned air . \" ",
+        "term": "freezing"
+    },
+    "51": {
+        "id": 51,
+        "polarity": "+",
+        "sentence": "( he had owned two apex dvd players , and was pleased with both of them . ) ",
+        "term": "player"
+    },
+    "52": {
+        "id": 52,
+        "polarity": "+",
+        "sentence": "the fact that this model would play jpeg slideshows was a big plus for me as a visual artist , and i discovered by accident ( it is not mentioned anywhere in the literature ) that it will play mpeg1 files on a regular cd-r data disk without vcd formatting . ",
+        "term": "mpeg1"
+    },
+    "53": {
+        "id": 53,
+        "polarity": "-",
+        "sentence": "the remote is okay , but i am not a fan of remotes with tiny buttons . ",
+        "term": "remote"
+    },
+    "54": {
+        "id": 54,
+        "polarity": "-",
+        "sentence": "i especially like the more commonly used buttons , such as play , pause , and stop , to be larger and conveniently placed . ",
+        "term": "button"
+    },
+    "55": {
+        "id": 55,
+        "polarity": "-",
+        "sentence": "i also did n't like the way it displayed information way down into the screen when you are in zoom mode . ",
+        "term": "zoom mode"
+    },
+    "56": {
+        "id": 56,
+        "polarity": "-",
+        "sentence": "the zoom goes up and down in magnification , which is nice , but there is always a display of the zoom size about one-quarter of the way down from the top of the screen that interferes with viewing at most settings . ",
+        "term": "zoom"
+    },
+    "57": {
+        "id": 57,
+        "polarity": "-",
+        "sentence": "having spent considerable time with professional video gear , i find onscreen displays annoying . ",
+        "term": "onscreen display"
+    },
+    "58": {
+        "id": 58,
+        "polarity": "+",
+        "sentence": "while i would like to give it 3.5 stars instead of 4 , i gave it a 4 because it has run well for me during the time i have owned it . ",
+        "term": "player"
+    },
+    "59": {
+        "id": 59,
+        "polarity": "-",
+        "sentence": "it is more than 90 days and it does not show the picture no matter what i do . ",
+        "term": "picture"
+    },
+    "60": {
+        "id": 60,
+        "polarity": "-",
+        "sentence": "i have had this player for 3 months and have been able to see a total of 6 dvd 's , after the frustration and aggrivation of getting the player to do it 's job . ",
+        "term": "player"
+    },
+    "61": {
+        "id": 61,
+        "polarity": "-",
+        "sentence": "i have tried many times to get a hold of apex who does n't seem to answer their emails and telephone number is constantly busy as ( i believe ) the one lonely customer service rep is probably extremely overworked . ",
+        "term": "customer service"
+    },
+    "62": {
+        "id": 62,
+        "polarity": "-",
+        "sentence": "wo n't play a lot of discs . ",
+        "term": "play"
+    },
+    "63": {
+        "id": 63,
+        "polarity": "-",
+        "sentence": "some movies it played yesterday , it wo n't play today . ",
+        "term": "play"
+    },
+    "64": {
+        "id": 64,
+        "polarity": "-",
+        "sentence": "it wo n't play 80 % of my movies , which are all store boughten . ",
+        "term": "play"
+    },
+    "65": {
+        "id": 65,
+        "polarity": "-",
+        "sentence": "tech support from apex is literally - nonexistent . ",
+        "term": "tech support"
+    },
+    "66": {
+        "id": 66,
+        "polarity": "-",
+        "sentence": "i bought 2 of this model for christmas presents and neither one of them work ! ",
+        "term": "player"
+    },
+    "67": {
+        "id": 67,
+        "polarity": "-",
+        "sentence": "it is embarassing getting phone calls from family members telling you that the dvd player you gave them less that 3 months ago is no longer working . ",
+        "term": "dvd player"
+    },
+    "68": {
+        "id": 68,
+        "polarity": "-",
+        "sentence": "the dvd player does not work properly . ",
+        "term": "dvd player"
+    },
+    "69": {
+        "id": 69,
+        "polarity": "-",
+        "sentence": "the player usually plays dvd 's , but has occasional problems such as : 1 ) not recognizing a dvd 2 ) stopping a particular point in a movie every time we played it 3 ) not being able to access certain special features on a rental dvd . ",
+        "term": "player"
+    },
+    "70": {
+        "id": 70,
+        "polarity": "-",
+        "sentence": "this has happened with several different dvd 's and occasionally if we keep trying something , it will work when it did not work one time before . ",
+        "term": "player"
+    },
+    "71": {
+        "id": 71,
+        "polarity": "-",
+        "sentence": "after we discovered the problems , we tried to contact apex ( fkor 3 months ) , but we never got in touch with them.the customer support telephone number is always busy , and they do not answer their web customer support . ",
+        "term": "customer support"
+    },
+    "72": {
+        "id": 72,
+        "polarity": "+",
+        "sentence": "nothing has broken on it , and it plays all the dvds i have . ",
+        "term": "player"
+    },
+    "73": {
+        "id": 73,
+        "polarity": "-",
+        "sentence": "unfortunately it can 't play all of the dvd . ",
+        "term": "play"
+    },
+    "74": {
+        "id": 74,
+        "polarity": "-",
+        "sentence": "on 2 dvds so far it refuses to play certain episodes with no problems on the others on the dvd . ",
+        "term": "dvd"
+    },
+    "75": {
+        "id": 75,
+        "polarity": "-",
+        "sentence": "unfortunately i bought a player because the ps2 could n't play all my dvds , and now the player can 't play everything . ",
+        "term": "player"
+    },
+    "76": {
+        "id": 76,
+        "polarity": "+",
+        "sentence": "we tried it out christmas night and it worked great . ",
+        "term": "work"
+    },
+    "77": {
+        "id": 77,
+        "polarity": "+",
+        "sentence": "even viewed cds full of jpgs . ",
+        "term": "jpeg"
+    },
+    "78": {
+        "id": 78,
+        "polarity": "-",
+        "sentence": "but when we went to use it again , there was sound but no picture . ",
+        "term": "picture"
+    },
+    "79": {
+        "id": 79,
+        "polarity": "-",
+        "sentence": "i hate apex but love amazon , and i tell everyone . ",
+        "term": "apex"
+    },
+    "80": {
+        "id": 80,
+        "polarity": "-",
+        "sentence": "who knows how many uses you 'll get out of it before it craps out , but it probably will . ",
+        "term": "player"
+    },
+    "81": {
+        "id": 81,
+        "polarity": "-",
+        "sentence": "we 've purchased 3 universal remotes so far-all claiming to work \" apex \" dvd players and none worked . ",
+        "term": "remote"
+    },
+    "82": {
+        "id": 82,
+        "polarity": "-",
+        "sentence": "( on here of course ) also , a couple dvd 's would n't play and they were new ones ! ",
+        "term": "dvd"
+    },
+    "83": {
+        "id": 83,
+        "polarity": "-",
+        "sentence": "i had to return the remote on this product because it appeared to be defective . ",
+        "term": "remote"
+    },
+    "84": {
+        "id": 84,
+        "polarity": "-",
+        "sentence": "the customer service dept did not list a toll free number and it was a real hassle to get through on their regular line . ",
+        "term": "customer service"
+    },
+    "85": {
+        "id": 85,
+        "polarity": "-",
+        "sentence": "i would not be inclined to purchase an apex product again . ",
+        "term": "apex"
+    },
+    "86": {
+        "id": 86,
+        "polarity": "-",
+        "sentence": "door broke after a month . ",
+        "term": "door"
+    },
+    "87": {
+        "id": 87,
+        "polarity": "-",
+        "sentence": "unit took forever since the begiining to recognize and play discs . ",
+        "term": "unit"
+    },
+    "88": {
+        "id": 88,
+        "polarity": "-",
+        "sentence": "3 months of use and it no longer recognizes anything . ",
+        "term": "player"
+    },
+    "89": {
+        "id": 89,
+        "polarity": "+",
+        "sentence": "well , it was nice while it lasted . ",
+        "term": "player"
+    },
+    "90": {
+        "id": 90,
+        "polarity": "-",
+        "sentence": "after @ 3 months , it stoppped playing higher number scenes on dvds . ",
+        "term": "player"
+    },
+    "91": {
+        "id": 91,
+        "polarity": "-",
+        "sentence": "as an engineer , i am embarrassed for the engineering profession when such crap is released for sale . ",
+        "term": "player"
+    },
+    "92": {
+        "id": 92,
+        "polarity": "-",
+        "sentence": "only used for 3 month before it 's down ! ",
+        "term": "player"
+    },
+    "93": {
+        "id": 93,
+        "polarity": "-",
+        "sentence": "it sends discoutinous signals to tv , so the tv has the pictures for one moment and has only the white noise for the other moment . ",
+        "term": "picture"
+    },
+    "94": {
+        "id": 94,
+        "polarity": "-",
+        "sentence": "the other thing i do n't like about this 2600 is that it makes the color look over saturated . ",
+        "term": "color"
+    },
+    "95": {
+        "id": 95,
+        "polarity": "-",
+        "sentence": "the entire unit was poorly crafted . ",
+        "term": "unit"
+    },
+    "96": {
+        "id": 96,
+        "polarity": "-",
+        "sentence": "there were sharp screw tips on the underside of the unit coming from inside that were obviously used to anchor the internal control board . ",
+        "term": "screw tip"
+    },
+    "97": {
+        "id": 97,
+        "polarity": "-",
+        "sentence": "after hooking the thing up , i found that it would only played less than 50 % of the dvds i put in it . ",
+        "term": "dvd"
+    },
+    "98": {
+        "id": 98,
+        "polarity": "-",
+        "sentence": "the dvd player just would't recognize them . ",
+        "term": "player"
+    },
+    "99": {
+        "id": 99,
+        "polarity": "-",
+        "sentence": "it would spin , read , spin some more and then show on the display that there was no disc . ",
+        "term": "no disc"
+    },
+    "100": {
+        "id": 100,
+        "polarity": "+",
+        "sentence": "this dvd player plays raw mpeg2 and mpeg1 videos , jpeg , wma , cdr / cdrw / dvdr / dvdrw , and of course plays dvd movies from uk. i love the aiff , progressive scan feature . ",
+        "term": "progressive scan"
+    },
+    "101": {
+        "id": 101,
+        "polarity": "-",
+        "sentence": "i have not even used my new dvd player and already i am disapointed ! ",
+        "term": "player"
+    },
+    "102": {
+        "id": 102,
+        "polarity": "-",
+        "sentence": "they will not respond to my emails ( promised turnaround time is 24 hours ) and the phone line is constantly busy . ",
+        "term": "customer service"
+    },
+    "103": {
+        "id": 103,
+        "polarity": "+",
+        "sentence": "because of it 's hidden features ( no macrovision , non-regional ) i keep this baby around to watch non-american region dvd 's . ",
+        "term": "feature"
+    },
+    "104": {
+        "id": 104,
+        "polarity": "+",
+        "sentence": "the cool thing about the ad-2600 it plays alot of different file like mp3 , wma cds , jpeg and kodak picture cds , dvd 's , dvd - / + r 's . ",
+        "term": " different file"
+    },
+    "105": {
+        "id": 105,
+        "polarity": "+",
+        "sentence": "it 's not a listed feature but , the one thing that sold the unit is that it plays mpeg video . ",
+        "term": " mpeg"
+    },
+    "106": {
+        "id": 106,
+        "polarity": "+",
+        "sentence": "i find this to be a great feature . ",
+        "term": "mpeg"
+    },
+    "107": {
+        "id": 107,
+        "polarity": "+",
+        "sentence": "i 've tried playing all of these discs and they all play great . ",
+        "term": "play"
+    },
+    "108": {
+        "id": 108,
+        "polarity": "+",
+        "sentence": "for the money apex machines have good features . ",
+        "term": "feature"
+    },
+    "109": {
+        "id": 109,
+        "polarity": "+",
+        "sentence": "it 's low profile , space saving design looks nice . ",
+        "term": "design"
+    },
+    "110": {
+        "id": 110,
+        "polarity": "+",
+        "sentence": "i find the apex ad-2600 to be a great buy . ",
+        "term": "player"
+    },
+    "111": {
+        "id": 111,
+        "polarity": "-",
+        "sentence": "now i know why - they are pieces of junk . ",
+        "term": "player"
+    },
+    "112": {
+        "id": 112,
+        "polarity": "-",
+        "sentence": "less than a month later the screen freezes and eventually shows \" no disc . \" ",
+        "term": "no disc"
+    },
+    "113": {
+        "id": 113,
+        "polarity": "-",
+        "sentence": "same story as everybody else when trying to get service from apex - nothing . ",
+        "term": "service"
+    },
+    "114": {
+        "id": 114,
+        "polarity": "+",
+        "sentence": "i was surprised to find that not only could this dvd player play mpeg2 format which allowed me to stack 2 movies on a dvd , but it also was able to play vob files which i created with smart ripper . ",
+        "term": "format"
+    },
+    "115": {
+        "id": 115,
+        "polarity": "+",
+        "sentence": "the aff feature did a great job converting the letterbox to fill 3/4 of the screen and the image still looked normal . ",
+        "term": "aff"
+    },
+    "116": {
+        "id": 116,
+        "polarity": "+",
+        "sentence": "loved the slim design . ",
+        "term": "design"
+    },
+    "117": {
+        "id": 117,
+        "polarity": "-",
+        "sentence": "this unit was working fine for the 1st month and a half and then the color signal disappeared . ",
+        "term": "color signal"
+    },
+    "118": {
+        "id": 118,
+        "polarity": "-",
+        "sentence": "apex has still not responded to my email describing the problem after almost a week and their customer service line is always busy . ",
+        "term": "customer service"
+    },
+    "119": {
+        "id": 119,
+        "polarity": "+",
+        "sentence": "audio is excellent . ",
+        "term": "audio"
+    },
+    "120": {
+        "id": 120,
+        "polarity": "+",
+        "sentence": "i am very pleased with the apex ad2600.it plays just about anything you put in the drawer . ",
+        "term": " format"
+    },
+    "121": {
+        "id": 121,
+        "polarity": "+",
+        "sentence": "but , it seems to work so well now , that i do n't anticipate any problems with it . ",
+        "term": "player"
+    },
+    "122": {
+        "id": 122,
+        "polarity": "+",
+        "sentence": "simple to use and hook up . ",
+        "term": "player"
+    },
+    "123": {
+        "id": 123,
+        "polarity": "+",
+        "sentence": "the progressive scan option can be turned off easily by a button on the remote control which is one of the simplest and easiest remote controls i have ever seen or used . ",
+        "term": "remote"
+    },
+    "124": {
+        "id": 124,
+        "polarity": "-",
+        "sentence": "this dvd play is basicly junk . ",
+        "term": "player"
+    },
+    "125": {
+        "id": 125,
+        "polarity": "-",
+        "sentence": "it wo n't play all of my movies . ",
+        "term": "play"
+    },
+    "126": {
+        "id": 126,
+        "polarity": "-",
+        "sentence": "i tried called apex cust service , no help . ",
+        "term": "customer service"
+    },
+    "127": {
+        "id": 127,
+        "polarity": "-",
+        "sentence": "mine was 2 weeks old and i chucked it in the trash , where it belongs . ",
+        "term": "player"
+    },
+    "128": {
+        "id": 128,
+        "polarity": "-",
+        "sentence": "each of the 4 lasted less than six months . ",
+        "term": "player"
+    },
+    "129": {
+        "id": 129,
+        "polarity": "+",
+        "sentence": "this is the best dvd player i 've purchased . ",
+        "term": "player"
+    },
+    "130": {
+        "id": 130,
+        "polarity": "+",
+        "sentence": "this player has worked flawlessly for me and at this price , you can 't go wrong . ",
+        "term": "player"
+    },
+    "131": {
+        "id": 131,
+        "polarity": "-",
+        "sentence": "i have sent my ad2600 back to apex because it wo n't play certain disney and other dvd movies ( no disc message ) . ",
+        "term": " no disc"
+    },
+    "132": {
+        "id": 132,
+        "polarity": "+",
+        "sentence": "well , this apex dvd player turned out great ! ",
+        "term": "dvd player"
+    },
+    "133": {
+        "id": 133,
+        "polarity": "+",
+        "sentence": "it plays basically every media i 've tested so far , even an old vcd that i ripped years ago and the rental dvd that could n't be played on my old $ 200 sharp player ! ",
+        "term": "media"
+    },
+    "134": {
+        "id": 134,
+        "polarity": "+",
+        "sentence": "i have to say i 'm also pretty impressed by the user interface for playing jpeg , mp3 and mpeg files stored on cd-rs / dvds . ",
+        "term": "user interface"
+    },
+    "135": {
+        "id": 135,
+        "polarity": "+",
+        "sentence": "i did not want to have high expectations for this apex player because of the price but it is definitely working out much better than what i would expect from an expensive high-end player . ",
+        "term": "player"
+    },
+    "136": {
+        "id": 136,
+        "polarity": "+",
+        "sentence": "and the slim form-factor together with the mirror-like front panel sure makes the player look cool and pricey ! ",
+        "term": "look"
+    },
+    "137": {
+        "id": 137,
+        "polarity": "-",
+        "sentence": "one bad thing though , i find the remote-control a bit flimsy and i predict it will most probably ' die ' before the player does . ",
+        "term": "remote control"
+    },
+    "138": {
+        "id": 138,
+        "polarity": "+",
+        "sentence": "finally , amazon 's free shipping is really getting good , it took only 3 working days for the player to reach me ! ",
+        "term": "shipping"
+    },
+    "139": {
+        "id": 139,
+        "polarity": "-",
+        "sentence": "i purchased two of these players for christmas gifts , and both were bad . ",
+        "term": "player"
+    },
+    "140": {
+        "id": 140,
+        "polarity": "-",
+        "sentence": "the first one would n't work from the start . ",
+        "term": "player"
+    },
+    "141": {
+        "id": 141,
+        "polarity": "-",
+        "sentence": "the second lasted about two weeks before the video went out ! ",
+        "term": "player"
+    },
+    "142": {
+        "id": 142,
+        "polarity": "-",
+        "sentence": "i have tried several times to contact apex digital through their on-line support site and their telephone line , but they wo n't answer my emails and their telephone line is always busy . ",
+        "term": "on-line support"
+    },
+    "143": {
+        "id": 143,
+        "polarity": "+",
+        "sentence": "for the most part this is a good dvd player . ",
+        "term": "player"
+    },
+    "144": {
+        "id": 144,
+        "polarity": "-",
+        "sentence": "but about 25 % of dvd 's i 've played on ithave a problem , when watching a movie the picture will freeze , but the dvd still plays , and eventualy the picture kicks back in after skipping a few moments . ",
+        "term": " picture"
+    },
+    "145": {
+        "id": 145,
+        "polarity": "-",
+        "sentence": "we have had this product for over a month and yesterday it stopped working . ",
+        "term": "product"
+    },
+    "146": {
+        "id": 146,
+        "polarity": "-",
+        "sentence": "there was neither picture nor sound . ",
+        "term": "picture"
+    },
+    "147": {
+        "id": 147,
+        "polarity": "+",
+        "sentence": "we are overall pleased with product . ",
+        "term": "product"
+    },
+    "148": {
+        "id": 148,
+        "polarity": "-",
+        "sentence": "i would have rated it five stars but for the poor manual . ",
+        "term": "manual"
+    },
+    "149": {
+        "id": 149,
+        "polarity": "-",
+        "sentence": "it worked from 12-26 to 1-9 at which time the picture failed completely ( see other negative reviews-my unit was n't the only one this happened to . ) ",
+        "term": "picture"
+    },
+    "150": {
+        "id": 150,
+        "polarity": "-",
+        "sentence": "i tried calling the support number for a week , several times a day , and always got a busy signal . ",
+        "term": "support"
+    },
+    "151": {
+        "id": 151,
+        "polarity": "-",
+        "sentence": "neither message was answered ( they ask for 24 hours before replying - i 've been waiting 27 days . ) ",
+        "term": "support"
+    },
+    "152": {
+        "id": 152,
+        "polarity": "-",
+        "sentence": "it only read the dvds 10 % of the time , otherwise i would get a no disc screen . ",
+        "term": "dvd"
+    },
+    "153": {
+        "id": 153,
+        "polarity": "+",
+        "sentence": "progressive scan player for a relatively low price ( although the better known manufacturers like toshiba , pioneer , and panasonic are now offering lower-priced progressive scan players as well ) . ",
+        "term": "progressive scan player"
+    },
+    "154": {
+        "id": 154,
+        "polarity": "+",
+        "sentence": "seems to read most dvds fine , and reads quietly ( i had a pioneer player that had fairly loud disc spin noise ) . ",
+        "term": "sound"
+    },
+    "155": {
+        "id": 155,
+        "polarity": "+",
+        "sentence": "also , i have not had trouble reading svcds that i created and vbr mp3 cds ( my old apex ad-1200 had trouble with these ) . ",
+        "term": "read"
+    },
+    "156": {
+        "id": 156,
+        "polarity": "+",
+        "sentence": "output through component connections looks very good , on my non-hd tv . ",
+        "term": "output"
+    },
+    "157": {
+        "id": 157,
+        "polarity": "-",
+        "sentence": "i 've had this player for several months and it reads most discs , but it would not recognize several discs that were clean and read on other players ( from friends season 2 ) . ",
+        "term": "disc"
+    },
+    "158": {
+        "id": 158,
+        "polarity": "-",
+        "sentence": "it would just spin up and stop , and display \" no disc \" . ",
+        "term": "no disc"
+    },
+    "159": {
+        "id": 159,
+        "polarity": "-",
+        "sentence": "my other gripe is the incredibly crappy remote , which is worse than other , cheaper apex units . ",
+        "term": "remote"
+    },
+    "160": {
+        "id": 160,
+        "polarity": "-",
+        "sentence": "you have to press the buttons hard and frequently i end up pressing enter when i meant to scroll . ",
+        "term": "button"
+    },
+    "161": {
+        "id": 161,
+        "polarity": "-",
+        "sentence": "also , for some reason the picture looks washed out on s-video , with lots of color bleeding , compared to a component connection ( should not be much of a perceptible difference on a 27 \" tv ). ",
+        "term": "s-video"
+    },
+    "162": {
+        "id": 162,
+        "polarity": "+",
+        "sentence": "i checked out the amazon reviews and i 'm pleased to say mine worked , works , fine right out of the box . ",
+        "term": "player"
+    },
+    "163": {
+        "id": 163,
+        "polarity": "+",
+        "sentence": "i like the auto fit feature = you can stretch widescreen dvd 's to normal . ",
+        "term": "auto fit"
+    },
+    "164": {
+        "id": 164,
+        "polarity": "+",
+        "sentence": "looks ok - very shiny chrome and mirrors . ",
+        "term": "look"
+    },
+    "165": {
+        "id": 165,
+        "polarity": "-",
+        "sentence": "and the remote is cheap and cheasy - not sure how long it 'll last , but for 50 bucks what the heck ! ",
+        "term": "remote"
+    },
+    "166": {
+        "id": 166,
+        "polarity": "+",
+        "sentence": "this thing plays everything i feed it . ",
+        "term": "play"
+    },
+    "167": {
+        "id": 167,
+        "polarity": "+",
+        "sentence": "when i 1st tried it i found that it had no problem playing the more expensive dvd - r media disc 's that other players would play but to my surprise was able to play cheep media that i had burned that i could n't get to work before in anything but the dvd burner itself that i had made the disc with . ",
+        "term": "format"
+    },
+    "168": {
+        "id": 168,
+        "polarity": "+",
+        "sentence": "easy to use , small form factor , and looks good to boot . ",
+        "term": "use"
+    },
+    "169": {
+        "id": 169,
+        "polarity": "-",
+        "sentence": "after about an hour it starts skipping like the dvd 's are dirty . ",
+        "term": "player"
+    },
+    "170": {
+        "id": 170,
+        "polarity": "-",
+        "sentence": "i have ice age and it keeps telling me no disc . ",
+        "term": "no disc"
+    },
+    "171": {
+        "id": 171,
+        "polarity": "-",
+        "sentence": "i tried e-mailing apex and they come back saying undeliverable . ",
+        "term": "customer service"
+    },
+    "172": {
+        "id": 172,
+        "polarity": "-",
+        "sentence": "i 've tried leaving questions on their site never to have them answered . ",
+        "term": "customer service"
+    },
+    "173": {
+        "id": 173,
+        "polarity": "-",
+        "sentence": "it has never worked . ",
+        "term": "player"
+    },
+    "174": {
+        "id": 174,
+        "polarity": "-",
+        "sentence": "i 've attempted to connect this unit to several different tvs , using a multitude of connection methods , and i still can 't get a video signal from the machine . ",
+        "term": "player"
+    },
+    "175": {
+        "id": 175,
+        "polarity": "-",
+        "sentence": "purchased the ad-2600 about a month ago and have had numerous problems with it . ",
+        "term": "player"
+    },
+    "176": {
+        "id": 176,
+        "polarity": "-",
+        "sentence": "the most recent is that it will stop responding to the on/off button . ",
+        "term": "on/off button"
+    },
+    "177": {
+        "id": 177,
+        "polarity": "-",
+        "sentence": "they claim to respond in a 24 hour period yet it 's been 2 weeks without a reply . ",
+        "term": "customer service"
+    },
+    "178": {
+        "id": 178,
+        "polarity": "-",
+        "sentence": "i 've sent 10 e-mails to their customer service department requesting an ra with no response . ",
+        "term": "customer service"
+    },
+    "179": {
+        "id": 179,
+        "polarity": "-",
+        "sentence": "3/4 way through the first disk we played on it ( naturally on 31 days after purchase ) the dvd player froze . ",
+        "term": "player"
+    },
+    "180": {
+        "id": 180,
+        "polarity": "-",
+        "sentence": "now it will not load any disk or just says that there is no disk . ",
+        "term": "player"
+    },
+    "181": {
+        "id": 181,
+        "polarity": "-",
+        "sentence": "have tried to contact apex via e-mail ( customerservice@apexdigital.com ) , but the e-mail address is not valid . ",
+        "term": "customer service"
+    },
+    "182": {
+        "id": 182,
+        "polarity": "-",
+        "sentence": "have tried calling ( 866-4apexgo ) , but can 't get through . ",
+        "term": "customer service"
+    },
+    "183": {
+        "id": 183,
+        "polarity": "-",
+        "sentence": "this product sucks , the customer service from apex sucks . ",
+        "term": "customer service"
+    },
+    "184": {
+        "id": 184,
+        "polarity": "-",
+        "sentence": "after using it for just a month , i could not play any dvd . ",
+        "term": "play"
+    },
+    "185": {
+        "id": 185,
+        "polarity": "-",
+        "sentence": "i can only hear the sound but no picture ! ",
+        "term": "picture"
+    },
+    "186": {
+        "id": 186,
+        "polarity": "-",
+        "sentence": "their customer ( www.apexdigitalinc.com ) service is very poor . ",
+        "term": "customer service"
+    },
+    "187": {
+        "id": 187,
+        "polarity": "-",
+        "sentence": "one of the dvd 's i received as a christmas present kept freezing . ",
+        "term": "dvd"
+    },
+    "188": {
+        "id": 188,
+        "polarity": "-",
+        "sentence": "some dvd 's i rented would not play . ",
+        "term": "dvd"
+    },
+    "189": {
+        "id": 189,
+        "polarity": "-",
+        "sentence": "when the player was working it was great ,but . ",
+        "term": "player"
+    },
+    "190": {
+        "id": 190,
+        "polarity": "+",
+        "sentence": "it does n't smell like burning plastic when you open the drive . ",
+        "term": "smell"
+    },
+    "191": {
+        "id": 191,
+        "polarity": "+",
+        "sentence": "without a doubt the finest looking apex dvd player that i 've seen . ",
+        "term": "look"
+    },
+    "192": {
+        "id": 192,
+        "polarity": "+",
+        "sentence": "excellent picture quality - on par with my pioneer , panasonic , and jvc players . ",
+        "term": "picture quality"
+    },
+    "193": {
+        "id": 193,
+        "polarity": "+",
+        "sentence": "remote : you can stand it on end ( harder to lose ) , and it 's far better designed than the 1100s . ",
+        "term": "remote"
+    },
+    "194": {
+        "id": 194,
+        "polarity": "-",
+        "sentence": "first of all , i bought this dvd as a christmas present for my girlfriend and i am somewhat disappointed . ",
+        "term": "dvd"
+    },
+    "195": {
+        "id": 195,
+        "polarity": "+",
+        "sentence": "unlike some of the other people who received a \" lemon \" , my dvd player came in perfect working condition . ",
+        "term": "player"
+    },
+    "196": {
+        "id": 196,
+        "polarity": "+",
+        "sentence": "as a whole , the dvd player has a sleek design and works fine . ",
+        "term": "design"
+    },
+    "197": {
+        "id": 197,
+        "polarity": "-",
+        "sentence": "what disappointed me is the fact that it does not seem to read certain dvds . ",
+        "term": "dvd"
+    },
+    "198": {
+        "id": 198,
+        "polarity": "-",
+        "sentence": "for example , i tried playing my new \" pirates of the carribean \" extra features dvd , but this dvd player can not read it . ",
+        "term": "read"
+    },
+    "199": {
+        "id": 199,
+        "polarity": "-",
+        "sentence": "at first i thought it is only a isolated incident , but i was proven wrong when the player would not read my \" alias \" dvds as well . ",
+        "term": "read"
+    },
+    "200": {
+        "id": 200,
+        "polarity": "+",
+        "sentence": "this player seems to work fine with everything else . ",
+        "term": "player"
+    },
+    "201": {
+        "id": 201,
+        "polarity": "-",
+        "sentence": "because of this , i am disappointed and would not recommend this product . ",
+        "term": "player"
+    },
+    "202": {
+        "id": 202,
+        "polarity": "+",
+        "sentence": "it 's running great for all the dvds i have and rented . ",
+        "term": " dvd"
+    },
+    "203": {
+        "id": 203,
+        "polarity": "+",
+        "sentence": "i think , apex is the best dvd player you can get for the price . ",
+        "term": "dvd player"
+    },
+    "204": {
+        "id": 204,
+        "polarity": "+",
+        "sentence": "most of them are already switched to apex and they are happy . ",
+        "term": "apex"
+    },
+    "205": {
+        "id": 205,
+        "polarity": "+",
+        "sentence": "this has so many capabilities that you 'll always have room for new technologies as they evolve . ",
+        "term": "player"
+    },
+    "206": {
+        "id": 206,
+        "polarity": "+",
+        "sentence": "i use this with a home theater system and it 's amazing how it sounds , the picture clarity is unmatched ! ",
+        "term": "sound"
+    },
+    "207": {
+        "id": 207,
+        "polarity": "+",
+        "sentence": "so much packed in a small case and very affordable ! ",
+        "term": "case"
+    },
+    "208": {
+        "id": 208,
+        "polarity": "-",
+        "sentence": "after two weeks the picture kept freezing . ",
+        "term": "picture"
+    },
+    "209": {
+        "id": 209,
+        "polarity": "-",
+        "sentence": "apex sucks ! ",
+        "term": "apex"
+    },
+    "210": {
+        "id": 210,
+        "polarity": "-",
+        "sentence": "unit worked great for 3 weeks then video output failed . ",
+        "term": "player"
+    },
+    "211": {
+        "id": 211,
+        "polarity": "+",
+        "sentence": "it 's a compact , attractive machine and was easy to set up . ",
+        "term": "machine"
+    },
+    "212": {
+        "id": 212,
+        "polarity": "+",
+        "sentence": "basic usage is easy , but the remote has a lot of buttons that i have n't used . ",
+        "term": "usage"
+    },
+    "213": {
+        "id": 213,
+        "polarity": "+",
+        "sentence": "so far , we 've only used this player a few times to watch movies and it has worked fine . ",
+        "term": "player"
+    },
+    "214": {
+        "id": 214,
+        "polarity": "+",
+        "sentence": "the picture is clear , bright and sharp and the sound is good . ",
+        "term": "picture"
+    },
+    "215": {
+        "id": 215,
+        "polarity": "-",
+        "sentence": "the catch is that , while it plays movies just fine , it has refused to read second discs with the movie \" extras \" on them on the two occaisions when i tried to do that . ",
+        "term": "read"
+    },
+    "216": {
+        "id": 216,
+        "polarity": "+",
+        "sentence": "it works well enough ( so far ) for me to be satisfied with it , and it 's possible that i 'm missing something . ",
+        "term": "player"
+    },
+    "217": {
+        "id": 217,
+        "polarity": "+",
+        "sentence": "i 'm giving this player cautious recommendation . ",
+        "term": "player"
+    },
+    "218": {
+        "id": 218,
+        "polarity": "+",
+        "sentence": "there are a lot of things i like about it . ",
+        "term": "player"
+    },
+    "219": {
+        "id": 219,
+        "polarity": "+",
+        "sentence": "received apex dvd and the picture was great when set up with s connector . ",
+        "term": "picture"
+    },
+    "220": {
+        "id": 220,
+        "polarity": "-",
+        "sentence": "the remote is a little hard to understand . ",
+        "term": "remote"
+    },
+    "221": {
+        "id": 221,
+        "polarity": "-",
+        "sentence": "my jpeg pictures are viewable ( not so sharp and vivid ) on my 27 \" screen but seem not as clear as when i view them on my 17 \" monitor . ",
+        "term": "jpeg picture"
+    },
+    "222": {
+        "id": 222,
+        "polarity": "+",
+        "sentence": "so far the dvd works so i hope it does n't break down like the reviews i 've read . ",
+        "term": "dvd"
+    },
+    "223": {
+        "id": 223,
+        "polarity": "-",
+        "sentence": "video output stopped workin . ",
+        "term": "video output"
+    },
+    "224": {
+        "id": 224,
+        "polarity": "-",
+        "sentence": "this was an awesome player , before the video output no longer worked ( after about 3 weeks ) . ",
+        "term": "video output"
+    },
+    "225": {
+        "id": 225,
+        "polarity": "-",
+        "sentence": "what a disappointment ! ",
+        "term": "player"
+    },
+    "226": {
+        "id": 226,
+        "polarity": "+",
+        "sentence": "set up was easy and we enjoyed it for just over a week . ",
+        "term": "set up"
+    },
+    "227": {
+        "id": 227,
+        "polarity": "-",
+        "sentence": "there was occasionally a lip-sync issue ( the lips were n't moving in time to the dialogue ) . ",
+        "term": "lip-sync"
+    },
+    "228": {
+        "id": 228,
+        "polarity": "-",
+        "sentence": "but after 10 days , the sound worked , but the video quit working . ",
+        "term": "video"
+    },
+    "229": {
+        "id": 229,
+        "polarity": "+",
+        "sentence": "amazon was wonderful about picking it up the next day and paying for the return shipping . ",
+        "term": "amazon"
+    },
+    "230": {
+        "id": 230,
+        "polarity": "+",
+        "sentence": "great feature list , poor reliability . ",
+        "term": "feature"
+    },
+    "231": {
+        "id": 231,
+        "polarity": "-",
+        "sentence": "output went black and white only via both s-video and composite connections , and with no v-hold . ",
+        "term": "output"
+    },
+    "232": {
+        "id": 232,
+        "polarity": "+",
+        "sentence": "retraction : said mine had silver plate : it does have display . ",
+        "term": "display"
+    },
+    "233": {
+        "id": 233,
+        "polarity": "+",
+        "sentence": "it works great . ",
+        "term": "player"
+    },
+    "234": {
+        "id": 234,
+        "polarity": "+",
+        "sentence": "the unit seems to play all formats that i have put in it ( jpeg , kodak pic 's and dvd-r ) i have read other reviews and some good and soom not so good , but my feeling at this time is \" two thumbs up \" ! ",
+        "term": " format"
+    },
+    "235": {
+        "id": 235,
+        "polarity": "-",
+        "sentence": "p.s the remote control does seem to get confused at times and doesnt respond but it may be just operator error ? ",
+        "term": "remote"
+    },
+    "236": {
+        "id": 236,
+        "polarity": "-",
+        "sentence": "what the hell is wrong with this thing . ",
+        "term": "player"
+    },
+    "237": {
+        "id": 237,
+        "polarity": "-",
+        "sentence": "forget about the sleek looks if it can 't play some of your real dvds. ",
+        "term": "play"
+    },
+    "238": {
+        "id": 238,
+        "polarity": "-",
+        "sentence": "well , within 45 days the video output quit working ( both rca & optic ) . ",
+        "term": "video output"
+    },
+    "239": {
+        "id": 239,
+        "polarity": "-",
+        "sentence": "so now it still plays everything , you just can 't see it ! ",
+        "term": "video output"
+    },
+    "240": {
+        "id": 240,
+        "polarity": "-",
+        "sentence": "the first one we installed did n't work , and our kids were devastated to say the least . ",
+        "term": "player"
+    },
+    "241": {
+        "id": 241,
+        "polarity": "+",
+        "sentence": "it seems to be working fine , but we 've not used it all that much . ",
+        "term": "player"
+    },
+    "242": {
+        "id": 242,
+        "polarity": "-",
+        "sentence": "update : january 27th 2004 - the second one crapped out only after a week - dont buy this product ! ",
+        "term": "player"
+    },
+    "243": {
+        "id": 243,
+        "polarity": "+",
+        "sentence": "the player looked good right out of the box , offering lots of features and good styling . ",
+        "term": "feature"
+    },
+    "244": {
+        "id": 244,
+        "polarity": "-",
+        "sentence": "i immediately had problems getting the player to recognize two of my favorite dvds . ",
+        "term": "dvd"
+    },
+    "245": {
+        "id": 245,
+        "polarity": "-",
+        "sentence": "after multilple tries , one of the disks was finally recognized but video was poor and features not available . ",
+        "term": "video"
+    },
+    "246": {
+        "id": 246,
+        "polarity": "-",
+        "sentence": "only one disk played through to completion successfully . ",
+        "term": "disk"
+    },
+    "247": {
+        "id": 247,
+        "polarity": "-",
+        "sentence": "when we tried to hook up the first one , it was broken - the motor would not eject discs or close the door . ",
+        "term": "player"
+    },
+    "248": {
+        "id": 248,
+        "polarity": "-",
+        "sentence": "when i tried to install the second dvd player in my brothers house , that one didn \" t work either ! ",
+        "term": "player"
+    },
+    "249": {
+        "id": 249,
+        "polarity": "-",
+        "sentence": "imagine my shock - and absolute instant disdain for any products made by apex . ",
+        "term": "apex"
+    },
+    "250": {
+        "id": 250,
+        "polarity": "-",
+        "sentence": "the 2nd dvd player had a faulty power supply which caused to occasionally not turn on . ",
+        "term": "power supply"
+    },
+    "251": {
+        "id": 251,
+        "polarity": "-",
+        "sentence": "the ad-1600 did n't work corectly from the start and the ad-1220 lasted about a week and a half before it started to act up . ",
+        "term": " ad-1220"
+    },
+    "252": {
+        "id": 252,
+        "polarity": "+",
+        "sentence": "amazon is awaesome ! ",
+        "term": "amazon"
+    },
+    "253": {
+        "id": 253,
+        "polarity": "+",
+        "sentence": "for the price , it 's a very nice dvd player . ",
+        "term": "dvd player"
+    },
+    "254": {
+        "id": 254,
+        "polarity": "-",
+        "sentence": "the front door is miss aligned on my unit and you have to manually life it up just so slightly for the door to close , a very annoying thing after ahwile . ",
+        "term": "door"
+    },
+    "255": {
+        "id": 255,
+        "polarity": "+",
+        "sentence": "it does play a wide range of formats as advertised which is very nice . ",
+        "term": "format"
+    },
+    "256": {
+        "id": 256,
+        "polarity": "+",
+        "sentence": "and so far have not had any problems with dvds not being able to play . ",
+        "term": "dvd"
+    },
+    "257": {
+        "id": 257,
+        "polarity": "+",
+        "sentence": "i only wanted something to play dvds on but this machine has all these other features that i probably will never use but it 's nice to know that there 're there . ",
+        "term": "feature"
+    },
+    "258": {
+        "id": 258,
+        "polarity": "+",
+        "sentence": "the machine is very light and slim and fits nicely into my tv stand . ",
+        "term": "weight"
+    },
+    "259": {
+        "id": 259,
+        "polarity": "+",
+        "sentence": "i 've had no problems at all so far and i 'm very happy . ",
+        "term": "player"
+    },
+    "260": {
+        "id": 260,
+        "polarity": "-",
+        "sentence": "we tried the \" finding nemo \" dvd and when we got to ~ chapter 28 , the frames started to freeze for no reason . ",
+        "term": "dvd"
+    },
+    "261": {
+        "id": 261,
+        "polarity": "-",
+        "sentence": "i can 't rate it one star only because when it does work it 's pretty good . ",
+        "term": "player"
+    },
+    "262": {
+        "id": 262,
+        "polarity": "-",
+        "sentence": "only owned it about two weeks so i expect we 're looking at getting another progressive scan dvd player of higher quality very soon . ",
+        "term": "player"
+    },
+    "263": {
+        "id": 263,
+        "polarity": "-",
+        "sentence": "the player kept displaying \" no disc \" , so i tried the disc in another machine and sure as @ # * ! ",
+        "term": " no disc"
+    },
+    "264": {
+        "id": 264,
+        "polarity": "+",
+        "sentence": "besides the one problem , this machine is amazing ! ",
+        "term": "player"
+    },
+    "265": {
+        "id": 265,
+        "polarity": "+",
+        "sentence": "it plays everything , even vcd 's . ",
+        "term": "play"
+    },
+    "266": {
+        "id": 266,
+        "polarity": "+",
+        "sentence": "i will never use all the \" whistles and bells \" this machine is capable of . ",
+        "term": "player"
+    },
+    "267": {
+        "id": 267,
+        "polarity": "+",
+        "sentence": "but for what i do use it is perfect . ",
+        "term": "player"
+    },
+    "268": {
+        "id": 268,
+        "polarity": "-",
+        "sentence": "1 ) frame freezes and the family yells , \" dad ! somethings wrong with the dvd player ! come quick ! \" ",
+        "term": "freeze"
+    },
+    "269": {
+        "id": 269,
+        "polarity": "-",
+        "sentence": "2 ) the remote works , but then it does not work , and you are left standing there thinking you are doing something wrong . ",
+        "term": "remote"
+    },
+    "270": {
+        "id": 270,
+        "polarity": "-",
+        "sentence": "5 ) this apex model 2600 will not work with my universal remote control . ",
+        "term": "universal remote control"
+    },
+    "271": {
+        "id": 271,
+        "polarity": "-",
+        "sentence": "finally you will read a post somewhere that all codes are useless for the apex 2600 . ",
+        "term": "code"
+    },
+    "272": {
+        "id": 272,
+        "polarity": "-",
+        "sentence": "one still works fine , the other quit after one day . ",
+        "term": "player"
+    },
+    "273": {
+        "id": 273,
+        "polarity": "+",
+        "sentence": "owner 's manual has substandard troubleshooting guide . ",
+        "term": "manual"
+    },
+    "274": {
+        "id": 274,
+        "polarity": "-",
+        "sentence": "apex 's website is down and they wo n't answer their phone . ",
+        "term": "customer service"
+    },
+    "275": {
+        "id": 275,
+        "polarity": "+",
+        "sentence": "the dvd player is fine . ",
+        "term": "player"
+    },
+    "276": {
+        "id": 276,
+        "polarity": "+",
+        "sentence": "of course , i was hesitant given the price , but i 've been extremely impressed since receiving it , and bought a second one as a christmas present for my parents . ",
+        "term": "player"
+    },
+    "277": {
+        "id": 277,
+        "polarity": "+",
+        "sentence": "the picture is perfect , although i 'm not watching on an hdtv . ",
+        "term": "picture"
+    },
+    "278": {
+        "id": 278,
+        "polarity": "-",
+        "sentence": "it seems to be a little slow when identifying a new disc that 's inserted - maybe 10 seconds of wait . ",
+        "term": "loading"
+    },
+    "279": {
+        "id": 279,
+        "polarity": "+",
+        "sentence": "but , dollar for dollar , this dvd player is probably the best out there . ",
+        "term": "player"
+    },
+    "280": {
+        "id": 280,
+        "polarity": "-",
+        "sentence": "when i hooked it up it only produced sound - a cd played fine , but with a dvd i only got the audio - no picture ! ",
+        "term": "picture"
+    }
+}

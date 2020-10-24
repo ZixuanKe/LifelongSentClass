@@ -1,0 +1,140 @@
+{
+    "175": {
+        "id": 175,
+        "polarity": "+",
+        "sentence": "All in all I am pleased with the router.",
+        "term": "router"
+    },
+    "176": {
+        "id": 176,
+        "polarity": "+",
+        "sentence": "The power, low noise operation, and speed control makes up for the problems I have experienced.",
+        "term": "power"
+    },
+    "177": {
+        "id": 177,
+        "polarity": "-",
+        "sentence": "It it is a bit heavy for hand held work, but any router this size will be.",
+        "term": "heavy"
+    },
+    "178": {
+        "id": 178,
+        "polarity": "-",
+        "sentence": "Recenly the variable speed control went out.",
+        "term": "control"
+    },
+    "179": {
+        "id": 179,
+        "polarity": "-",
+        "sentence": "It would work fine for a while then as the motor warmed up it would die.",
+        "term": "control"
+    },
+    "180": {
+        "id": 180,
+        "polarity": "-",
+        "sentence": "The only other problem with this router that I have encountered is the plunge action will start to stick, then it needs to be cleaned and lubricated.",
+        "term": "plunge"
+    },
+    "181": {
+        "id": 181,
+        "polarity": "+",
+        "sentence": "Overall it is a great value.",
+        "term": "router"
+    },
+    "182": {
+        "id": 182,
+        "polarity": "+",
+        "sentence": "For the price I don't think you can beat it.",
+        "term": "price"
+    },
+    "183": {
+        "id": 183,
+        "polarity": "+",
+        "sentence": "This is a fantastic tool to use.",
+        "term": "tool"
+    },
+    "184": {
+        "id": 184,
+        "polarity": "-",
+        "sentence": "Only problem is that is a bit heavy.",
+        "term": "heavy"
+    },
+    "185": {
+        "id": 185,
+        "polarity": "+",
+        "sentence": "This is a quality product, not to be confused with teh cheap junk that Hitachi gets manufactured in China.",
+        "term": "product"
+    },
+    "186": {
+        "id": 186,
+        "polarity": "-",
+        "sentence": "They last about 1 1/2 years until the problems start.",
+        "term": "last"
+    },
+    "187": {
+        "id": 187,
+        "polarity": "-",
+        "sentence": "My first router is a safety hazard if you do not pay attention and are not very careful.",
+        "term": "safety"
+    },
+    "188": {
+        "id": 188,
+        "polarity": "+",
+        "sentence": "When the router is working it is a very nice machine for the money.",
+        "term": "router"
+    },
+    "189": {
+        "id": 189,
+        "polarity": "-",
+        "sentence": "Luckily the soft start helped before it took the wood and tossed it or worse case, a finger.",
+        "term": "safety"
+    },
+    "190": {
+        "id": 190,
+        "polarity": "-",
+        "sentence": "Once a depth is locked, it will jump off a little while working.",
+        "term": "depth"
+    },
+    "191": {
+        "id": 191,
+        "polarity": "-",
+        "sentence": "You must keep double checking depths.",
+        "term": "depths"
+    },
+    "192": {
+        "id": 192,
+        "polarity": "+",
+        "sentence": "But, for the money it is a good machine.",
+        "term": "machine"
+    },
+    "193": {
+        "id": 193,
+        "polarity": "-",
+        "sentence": "Well, my second one is now beginning to hicup a bit after about 1 1/2 years.",
+        "term": "duration"
+    },
+    "194": {
+        "id": 194,
+        "polarity": "-",
+        "sentence": "The electronic speed control is not doing it's job and the router begins to speed up and slow down at will.",
+        "term": "control"
+    },
+    "195": {
+        "id": 195,
+        "polarity": "+",
+        "sentence": "For the hobbiest, it's probably a nice buy.",
+        "term": "router"
+    },
+    "196": {
+        "id": 196,
+        "polarity": "+",
+        "sentence": "For the person that uses the equipment every day, pay the extra and get a reliable & safer unit.",
+        "term": "equipment"
+    },
+    "197": {
+        "id": 197,
+        "polarity": "-",
+        "sentence": "If this machine just stops on you, unplug it quickly and get out of the way!",
+        "term": "safety"
+    }
+}

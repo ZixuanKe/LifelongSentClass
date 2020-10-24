@@ -1,0 +1,1052 @@
+{
+    "0": {
+        "id": 0,
+        "polarity": "+",
+        "sentence": "I want to start off saying that this camera is small for a reason.",
+        "term": "small"
+    },
+    "1": {
+        "id": 1,
+        "polarity": "+",
+        "sentence": "I'm in high school, and this camera is perfect for what I use it for, carrying it around in my pocket so I can take pictures whenever I want to, of my friends and of funny things that happen.",
+        "term": "camera"
+    },
+    "2": {
+        "id": 2,
+        "polarity": "+",
+        "sentence": "I'm in high school, and this camera is perfect for what I use it for, carrying it around in my pocket so I can take pictures whenever I want to, of my friends and of funny things that happen.",
+        "term": "size"
+    },
+    "3": {
+        "id": 3,
+        "polarity": "-",
+        "sentence": "The only thing I don't like is the small size (8 MEG) memory card that comes with it.",
+        "term": "memory"
+    },
+    "4": {
+        "id": 4,
+        "polarity": "-",
+        "sentence": "I have to move pictures off of it every day so I have room for more pictures the next, and I don't have enough money to buy the 256 MEG card that I've had my eye on for a while.",
+        "term": "room"
+    },
+    "5": {
+        "id": 5,
+        "polarity": "-",
+        "sentence": "A larger memory card and extra battery are good things to buy.",
+        "term": "memory"
+    },
+    "6": {
+        "id": 6,
+        "polarity": "-",
+        "sentence": "A larger memory card and extra battery are good things to buy.",
+        "term": "battery"
+    },
+    "7": {
+        "id": 7,
+        "polarity": "-",
+        "sentence": "Other than that pictures taken in the dark are not as nice as I'd like them,",
+        "term": "pictures"
+    },
+    "8": {
+        "id": 8,
+        "polarity": "+",
+        "sentence": "I'd say that this camera is perfect.",
+        "term": "camera"
+    },
+    "9": {
+        "id": 9,
+        "polarity": "+",
+        "sentence": "OK, not quite everything...but this camera is so compact that you will have it by your side when you need it.",
+        "term": "compact"
+    },
+    "10": {
+        "id": 10,
+        "polarity": "+",
+        "sentence": "I bought this camera for the same reason many of you are considering it, or have already bought it--it's size.",
+        "term": "size"
+    },
+    "11": {
+        "id": 11,
+        "polarity": "+",
+        "sentence": "It is amazingly small, it's hard to believe all that has been packed into this camera.",
+        "term": "small"
+    },
+    "12": {
+        "id": 12,
+        "polarity": "+",
+        "sentence": "it is so small that I am able to keep it in my pocket, and I don't have to fear that it will get ruined in my pocket because it is so durable.",
+        "term": "small"
+    },
+    "13": {
+        "id": 13,
+        "polarity": "+",
+        "sentence": "it is so small that I am able to keep it in my pocket, and I don't have to fear that it will get ruined in my pocket because it is so durable.",
+        "term": "durable"
+    },
+    "14": {
+        "id": 14,
+        "polarity": "+",
+        "sentence": "There is also a small covering for the lens, so you need not worry that the lens will get scratched.",
+        "term": "covering"
+    },
+    "15": {
+        "id": 15,
+        "polarity": "+",
+        "sentence": "The picture quality surprised me, when I first saw this camera I saw how small it was an instantly assumed that the picture quality would not be good--but I was wrong!",
+        "term": "picture"
+    },
+    "16": {
+        "id": 16,
+        "polarity": "+",
+        "sentence": "The picture quality surprised me, when I first saw this camera I saw how small it was an instantly assumed that the picture quality would not be good--but I was wrong!",
+        "term": "small"
+    },
+    "17": {
+        "id": 17,
+        "polarity": "+",
+        "sentence": "The picture quality of this camera is outstanding (taking its' size and price into consideration).",
+        "term": "picture"
+    },
+    "18": {
+        "id": 18,
+        "polarity": "-",
+        "sentence": "First off, the battery.",
+        "term": "battery"
+    },
+    "19": {
+        "id": 19,
+        "polarity": "-",
+        "sentence": "This camera uses a lithium battery, I find lithium batteries to be highly inconvenient; because what if you are on vacation, where the nearest place to buy batteries is just a gas station--there is no way that you are going to find lithium batteries there.",
+        "term": "battery"
+    },
+    "20": {
+        "id": 20,
+        "polarity": "-",
+        "sentence": "Not only is it inconvenient, but also the battery life span is short.",
+        "term": "battery"
+    },
+    "21": {
+        "id": 21,
+        "polarity": "-",
+        "sentence": "This isn't uncommon in cameras, though, just as long as you bring your charger and spare batteries, you should be fine.",
+        "term": "batteries"
+    },
+    "22": {
+        "id": 22,
+        "polarity": "-",
+        "sentence": "Another problem I had with this camera was the zoom function.",
+        "term": "zoom"
+    },
+    "23": {
+        "id": 23,
+        "polarity": "-",
+        "sentence": "Such a small zoom length that you would think that the zoom would be silent since it hardly zooms in...wrong!",
+        "term": "zooms"
+    },
+    "24": {
+        "id": 24,
+        "polarity": "-",
+        "sentence": "The zoom function on this camera is so loud that sometimes you will be unable to use it if you find yourself in a situation where you must be quiet.",
+        "term": "zoom"
+    },
+    "25": {
+        "id": 25,
+        "polarity": "-",
+        "sentence": "Even just turning the camera on will move the lens a little, resulting in a noisy start-up.",
+        "term": "start-up"
+    },
+    "26": {
+        "id": 26,
+        "polarity": "-",
+        "sentence": "The flash is very weak.",
+        "term": "flash"
+    },
+    "27": {
+        "id": 27,
+        "polarity": "-",
+        "sentence": "The last problem I found with this camera was the macro function.",
+        "term": "macro"
+    },
+    "28": {
+        "id": 28,
+        "polarity": "-",
+        "sentence": "The auto-focus on the camera seems to have trouble focusing on the subject.",
+        "term": "auto-focus"
+    },
+    "29": {
+        "id": 29,
+        "polarity": "-",
+        "sentence": "To make matters work, there is no manual override to overcome this problem.",
+        "term": "work"
+    },
+    "30": {
+        "id": 30,
+        "polarity": "+",
+        "sentence": "The focus is great, though, if you are not taking a macro shot.",
+        "term": "focus"
+    },
+    "31": {
+        "id": 31,
+        "polarity": "-",
+        "sentence": "it's not my first choice in cameras,",
+        "term": "cameras"
+    },
+    "32": {
+        "id": 32,
+        "polarity": "+",
+        "sentence": "I have come across many other beginner cameras that I prefer over this camera, but the thing you have to keep in mind about this camera is the size.",
+        "term": "size"
+    },
+    "33": {
+        "id": 33,
+        "polarity": "+",
+        "sentence": "If you are just looking for something to keep with you at all times, then this is a great camera choice.",
+        "term": "camera"
+    },
+    "34": {
+        "id": 34,
+        "polarity": "+",
+        "sentence": "after considering my needs further and researching the marketplace, I decided on the s100.",
+        "term": "s100"
+    },
+    "35": {
+        "id": 35,
+        "polarity": "+",
+        "sentence": "It has given me zero problems, and the more I use it, the better I become at taking advantage of its strengths.",
+        "term": "camera"
+    },
+    "36": {
+        "id": 36,
+        "polarity": "-",
+        "sentence": "1) It is perhaps too small. ",
+        "term": "small"
+    },
+    "37": {
+        "id": 37,
+        "polarity": "-",
+        "sentence": "I find it a bit difficult to manage the very tiny buttons and impossible to read the icons without my reading glasses on.",
+        "term": "read"
+    },
+    "38": {
+        "id": 38,
+        "polarity": "-",
+        "sentence": "I find it a bit difficult to manage the very tiny buttons and impossible to read the icons without my reading glasses on.",
+        "term": "buttons"
+    },
+    "39": {
+        "id": 39,
+        "polarity": "-",
+        "sentence": "Its size makes holding it steady for long a bit of a challenge (not enough camera body to grip with more than your finger tips).",
+        "term": "size"
+    },
+    "40": {
+        "id": 40,
+        "polarity": "-",
+        "sentence": "2) The delay from the time you fully depress the shutter to the time the picture is taken is too long and may yield some fuzzy shots. ",
+        "term": "delay"
+    },
+    "41": {
+        "id": 41,
+        "polarity": "-",
+        "sentence": "2) The delay from the time you fully depress the shutter to the time the picture is taken is too long and may yield some fuzzy shots. ",
+        "term": "shots"
+    },
+    "42": {
+        "id": 42,
+        "polarity": "-",
+        "sentence": "This is due to the unusually slow autofocus system.",
+        "term": "autofocus"
+    },
+    "43": {
+        "id": 43,
+        "polarity": "-",
+        "sentence": "3) The lack of an intermediate resolution setting, as other reviewers have suggested, is a problem, but that problem is meaningless with a larger CompactFlash memory card",
+        "term": "resolution setting"
+    },
+    "44": {
+        "id": 44,
+        "polarity": "-",
+        "sentence": "4) The camera gets really hot when you are busy snapping away.",
+        "term": "hot"
+    },
+    "45": {
+        "id": 45,
+        "polarity": "-",
+        "sentence": "It is hot enough to be annoying.",
+        "term": "hot"
+    },
+    "46": {
+        "id": 46,
+        "polarity": "+",
+        "sentence": "This wonderfully small digital camera produces fantastically good pictures printed on any decent photo-quality printer (with photo quality paper).",
+        "term": "pictures"
+    },
+    "47": {
+        "id": 47,
+        "polarity": "+",
+        "sentence": "This wonderfully small digital camera produces fantastically good pictures printed on any decent photo-quality printer (with photo quality paper).",
+        "term": "small"
+    },
+    "48": {
+        "id": 48,
+        "polarity": "+",
+        "sentence": "It will not replace your high-end 35mm SLR but it's a great toy to keep near you at all times for snapshots.",
+        "term": "snapshots"
+    },
+    "49": {
+        "id": 49,
+        "polarity": "+",
+        "sentence": "This IS the best camera you can have for digital images if you want to:",
+        "term": "camera"
+    },
+    "50": {
+        "id": 50,
+        "polarity": "+",
+        "sentence": "Take quick pictures with excelent resolution",
+        "term": "pictures"
+    },
+    "51": {
+        "id": 51,
+        "polarity": "+",
+        "sentence": "Hate to wait between shots",
+        "term": "wait"
+    },
+    "52": {
+        "id": 52,
+        "polarity": "+",
+        "sentence": "Download it fast to your computer",
+        "term": "Download"
+    },
+    "53": {
+        "id": 53,
+        "polarity": "+",
+        "sentence": "Have a great and easy to use bundled software",
+        "term": "bundled software"
+    },
+    "54": {
+        "id": 54,
+        "polarity": "+",
+        "sentence": "Travel with it without knowing you have it in your pocket",
+        "term": "size"
+    },
+    "55": {
+        "id": 55,
+        "polarity": "+",
+        "sentence": "FYI, Battery doesn't die if you don't use LCD",
+        "term": "Battery"
+    },
+    "56": {
+        "id": 56,
+        "polarity": "+",
+        "sentence": "The color and light I captured with this camera on a 12-day trip to Turkey (gorgeous vividly colored ceramic tiles inside darkened mosques) were far superior to anything I've ever gotten with a traditional 35-mm film camera.",
+        "term": "color and light"
+    },
+    "57": {
+        "id": 57,
+        "polarity": "+",
+        "sentence": "I love this camera.",
+        "term": "camera"
+    },
+    "58": {
+        "id": 58,
+        "polarity": "+",
+        "sentence": "I don't believe this camera is still available. But if you can find one, you might like to get it.",
+        "term": "camera"
+    },
+    "59": {
+        "id": 59,
+        "polarity": "+",
+        "sentence": "It's still one of the smallest 2MP digital cameras on the market, and absolutely one of the best-built most stylish cameras ever.",
+        "term": "smallest"
+    },
+    "60": {
+        "id": 60,
+        "polarity": "+",
+        "sentence": "It's still one of the smallest 2MP digital cameras on the market, and absolutely one of the best-built most stylish cameras ever.",
+        "term": "best-built"
+    },
+    "61": {
+        "id": 61,
+        "polarity": "+",
+        "sentence": "I am very pleased with my purchase.",
+        "term": "purchase"
+    },
+    "62": {
+        "id": 62,
+        "polarity": "+",
+        "sentence": "I've been incredibly happy with this camera.",
+        "term": "camera"
+    },
+    "63": {
+        "id": 63,
+        "polarity": "+",
+        "sentence": "This camera is great if you're used to a high-end SLR.",
+        "term": "camera"
+    },
+    "64": {
+        "id": 64,
+        "polarity": "+",
+        "sentence": "It's overkill for simple snapshots, unless you've got way too much money to blow.",
+        "term": "snapshots"
+    },
+    "65": {
+        "id": 65,
+        "polarity": "+",
+        "sentence": "Exposure compensation in 1/3 stop increments (I leave it set on +1/3 stop to brighten up the default exposure, which goes a bit dark for my taste).",
+        "term": "Exposure"
+    },
+    "66": {
+        "id": 66,
+        "polarity": "+",
+        "sentence": "Slow-syncro flash, macro/infinity mode, etc.",
+        "term": " mode"
+    },
+    "67": {
+        "id": 67,
+        "polarity": "+",
+        "sentence": "Slow-syncro flash, macro/infinity mode, etc.",
+        "term": "flash"
+    },
+    "68": {
+        "id": 68,
+        "polarity": "-",
+        "sentence": "The zoom range is a little narrow (35-70mm in 35mm film equivalent), but given that the camera is the same as my wallet, I can't think of any real complaint.",
+        "term": "zoom range"
+    },
+    "69": {
+        "id": 69,
+        "polarity": "+",
+        "sentence": "The zoom range is a little narrow (35-70mm in 35mm film equivalent), but given that the camera is the same as my wallet, I can't think of any real complaint.",
+        "term": "small"
+    },
+    "70": {
+        "id": 70,
+        "polarity": "+",
+        "sentence": "The SS body is wonderful, feels high-quality.",
+        "term": "body"
+    },
+    "71": {
+        "id": 71,
+        "polarity": "+",
+        "sentence": "It's the same body as the popular ELP2 APS camera (take a look at a standard credit card from your wallet and you'll have an idea of the front profile!).",
+        "term": "body"
+    },
+    "72": {
+        "id": 72,
+        "polarity": "-",
+        "sentence": "I left the camera in my car in Maine (not a very hot place) and the LCD screen cracked !",
+        "term": "lcd"
+    },
+    "73": {
+        "id": 73,
+        "polarity": "-",
+        "sentence": "I then realized a major design flaw.",
+        "term": "design"
+    },
+    "74": {
+        "id": 74,
+        "polarity": "-",
+        "sentence": "All the camera's functionality is only available (or selectable) when the screen is functional.",
+        "term": "functionality"
+    },
+    "75": {
+        "id": 75,
+        "polarity": "-",
+        "sentence": "When the screen stops working, you're out of luck !",
+        "term": "screen"
+    },
+    "76": {
+        "id": 76,
+        "polarity": "+",
+        "sentence": "I discovered that the camera has a manual mode that gives you total control over exposure, white balance, flash (red eye, person against bright background, flash on, flash off, flash automatic).",
+        "term": "manual mode"
+    },
+    "77": {
+        "id": 77,
+        "polarity": "-",
+        "sentence": "The viewfinder does not accurately represent the pucture being taken.",
+        "term": "viewfinder"
+    },
+    "78": {
+        "id": 78,
+        "polarity": "-",
+        "sentence": "The digital zoom is crap.",
+        "term": "zoom"
+    },
+    "79": {
+        "id": 79,
+        "polarity": "+",
+        "sentence": "It fits in your pocket.",
+        "term": "fits"
+    },
+    "80": {
+        "id": 80,
+        "polarity": "+",
+        "sentence": "The panorama setting is unbelieveable !",
+        "term": "panorama setting"
+    },
+    "81": {
+        "id": 81,
+        "polarity": "-",
+        "sentence": "The pictures are a little dark sometimes.",
+        "term": "pictures"
+    },
+    "82": {
+        "id": 82,
+        "polarity": "+",
+        "sentence": "You have the option to have the flash automatic or off.",
+        "term": "flash"
+    },
+    "83": {
+        "id": 83,
+        "polarity": "+",
+        "sentence": "The new Canon s300 is 33% larger and 26% heavier than the S100.",
+        "term": "S100"
+    },
+    "84": {
+        "id": 84,
+        "polarity": "-",
+        "sentence": "The movie mode can only record a max of 30 seconds at 160X120 per clip and a max of 4 seconds at 640X480.",
+        "term": "movie mode"
+    },
+    "85": {
+        "id": 85,
+        "polarity": "+",
+        "sentence": "It has one more resolution of 1024X768 and a \"Normal\" compression mode.  And, it has the 3X zoom.",
+        "term": "mode"
+    },
+    "86": {
+        "id": 86,
+        "polarity": "-",
+        "sentence": "The price is $... more.",
+        "term": "price"
+    },
+    "87": {
+        "id": 87,
+        "polarity": "-",
+        "sentence": "I originally gave this camera 5 stars. When I had Windows 98 it was wonderful but I got a new computer last November with XP the usb software is Sooo... not compatible with XP",
+        "term": "software"
+    },
+    "88": {
+        "id": 88,
+        "polarity": "-",
+        "sentence": "The new drivers on cannon's site do not help at all but try them if you want they have made me have to use the backup software.",
+        "term": "drivers"
+    },
+    "89": {
+        "id": 89,
+        "polarity": "-",
+        "sentence": "The Adobe software also was wonderful in 98 but it will not let you print correctly with XP so you are forced to create your document then either print it from Windows or export it to another application.",
+        "term": "software"
+    },
+    "90": {
+        "id": 90,
+        "polarity": "+",
+        "sentence": "But it takes gorgeous pictures for a 2.1 MP camera.",
+        "term": "pictures"
+    },
+    "91": {
+        "id": 91,
+        "polarity": "+",
+        "sentence": "I love this camera!",
+        "term": "camera"
+    },
+    "92": {
+        "id": 92,
+        "polarity": "-",
+        "sentence": " the only thing I don't like about it is that You have to buy a larger memory card, first thing!",
+        "term": "memory"
+    },
+    "93": {
+        "id": 93,
+        "polarity": "+",
+        "sentence": "I got this camera for an unbelievably low price at amazon.",
+        "term": "price"
+    },
+    "94": {
+        "id": 94,
+        "polarity": "+",
+        "sentence": "I would recommend this camera unequivocally!",
+        "term": "camera"
+    },
+    "95": {
+        "id": 95,
+        "polarity": "+",
+        "sentence": "I got this camera for an unbelievably low price at amazon.",
+        "term": "camera"
+    },
+    "96": {
+        "id": 96,
+        "polarity": "+",
+        "sentence": "I would recommend this camera unequivocally!",
+        "term": "camera"
+    },
+    "97": {
+        "id": 97,
+        "polarity": "+",
+        "sentence": "But this DOES work even if you turn off the LCD viewing -- great  battery saver.",
+        "term": "battery"
+    },
+    "98": {
+        "id": 98,
+        "polarity": "+",
+        "sentence": "A great camera, but here are some points which I don't notice in most of the reviews here, which may be of concern especially to the more advanced amatuer:",
+        "term": "camera"
+    },
+    "99": {
+        "id": 99,
+        "polarity": "+",
+        "sentence": "I purchased the Elph s100 mainly because I thought it was cool.",
+        "term": "Elph s100"
+    },
+    "100": {
+        "id": 100,
+        "polarity": "+",
+        "sentence": "The camera does a great job with exposure and prints made with my professional printer looks great (not as good as prints from my pro digital camera, but still VERY good).",
+        "term": "prints"
+    },
+    "101": {
+        "id": 101,
+        "polarity": "+",
+        "sentence": "The camera does a great job with exposure and prints made with my professional printer looks great (not as good as prints from my pro digital camera, but still VERY good).",
+        "term": "exposure"
+    },
+    "102": {
+        "id": 102,
+        "polarity": "+",
+        "sentence": "But I was ready to upgrade and when I discovered that Canon  was going to come out with an even smaller digital camera with a higher  resolution, I had to have the S100.",
+        "term": "resolution"
+    },
+    "103": {
+        "id": 103,
+        "polarity": "+",
+        "sentence": "But I was ready to upgrade and when I discovered that Canon  was going to come out with an even smaller digital camera with a higher  resolution, I had to have the S100.",
+        "term": "smaller"
+    },
+    "104": {
+        "id": 104,
+        "polarity": "+",
+        "sentence": "This is my second digital camera, but I'm much more impressed with the Canon S100 Digital Elph than I EVER was with my Kodak DC240.",
+        "term": "S100"
+    },
+    "105": {
+        "id": 105,
+        "polarity": "+",
+        "sentence": "This camera is so light and tiny that I literally carry it everywhere with me, which is great considering I'm an artist and like to capture interesting items for future painting.",
+        "term": "tiny"
+    },
+    "106": {
+        "id": 106,
+        "polarity": "+",
+        "sentence": "This camera is so light and tiny that I literally carry it everywhere with me, which is great considering I'm an artist and like to capture interesting items for future painting.",
+        "term": "light"
+    },
+    "107": {
+        "id": 107,
+        "polarity": "+",
+        "sentence": "The software that comes with the Digital Elph is very nice and intuitive.",
+        "term": "software"
+    },
+    "108": {
+        "id": 108,
+        "polarity": "+",
+        "sentence": "The PhotoStitch software is very cool if you want to do any 360 degree panorama shots.",
+        "term": "software"
+    },
+    "109": {
+        "id": 109,
+        "polarity": "-",
+        "sentence": "My only complaint and the reason I gave it 4 stars instead of 5 is that the on-camera controls aren't as intuitive as they should be.",
+        "term": "on-camera controls"
+    },
+    "110": {
+        "id": 110,
+        "polarity": "-",
+        "sentence": "I've often struggled to get something to work the way I want it, and hate to have to carry the manual with me all the time!",
+        "term": "work"
+    },
+    "111": {
+        "id": 111,
+        "polarity": "+",
+        "sentence": "Other than that, I love this camera.",
+        "term": "camera"
+    },
+    "112": {
+        "id": 112,
+        "polarity": "+",
+        "sentence": "The pictures are uniformly excellent and color rendering is perfect.",
+        "term": "pictures"
+    },
+    "113": {
+        "id": 113,
+        "polarity": "+",
+        "sentence": "The pictures are uniformly excellent and color rendering is perfect.",
+        "term": "color rendering"
+    },
+    "114": {
+        "id": 114,
+        "polarity": "+",
+        "sentence": "The good:  Small size; durable-seeming metal case; easy to use; visually distinctive; good picture quality; fast USB connection; mostly intuitive operation; really cool PhotoStitch software that knits pictures together to give wide panoramas.",
+        "term": "software"
+    },
+    "115": {
+        "id": 115,
+        "polarity": "+",
+        "sentence": "The good:  Small size; durable-seeming metal case; easy to use; visually distinctive; good picture quality; fast USB connection; mostly intuitive operation; really cool PhotoStitch software that knits pictures together to give wide panoramas.",
+        "term": "picture quality"
+    },
+    "116": {
+        "id": 116,
+        "polarity": "+",
+        "sentence": "The good:  Small size; durable-seeming metal case; easy to use; visually distinctive; good picture quality; fast USB connection; mostly intuitive operation; really cool PhotoStitch software that knits pictures together to give wide panoramas.",
+        "term": "metal case"
+    },
+    "117": {
+        "id": 117,
+        "polarity": "+",
+        "sentence": "The good:  Small size; durable-seeming metal case; easy to use; visually distinctive; good picture quality; fast USB connection; mostly intuitive operation; really cool PhotoStitch software that knits pictures together to give wide panoramas.",
+        "term": "size"
+    },
+    "118": {
+        "id": 118,
+        "polarity": "+",
+        "sentence": "The good:  Small size; durable-seeming metal case; easy to use; visually distinctive; good picture quality; fast USB connection; mostly intuitive operation; really cool PhotoStitch software that knits pictures together to give wide panoramas.",
+        "term": "use"
+    },
+    "119": {
+        "id": 119,
+        "polarity": "+",
+        "sentence": "If compact size is your highest priority in a 2-megapixel camera, the Canon PowerShot S100 Digital Elph is a standout choice and aptly named for its diminutive design.",
+        "term": "size"
+    },
+    "120": {
+        "id": 120,
+        "polarity": "+",
+        "sentence": "If compact size is your highest priority in a 2-megapixel camera, the Canon PowerShot S100 Digital Elph is a standout choice and aptly named for its diminutive design.",
+        "term": "S100"
+    },
+    "121": {
+        "id": 121,
+        "polarity": "+",
+        "sentence": "The S100's image quality rates in the middle of its class, but it can still be a reasonable choice for students, families, or small businesses looking for an ultra-portable camera that weighs less than half a pound with media and battery pack.",
+        "term": "image quality"
+    },
+    "122": {
+        "id": 122,
+        "polarity": "+",
+        "sentence": "The S100's image quality rates in the middle of its class, but it can still be a reasonable choice for students, families, or small businesses looking for an ultra-portable camera that weighs less than half a pound with media and battery pack.",
+        "term": "weighs"
+    },
+    "123": {
+        "id": 123,
+        "polarity": "+",
+        "sentence": "I purchased this camera before it went on sale, and while I wouldn't have minded keeping the extra $$$, it was definitely worth it.",
+        "term": "camera"
+    },
+    "124": {
+        "id": 124,
+        "polarity": "+",
+        "sentence": "I have been absolutely, completely satisfied with the product and its capabilities.",
+        "term": "product"
+    },
+    "125": {
+        "id": 125,
+        "polarity": "+",
+        "sentence": "This is a great product, and Canon has done an excellent job.",
+        "term": "product"
+    },
+    "126": {
+        "id": 126,
+        "polarity": "+",
+        "sentence": "I received this little jewel as a gift and I can honestly say Iabsolutely love it.",
+        "term": "jewel"
+    },
+    "127": {
+        "id": 127,
+        "polarity": "+",
+        "sentence": "I give this product five stars for its usability,performance, expandability, and definitely looks!",
+        "term": "expandability"
+    },
+    "128": {
+        "id": 128,
+        "polarity": "+",
+        "sentence": "I give this product five stars for its usability,performance, expandability, and definitely looks!",
+        "term": "looks"
+    },
+    "129": {
+        "id": 129,
+        "polarity": "+",
+        "sentence": "I give this product five stars for its usability,performance, expandability, and definitely looks!",
+        "term": "usability"
+    },
+    "130": {
+        "id": 130,
+        "polarity": "+",
+        "sentence": "I give this product five stars for its usability,performance, expandability, and definitely looks!",
+        "term": "performance"
+    },
+    "131": {
+        "id": 131,
+        "polarity": "+",
+        "sentence": "First, I have to say that I have NEVER had the slightest problem with this camera or the software.",
+        "term": "software"
+    },
+    "132": {
+        "id": 132,
+        "polarity": "+",
+        "sentence": "First, I have to say that I have NEVER had the slightest problem with this camera or the software.",
+        "term": "camera"
+    },
+    "133": {
+        "id": 133,
+        "polarity": "+",
+        "sentence": "The software has been installed on Windows 95, 98, 2000 and XP and I haven't had any problems with it.",
+        "term": "software"
+    },
+    "134": {
+        "id": 134,
+        "polarity": "+",
+        "sentence": "The camera is solid, performs well, takes good pictures, and the battery lasts pretty long if you disable the LCD viewfinder.",
+        "term": "camera"
+    },
+    "135": {
+        "id": 135,
+        "polarity": "+",
+        "sentence": "The camera is solid, performs well, takes good pictures, and the battery lasts pretty long if you disable the LCD viewfinder.",
+        "term": "picture"
+    },
+    "136": {
+        "id": 136,
+        "polarity": "+",
+        "sentence": "The camera is solid, performs well, takes good pictures, and the battery lasts pretty long if you disable the LCD viewfinder.",
+        "term": "battery"
+    },
+    "137": {
+        "id": 137,
+        "polarity": "+",
+        "sentence": "The camera is solid, performs well, takes good pictures, and the battery lasts pretty long if you disable the LCD viewfinder.",
+        "term": "performs"
+    },
+    "138": {
+        "id": 138,
+        "polarity": "-",
+        "sentence": "All that said, I am a little disappointed with the quality of the pictures from the camera.",
+        "term": "pictures"
+    },
+    "139": {
+        "id": 139,
+        "polarity": "+",
+        "sentence": "They are razor sharp, the color balance is perfect, and the focus is great.",
+        "term": "focus"
+    },
+    "140": {
+        "id": 140,
+        "polarity": "+",
+        "sentence": "They are razor sharp, the color balance is perfect, and the focus is great.",
+        "term": "color balance"
+    },
+    "141": {
+        "id": 141,
+        "polarity": "+",
+        "sentence": "They are razor sharp, the color balance is perfect, and the focus is great.",
+        "term": "sharp"
+    },
+    "142": {
+        "id": 142,
+        "polarity": "-",
+        "sentence": "When taking pictures of people, however, it shows EVERY flaw in the subject's skin.",
+        "term": "pictures of people"
+    },
+    "143": {
+        "id": 143,
+        "polarity": "-",
+        "sentence": "Other cameras taking pics of the same subjects turn out looking much better.",
+        "term": "pics"
+    },
+    "144": {
+        "id": 144,
+        "polarity": "-",
+        "sentence": "I will also say that it takes a very long moment for the camera to do its digital image processing between the time you press the button and when the camera actually takes the picture.",
+        "term": "processing"
+    },
+    "145": {
+        "id": 145,
+        "polarity": "+",
+        "sentence": "I must say, I think this is the coolest camera I've ever  owned!",
+        "term": "camera"
+    },
+    "146": {
+        "id": 146,
+        "polarity": "+",
+        "sentence": "First, it really is tiny; the size of a pack of cigarettes, maybe  a scooch deeper.",
+        "term": "size"
+    },
+    "147": {
+        "id": 147,
+        "polarity": "+",
+        "sentence": "Second, it is  incredibly easy to use.",
+        "term": "use"
+    },
+    "148": {
+        "id": 148,
+        "polarity": "+",
+        "sentence": "I just went on a quick photo shoot in NYC's  Central Park today, and what a bunch of beautiful photos I took, if I do  say so myself (and I do!)",
+        "term": "photos"
+    },
+    "149": {
+        "id": 149,
+        "polarity": "+",
+        "sentence": "The camera is as easy to use as a point and  shoot, and with instant review on the LCD screen, you can retake any  flubbed shots on the spot.",
+        "term": "use"
+    },
+    "150": {
+        "id": 150,
+        "polarity": "+",
+        "sentence": "The two-times optical zoom operates smoothly  and quietly, and lo and behold, a two-piece shutter-like cap automatically  slides closed over the lens when you turn the camera off.",
+        "term": "cap"
+    },
+    "151": {
+        "id": 151,
+        "polarity": "+",
+        "sentence": "The two-times optical zoom operates smoothly  and quietly, and lo and behold, a two-piece shutter-like cap automatically  slides closed over the lens when you turn the camera off.",
+        "term": "optical zoom"
+    },
+    "152": {
+        "id": 152,
+        "polarity": "+",
+        "sentence": "I also had no  problems installing or running the camera software on my PC.",
+        "term": "software"
+    },
+    "153": {
+        "id": 153,
+        "polarity": "+",
+        "sentence": "At any rate, if you have been interested in  digital photography but the price and confusion have held you back,  consider the Canon S100 Digital Elph.",
+        "term": "S100"
+    },
+    "154": {
+        "id": 154,
+        "polarity": "+",
+        "sentence": "It really is the perfect travel  camera, plus it offers the convenience of digital photography.",
+        "term": "camera"
+    },
+    "155": {
+        "id": 155,
+        "polarity": "+",
+        "sentence": "Really like it, easy to use, great images, very intuitive, fits in my jacket pocket.",
+        "term": "use"
+    },
+    "156": {
+        "id": 156,
+        "polarity": "+",
+        "sentence": "Really like it, easy to use, great images, very intuitive, fits in my jacket pocket.",
+        "term": "fits"
+    },
+    "157": {
+        "id": 157,
+        "polarity": "+",
+        "sentence": "Really like it, easy to use, great images, very intuitive, fits in my jacket pocket.",
+        "term": "images"
+    },
+    "158": {
+        "id": 158,
+        "polarity": "+",
+        "sentence": "I was looking for a compact, rugged (I carry it hiking, skiing, boating, etc) camera which is easy to use.",
+        "term": "compact"
+    },
+    "159": {
+        "id": 159,
+        "polarity": "+",
+        "sentence": "I was looking for a compact, rugged (I carry it hiking, skiing, boating, etc) camera which is easy to use.",
+        "term": "rugged"
+    },
+    "160": {
+        "id": 160,
+        "polarity": "+",
+        "sentence": "I was looking for a compact, rugged (I carry it hiking, skiing, boating, etc) camera which is easy to use.",
+        "term": "use"
+    },
+    "161": {
+        "id": 161,
+        "polarity": "+",
+        "sentence": "I wanted standard memory expansion (CF cards), macro mode, and if possible, a waterproof housing (for kayaking).",
+        "term": "macro mode"
+    },
+    "162": {
+        "id": 162,
+        "polarity": "+",
+        "sentence": "I wanted standard memory expansion (CF cards), macro mode, and if possible, a waterproof housing (for kayaking).",
+        "term": "memory expansion"
+    },
+    "163": {
+        "id": 163,
+        "polarity": "+",
+        "sentence": "I wanted standard memory expansion (CF cards), macro mode, and if possible, a waterproof housing (for kayaking).",
+        "term": "housing"
+    },
+    "164": {
+        "id": 164,
+        "polarity": "+",
+        "sentence": "Even with the waterproof housing it is small.",
+        "term": "small"
+    },
+    "165": {
+        "id": 165,
+        "polarity": "+",
+        "sentence": "The lens retracts and has its own metal cover so you don't need to fuss with a lens cap.",
+        "term": "lens"
+    },
+    "166": {
+        "id": 166,
+        "polarity": "+",
+        "sentence": "The metal housing seems very rugged.",
+        "term": "housing"
+    },
+    "167": {
+        "id": 167,
+        "polarity": "-",
+        "sentence": "I'd give it  5 stars if the automatic modes were better and if there were true manual focus and exposure modes.",
+        "term": "automatic modes"
+    },
+    "168": {
+        "id": 168,
+        "polarity": "-",
+        "sentence": "For example, in auto mode you can't use the flash redeye reduction, you must be in manual mode for that.",
+        "term": "auto mode"
+    },
+    "169": {
+        "id": 169,
+        "polarity": "-",
+        "sentence": "The auto color balance is often fooled by dense clouds.",
+        "term": "auto color balance"
+    },
+    "170": {
+        "id": 170,
+        "polarity": "-",
+        "sentence": "The dynamic range seems not quite as good as the Kodak DC260.",
+        "term": "dynamic range"
+    },
+    "171": {
+        "id": 171,
+        "polarity": "+",
+        "sentence": "The macro mode works well, although it takes some practice since the camera doesn't clearly indicate when it can't focus.",
+        "term": "macro mode"
+    },
+    "172": {
+        "id": 172,
+        "polarity": "+",
+        "sentence": "The white-LED backlit LCD is very bright and crisp, even in sunlight, and relatively easy on the battery.",
+        "term": "LCD"
+    },
+    "173": {
+        "id": 173,
+        "polarity": "+",
+        "sentence": "The panorama modes are wonderful.",
+        "term": "panorama modes"
+    },
+    "174": {
+        "id": 174,
+        "polarity": "+",
+        "sentence": "It's so small and light, even with a spare battery, you really can take it anywhere.",
+        "term": "small"
+    }
+}

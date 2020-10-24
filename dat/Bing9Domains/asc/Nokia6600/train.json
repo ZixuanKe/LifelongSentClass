@@ -1,0 +1,2174 @@
+{
+    "0": {
+        "id": 0,
+        "polarity": "+",
+        "sentence": "I've had this beauty for nearly 2 months now and I truely love it.",
+        "term": "phone"
+    },
+    "1": {
+        "id": 1,
+        "polarity": "-",
+        "sentence": "The only disappointment so far has been battery life.",
+        "term": "battery life"
+    },
+    "2": {
+        "id": 2,
+        "polarity": "-",
+        "sentence": "Mine generally requires a charege every 48 hours or so and I don't really talk on it that much.",
+        "term": "battery life"
+    },
+    "3": {
+        "id": 3,
+        "polarity": "+",
+        "sentence": "It has it all.",
+        "term": "phone"
+    },
+    "4": {
+        "id": 4,
+        "polarity": "+",
+        "sentence": "This is the first phone I know of that has the large bright screen, infrared, bluetooth, USB connector and a speakerphone.",
+        "term": "phone"
+    },
+    "5": {
+        "id": 5,
+        "polarity": "+",
+        "sentence": "If you are looking for an upgrade, this is definitely the phone for you.",
+        "term": "phone"
+    },
+    "6": {
+        "id": 6,
+        "polarity": "+",
+        "sentence": "3660 had similar features, but that is big in size.",
+        "term": "size"
+    },
+    "7": {
+        "id": 7,
+        "polarity": "+",
+        "sentence": "6600 looks and feels nice.",
+        "term": "6600"
+    },
+    "8": {
+        "id": 8,
+        "polarity": "+",
+        "sentence": "This one is full of features(has bluetooth).",
+        "term": "bluetooth"
+    },
+    "9": {
+        "id": 9,
+        "polarity": "+",
+        "sentence": "Especially the LCD is big and the camera quality is among the very best around.",
+        "term": "LCD"
+    },
+    "10": {
+        "id": 10,
+        "polarity": "+",
+        "sentence": "I have set up it's PDA features with avantgo.com where you can download info from sites like weather,mapquest maps/directions into it, which is great.",
+        "term": "PDA"
+    },
+    "11": {
+        "id": 11,
+        "polarity": "+",
+        "sentence": "Using supplied s/w, you can transfer all addresses from a different nokia phone into it.",
+        "term": "s/w"
+    },
+    "12": {
+        "id": 12,
+        "polarity": "+",
+        "sentence": "Goes ~3 days after a charge.",
+        "term": "battery life"
+    },
+    "13": {
+        "id": 13,
+        "polarity": "-",
+        "sentence": "I purchased this phone knowing it was slightly old as compared to the newer models of Nokia phones available.",
+        "term": "phone"
+    },
+    "14": {
+        "id": 14,
+        "polarity": "-",
+        "sentence": "I thought it was kind of steeply priced at that time.",
+        "term": "priced"
+    },
+    "15": {
+        "id": 15,
+        "polarity": "+",
+        "sentence": "I must add to the dismay/delight of readers this phone is simply the most groundbreaking phone mankind has ever held.",
+        "term": "phone"
+    },
+    "16": {
+        "id": 16,
+        "polarity": "+",
+        "sentence": "It has raised the bar owing to number of features it offers and the absolute ease of use delight.",
+        "term": "use"
+    },
+    "17": {
+        "id": 17,
+        "polarity": "+",
+        "sentence": "1.The Phone has the best keypad any Nokia phone has to offer.",
+        "term": "keypad"
+    },
+    "18": {
+        "id": 18,
+        "polarity": "+",
+        "sentence": "Believe me when I say this I have used and fingered all Nokia phones and the 6600 has the best keypad",
+        "term": "keypad"
+    },
+    "19": {
+        "id": 19,
+        "polarity": "+",
+        "sentence": "I must admit its not the best looking phone ever but then it has this look of static and absolute conviction that looks like everything a phone should be",
+        "term": "look"
+    },
+    "20": {
+        "id": 20,
+        "polarity": "+",
+        "sentence": "3. The Nokia 6600 has a brilliant Java interface.",
+        "term": "interface"
+    },
+    "21": {
+        "id": 21,
+        "polarity": "+",
+        "sentence": "The Phone offers a 32 Mb MMC card and I think that is certainly the most exciting feature.",
+        "term": "MMC card"
+    },
+    "22": {
+        "id": 22,
+        "polarity": "+",
+        "sentence": "Capacity is not a problem here.",
+        "term": "Capacity"
+    },
+    "23": {
+        "id": 23,
+        "polarity": "+",
+        "sentence": "4. The Build is just right.",
+        "term": "Build"
+    },
+    "24": {
+        "id": 24,
+        "polarity": "+",
+        "sentence": "The phone is sturdy.",
+        "term": "sturdy"
+    },
+    "25": {
+        "id": 25,
+        "polarity": "+",
+        "sentence": "I've dropped it atleast a dozen times to my recolletion and it still works as good as ever.",
+        "term": "build"
+    },
+    "26": {
+        "id": 26,
+        "polarity": "+",
+        "sentence": "Its a tough one this unless you wanna drive your car over it.",
+        "term": "phone"
+    },
+    "27": {
+        "id": 27,
+        "polarity": "+",
+        "sentence": "This isn't the most rugged phone ever but then your not gonna play aeroplane with this,are you.",
+        "term": "phone"
+    },
+    "28": {
+        "id": 28,
+        "polarity": "+",
+        "sentence": "5.The Camera installed on this phone is awesome.",
+        "term": "Camera"
+    },
+    "29": {
+        "id": 29,
+        "polarity": "+",
+        "sentence": "I click pictures in JPG format and because the phone has a bluetooth device I find it extremely easy to transfer pics to my pc and forth.",
+        "term": "bluetooth"
+    },
+    "30": {
+        "id": 30,
+        "polarity": "+",
+        "sentence": "The display and brightness on this phone is quite extraordinary.",
+        "term": "display"
+    },
+    "31": {
+        "id": 31,
+        "polarity": "+",
+        "sentence": "The use of 65536 (16bit) colors ensures you get your share of animations and icons on your phone",
+        "term": "colors"
+    },
+    "32": {
+        "id": 32,
+        "polarity": "+",
+        "sentence": "It has great upgradibility.",
+        "term": "upgradibility"
+    },
+    "33": {
+        "id": 33,
+        "polarity": "+",
+        "sentence": "The log functions helps you track down the incoming , outgoing calls in the most easy of ways.",
+        "term": "log"
+    },
+    "34": {
+        "id": 34,
+        "polarity": "+",
+        "sentence": "The handsfree provided by the phone is useful for those who talk on the phone while driving.",
+        "term": "handsfree"
+    },
+    "35": {
+        "id": 35,
+        "polarity": "-",
+        "sentence": "Anyhow some demerits of this phone, The phone has a slow processor and the ear volume is lower than 6610 but then the 6610 has the best ear volume among most Nokia variants.",
+        "term": "processor"
+    },
+    "36": {
+        "id": 36,
+        "polarity": "-",
+        "sentence": "The battery life of this phone is at most 2 days and at least one day at excessive use.",
+        "term": "battery life"
+    },
+    "37": {
+        "id": 37,
+        "polarity": "-",
+        "sentence": "Video recording is limited at just 9 seconds.",
+        "term": "Video recording"
+    },
+    "38": {
+        "id": 38,
+        "polarity": "-",
+        "sentence": "You can upgrade but then there's a certain level of trouble involved.",
+        "term": "upgrade"
+    },
+    "39": {
+        "id": 39,
+        "polarity": "+",
+        "sentence": "This makes for a great phone.",
+        "term": "phone"
+    },
+    "40": {
+        "id": 40,
+        "polarity": "-",
+        "sentence": "I've had Nokia's for years, and while this one is packed with whiz bang features it is disappointing for its primary use - a phone.",
+        "term": "phone"
+    },
+    "41": {
+        "id": 41,
+        "polarity": "-",
+        "sentence": "On the plus side it's packed with features, including BlueTooth that works fine - it's really a tiny computer that is also a phone... and that's the negative.",
+        "term": "phone"
+    },
+    "42": {
+        "id": 42,
+        "polarity": "-",
+        "sentence": "As a computer, or PDA its weak since the screen, while large by phone standards, is still tiny to really do anything on.",
+        "term": "screen"
+    },
+    "43": {
+        "id": 43,
+        "polarity": "-",
+        "sentence": "When you dial a number, you'll need to check the screen to see that the number entered is correct.",
+        "term": "dial"
+    },
+    "44": {
+        "id": 44,
+        "polarity": "-",
+        "sentence": "You'll do that because the keys are tightly packed in and your fingers will likely press two keys at once.",
+        "term": "keys"
+    },
+    "45": {
+        "id": 45,
+        "polarity": "-",
+        "sentence": "I hope you have a magnifying glass, because the number displayed as well as most of the pop up options are tiny.",
+        "term": "screen"
+    },
+    "46": {
+        "id": 46,
+        "polarity": "-",
+        "sentence": "It's as though Nokia has segregated 90% of the screen for fancy features rarely used and leave just 10% for the day to day use.",
+        "term": "screen"
+    },
+    "47": {
+        "id": 47,
+        "polarity": "-",
+        "sentence": "I've have many Nokia's and while this is the best for features, it's the worst as a phone.",
+        "term": "phone"
+    },
+    "48": {
+        "id": 48,
+        "polarity": "+",
+        "sentence": "This phone is flashy and feels good in the hand, but it could not hold a connection to any of my bluetooth devices (headset, handheld, or desktop computer).",
+        "term": "feels"
+    },
+    "49": {
+        "id": 49,
+        "polarity": "-",
+        "sentence": "This phone is flashy and feels good in the hand, but it could not hold a connection to any of my bluetooth devices (headset, handheld, or desktop computer).",
+        "term": "bluetooth"
+    },
+    "50": {
+        "id": 50,
+        "polarity": "-",
+        "sentence": "My old Siemens s56, on the other hand, worked beautifully with all of the above.",
+        "term": "phone"
+    },
+    "51": {
+        "id": 51,
+        "polarity": "-",
+        "sentence": "who in the hell needs a frigging *VGA* camera on their CELLPHONE???",
+        "term": "camera"
+    },
+    "52": {
+        "id": 52,
+        "polarity": "+",
+        "sentence": "since then, i have not found one major problem with it.",
+        "term": "phone"
+    },
+    "53": {
+        "id": 53,
+        "polarity": "+",
+        "sentence": "i highly recommend it if you are looking for a phone with great camera quality and/or lots of features you would find in a PDA.",
+        "term": "camera"
+    },
+    "54": {
+        "id": 54,
+        "polarity": "-",
+        "sentence": "Sure, it is a relatively bulky, but it is really packed with many great features.",
+        "term": "bulky"
+    },
+    "55": {
+        "id": 55,
+        "polarity": "+",
+        "sentence": "Sure, it is a relatively bulky, but it is really packed with many great features.",
+        "term": "features"
+    },
+    "56": {
+        "id": 56,
+        "polarity": "+",
+        "sentence": "I own this phone for about 6 months now, I have used the following features: bluetooth connection to laptop and desktop for sync contacts and calendars with Outlook, transfer files (movies, songs), I have many movies on it now with a 512MB memory card that it takes.",
+        "term": "bluetooth"
+    },
+    "57": {
+        "id": 57,
+        "polarity": "+",
+        "sentence": "Handsfree future is good, but not too exciting.",
+        "term": "Handsfree"
+    },
+    "58": {
+        "id": 58,
+        "polarity": "+",
+        "sentence": "Camera is nice, and video recording for some reason is only limited to 9 seconds.",
+        "term": "Camera"
+    },
+    "59": {
+        "id": 59,
+        "polarity": "-",
+        "sentence": "Camera is nice, and video recording for some reason is only limited to 9 seconds.",
+        "term": "video recording"
+    },
+    "60": {
+        "id": 60,
+        "polarity": "-",
+        "sentence": "Only thing I don't like about it is slow in changing apps, boot up, and sometime it has problem connect thru bluetooth.",
+        "term": "slow"
+    },
+    "61": {
+        "id": 61,
+        "polarity": "-",
+        "sentence": "Only thing I don't like about it is slow in changing apps, boot up, and sometime it has problem connect thru bluetooth.",
+        "term": "bluetooth"
+    },
+    "62": {
+        "id": 62,
+        "polarity": "+",
+        "sentence": "This one has a good looking.",
+        "term": "looking"
+    },
+    "63": {
+        "id": 63,
+        "polarity": "+",
+        "sentence": "It's oval and... nice.",
+        "term": "look"
+    },
+    "64": {
+        "id": 64,
+        "polarity": "+",
+        "sentence": "I like it's shape and it's keypad and joystick.",
+        "term": "joystick"
+    },
+    "65": {
+        "id": 65,
+        "polarity": "+",
+        "sentence": "I like it's shape and it's keypad and joystick.",
+        "term": "shape"
+    },
+    "66": {
+        "id": 66,
+        "polarity": "+",
+        "sentence": "I like it's shape and it's keypad and joystick.",
+        "term": "keypad"
+    },
+    "67": {
+        "id": 67,
+        "polarity": "+",
+        "sentence": "It's easy to use. Not too small, and not too big.",
+        "term": "small"
+    },
+    "68": {
+        "id": 68,
+        "polarity": "+",
+        "sentence": "It's easy to use. Not too small, and not too big.",
+        "term": "use"
+    },
+    "69": {
+        "id": 69,
+        "polarity": "+",
+        "sentence": "The screen is quite big (between all handphone), but the just about 65000 color.",
+        "term": "screen"
+    },
+    "70": {
+        "id": 70,
+        "polarity": "-",
+        "sentence": "And, other else,  the camera is still VGA.",
+        "term": "camera"
+    },
+    "71": {
+        "id": 71,
+        "polarity": "-",
+        "sentence": "I must say, this one is quite slow to open an application.",
+        "term": "slow"
+    },
+    "72": {
+        "id": 72,
+        "polarity": "-",
+        "sentence": "Sometimes, it needs few minutes to open an application.",
+        "term": "phone"
+    },
+    "73": {
+        "id": 73,
+        "polarity": "+",
+        "sentence": "Few month ago, it's very popular among my community.",
+        "term": "phone"
+    },
+    "74": {
+        "id": 74,
+        "polarity": "+",
+        "sentence": "It's good.",
+        "term": "phone"
+    },
+    "75": {
+        "id": 75,
+        "polarity": "-",
+        "sentence": "But not good enough for me.",
+        "term": "phone"
+    },
+    "76": {
+        "id": 76,
+        "polarity": "+",
+        "sentence": ":! OK, score 7.0 Oh yes, the newest color of this phone is quite cool.",
+        "term": "color"
+    },
+    "77": {
+        "id": 77,
+        "polarity": "-",
+        "sentence": "I have overall been disappointed with Nokia in the past, finding that Samsung and Motorola tended to have better quality phones.",
+        "term": "Nokia"
+    },
+    "78": {
+        "id": 78,
+        "polarity": "+",
+        "sentence": "While this phone obviously doesn't have the same quality construction as Motorola does, the Nokia 6600 is one of the better phones I've used.",
+        "term": "6600"
+    },
+    "79": {
+        "id": 79,
+        "polarity": "+",
+        "sentence": "What makes it so great is the versatility and the number of features it has.",
+        "term": "versatility"
+    },
+    "80": {
+        "id": 80,
+        "polarity": "+",
+        "sentence": "1) Great audio quality overall.",
+        "term": "audio quality"
+    },
+    "81": {
+        "id": 81,
+        "polarity": "+",
+        "sentence": "Handset quality is great, as is the speakerphone quality and the headset audio quality.",
+        "term": "audio quality"
+    },
+    "82": {
+        "id": 82,
+        "polarity": "+",
+        "sentence": "A decent camera phone for taking quick pictures, movies, and having general all around fun with.",
+        "term": "camera"
+    },
+    "83": {
+        "id": 83,
+        "polarity": "+",
+        "sentence": "3) The joystick design they are using on the new Nokias gives you a great degree of control.",
+        "term": "joystick"
+    },
+    "84": {
+        "id": 84,
+        "polarity": "-",
+        "sentence": "The only problem is that occasionally the joystick does start to dig into your thumb while gaming.",
+        "term": "joystick"
+    },
+    "85": {
+        "id": 85,
+        "polarity": "+",
+        "sentence": "4) One nice thing about Nokias is that they have a ton of ring tone and game choices.",
+        "term": "ring tone"
+    },
+    "86": {
+        "id": 86,
+        "polarity": "+",
+        "sentence": "4) One nice thing about Nokias is that they have a ton of ring tone and game choices.",
+        "term": "game"
+    },
+    "87": {
+        "id": 87,
+        "polarity": "+",
+        "sentence": "If you love your cell phone games or changing your ring tones everyday, Nokia beats everyone else.",
+        "term": "Nokia"
+    },
+    "88": {
+        "id": 88,
+        "polarity": "+",
+        "sentence": "5) Bluetooth wireless technology, so that I can transfer data to and from my computer without messing with any cables.",
+        "term": "Bluetooth"
+    },
+    "89": {
+        "id": 89,
+        "polarity": "+",
+        "sentence": "6) The phone is really wide, which seems to be a turnoff for many people, but the phone is actually easier to grip and feel more ergonomic.",
+        "term": "wide"
+    },
+    "90": {
+        "id": 90,
+        "polarity": "+",
+        "sentence": "I feel much less likely to drop this phone than others, which are actually starting to get too small.",
+        "term": "small"
+    },
+    "91": {
+        "id": 91,
+        "polarity": "-",
+        "sentence": "My biggest concern is that I have found Nokia phones lower quality construction to lead to lower prices, but they also don't last as long.",
+        "term": "construction"
+    },
+    "92": {
+        "id": 92,
+        "polarity": "+",
+        "sentence": "I can tell using the phone that it feels a little flimsier than Motorolas do, but as long as I'm not planning on dropping the phone or running over it with my car it should be just fine.",
+        "term": "construction"
+    },
+    "93": {
+        "id": 93,
+        "polarity": "+",
+        "sentence": "Other than that it meets or surpasses all of my needs and surely won't disappoint any already established Nokia phone fans.",
+        "term": "phone"
+    },
+    "94": {
+        "id": 94,
+        "polarity": "-",
+        "sentence": "OPERATION: It's like BMW's I-Drive - It does it's job, but has the most unintuitive, overly-layered interface.",
+        "term": "interface"
+    },
+    "95": {
+        "id": 95,
+        "polarity": "-",
+        "sentence": "The phone must be shut down & taken apart to change the memory card... and turning the phone back on takes a little while.",
+        "term": "operation"
+    },
+    "96": {
+        "id": 96,
+        "polarity": "-",
+        "sentence": "Even the instruction booklet is out of order.",
+        "term": "instruction booklet"
+    },
+    "97": {
+        "id": 97,
+        "polarity": "+",
+        "sentence": "APPLICATIONS: It has lots of applications and they work very well... when you eventually find where they are and they finally open.",
+        "term": "applications"
+    },
+    "98": {
+        "id": 98,
+        "polarity": "-",
+        "sentence": "No matter how accustomed to the phone you become, too much time is required to get to, open and close applications.",
+        "term": "applications"
+    },
+    "99": {
+        "id": 99,
+        "polarity": "+",
+        "sentence": "The 6600 has more ameneties than most - World phone, Camera (VGA/zoom/night mode/timer), Video (w/ audio & zoom), Speaker (good sound), Bluetooth, infrared, Modem for computers, electronic wallet, Internet access, Calendar, calculator, converter and more.",
+        "term": "6600"
+    },
+    "100": {
+        "id": 100,
+        "polarity": "-",
+        "sentence": "The phone does not have an Mp3-player, FM radio, 200k+ color screen, megapixel camera, quad band, PDA, photo editor.",
+        "term": "phone"
+    },
+    "101": {
+        "id": 101,
+        "polarity": "+",
+        "sentence": "DEPENDABILITY: I've seen no glitches.",
+        "term": "DEPENDABILITY"
+    },
+    "102": {
+        "id": 102,
+        "polarity": "+",
+        "sentence": "I've had no problems w/ this phone.",
+        "term": "phone"
+    },
+    "103": {
+        "id": 103,
+        "polarity": "-",
+        "sentence": "STYLING/ERGONOMICS: The keys are small, which generally doesn't bother me if they are spaced because I can employ a little 'Braille,' but the keys run into each other, so careful attn. must be paid when dialing.",
+        "term": "keys"
+    },
+    "104": {
+        "id": 104,
+        "polarity": "-",
+        "sentence": "It's not as stylized as a Sony or Samsung.",
+        "term": "stylized"
+    },
+    "105": {
+        "id": 105,
+        "polarity": "+",
+        "sentence": "Although it has chubby hips, the device isn't really so big.",
+        "term": "big"
+    },
+    "106": {
+        "id": 106,
+        "polarity": "+",
+        "sentence": "Solid, squeak-free, large screen.",
+        "term": "screen"
+    },
+    "107": {
+        "id": 107,
+        "polarity": "+",
+        "sentence": "MEMORY/STORAGE - Seemingly boundless.",
+        "term": "MEMORY"
+    },
+    "108": {
+        "id": 108,
+        "polarity": "+",
+        "sentence": "First of all, the phone houses a great deal of memory for multiple videos, sound clips, photos, texts, etc.",
+        "term": "memory"
+    },
+    "109": {
+        "id": 109,
+        "polarity": "+",
+        "sentence": "Secondly, all info can be sent to a computer and w/o the hassle of USB wires.",
+        "term": "transmission"
+    },
+    "110": {
+        "id": 110,
+        "polarity": "+",
+        "sentence": "The 6600 (T-Mobile) is the true 'world phone' in that it has the mhz to operate around the globe, including New Zealand and Australia (900) whereas the  6620 (available from Cingular) replaces it w/ 800mhz (some refer to as 850).",
+        "term": "mhz"
+    },
+    "111": {
+        "id": 111,
+        "polarity": "+",
+        "sentence": "The 6600 (T-Mobile) is the true 'world phone' in that it has the mhz to operate around the globe, including New Zealand and Australia (900) whereas the  6620 (available from Cingular) replaces it w/ 800mhz (some refer to as 850).",
+        "term": "6600"
+    },
+    "112": {
+        "id": 112,
+        "polarity": "+",
+        "sentence": "The latter will provide better coverage in more remote areas of The States but still operates in many countries, excluding New Zealand and Australia.",
+        "term": "coverage"
+    },
+    "113": {
+        "id": 113,
+        "polarity": "-",
+        "sentence": "The 6600 will provide similar service in more developed areas of The States and not as well in more remote areas.",
+        "term": "service"
+    },
+    "114": {
+        "id": 114,
+        "polarity": "-",
+        "sentence": "The 6600 will provide similar service in more developed areas of The States and not as well in more remote areas.",
+        "term": "6600"
+    },
+    "115": {
+        "id": 115,
+        "polarity": "+",
+        "sentence": "As the 6600 uses 900mhz, it operates in more countries than the 6620.",
+        "term": "6600"
+    },
+    "116": {
+        "id": 116,
+        "polarity": "+",
+        "sentence": "The battery life is less than stellar, but it charges w/ the quickness.",
+        "term": "battery life"
+    },
+    "117": {
+        "id": 117,
+        "polarity": "+",
+        "sentence": "Remember, this phone uses an operating system - Symbian... and it's feature-rich w/ 65k colors.",
+        "term": "operating system"
+    },
+    "118": {
+        "id": 118,
+        "polarity": "+",
+        "sentence": "It films 10 second video, for crying out loud.",
+        "term": "video"
+    },
+    "119": {
+        "id": 119,
+        "polarity": "-",
+        "sentence": "The battery life can't be very long; let's not be greedy.",
+        "term": "battery life"
+    },
+    "120": {
+        "id": 120,
+        "polarity": "-",
+        "sentence": "Don't use them, so I delete them for addtl space.",
+        "term": "game"
+    },
+    "121": {
+        "id": 121,
+        "polarity": "+",
+        "sentence": "There are number of downloads needed/available for this phone & they will be texted to you at no cost.",
+        "term": "downloads"
+    },
+    "122": {
+        "id": 122,
+        "polarity": "+",
+        "sentence": "A Sony Ericcson may be the phone for you... but good luck finding one w/ all the features & such a competitive price.",
+        "term": "phone"
+    },
+    "123": {
+        "id": 123,
+        "polarity": "+",
+        "sentence": "Despite a critical start, this phone deserves four stars because it accomplishes what it sets out to do (which is pretty lofty)... does more than most... does it well... is dependable.",
+        "term": "phone"
+    },
+    "124": {
+        "id": 124,
+        "polarity": "-",
+        "sentence": "When you consider expandability (downloads via computer), the numerous features, two transmission programs and multiple storage devices, dependability - this is a phone that isn't easy to out-grow.",
+        "term": "phone"
+    },
+    "125": {
+        "id": 125,
+        "polarity": "-",
+        "sentence": "BLUETOOTH DOES NOT WORK ON THIS PHONE.",
+        "term": "BLUETOOTH"
+    },
+    "126": {
+        "id": 126,
+        "polarity": "-",
+        "sentence": "Though nearly a dozen different people at both T-Mobile and Nokia have told me otherwise, it is simply not possible to use this phone as a Bluetooth modem for the vast majority of PDAs and many other devices.",
+        "term": "Bluetooth"
+    },
+    "127": {
+        "id": 127,
+        "polarity": "-",
+        "sentence": "Only then did I learn the truth -- THIS PHONE DOES NOT WORK WITH PALM PDAS!",
+        "term": "PHONE"
+    },
+    "128": {
+        "id": 128,
+        "polarity": "-",
+        "sentence": "This simple nuance was too much for Nokia, and they still refuse to acknoledge the fact that their technician could have broken the phone or repair the phone for free.",
+        "term": "nokia"
+    },
+    "129": {
+        "id": 129,
+        "polarity": "-",
+        "sentence": "In short - Nokia themselves don't know that this phone doesn't work with the Palm, and if you don't heed my advice you will spend hours with technicians around the globe reading from scripts, chiding you in broken english for not following their directions exactly.",
+        "term": "Nokia"
+    },
+    "130": {
+        "id": 130,
+        "polarity": "-",
+        "sentence": "Ultimately you will learn just how bad Nokia is, and why their recent loss of market share is so utterly deserved.",
+        "term": "Nokia"
+    },
+    "131": {
+        "id": 131,
+        "polarity": "-",
+        "sentence": "The photos in the address book are terribly scaled too; they look as though they were built out of legos.",
+        "term": "photos"
+    },
+    "132": {
+        "id": 132,
+        "polarity": "+",
+        "sentence": "This phone is one of the best I've ever used.",
+        "term": "phone"
+    },
+    "133": {
+        "id": 133,
+        "polarity": "+",
+        "sentence": "It has everything I needed: bluetooth, infrared, support for MMC, camera, and a good operating system with lots of supporting software.",
+        "term": "phone"
+    },
+    "134": {
+        "id": 134,
+        "polarity": "+",
+        "sentence": "I would have given this phone 5 stars if it wasn't for the fact that I would rather use my 3330 to do all the most common things you do with a phone.",
+        "term": "phone"
+    },
+    "135": {
+        "id": 135,
+        "polarity": "-",
+        "sentence": "It's important that people know the following:  First, the interface is slow.",
+        "term": "interface"
+    },
+    "136": {
+        "id": 136,
+        "polarity": "-",
+        "sentence": "You hit the message button on the front and it takes a matter of SECONDS to bring up the menu.",
+        "term": "interface"
+    },
+    "137": {
+        "id": 137,
+        "polarity": "-",
+        "sentence": "Secondly, in addition to the lag each time you give a command, it's just not that easily useable on the go.",
+        "term": "lag"
+    },
+    "138": {
+        "id": 138,
+        "polarity": "-",
+        "sentence": "Secondly, in addition to the lag each time you give a command, it's just not that easily useable on the go.",
+        "term": "useable"
+    },
+    "139": {
+        "id": 139,
+        "polarity": "-",
+        "sentence": "The number buttons are crammed into a 3x4cm area, the fonts are small, the interface is too convoluted and frustrating, it's not that customisable as well.",
+        "term": "number buttons"
+    },
+    "140": {
+        "id": 140,
+        "polarity": "-",
+        "sentence": "The number buttons are crammed into a 3x4cm area, the fonts are small, the interface is too convoluted and frustrating, it's not that customisable as well.",
+        "term": "interface"
+    },
+    "141": {
+        "id": 141,
+        "polarity": "-",
+        "sentence": "The number buttons are crammed into a 3x4cm area, the fonts are small, the interface is too convoluted and frustrating, it's not that customisable as well.",
+        "term": "fonts"
+    },
+    "142": {
+        "id": 142,
+        "polarity": "+",
+        "sentence": "The plusses are the features, look, good signal and battery life, memory size and robustness.",
+        "term": "look"
+    },
+    "143": {
+        "id": 143,
+        "polarity": "+",
+        "sentence": "The plusses are the features, look, good signal and battery life, memory size and robustness.",
+        "term": "battery life"
+    },
+    "144": {
+        "id": 144,
+        "polarity": "+",
+        "sentence": "The plusses are the features, look, good signal and battery life, memory size and robustness.",
+        "term": "memory"
+    },
+    "145": {
+        "id": 145,
+        "polarity": "+",
+        "sentence": "The camera and video functionality is decent, I can't see myself wasting my time with it, but some people will.",
+        "term": "video"
+    },
+    "146": {
+        "id": 146,
+        "polarity": "+",
+        "sentence": "The camera and video functionality is decent, I can't see myself wasting my time with it, but some people will.",
+        "term": "camera"
+    },
+    "147": {
+        "id": 147,
+        "polarity": "+",
+        "sentence": "this is a great phone i have this phone since Feb 04 and i never have any problem at all.",
+        "term": "phone"
+    },
+    "148": {
+        "id": 148,
+        "polarity": "+",
+        "sentence": "very cool features... great camera with zoom...cool quality pictures... great ringtones... bluetooth feature is great....",
+        "term": "bluetooth"
+    },
+    "149": {
+        "id": 149,
+        "polarity": "+",
+        "sentence": "very cool features... great camera with zoom...cool quality pictures... great ringtones... bluetooth feature is great....",
+        "term": "camera"
+    },
+    "150": {
+        "id": 150,
+        "polarity": "+",
+        "sentence": "very cool features... great camera with zoom...cool quality pictures... great ringtones... bluetooth feature is great....",
+        "term": "features"
+    },
+    "151": {
+        "id": 151,
+        "polarity": "+",
+        "sentence": "very cool features... great camera with zoom...cool quality pictures... great ringtones... bluetooth feature is great....",
+        "term": "ringtones"
+    },
+    "152": {
+        "id": 152,
+        "polarity": "-",
+        "sentence": "This phone is not suitable for fast people, maybe only for old people.",
+        "term": "phone"
+    },
+    "153": {
+        "id": 153,
+        "polarity": "-",
+        "sentence": "The menu pops up after 3 seconds The picture takes a while to load from its slow card memory.",
+        "term": "slow"
+    },
+    "154": {
+        "id": 154,
+        "polarity": "-",
+        "sentence": "The navigation takes so much time that it would eventually drive you crazy.",
+        "term": "time"
+    },
+    "155": {
+        "id": 155,
+        "polarity": "-",
+        "sentence": "At first glance, I thought this phone was a little too big for me, maybe a little too complicated.",
+        "term": "big"
+    },
+    "156": {
+        "id": 156,
+        "polarity": "+",
+        "sentence": "This thing does everything but washes your dishes.",
+        "term": "phone"
+    },
+    "157": {
+        "id": 157,
+        "polarity": "+",
+        "sentence": "I can use it as a modem for my computer, connect with clients and friends, the possibilities are endless.",
+        "term": "modem"
+    },
+    "158": {
+        "id": 158,
+        "polarity": "+",
+        "sentence": "The ringtones are beautiful, the screen is super high quality.",
+        "term": "screen"
+    },
+    "159": {
+        "id": 159,
+        "polarity": "+",
+        "sentence": "The ringtones are beautiful, the screen is super high quality.",
+        "term": "ringtones"
+    },
+    "160": {
+        "id": 160,
+        "polarity": "-",
+        "sentence": "I can NOT find a carrier for this phone I like, end up just tossing it in my purse.",
+        "term": "carrier"
+    },
+    "161": {
+        "id": 161,
+        "polarity": "+",
+        "sentence": "I do not need to repeat what's great about this phone.",
+        "term": "phone"
+    },
+    "162": {
+        "id": 162,
+        "polarity": "-",
+        "sentence": "This phone doesn't include Phone card calling.",
+        "term": "Phone card calling"
+    },
+    "163": {
+        "id": 163,
+        "polarity": "-",
+        "sentence": "This process can be very annoying and unsafe when you are driving a stick shift on the highway.",
+        "term": "phone card calling"
+    },
+    "164": {
+        "id": 164,
+        "polarity": "-",
+        "sentence": "My old Sony Ericsson T610 has this feature.",
+        "term": "feature"
+    },
+    "165": {
+        "id": 165,
+        "polarity": "-",
+        "sentence": "In noisy environment, it's hard to hear from the earpiece.",
+        "term": "hear"
+    },
+    "166": {
+        "id": 166,
+        "polarity": "-",
+        "sentence": "Speaker volume is loud and clear but it sacrifaces the battery life.",
+        "term": "volume"
+    },
+    "167": {
+        "id": 167,
+        "polarity": "-",
+        "sentence": "Unfortunately , I sold it exactly a month later .",
+        "term": "phone"
+    },
+    "168": {
+        "id": 168,
+        "polarity": "-",
+        "sentence": "1-A cell phone is to make CALLS , in other words , quality of reception and mic/speaker are the most important , the 6600 has a relatively low volume speaker , you'd have to press it hard against your ear to hear anything the other person is saying , unless the surroundings were completely quiet .",
+        "term": "volume"
+    },
+    "169": {
+        "id": 169,
+        "polarity": "-",
+        "sentence": "2- It is bulky and the small buttons on the sides are sloppy to use .",
+        "term": "bulky"
+    },
+    "170": {
+        "id": 170,
+        "polarity": "-",
+        "sentence": "2- It is bulky and the small buttons on the sides are sloppy to use .",
+        "term": "buttons"
+    },
+    "171": {
+        "id": 171,
+        "polarity": "-",
+        "sentence": "3- It is SLOW , if you keep the original configuration and progs (why'd u buy it then ?!) it'll run smoothly , but still slower than most other coloured-screen Nokias .",
+        "term": "SLOW"
+    },
+    "172": {
+        "id": 172,
+        "polarity": "-",
+        "sentence": "4- My idea was that it was an all-in-one , and that theory -once again- proves wrong , this phone excells at nothing , less  than average in everything , if you seriously need any of the \"other than phone\" functionalities , you'll be disappointed .... if you have lots of money and bought it for the love of gadgets then fine .... but don't expect to get much done .",
+        "term": "phone"
+    },
+    "173": {
+        "id": 173,
+        "polarity": "-",
+        "sentence": "Basically the 6600 is a bundle of over-hyped features you don't and won't need (if you do get yourself a PDA or pocket PC) , none of them work as they should , and the basic phone functions and ergonomics are less than average .",
+        "term": "features"
+    },
+    "174": {
+        "id": 174,
+        "polarity": "-",
+        "sentence": "I'm an advocate of Nokia , but this phone and the following models (7610) , are seemingly a desperate trial at squeezing as much under-engineered and experimental technologies in one sloppy phone .",
+        "term": "phone"
+    },
+    "175": {
+        "id": 175,
+        "polarity": "-",
+        "sentence": "I'm giving it 1 star because as compared to other Nokia phones , its a 1 , compared to other blunders by other companies (such a samsung and motorrola) it might be good .... but if you're getting a Nokia , don't get this one .",
+        "term": "phones"
+    },
+    "176": {
+        "id": 176,
+        "polarity": "+",
+        "sentence": "I never had a single problem.",
+        "term": "phone"
+    },
+    "177": {
+        "id": 177,
+        "polarity": "+",
+        "sentence": "It is Nokia and thus easy to acces the menu options.",
+        "term": "menu"
+    },
+    "178": {
+        "id": 178,
+        "polarity": "+",
+        "sentence": "High quality video and pictures rock!",
+        "term": "video"
+    },
+    "179": {
+        "id": 179,
+        "polarity": "+",
+        "sentence": "High quality video and pictures rock!",
+        "term": "pictures"
+    },
+    "180": {
+        "id": 180,
+        "polarity": "+",
+        "sentence": "3 band and you can just change the SIM card in it to be able to use it in Europe with another service provider.",
+        "term": "band"
+    },
+    "181": {
+        "id": 181,
+        "polarity": "+",
+        "sentence": "Bottom line great phone for the time being.",
+        "term": "phone"
+    },
+    "182": {
+        "id": 182,
+        "polarity": "+",
+        "sentence": "I use a Nokia 6600, it has a great color TFT display and camera equipped with zoom, which complement a built-in video recorder with audio and a RealOne player for playback and streaming of 3GPP-compatible and RealMedia video clips.",
+        "term": "video"
+    },
+    "183": {
+        "id": 183,
+        "polarity": "+",
+        "sentence": "I use a Nokia 6600, it has a great color TFT display and camera equipped with zoom, which complement a built-in video recorder with audio and a RealOne player for playback and streaming of 3GPP-compatible and RealMedia video clips.",
+        "term": "camera"
+    },
+    "184": {
+        "id": 184,
+        "polarity": "+",
+        "sentence": "I use a Nokia 6600, it has a great color TFT display and camera equipped with zoom, which complement a built-in video recorder with audio and a RealOne player for playback and streaming of 3GPP-compatible and RealMedia video clips.",
+        "term": "color TFT display"
+    },
+    "185": {
+        "id": 185,
+        "polarity": "+",
+        "sentence": "Multimedia functions are enhanced by multi-slide MMS messages and a Gallery for organizing digital content captured or downloaded with the phone.",
+        "term": "Multimedia functions"
+    },
+    "186": {
+        "id": 186,
+        "polarity": "+",
+        "sentence": "The Nokia 6600 is a decent extension of the smartphone line.",
+        "term": "6600"
+    },
+    "187": {
+        "id": 187,
+        "polarity": "+",
+        "sentence": "The phone has such advantages as the excellent keypad and display, long rundown time and a good software suite.",
+        "term": "software"
+    },
+    "188": {
+        "id": 188,
+        "polarity": "+",
+        "sentence": "The phone has such advantages as the excellent keypad and display, long rundown time and a good software suite.",
+        "term": "keypad"
+    },
+    "189": {
+        "id": 189,
+        "polarity": "+",
+        "sentence": "The phone has such advantages as the excellent keypad and display, long rundown time and a good software suite.",
+        "term": "display"
+    },
+    "190": {
+        "id": 190,
+        "polarity": "+",
+        "sentence": "The phone has such advantages as the excellent keypad and display, long rundown time and a good software suite.",
+        "term": "rundown time"
+    },
+    "191": {
+        "id": 191,
+        "polarity": "-",
+        "sentence": "Among its weak points is the MMC slot location and a bit vague design.",
+        "term": "MMC slot"
+    },
+    "192": {
+        "id": 192,
+        "polarity": "-",
+        "sentence": "Among its weak points is the MMC slot location and a bit vague design.",
+        "term": "design"
+    },
+    "193": {
+        "id": 193,
+        "polarity": "+",
+        "sentence": "In short, the Nokia 6600 is an evolution but not a revolution.",
+        "term": "6600"
+    },
+    "194": {
+        "id": 194,
+        "polarity": "+",
+        "sentence": "I'm sure you can read the specs above to see everything it does, but for me the best thing is that I can easily check my email, movie times, news, or any website with this phone.",
+        "term": "multimedia"
+    },
+    "195": {
+        "id": 195,
+        "polarity": "+",
+        "sentence": "You can take pic of your friends and the picture will pop up when they call.",
+        "term": "picture"
+    },
+    "196": {
+        "id": 196,
+        "polarity": "+",
+        "sentence": "Give each friend a different ringtone.",
+        "term": "ringtone"
+    },
+    "197": {
+        "id": 197,
+        "polarity": "+",
+        "sentence": "Get great themes and wallpapers for this phone and many many polyphonic rings.",
+        "term": "themes"
+    },
+    "198": {
+        "id": 198,
+        "polarity": "+",
+        "sentence": "Get great themes and wallpapers for this phone and many many polyphonic rings.",
+        "term": "rings"
+    },
+    "199": {
+        "id": 199,
+        "polarity": "+",
+        "sentence": "A huge beautiful color screen which can not been scratched at all even with the rough handling i give it.",
+        "term": "screen"
+    },
+    "200": {
+        "id": 200,
+        "polarity": "+",
+        "sentence": "Nokia makes great phones, and this one is the cream of the crop.",
+        "term": "Nokia"
+    },
+    "201": {
+        "id": 201,
+        "polarity": "+",
+        "sentence": "Nokia makes great phones, and this one is the cream of the crop.",
+        "term": "phones"
+    },
+    "202": {
+        "id": 202,
+        "polarity": "+",
+        "sentence": "Best phone i've ever owned, period.",
+        "term": "phone"
+    },
+    "203": {
+        "id": 203,
+        "polarity": "+",
+        "sentence": "Frankly, I think this is one of the niftiest pieces of hardware I've ever used.",
+        "term": "phone"
+    },
+    "204": {
+        "id": 204,
+        "polarity": "+",
+        "sentence": "It is slow to initially start up, but once it's turned on, I've never had any complaints about the speed.",
+        "term": "speed"
+    },
+    "205": {
+        "id": 205,
+        "polarity": "+",
+        "sentence": "Everything, so far, has worked flawlessly.",
+        "term": "phone"
+    },
+    "206": {
+        "id": 206,
+        "polarity": "+",
+        "sentence": "All at the same time, and all without a hitch.",
+        "term": "phone"
+    },
+    "207": {
+        "id": 207,
+        "polarity": "+",
+        "sentence": "I think the interface is great.",
+        "term": "interface"
+    },
+    "208": {
+        "id": 208,
+        "polarity": "+",
+        "sentence": "I actually purchased two phones recently (this one at the new Blackberry phone), and this one is far superior (IMHO).",
+        "term": "6600"
+    },
+    "209": {
+        "id": 209,
+        "polarity": "+",
+        "sentence": "I love the features, the interface, the size (the screen is a delight), the camera (though I admit I'm not much of a camera user -- so just a toy for me), the internet connectivity, the quality, etc.",
+        "term": "internet connectivity"
+    },
+    "210": {
+        "id": 210,
+        "polarity": "+",
+        "sentence": "I love the features, the interface, the size (the screen is a delight), the camera (though I admit I'm not much of a camera user -- so just a toy for me), the internet connectivity, the quality, etc.",
+        "term": "interface"
+    },
+    "211": {
+        "id": 211,
+        "polarity": "+",
+        "sentence": "I love the features, the interface, the size (the screen is a delight), the camera (though I admit I'm not much of a camera user -- so just a toy for me), the internet connectivity, the quality, etc.",
+        "term": "features"
+    },
+    "212": {
+        "id": 212,
+        "polarity": "+",
+        "sentence": "I love the features, the interface, the size (the screen is a delight), the camera (though I admit I'm not much of a camera user -- so just a toy for me), the internet connectivity, the quality, etc.",
+        "term": "quality"
+    },
+    "213": {
+        "id": 213,
+        "polarity": "+",
+        "sentence": "I love the features, the interface, the size (the screen is a delight), the camera (though I admit I'm not much of a camera user -- so just a toy for me), the internet connectivity, the quality, etc.",
+        "term": "size"
+    },
+    "214": {
+        "id": 214,
+        "polarity": "+",
+        "sentence": "I love the features, the interface, the size (the screen is a delight), the camera (though I admit I'm not much of a camera user -- so just a toy for me), the internet connectivity, the quality, etc.",
+        "term": "camera"
+    },
+    "215": {
+        "id": 215,
+        "polarity": "+",
+        "sentence": "If I had to do it over, I wouldn't buy anything else.",
+        "term": "phone"
+    },
+    "216": {
+        "id": 216,
+        "polarity": "+",
+        "sentence": "UPSIDE: This one, like most Nokias, receives a consistently strong signal (I've tried some Samsung and Sony Ericsson models which were very weak on the reception front).",
+        "term": "signal"
+    },
+    "217": {
+        "id": 217,
+        "polarity": "+",
+        "sentence": "I love the Bluetooth; easy to use with a wireless Jabra headset.",
+        "term": "Bluetooth"
+    },
+    "218": {
+        "id": 218,
+        "polarity": "+",
+        "sentence": "Photos are pretty darned good!",
+        "term": "Photos"
+    },
+    "219": {
+        "id": 219,
+        "polarity": "-",
+        "sentence": "DOWNSIDE: It takes a long time to start up.",
+        "term": "speed"
+    },
+    "220": {
+        "id": 220,
+        "polarity": "-",
+        "sentence": "My last simpler Nokia started right up and was immediately ready for use.",
+        "term": "speed"
+    },
+    "221": {
+        "id": 221,
+        "polarity": "-",
+        "sentence": "The \"movies\" last about 5 seconds.",
+        "term": "movies"
+    },
+    "222": {
+        "id": 222,
+        "polarity": "-",
+        "sentence": "I mean, they're short!",
+        "term": "movies"
+    },
+    "223": {
+        "id": 223,
+        "polarity": "-",
+        "sentence": "I find this feature on this phone useless, but, since I don't really need this function anyway, I don't really use it.",
+        "term": "feature"
+    },
+    "224": {
+        "id": 224,
+        "polarity": "-",
+        "sentence": "Also, when I dial an \"800\" number like an airline, it will not allow me to use number keys to navigatee the prerecorded menu.",
+        "term": "navigatee"
+    },
+    "225": {
+        "id": 225,
+        "polarity": "-",
+        "sentence": "Finally, after about a week's use, the screen started to freeze on me.",
+        "term": "screen"
+    },
+    "226": {
+        "id": 226,
+        "polarity": "-",
+        "sentence": "It would not hang up on calls.",
+        "term": "calls"
+    },
+    "227": {
+        "id": 227,
+        "polarity": "-",
+        "sentence": "Once it froze so bad I couldn't even use the power button to turn it off, and had to open and take out the battery.",
+        "term": "screen"
+    },
+    "228": {
+        "id": 228,
+        "polarity": "+",
+        "sentence": "Probably a great phone overall, and perhaps mine just has bugs.",
+        "term": "phone"
+    },
+    "229": {
+        "id": 229,
+        "polarity": "+",
+        "sentence": "With one of the most intuitive user-interfaces around, seamless bluetooth sync with Microsoft Outlook, support for thousands of applications for the Symbian platform which this phone runs on (I own the IR Remote, ICQ and a few others), the Nokia 6600 is all of the above - one of the few phones from T-Mobile that can claim such a distinction.",
+        "term": "applications"
+    },
+    "230": {
+        "id": 230,
+        "polarity": "+",
+        "sentence": "With one of the most intuitive user-interfaces around, seamless bluetooth sync with Microsoft Outlook, support for thousands of applications for the Symbian platform which this phone runs on (I own the IR Remote, ICQ and a few others), the Nokia 6600 is all of the above - one of the few phones from T-Mobile that can claim such a distinction.",
+        "term": "bluetooth"
+    },
+    "231": {
+        "id": 231,
+        "polarity": "+",
+        "sentence": "With one of the most intuitive user-interfaces around, seamless bluetooth sync with Microsoft Outlook, support for thousands of applications for the Symbian platform which this phone runs on (I own the IR Remote, ICQ and a few others), the Nokia 6600 is all of the above - one of the few phones from T-Mobile that can claim such a distinction.",
+        "term": "6600"
+    },
+    "232": {
+        "id": 232,
+        "polarity": "+",
+        "sentence": "With one of the most intuitive user-interfaces around, seamless bluetooth sync with Microsoft Outlook, support for thousands of applications for the Symbian platform which this phone runs on (I own the IR Remote, ICQ and a few others), the Nokia 6600 is all of the above - one of the few phones from T-Mobile that can claim such a distinction.",
+        "term": "user-interfaces"
+    },
+    "233": {
+        "id": 233,
+        "polarity": "+",
+        "sentence": "Ive had this phone for a year now - and its the best phone I have owned.",
+        "term": "phone"
+    },
+    "234": {
+        "id": 234,
+        "polarity": "-",
+        "sentence": "The only con I can think of is the lack of a mega-pixel camera.",
+        "term": "camera"
+    },
+    "235": {
+        "id": 235,
+        "polarity": "+",
+        "sentence": "This may be a really cool phone, but it's not worth it with T-Mobile.",
+        "term": "phone"
+    },
+    "236": {
+        "id": 236,
+        "polarity": "-",
+        "sentence": "They have the worst service of any of the major companies.",
+        "term": "service"
+    },
+    "237": {
+        "id": 237,
+        "polarity": "-",
+        "sentence": "I really regret signing up with T-Mobile, but I'm stuck with them for the next 6 months of the contract.",
+        "term": "T-Mobile"
+    },
+    "238": {
+        "id": 238,
+        "polarity": "+",
+        "sentence": "This phone is fantastic.",
+        "term": "phone"
+    },
+    "239": {
+        "id": 239,
+        "polarity": "+",
+        "sentence": "Great reception, visibility and interface (may be complicated by others).",
+        "term": "reception"
+    },
+    "240": {
+        "id": 240,
+        "polarity": "+",
+        "sentence": "Great reception, visibility and interface (may be complicated by others).",
+        "term": "visibility"
+    },
+    "241": {
+        "id": 241,
+        "polarity": "+",
+        "sentence": "Great reception, visibility and interface (may be complicated by others).",
+        "term": "interface"
+    },
+    "242": {
+        "id": 242,
+        "polarity": "-",
+        "sentence": "Just don't get drawn into T-Mobile's catchy rebate.",
+        "term": "rebate"
+    },
+    "243": {
+        "id": 243,
+        "polarity": "-",
+        "sentence": "T-Mobile wasn't upfront about some of the terms to qualify for the rebate.",
+        "term": "rebate"
+    },
+    "244": {
+        "id": 244,
+        "polarity": "+",
+        "sentence": "I highly recommend this phone.",
+        "term": "phone"
+    },
+    "245": {
+        "id": 245,
+        "polarity": "+",
+        "sentence": "I had a Sony ericsson T610 before this and the T610 is far inferior.",
+        "term": "Sony ericsson T610"
+    },
+    "246": {
+        "id": 246,
+        "polarity": "-",
+        "sentence": "I find it difficult to remove back cover so is you plan to have a spare battery and replace it I suggest you don't ,besides it has a long battery life.",
+        "term": "back cover"
+    },
+    "247": {
+        "id": 247,
+        "polarity": "+",
+        "sentence": "I find it difficult to remove back cover so is you plan to have a spare battery and replace it I suggest you don't ,besides it has a long battery life.",
+        "term": " battery life"
+    },
+    "248": {
+        "id": 248,
+        "polarity": "+",
+        "sentence": "Im able to keep my phone on for about a week (mostly stand by) to three days (regular use)",
+        "term": "battery life"
+    },
+    "249": {
+        "id": 249,
+        "polarity": "+",
+        "sentence": "but this by far is the best phone out there right now!",
+        "term": "phone"
+    },
+    "250": {
+        "id": 250,
+        "polarity": "+",
+        "sentence": "yes it is a bit large, but the realestate on the screen will spoil you!",
+        "term": "screen"
+    },
+    "251": {
+        "id": 251,
+        "polarity": "-",
+        "sentence": "yes it is a bit large, but the realestate on the screen will spoil you!",
+        "term": "large"
+    },
+    "252": {
+        "id": 252,
+        "polarity": "+",
+        "sentence": "i have a hard time using other phones with smaller screens!!!",
+        "term": "screens"
+    },
+    "253": {
+        "id": 253,
+        "polarity": "-",
+        "sentence": "the OS is abit confusing at 1st, but within a few days you will pass this learning curve!",
+        "term": "OS"
+    },
+    "254": {
+        "id": 254,
+        "polarity": "+",
+        "sentence": "the pics can be touched up in photoshop, and be printed at 4x6 and they look great!",
+        "term": "pics"
+    },
+    "255": {
+        "id": 255,
+        "polarity": "+",
+        "sentence": "i also use the phone as my modem via bluetooth to my Apple powerbook!",
+        "term": "bluetooth"
+    },
+    "256": {
+        "id": 256,
+        "polarity": "+",
+        "sentence": "The speed is the same as dail up, where i live we do not have wifi everywhere so this is my version of it until we catch up.",
+        "term": "bluetooth"
+    },
+    "257": {
+        "id": 257,
+        "polarity": "+",
+        "sentence": "The phone itself is pretty nice.",
+        "term": "phone"
+    },
+    "258": {
+        "id": 258,
+        "polarity": "+",
+        "sentence": "Camera quality isn't bad for the low resolution.",
+        "term": "Camera quality"
+    },
+    "259": {
+        "id": 259,
+        "polarity": "+",
+        "sentence": "Menu is a bit slow, but overall, phone is very functional.",
+        "term": "phone"
+    },
+    "260": {
+        "id": 260,
+        "polarity": "-",
+        "sentence": "Menu is a bit slow, but overall, phone is very functional.",
+        "term": "Menu"
+    },
+    "261": {
+        "id": 261,
+        "polarity": "+",
+        "sentence": "This phone has a nice blend of features without going overboard.",
+        "term": "features"
+    },
+    "262": {
+        "id": 262,
+        "polarity": "-",
+        "sentence": "I was using a Motorola T720i with Verizon and I had alot of dropped calls and I had troubles syncing data.",
+        "term": "calls"
+    },
+    "263": {
+        "id": 263,
+        "polarity": "-",
+        "sentence": "I was using a Motorola T720i with Verizon and I had alot of dropped calls and I had troubles syncing data.",
+        "term": "syncing data"
+    },
+    "264": {
+        "id": 264,
+        "polarity": "-",
+        "sentence": "I was using a Motorola T720i with Verizon and I had alot of dropped calls and I had troubles syncing data.",
+        "term": "Motorola T720i"
+    },
+    "265": {
+        "id": 265,
+        "polarity": "+",
+        "sentence": "I was looking for a phone which synced with Mac OSX using Bluetooth, had decent battery life, could check email, had good reception, nice screen size and was durable (I break often break small gadgets)",
+        "term": "reception"
+    },
+    "266": {
+        "id": 266,
+        "polarity": "+",
+        "sentence": "I was looking for a phone which synced with Mac OSX using Bluetooth, had decent battery life, could check email, had good reception, nice screen size and was durable (I break often break small gadgets)",
+        "term": "battery life"
+    },
+    "267": {
+        "id": 267,
+        "polarity": "+",
+        "sentence": "I was looking for a phone which synced with Mac OSX using Bluetooth, had decent battery life, could check email, had good reception, nice screen size and was durable (I break often break small gadgets)",
+        "term": "Bluetooth"
+    },
+    "268": {
+        "id": 268,
+        "polarity": "+",
+        "sentence": "I was looking for a phone which synced with Mac OSX using Bluetooth, had decent battery life, could check email, had good reception, nice screen size and was durable (I break often break small gadgets)",
+        "term": "screen"
+    },
+    "269": {
+        "id": 269,
+        "polarity": "+",
+        "sentence": "The interface is simple to use.",
+        "term": "interface"
+    },
+    "270": {
+        "id": 270,
+        "polarity": "-",
+        "sentence": "I saw a few complaints on the load time of menus and I feel people are over-exaggerating the menu load time.",
+        "term": "menu"
+    },
+    "271": {
+        "id": 271,
+        "polarity": "-",
+        "sentence": "I saw a few complaints on the load time of menus and I feel people are over-exaggerating the menu load time.",
+        "term": "menus"
+    },
+    "272": {
+        "id": 272,
+        "polarity": "-",
+        "sentence": "I saw a few complaints on the load time of menus and I feel people are over-exaggerating the menu load time.",
+        "term": "load time"
+    },
+    "273": {
+        "id": 273,
+        "polarity": "+",
+        "sentence": "I have a couple hundred contacts and the menu loads within a few seconds, no big deal.",
+        "term": "menu"
+    },
+    "274": {
+        "id": 274,
+        "polarity": "+",
+        "sentence": "I did notice if you turn the phone on and off the OS takes a bit to load up and initially the menus are slower but once the phone has been on and booted up the menus are reasonably quicker.",
+        "term": "menus"
+    },
+    "275": {
+        "id": 275,
+        "polarity": "+",
+        "sentence": "The camera is adequate and if I want high-res photos I'll use my digital camera instead.",
+        "term": "camera"
+    },
+    "276": {
+        "id": 276,
+        "polarity": "+",
+        "sentence": "On the T-Mobile service I was able to take pics as we drove across I-70 and email them to family & friends once we reached a T-Mobile tzone (usually a major city).",
+        "term": "T-Mobile service"
+    },
+    "277": {
+        "id": 277,
+        "polarity": "+",
+        "sentence": "Outside of the T-Mobile service area the phone seamlessly jumped onto AT&T Wireless and various other services where the T-Mobile service was unavailable.",
+        "term": "T-Mobile service"
+    },
+    "278": {
+        "id": 278,
+        "polarity": "+",
+        "sentence": "As I drove across the country I lost reception only in eastern Kentucky's mountains.",
+        "term": "reception"
+    },
+    "279": {
+        "id": 279,
+        "polarity": "+",
+        "sentence": "Along the way we compared it to my wife's T720i and the 6600 was superior in terms of battery life, connectivity bars and features.",
+        "term": "6600"
+    },
+    "280": {
+        "id": 280,
+        "polarity": "+",
+        "sentence": "Along the way we compared it to my wife's T720i and the 6600 was superior in terms of battery life, connectivity bars and features.",
+        "term": "features"
+    },
+    "281": {
+        "id": 281,
+        "polarity": "+",
+        "sentence": "Along the way we compared it to my wife's T720i and the 6600 was superior in terms of battery life, connectivity bars and features.",
+        "term": "connectivity bars"
+    },
+    "282": {
+        "id": 282,
+        "polarity": "+",
+        "sentence": "Along the way we compared it to my wife's T720i and the 6600 was superior in terms of battery life, connectivity bars and features.",
+        "term": "battery life"
+    },
+    "283": {
+        "id": 283,
+        "polarity": "+",
+        "sentence": "For those Mac OSX users out there, iSync works fairly well.",
+        "term": "iSync"
+    },
+    "284": {
+        "id": 284,
+        "polarity": "-",
+        "sentence": "On occasion I'm not able to connect to the phone with iSync via Bluetooth but I found that rebooting the phone seems to solve this problem.",
+        "term": "Bluetooth"
+    },
+    "285": {
+        "id": 285,
+        "polarity": "+",
+        "sentence": "And Bluetooth does not drain the battery as quick as I thought it would, I usually can go 1.5 days with Bluetooth on along with making calls before I need a full recharge.",
+        "term": "battery"
+    },
+    "286": {
+        "id": 286,
+        "polarity": "+",
+        "sentence": "And Bluetooth does not drain the battery as quick as I thought it would, I usually can go 1.5 days with Bluetooth on along with making calls before I need a full recharge.",
+        "term": "Bluetooth"
+    },
+    "287": {
+        "id": 287,
+        "polarity": "+",
+        "sentence": "With Bluetooth off the phone last almost twice as long.",
+        "term": "battery"
+    },
+    "288": {
+        "id": 288,
+        "polarity": "+",
+        "sentence": "The nokia 6600 is a great phone, good games, good camera.",
+        "term": "phone"
+    },
+    "289": {
+        "id": 289,
+        "polarity": "-",
+        "sentence": "The video recorders a bit odd, sometimes I get 9 secs on my recordings, sometimes I get 17.",
+        "term": "video recorders"
+    },
+    "290": {
+        "id": 290,
+        "polarity": "+",
+        "sentence": "The voice recorders good, but you can't record songs off the radio for ring tones.",
+        "term": "voice recorders"
+    },
+    "291": {
+        "id": 291,
+        "polarity": "+",
+        "sentence": "The games are decent, but u only get 2 to start off with.",
+        "term": "games"
+    },
+    "292": {
+        "id": 292,
+        "polarity": "+",
+        "sentence": "But you can download some really good ones like pac-man or mafia wars.",
+        "term": "games"
+    },
+    "293": {
+        "id": 293,
+        "polarity": "+",
+        "sentence": "Overall the phones fantastic, and I would have given it 5 stars, but its not perfect.",
+        "term": "phones"
+    },
+    "294": {
+        "id": 294,
+        "polarity": "+",
+        "sentence": "The battery on mine lasts 2 days if I don't play games that much, and it only takes 90 mins to charge from flat.",
+        "term": "battery"
+    },
+    "295": {
+        "id": 295,
+        "polarity": "+",
+        "sentence": "This phone has the best battery, it lasts longer then my old 3210",
+        "term": "battery"
+    },
+    "296": {
+        "id": 296,
+        "polarity": "+",
+        "sentence": "I got a 1GB MMC upgrade for this phone and now I can:",
+        "term": "MMC"
+    },
+    "297": {
+        "id": 297,
+        "polarity": "+",
+        "sentence": "1. Record around 1 hour of video with Phillips Camcorder Pro.",
+        "term": "video"
+    },
+    "298": {
+        "id": 298,
+        "polarity": "+",
+        "sentence": "2. Take around 10,000 640x480 pictures.",
+        "term": "pictures"
+    },
+    "299": {
+        "id": 299,
+        "polarity": "+",
+        "sentence": "3. Play Java games on it.",
+        "term": "games"
+    },
+    "300": {
+        "id": 300,
+        "polarity": "+",
+        "sentence": "4. Play N-Gage games on it.",
+        "term": "games"
+    },
+    "301": {
+        "id": 301,
+        "polarity": "+",
+        "sentence": "5. Check traffic411.com for LA traffic on the 405.",
+        "term": "internet"
+    },
+    "302": {
+        "id": 302,
+        "polarity": "+",
+        "sentence": "6. Play Gameboy Color games on it with GoBoy.",
+        "term": "games"
+    },
+    "303": {
+        "id": 303,
+        "polarity": "+",
+        "sentence": "7. Have a good chunk of my small MP3 to listen through the speaker phone.",
+        "term": "speaker phone"
+    },
+    "304": {
+        "id": 304,
+        "polarity": "+",
+        "sentence": "8. Connected the phone to my tablet pc and now can access company VPN at 56k speed via bluetooth.",
+        "term": "bluetooth"
+    },
+    "305": {
+        "id": 305,
+        "polarity": "+",
+        "sentence": "Clear the call logs once in a while to speed up the phone people!!!",
+        "term": "call logs"
+    },
+    "306": {
+        "id": 306,
+        "polarity": "+",
+        "sentence": "As for bluetooth, no problems at all.",
+        "term": "bluetooth"
+    },
+    "307": {
+        "id": 307,
+        "polarity": "+",
+        "sentence": "I've connected the phone with two laptops and a iPaq 4155.",
+        "term": "bluetooth"
+    },
+    "308": {
+        "id": 308,
+        "polarity": "+",
+        "sentence": "Very simple and painless.",
+        "term": "bluetooth"
+    },
+    "309": {
+        "id": 309,
+        "polarity": "+",
+        "sentence": "This is the first cell phone I've owned, and overall, I am quite pleased with it.",
+        "term": "phone"
+    },
+    "310": {
+        "id": 310,
+        "polarity": "+",
+        "sentence": "Among my requirments for a phone were: good screen, decent camera, bluetooth, and GPRS support.",
+        "term": "phone"
+    },
+    "311": {
+        "id": 311,
+        "polarity": "+",
+        "sentence": "The 6600 was the best phone I could find with these options that I could get with t-mobile.",
+        "term": "6600"
+    },
+    "312": {
+        "id": 312,
+        "polarity": "+",
+        "sentence": "The 6600 was the best phone I could find with these options that I could get with t-mobile.",
+        "term": "phone"
+    },
+    "313": {
+        "id": 313,
+        "polarity": "+",
+        "sentence": "One primary reason for getting a cell phone was so that I could use it as an internet connection for my laptop running linux, where softmodem drivers are hard to find, and don't work very well.",
+        "term": "internet"
+    },
+    "314": {
+        "id": 314,
+        "polarity": "+",
+        "sentence": "If you are using Linux, and you want to use GPRS to connect to the net, I suggest this phone along with a Belkin USB Bluetooth adapter.",
+        "term": "GPRS"
+    },
+    "315": {
+        "id": 315,
+        "polarity": "+",
+        "sentence": "I have really enjoyed the camera on this phone.",
+        "term": "camera"
+    },
+    "316": {
+        "id": 316,
+        "polarity": "+",
+        "sentence": "Although the images are not the best in the world, its very handy to have a camera everywhere you go.",
+        "term": "camera"
+    },
+    "317": {
+        "id": 317,
+        "polarity": "-",
+        "sentence": "Although the images are not the best in the world, its very handy to have a camera everywhere you go.",
+        "term": "images"
+    },
+    "318": {
+        "id": 318,
+        "polarity": "+",
+        "sentence": "And the phone has a very cool feature wich allows you to send images via a normal POP3/SMTP e-mail account.",
+        "term": "feature"
+    },
+    "319": {
+        "id": 319,
+        "polarity": "+",
+        "sentence": "I will also say that setting up the e-mail account was very simple and straight-forward, although you do need an external SMTP server to use.",
+        "term": "e-mail"
+    },
+    "320": {
+        "id": 320,
+        "polarity": "+",
+        "sentence": "The phone can use any MIDI audio file as a ringtone.",
+        "term": "ringtone"
+    },
+    "321": {
+        "id": 321,
+        "polarity": "+",
+        "sentence": "Which is really nice because you can get pretty much any piece of music in MIDI format for free on the net.",
+        "term": "ringtone"
+    },
+    "322": {
+        "id": 322,
+        "polarity": "+",
+        "sentence": "Which is really nice because you can get pretty much any piece of music in MIDI format for free on the net.",
+        "term": "music"
+    },
+    "323": {
+        "id": 323,
+        "polarity": "+",
+        "sentence": "You can use the OBEX File Transfer service with bluetooth from linux (KDE-bluetooth provieds a nice intergration into Konqueror for this) for sending files to the phone.",
+        "term": "bluetooth"
+    },
+    "324": {
+        "id": 324,
+        "polarity": "+",
+        "sentence": "The fact that you can assign ringtones to people and/or groups is really cool.",
+        "term": "ringtones"
+    },
+    "325": {
+        "id": 325,
+        "polarity": "-",
+        "sentence": "I will say that the OS that the phone runs does have a few issues.",
+        "term": "OS"
+    },
+    "326": {
+        "id": 326,
+        "polarity": "-",
+        "sentence": "Sometimes, various applications crash.",
+        "term": "applications"
+    },
+    "327": {
+        "id": 327,
+        "polarity": "-",
+        "sentence": "Especially the bluetooth server... Meaning you have to restart the phone if you want bluetooth to work again.",
+        "term": "bluetooth"
+    },
+    "328": {
+        "id": 328,
+        "polarity": "-",
+        "sentence": "This is somewhat annoying, but from working with computers (espcially windows -- ugh...)",
+        "term": "bluetooth"
+    },
+    "329": {
+        "id": 329,
+        "polarity": "+",
+        "sentence": "I really dislike holding a phone to my ear, and I've found the Freespeak to be very comfortable and easy to use with this phone.",
+        "term": "Freespeak"
+    },
+    "330": {
+        "id": 330,
+        "polarity": "-",
+        "sentence": "The only main drawback is the fact that the voice-dialing system is kinda picky.",
+        "term": "voice-dialing system"
+    },
+    "331": {
+        "id": 331,
+        "polarity": "-",
+        "sentence": "It takes a while to learn how to use it right, and at this point I am able to make about 70% of my calls using it.",
+        "term": "voice-dialing system"
+    },
+    "332": {
+        "id": 332,
+        "polarity": "-",
+        "sentence": "However, it needs to be quite quiet for it to work at all -- dosn't work at all in the car, for example.",
+        "term": "voice-dialing system"
+    },
+    "333": {
+        "id": 333,
+        "polarity": "-",
+        "sentence": "Some people have commented about the size and weight of the phone, and it has rightfully gotten the nick-name \"the bar of soap\" which, it really is.",
+        "term": "size"
+    },
+    "334": {
+        "id": 334,
+        "polarity": "-",
+        "sentence": "Some people have commented about the size and weight of the phone, and it has rightfully gotten the nick-name \"the bar of soap\" which, it really is.",
+        "term": "weight"
+    },
+    "335": {
+        "id": 335,
+        "polarity": "+",
+        "sentence": "But if you use all bluetooth accessories, as I do, its really not an issue.",
+        "term": "weight"
+    },
+    "336": {
+        "id": 336,
+        "polarity": "+",
+        "sentence": "But if you use all bluetooth accessories, as I do, its really not an issue.",
+        "term": "size"
+    },
+    "337": {
+        "id": 337,
+        "polarity": "+",
+        "sentence": "All in all, this is a great phone.",
+        "term": "phone"
+    },
+    "338": {
+        "id": 338,
+        "polarity": "+",
+        "sentence": "Especially for the price amazon gives it at (I was unable to get mine through amazon due to some credit complications).",
+        "term": "price"
+    },
+    "339": {
+        "id": 339,
+        "polarity": "+",
+        "sentence": "If you use linux and want GRPS and/or want to use a handsfree bluetooth device, and want a decent camera -- this is the phone for you.",
+        "term": "phone"
+    },
+    "340": {
+        "id": 340,
+        "polarity": "+",
+        "sentence": "I really love this phone...",
+        "term": "phone"
+    },
+    "341": {
+        "id": 341,
+        "polarity": "+",
+        "sentence": "I also am loving T-Mobile (100 times better than ATT...",
+        "term": "T-Mobile"
+    },
+    "342": {
+        "id": 342,
+        "polarity": "-",
+        "sentence": "I also am loving T-Mobile (100 times better than ATT...",
+        "term": "ATT"
+    },
+    "343": {
+        "id": 343,
+        "polarity": "+",
+        "sentence": "you actually can talk to a real person for support in under an hour!).",
+        "term": "T-Mobile"
+    },
+    "344": {
+        "id": 344,
+        "polarity": "+",
+        "sentence": "Have had the Nokia 6600 for a year now and am generally very happy with it and with T-Mobile.",
+        "term": "T-Mobile"
+    },
+    "345": {
+        "id": 345,
+        "polarity": "+",
+        "sentence": "Have had the Nokia 6600 for a year now and am generally very happy with it and with T-Mobile.",
+        "term": "6600"
+    },
+    "346": {
+        "id": 346,
+        "polarity": "+",
+        "sentence": "It offers way more features than I need but the ones I use work well.",
+        "term": "features"
+    },
+    "347": {
+        "id": 347,
+        "polarity": "+",
+        "sentence": "I almost always get a good strong signal, even in fairly remote areas here in the southwest.",
+        "term": "signal"
+    },
+    "348": {
+        "id": 348,
+        "polarity": "+",
+        "sentence": "The sound quality is excellent and the speaker phone couldn't be easier to use.",
+        "term": "sound"
+    },
+    "349": {
+        "id": 349,
+        "polarity": "+",
+        "sentence": "The sound quality is excellent and the speaker phone couldn't be easier to use.",
+        "term": "speaker phone"
+    },
+    "350": {
+        "id": 350,
+        "polarity": "+",
+        "sentence": "I like the size and shape.",
+        "term": "shape"
+    },
+    "351": {
+        "id": 351,
+        "polarity": "+",
+        "sentence": "I like the size and shape.",
+        "term": "size"
+    },
+    "352": {
+        "id": 352,
+        "polarity": "+",
+        "sentence": "It fits comfortably in my hand and pocket.",
+        "term": "shape"
+    },
+    "353": {
+        "id": 353,
+        "polarity": "+",
+        "sentence": "It fits comfortably in my hand and pocket.",
+        "term": "size"
+    },
+    "354": {
+        "id": 354,
+        "polarity": "-",
+        "sentence": "The only problem is the size of the keys.",
+        "term": "keys"
+    },
+    "355": {
+        "id": 355,
+        "polarity": "-",
+        "sentence": "My fingers are kind of stubby so it took a while to learn how to hit a key without hitting the adjacent ones.",
+        "term": "key"
+    },
+    "356": {
+        "id": 356,
+        "polarity": "-",
+        "sentence": "They really are awfully small.",
+        "term": "kays"
+    },
+    "357": {
+        "id": 357,
+        "polarity": "-",
+        "sentence": "Also the battery life isn't great but it's sufficient for my needs.",
+        "term": "battery life"
+    },
+    "358": {
+        "id": 358,
+        "polarity": "+",
+        "sentence": "It also works just fine for international calls.",
+        "term": "calls"
+    },
+    "359": {
+        "id": 359,
+        "polarity": "+",
+        "sentence": "It's a bit pricey to call home from other countries but the instant messaging to and from covered countries in Europe are quite reasonable.",
+        "term": "instant messaging"
+    },
+    "360": {
+        "id": 360,
+        "polarity": "+",
+        "sentence": "It's really well made and has survived sliding across floors and pavement without a scratch.",
+        "term": "quality"
+    },
+    "361": {
+        "id": 361,
+        "polarity": "+",
+        "sentence": "I've had nothing but good luck with T-Mobile.",
+        "term": "T-Mobile"
+    }
+}

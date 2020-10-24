@@ -1,0 +1,212 @@
+{
+    "281": {
+        "id": 281,
+        "polarity": "-",
+        "sentence": "seemed like a good deal , but this pos frequently cannot recognize dvds and music cds -- takes a long time loading and then concludes , \" no disc \" . ",
+        "term": "dvd"
+    },
+    "282": {
+        "id": 282,
+        "polarity": "-",
+        "sentence": "granted , i have only used this dvd player for about 2 hours setting it up for my mom for christmas , but that was long enough for me to find problems with this dvd player . ",
+        "term": "dvd player"
+    },
+    "283": {
+        "id": 283,
+        "polarity": "-",
+        "sentence": "first , the player did not allow me to access the menus of dvds . ",
+        "term": "menu"
+    },
+    "284": {
+        "id": 284,
+        "polarity": "-",
+        "sentence": "this is extemely lame . ",
+        "term": "menu"
+    },
+    "285": {
+        "id": 285,
+        "polarity": "-",
+        "sentence": "the remote is flimsy-feeling and awkward to use . ",
+        "term": "remote"
+    },
+    "286": {
+        "id": 286,
+        "polarity": "-",
+        "sentence": "in addition , it only seems to work if you 're about five feet away from the player , although that may have been just the batteries that came with it . ",
+        "term": "remote"
+    },
+    "287": {
+        "id": 287,
+        "polarity": "+",
+        "sentence": "the player does seem to play dvds adequately enough . ",
+        "term": "dvd"
+    },
+    "288": {
+        "id": 288,
+        "polarity": "-",
+        "sentence": "after less than 24 hours it turned out to be a huge disappointment , for myself and for my parents , for whom it was a gift . ",
+        "term": "player"
+    },
+    "289": {
+        "id": 289,
+        "polarity": "-",
+        "sentence": "it played only one out of three dvd 's without problems , the other two being afflicted by a number of glitches . ",
+        "term": "dvd"
+    },
+    "290": {
+        "id": 290,
+        "polarity": "-",
+        "sentence": "both of the problem dvd 's would repeatedly freeze during playback , while the counter on the player kept going . ",
+        "term": "dvd"
+    },
+    "291": {
+        "id": 291,
+        "polarity": "-",
+        "sentence": "one also exhibited extremely slow speed when going to the menu . ",
+        "term": "speed"
+    },
+    "292": {
+        "id": 292,
+        "polarity": "-",
+        "sentence": "the dvd door would scratch the top of the disc every time it closed . ",
+        "term": "door"
+    },
+    "293": {
+        "id": 293,
+        "polarity": "+",
+        "sentence": "there were a few attractive features , such as the small size and the layout of the remote . ",
+        "term": "size"
+    },
+    "294": {
+        "id": 294,
+        "polarity": "-",
+        "sentence": "all in all , trying to save some money on this player resulted in me shelling a great deal more when i purchased a much nicer dvd vcr combo player to make up for blazing crappiness of this very embarassing gift . ",
+        "term": "player"
+    },
+    "295": {
+        "id": 295,
+        "polarity": "-",
+        "sentence": "i was impressed by this very inexpensive player.for the first three hours , and then it died . ",
+        "term": "player"
+    },
+    "296": {
+        "id": 296,
+        "polarity": "+",
+        "sentence": "i looked into buying an inexpensive dvd player that had more than the standard set of features and this item seemed to be the best in that category . ",
+        "term": "player"
+    },
+    "297": {
+        "id": 297,
+        "polarity": "+",
+        "sentence": "i just hooked it up and everything seemed to be going fine . ",
+        "term": "player"
+    },
+    "298": {
+        "id": 298,
+        "polarity": "-",
+        "sentence": "there are a couple of quirks that were a bit annoying like having to actually press the power button before the tray will open ( my prev. machine did it automatically ) , and the fact that the external display is too small and too faded to read from any significant distance . ",
+        "term": " external display"
+    },
+    "299": {
+        "id": 299,
+        "polarity": "+",
+        "sentence": "still , i was willing to overlook those things as this unit looks sleek and has a myriad of features ! ",
+        "term": "feature"
+    },
+    "300": {
+        "id": 300,
+        "polarity": "-",
+        "sentence": "i get to chapter 34 and everything freezes ! ",
+        "term": "freeze"
+    },
+    "301": {
+        "id": 301,
+        "polarity": "-",
+        "sentence": "i try navigating to a chapter past 34 via the menu and it would n't do it ! ",
+        "term": "player"
+    },
+    "302": {
+        "id": 302,
+        "polarity": "-",
+        "sentence": "i try navigating using the player 's built in menu , and it still would n't work ! ",
+        "term": "player"
+    },
+    "303": {
+        "id": 303,
+        "polarity": "-",
+        "sentence": "unfortunately , the player would not read any of my region one dvds. even though they were not damaged in any way . ",
+        "term": "dvd"
+    },
+    "304": {
+        "id": 304,
+        "polarity": "-",
+        "sentence": "i called apex 's support number numerous times but it just kept ringing . ",
+        "term": "support"
+    },
+    "305": {
+        "id": 305,
+        "polarity": "+",
+        "sentence": "this is probably one of the few dvd players at $ 40 that can play almost everything you throw at it . ",
+        "term": "dvd player"
+    },
+    "306": {
+        "id": 306,
+        "polarity": "+",
+        "sentence": "ability to play most discs - i tried dvd , vcd , dvd-r , audio cd and it played all ",
+        "term": "format"
+    },
+    "307": {
+        "id": 307,
+        "polarity": "+",
+        "sentence": "good looks ",
+        "term": "look"
+    },
+    "308": {
+        "id": 308,
+        "polarity": "-",
+        "sentence": "the build quality shows why its so cheap - small scratches on the base plate , something that you would n't see on a sony and an overall plasticky feel ",
+        "term": "quality"
+    },
+    "309": {
+        "id": 309,
+        "polarity": "-",
+        "sentence": "remote buttons are small and closely spaced , especially with the menu buttons . ",
+        "term": "remote button"
+    },
+    "310": {
+        "id": 310,
+        "polarity": "+",
+        "sentence": "this is wonderful to have for your first dvd player . ",
+        "term": "player"
+    },
+    "311": {
+        "id": 311,
+        "polarity": "+",
+        "sentence": "i brought it for my sister in college and she loves it ! ",
+        "term": "player"
+    },
+    "312": {
+        "id": 312,
+        "polarity": "+",
+        "sentence": "apex is the best cheap quality brand for dvd players . ",
+        "term": "apex"
+    },
+    "313": {
+        "id": 313,
+        "polarity": "+",
+        "sentence": "also , very light and portable . ",
+        "term": "weight"
+    },
+    "314": {
+        "id": 314,
+        "polarity": "-",
+        "sentence": "the one i purchased for a frend as a gift will not read any dvd disc . ",
+        "term": " read"
+    },
+    "315": {
+        "id": 315,
+        "polarity": "+",
+        "sentence": "it will read and play all cd audio disc . ",
+        "term": "read"
+    }
+}

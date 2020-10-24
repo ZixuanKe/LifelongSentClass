@@ -1,0 +1,920 @@
+{
+    "0": {
+        "id": 0,
+        "polarity": "-",
+        "sentence": " There isn't much features on the iPod at all, except games.",
+        "term": "features"
+    },
+    "1": {
+        "id": 1,
+        "polarity": "+",
+        "sentence": "SOUND QUALITY: The iPod's sound quality is pretty good.",
+        "term": "sound"
+    },
+    "2": {
+        "id": 2,
+        "polarity": "-",
+        "sentence": " It has an equalizer, but the iRiver H10-20GB has a lot more presets than the iPod. ",
+        "term": "equalizer"
+    },
+    "3": {
+        "id": 3,
+        "polarity": "+",
+        "sentence": "The bass is deep and the treble is clear.",
+        "term": "bass"
+    },
+    "4": {
+        "id": 4,
+        "polarity": "+",
+        "sentence": "The bass is deep and the treble is clear.",
+        "term": "treble"
+    },
+    "5": {
+        "id": 5,
+        "polarity": "-",
+        "sentence": "  DURABILITY: Not good. First problem, if you haven't seen the news recently, the iPods are being recalled for battery problems and not lasting the advertised 18 months.",
+        "term": "battery"
+    },
+    "6": {
+        "id": 6,
+        "polarity": "-",
+        "sentence": "Also, the battery's AREN'T USER REPLACEABLE.",
+        "term": "Replaceable battery"
+    },
+    "7": {
+        "id": 7,
+        "polarity": "-",
+        "sentence": " Another thing you should know, the metal on the flip side of the iPod is very tacky, and scratches very easily.",
+        "term": "flip side"
+    },
+    "8": {
+        "id": 8,
+        "polarity": "-",
+        "sentence": " Also, not liking the gel case. ",
+        "term": "case"
+    },
+    "9": {
+        "id": 9,
+        "polarity": "-",
+        "sentence": " FEATURES: Really, there aren't any features, unless you call the games a feature. ",
+        "term": "features"
+    },
+    "10": {
+        "id": 10,
+        "polarity": "-",
+        "sentence": "There is no FM tuner, while there is no FM tuner on the Creative Zen (on the micro version of the Zen there is a tuner), the iRiver H10-20GB, the Rio Karma, and the iAudio X5 have FM tuners. ",
+        "term": "FM tuner"
+    },
+    "11": {
+        "id": 11,
+        "polarity": "-",
+        "sentence": " There is also no voice recording, something most if not all MP3 players have that the iPod doesn't.",
+        "term": "voice recording"
+    },
+    "12": {
+        "id": 12,
+        "polarity": "-",
+        "sentence": " There is no photo viewing option, however, there is a 20 GB photo iPod, but it costs $20 more.",
+        "term": "photo viewing"
+    },
+    "13": {
+        "id": 13,
+        "polarity": "+",
+        "sentence": "  EASE OF USE/DESIGN: The iPod is a very easy to use MP3 player, and if you can't figure this out, you shouldn't even own one.",
+        "term": "use"
+    },
+    "14": {
+        "id": 14,
+        "polarity": "-",
+        "sentence": "I'm probably the only person that dislikes the iTunes software. ",
+        "term": "iTunes"
+    },
+    "15": {
+        "id": 15,
+        "polarity": "-",
+        "sentence": " CUSTOMER SERVICE: Awful. Listen to this one, remember the battery statement I made earlier. ",
+        "term": "CUSTOMER SERVICE"
+    },
+    "16": {
+        "id": 16,
+        "polarity": "-",
+        "sentence": " There technical service isn't helpful either; they just read what's on their website and charge you $50 (+ toll fees) to do it.",
+        "term": "technical service"
+    },
+    "17": {
+        "id": 17,
+        "polarity": "+",
+        "sentence": "OVERALL: I highly dislike the iPod, even though the sound quality and design is above-average. ",
+        "term": " design"
+    },
+    "18": {
+        "id": 18,
+        "polarity": "+",
+        "sentence": "OVERALL: I highly dislike the iPod, even though the sound quality and design is above-average. ",
+        "term": " sound quality"
+    },
+    "19": {
+        "id": 19,
+        "polarity": "-",
+        "sentence": "OVERALL: I highly dislike the iPod, even though the sound quality and design is above-average. ",
+        "term": "iPod"
+    },
+    "20": {
+        "id": 20,
+        "polarity": "+",
+        "sentence": "The Ipod is a fine cousin to the early macs and current offerings from Jobs and Company. ",
+        "term": "Ipod"
+    },
+    "21": {
+        "id": 21,
+        "polarity": "+",
+        "sentence": "Long live Apple, long live Macs, and long live the Ipod!     ",
+        "term": "Apple"
+    },
+    "22": {
+        "id": 22,
+        "polarity": "+",
+        "sentence": "I have an ipod and it is a great buy. ",
+        "term": "ipod"
+    },
+    "23": {
+        "id": 23,
+        "polarity": "+",
+        "sentence": " Very sturdy and strong.",
+        "term": "sturdy"
+    },
+    "24": {
+        "id": 24,
+        "polarity": "-",
+        "sentence": " Doesn't have alot of good games on it.",
+        "term": "games"
+    },
+    "25": {
+        "id": 25,
+        "polarity": "-",
+        "sentence": "iPod is brilliant, but service was awful",
+        "term": "service"
+    },
+    "26": {
+        "id": 26,
+        "polarity": "+",
+        "sentence": "iPod is brilliant, but service was awful",
+        "term": "iPod"
+    },
+    "27": {
+        "id": 27,
+        "polarity": "+",
+        "sentence": "The software with the iPod includes iTunes, which allows you to play the music on your computer, rip CDs onto your computer, and move your music from the computer to the iPod. ",
+        "term": "iTunes"
+    },
+    "28": {
+        "id": 28,
+        "polarity": "+",
+        "sentence": "This new click wheel iPod allows you to navigate through the menus and song via a touch-wheel for scrolling and click-able buttons for selection.  ",
+        "term": "click wheel"
+    },
+    "29": {
+        "id": 29,
+        "polarity": "+",
+        "sentence": " The song quality of the iPod is excellent, and the included ear buds are actually more than satisfactory, for most users.",
+        "term": "ear buds"
+    },
+    "30": {
+        "id": 30,
+        "polarity": "+",
+        "sentence": " The song quality of the iPod is excellent, and the included ear buds are actually more than satisfactory, for most users.",
+        "term": "song quality"
+    },
+    "31": {
+        "id": 31,
+        "polarity": "-",
+        "sentence": " The back of the iPod is in a chrome finish, and this surface is prone to scratches. ",
+        "term": "scratches"
+    },
+    "32": {
+        "id": 32,
+        "polarity": "+",
+        "sentence": " Battery life keeps improving on the iPod, and a new iPod will give you up to twelve hours of play time, per charge. ",
+        "term": "Battery life"
+    },
+    "33": {
+        "id": 33,
+        "polarity": "+",
+        "sentence": "Thank you Apple!  You make fabulous products. ",
+        "term": "Apple"
+    },
+    "34": {
+        "id": 34,
+        "polarity": "+",
+        "sentence": " The product I rate five stars, ",
+        "term": "product"
+    },
+    "35": {
+        "id": 35,
+        "polarity": "-",
+        "sentence": "but I had to give you four because the service for my brand-new iPod was terribly slow.",
+        "term": "service"
+    },
+    "36": {
+        "id": 36,
+        "polarity": "+",
+        "sentence": "  Plus, if you order from Amazon.com, they will exchange it for you no problem.  ",
+        "term": "Amazon"
+    },
+    "37": {
+        "id": 37,
+        "polarity": "-",
+        "sentence": " The interface took a little getting used to.",
+        "term": "interface"
+    },
+    "38": {
+        "id": 38,
+        "polarity": "+",
+        "sentence": " This one has a color display, which I like a lot, being very visual. ",
+        "term": "display"
+    },
+    "39": {
+        "id": 39,
+        "polarity": "+",
+        "sentence": "I loaded a lot of photos into it and they display very clearly for such a small screen and, very importantly, the transition from one photo to the next is instantaneous. ",
+        "term": "photos"
+    },
+    "40": {
+        "id": 40,
+        "polarity": "+",
+        "sentence": " The sound is just fine. ",
+        "term": "sound"
+    },
+    "41": {
+        "id": 41,
+        "polarity": "+",
+        "sentence": "It comes with an adapter to plug into the wall, which I hear is a step up from the other iPods, which require you plug it into a computer to charge it.  ",
+        "term": "adapter"
+    },
+    "42": {
+        "id": 42,
+        "polarity": "-",
+        "sentence": " One caveat I have is that I understand the iPod does not save the photos in such a way that the quality of the image is preserved.",
+        "term": "photo quality"
+    },
+    "43": {
+        "id": 43,
+        "polarity": "+",
+        "sentence": " Pros: Large Hard Drive for the $$-- 20GB and 40GB are both affordable. ",
+        "term": " affordable"
+    },
+    "44": {
+        "id": 44,
+        "polarity": "+",
+        "sentence": " Pros: Large Hard Drive for the $$-- 20GB and 40GB are both affordable. ",
+        "term": "Hard Drive"
+    },
+    "45": {
+        "id": 45,
+        "polarity": "+",
+        "sentence": "Decently Sized Screen-- One of the larger ones on the market at 2\" ",
+        "term": "Screen"
+    },
+    "46": {
+        "id": 46,
+        "polarity": "+",
+        "sentence": "Decent Battery-- On the average size, but the 40GB comes with a dock.  ",
+        "term": "Battery"
+    },
+    "47": {
+        "id": 47,
+        "polarity": "+",
+        "sentence": " FireWire & USB2.0-- For those fortunate enough to have FireWire400, your in for a real treat with autosync.",
+        "term": "FireWire"
+    },
+    "48": {
+        "id": 48,
+        "polarity": "+",
+        "sentence": " FireWire & USB2.0-- For those fortunate enough to have FireWire400, your in for a real treat with autosync.",
+        "term": "USB"
+    },
+    "49": {
+        "id": 49,
+        "polarity": "+",
+        "sentence": " Great Design-- Very sleek and touch wheel has still never been successfully copied (vertal ones are the only competition); and now the wheel clicks, taking away a lot of headaches from 3rd gen and very navigable in the menus. ",
+        "term": "Design"
+    },
+    "50": {
+        "id": 50,
+        "polarity": "+",
+        "sentence": "Good sound-- Plays very nicely, even though the stock headphones are kind of weak Durable-- not the most durable because its mostly plastic, but very compact and sturdy ",
+        "term": "Durable"
+    },
+    "51": {
+        "id": 51,
+        "polarity": "+",
+        "sentence": "Good sound-- Plays very nicely, even though the stock headphones are kind of weak Durable-- not the most durable because its mostly plastic, but very compact and sturdy ",
+        "term": "sound"
+    },
+    "52": {
+        "id": 52,
+        "polarity": "+",
+        "sentence": "Good sound-- Plays very nicely, even though the stock headphones are kind of weak Durable-- not the most durable because its mostly plastic, but very compact and sturdy ",
+        "term": "compact"
+    },
+    "53": {
+        "id": 53,
+        "polarity": "+",
+        "sentence": "Games-- not really important, but existant ",
+        "term": "Games"
+    },
+    "54": {
+        "id": 54,
+        "polarity": "+",
+        "sentence": "Hold Button-- suprisingly not all MP3s have this; this allows you  to have all the buttons unusable, so that you don't accidently hit something in your pocket. ",
+        "term": "Hold"
+    },
+    "55": {
+        "id": 55,
+        "polarity": "-",
+        "sentence": " Cons: No AM/FM Radio Tuner-- Something a large number of competetors are doing",
+        "term": "Radio Tuner"
+    },
+    "56": {
+        "id": 56,
+        "polarity": "-",
+        "sentence": "3 No Voice Recorder-- this has also become an important and popular feature that the iPod unfortunately doesn't have.",
+        "term": "Voice Recorder"
+    },
+    "57": {
+        "id": 57,
+        "polarity": "-",
+        "sentence": " No Memory Stick slots-- Although a rare feature, it would be nice to have extra storage, not that it needs it Built-in Lithium Battery-- A huge hassle to bring this back; draining the battery once you get it helps, but removable/replaceable ones are a lot more convenient",
+        "term": "Memory Stick slots"
+    },
+    "58": {
+        "id": 58,
+        "polarity": "-",
+        "sentence": " No Memory Stick slots-- Although a rare feature, it would be nice to have extra storage, not that it needs it Built-in Lithium Battery-- A huge hassle to bring this back; draining the battery once you get it helps, but removable/replaceable ones are a lot more convenient",
+        "term": "Battery"
+    },
+    "59": {
+        "id": 59,
+        "polarity": "+",
+        "sentence": ". iTunes-- this is a love-hate relationship program; usually people with Mac like this program than people with a PC, but depending on your computer expertise, this could be a difficult program to use, and it is required for an iPod. ",
+        "term": "iTunes"
+    },
+    "60": {
+        "id": 60,
+        "polarity": "-",
+        "sentence": "No inbox accessories-- An arm strap, belt strap, case, or anything would be nice, but nope... Moveable parts-- This makes me almost want to keep my 3rd gen over a 4th; with moveable parts, its easy to damage an iPod at a gym, so this is for more casual listeners; note the iPod Mini doesn't have moveable parts and is made of titanium.",
+        "term": "accessories"
+    },
+    "61": {
+        "id": 61,
+        "polarity": "+",
+        "sentence": "  Comments: Overall this is still a great value, but is kind of overrated in the sense that there are beater deals on the market.",
+        "term": "Overall"
+    },
+    "62": {
+        "id": 62,
+        "polarity": "+",
+        "sentence": "Versatile and stylish.  ",
+        "term": "Versatile"
+    },
+    "63": {
+        "id": 63,
+        "polarity": "+",
+        "sentence": "I had a Casio unit, which had given great service, and would have been happy to get another one, but was tempted by the iPod's sleek design, storage capacity, connection options- - firewire and USB, and its integration with iTunes.   ",
+        "term": "connection options"
+    },
+    "64": {
+        "id": 64,
+        "polarity": "+",
+        "sentence": "I had a Casio unit, which had given great service, and would have been happy to get another one, but was tempted by the iPod's sleek design, storage capacity, connection options- - firewire and USB, and its integration with iTunes.   ",
+        "term": "design"
+    },
+    "65": {
+        "id": 65,
+        "polarity": "+",
+        "sentence": "I had a Casio unit, which had given great service, and would have been happy to get another one, but was tempted by the iPod's sleek design, storage capacity, connection options- - firewire and USB, and its integration with iTunes.   ",
+        "term": "iTunes"
+    },
+    "66": {
+        "id": 66,
+        "polarity": "+",
+        "sentence": "I had a Casio unit, which had given great service, and would have been happy to get another one, but was tempted by the iPod's sleek design, storage capacity, connection options- - firewire and USB, and its integration with iTunes.   ",
+        "term": "capacity"
+    },
+    "67": {
+        "id": 67,
+        "polarity": "-",
+        "sentence": "The battery issue is superficially a concern, but any reasonable solder-jockey (such as myself :-) can pop in a new one when the time comes (based upon the plentiful info gained from a google for 'ipod battery replacement').   ",
+        "term": "battery"
+    },
+    "68": {
+        "id": 68,
+        "polarity": "+",
+        "sentence": "The controls and the menus are clearly displayed and easily fathomed  ",
+        "term": "controls"
+    },
+    "69": {
+        "id": 69,
+        "polarity": "+",
+        "sentence": " The iPod is a very nice product, which given reasonable care, should give a lot of service.      ",
+        "term": "iPod"
+    },
+    "70": {
+        "id": 70,
+        "polarity": "-",
+        "sentence": " First, let me say that I got the 20gb iPod for Christmas, and I most likely would not have spent the $300 myself. ",
+        "term": "iPod"
+    },
+    "71": {
+        "id": 71,
+        "polarity": "-",
+        "sentence": "In addition, I do not think the battery lasts much more than eight to ten hours, and it can take four hours for a full charge.",
+        "term": "battery"
+    },
+    "72": {
+        "id": 72,
+        "polarity": "+",
+        "sentence": " I have about 6 gb used on my iPod so far (well over 1000 songs), and as far as I can tell, all of them play at near-cd quality.",
+        "term": "quality"
+    },
+    "73": {
+        "id": 73,
+        "polarity": "+",
+        "sentence": "Other than the fact that one can't delete a file directly from the iPod, the interface is excellent and mind-numbingly simple to use.  ",
+        "term": "interface"
+    },
+    "74": {
+        "id": 74,
+        "polarity": "+",
+        "sentence": "Other than the fact that one can't delete a file directly from the iPod, the interface is excellent and mind-numbingly simple to use.  ",
+        "term": " use"
+    },
+    "75": {
+        "id": 75,
+        "polarity": "+",
+        "sentence": " As for iTunes, I don't find it to be as good as the Windows Media Player as a computer mp3 player, but it is good enough. ",
+        "term": "iTunes"
+    },
+    "76": {
+        "id": 76,
+        "polarity": "+",
+        "sentence": " In conclusion, I gave the iPod a 4/5 because anything this expensive should would work just about flawlessly.",
+        "term": "iPod"
+    },
+    "77": {
+        "id": 77,
+        "polarity": "-",
+        "sentence": " *The ipod is overly sensitive to just about everything and gets scratched easily. ",
+        "term": "sensitive"
+    },
+    "78": {
+        "id": 78,
+        "polarity": "-",
+        "sentence": "The Battery does not last 12 hours.  ",
+        "term": "Battery"
+    },
+    "79": {
+        "id": 79,
+        "polarity": "-",
+        "sentence": " You can't change the battery, so I don't know what I'm going to do in a year or so.",
+        "term": "battery"
+    },
+    "80": {
+        "id": 80,
+        "polarity": "-",
+        "sentence": "  * You can't turn the volume up very high, but I think this might be for health reasons. * ",
+        "term": "volume"
+    },
+    "81": {
+        "id": 81,
+        "polarity": "-",
+        "sentence": "My ipod freezes occasionally, which is especially annoying when you're in the middle of a game of \"brick.\" *",
+        "term": "freezes"
+    },
+    "82": {
+        "id": 82,
+        "polarity": "-",
+        "sentence": "If you call apple and tell them your ipod has been damaged, they charge you roughly $105.50 per minute and blame you for \"abusing\" your ipod.",
+        "term": "apple"
+    },
+    "83": {
+        "id": 83,
+        "polarity": "-",
+        "sentence": " The user support service isn't too great either.  ",
+        "term": "support service"
+    },
+    "84": {
+        "id": 84,
+        "polarity": "+",
+        "sentence": "Everything I Wanted! The Apple iPod has become one of the most sought-after electronic gadgets - and for good reason.",
+        "term": "iPod"
+    },
+    "85": {
+        "id": 85,
+        "polarity": "+",
+        "sentence": " Its sleek design, large memory capacity, compatibility with iTunes, and ease of use makes this one of the best portable digital listening devices on the market. ",
+        "term": "iTunes"
+    },
+    "86": {
+        "id": 86,
+        "polarity": "+",
+        "sentence": " Its sleek design, large memory capacity, compatibility with iTunes, and ease of use makes this one of the best portable digital listening devices on the market. ",
+        "term": "design"
+    },
+    "87": {
+        "id": 87,
+        "polarity": "+",
+        "sentence": " Its sleek design, large memory capacity, compatibility with iTunes, and ease of use makes this one of the best portable digital listening devices on the market. ",
+        "term": "capacity"
+    },
+    "88": {
+        "id": 88,
+        "polarity": "+",
+        "sentence": " Unless you have an enormous music/audio book library, the 20 GB model should have more than adequate storage capacity, with a stated ability to hold 5000 songs.  ",
+        "term": "capacity"
+    },
+    "89": {
+        "id": 89,
+        "polarity": "+",
+        "sentence": " Features: click wheel to navigate; ability to work with Windows or Mac; optional backlighting (you can have it on all the time, or have it shut off to save battery power after 5, 10, or 20 seconds); ability to download PDA info; automatic or manual download from iTunes when iPod is plugged into your computer. ",
+        "term": "wheel"
+    },
+    "90": {
+        "id": 90,
+        "polarity": "+",
+        "sentence": " Features: click wheel to navigate; ability to work with Windows or Mac; optional backlighting (you can have it on all the time, or have it shut off to save battery power after 5, 10, or 20 seconds); ability to download PDA info; automatic or manual download from iTunes when iPod is plugged into your computer. ",
+        "term": "iTunes"
+    },
+    "91": {
+        "id": 91,
+        "polarity": "+",
+        "sentence": " Features: click wheel to navigate; ability to work with Windows or Mac; optional backlighting (you can have it on all the time, or have it shut off to save battery power after 5, 10, or 20 seconds); ability to download PDA info; automatic or manual download from iTunes when iPod is plugged into your computer. ",
+        "term": " backlighting"
+    },
+    "92": {
+        "id": 92,
+        "polarity": "+",
+        "sentence": "There's even an equalizer (under \"settings\") that allows you to adjust the sound for acoustic, bass booster, bass reducer, classical, dance, \"deep\", and electronic.",
+        "term": "equalizer"
+    },
+    "93": {
+        "id": 93,
+        "polarity": "+",
+        "sentence": "  With accessories, you can make the iPod into a digital recorder, broadcast it remotely through stereo speakers using wireless technology, and play it through your car speakers using either a CD adaptor or FM stereo broadcaster. ",
+        "term": "accessories"
+    },
+    "94": {
+        "id": 94,
+        "polarity": "-",
+        "sentence": " The iPod comes formatted for the Mac, but within seconds of plugging it into a PC, is automatically reformatted for Windows.  (The HP version comes with Windows formatting, and takes seconds to change to Mac.) Although the iPod can be changed from one format to another, you will lose all of your music and data when doing so. ",
+        "term": "reformatted"
+    },
+    "95": {
+        "id": 95,
+        "polarity": "+",
+        "sentence": "ITunes can be downloaded from the enclosed CD or for free from the Apple site.    ",
+        "term": "ITunes"
+    },
+    "96": {
+        "id": 96,
+        "polarity": "-",
+        "sentence": " Its steel backing picks up fingerprints and scratches easily, not great from a cosmetic standpoint.  ",
+        "term": "steel backing"
+    },
+    "97": {
+        "id": 97,
+        "polarity": "+",
+        "sentence": "All in all, this is a wonderful device.  ",
+        "term": "device"
+    },
+    "98": {
+        "id": 98,
+        "polarity": "+",
+        "sentence": "  The weight is heavier than many digital players, but I like the solid feel. ",
+        "term": "solid feel"
+    },
+    "99": {
+        "id": 99,
+        "polarity": "-",
+        "sentence": "  The weight is heavier than many digital players, but I like the solid feel. ",
+        "term": "weight"
+    },
+    "100": {
+        "id": 100,
+        "polarity": "-",
+        "sentence": "Holy cow! It really does scratch easily! ",
+        "term": "scratch"
+    },
+    "101": {
+        "id": 101,
+        "polarity": "-",
+        "sentence": "  The thing has survived plenty of falls with little or no damage, except the inevitable scratches.",
+        "term": "scratches"
+    },
+    "102": {
+        "id": 102,
+        "polarity": "+",
+        "sentence": "  Apple has definately fulfilled its reputation in making quality equipment, and surprisingly wasn't as expensive as its reputation normally holds.  ",
+        "term": "Apple"
+    },
+    "103": {
+        "id": 103,
+        "polarity": "-",
+        "sentence": "Apple closed their island to anything that resembled Microsoft, and clearly let Napster know it could not use their products with Napster's services. ",
+        "term": "Apple"
+    },
+    "104": {
+        "id": 104,
+        "polarity": "+",
+        "sentence": " Battery non-issue. ",
+        "term": "Battery"
+    },
+    "105": {
+        "id": 105,
+        "polarity": "+",
+        "sentence": "Finally, compare the iPod to other players on a cost/Gb, and also consider ease of use. ",
+        "term": "use"
+    },
+    "106": {
+        "id": 106,
+        "polarity": "+",
+        "sentence": "Finally, compare the iPod to other players on a cost/Gb, and also consider ease of use. ",
+        "term": "iPod"
+    },
+    "107": {
+        "id": 107,
+        "polarity": "+",
+        "sentence": "The iPod is not overpriced compared to the market.",
+        "term": "iPod"
+    },
+    "108": {
+        "id": 108,
+        "polarity": "+",
+        "sentence": "This is the best purchase I've made in a very long time.",
+        "term": "purchase"
+    },
+    "109": {
+        "id": 109,
+        "polarity": "+",
+        "sentence": "The sound is INCREDIBLE; very clean, very wide dynamic range of bass, mids and highs, and can be very loud if I turn it up full blast.",
+        "term": "sound"
+    },
+    "110": {
+        "id": 110,
+        "polarity": "+",
+        "sentence": "The sound is INCREDIBLE; very clean, very wide dynamic range of bass, mids and highs, and can be very loud if I turn it up full blast.",
+        "term": "bass"
+    },
+    "111": {
+        "id": 111,
+        "polarity": "+",
+        "sentence": "The Great And Versatile iPod  I love my iPod! ",
+        "term": "Versatile"
+    },
+    "112": {
+        "id": 112,
+        "polarity": "+",
+        "sentence": " The sound quality is excellent, accessing the music is easy, and the controls are generally well thought out. ",
+        "term": "sound"
+    },
+    "113": {
+        "id": 113,
+        "polarity": "+",
+        "sentence": " The sound quality is excellent, accessing the music is easy, and the controls are generally well thought out. ",
+        "term": "controls"
+    },
+    "114": {
+        "id": 114,
+        "polarity": "-",
+        "sentence": "As a Windows user, I had to install the software including drivers and iTunes on my desktop, and this is the only area where I encountered a nuisance. ",
+        "term": "iTunes"
+    },
+    "115": {
+        "id": 115,
+        "polarity": "+",
+        "sentence": " I still give the iPod five stars, though, as it could have been something I did incorrectly during the install (though I did follow the onscreen prompts) so I'll give Apple the benefit of the doubt.",
+        "term": "iPod"
+    },
+    "116": {
+        "id": 116,
+        "polarity": "+",
+        "sentence": "The battery holds a charge for a very long time (maybe 15 or so hours of use) so realistically there are no real range or endurance issues associated with iPod use. ",
+        "term": "battery"
+    },
+    "117": {
+        "id": 117,
+        "polarity": "-",
+        "sentence": "  My only complaint (really more of an observation) is that the outside finish of the iPod is rather delicate, so I am going to get a case for mine so it doesn't get all scratched up. ",
+        "term": "outside finish"
+    },
+    "118": {
+        "id": 118,
+        "polarity": "+",
+        "sentence": "(It sure does look nice, though!)  I recommend this to any music lover anywhere: the quality of the audio is excellent, the controls and indicators rapidly become intuitive, and the storage capacity and battery life are huge!     ",
+        "term": "quality of audio"
+    },
+    "119": {
+        "id": 119,
+        "polarity": "+",
+        "sentence": "(It sure does look nice, though!)  I recommend this to any music lover anywhere: the quality of the audio is excellent, the controls and indicators rapidly become intuitive, and the storage capacity and battery life are huge!     ",
+        "term": "controls"
+    },
+    "120": {
+        "id": 120,
+        "polarity": "+",
+        "sentence": "(It sure does look nice, though!)  I recommend this to any music lover anywhere: the quality of the audio is excellent, the controls and indicators rapidly become intuitive, and the storage capacity and battery life are huge!     ",
+        "term": "capacity"
+    },
+    "121": {
+        "id": 121,
+        "polarity": "+",
+        "sentence": "  Using the software iTunes is relatively simple, you just plug the USB cable in, wait your machine to detect the iPod and voila, any songs listed in your iTunes library will be transfered on over to the iPod.",
+        "term": "iTunes"
+    },
+    "122": {
+        "id": 122,
+        "polarity": "+",
+        "sentence": " And, with the iPods' full volume up, all you have to do is adjust your receivers' volume and your set, since the iPod itself acts as a strong amplifer of its' own.",
+        "term": "amplifier"
+    },
+    "123": {
+        "id": 123,
+        "polarity": "-",
+        "sentence": "  If there were any complaints I have, they are marginal, but one is Apples' properietary set-up for music files, their incompatibility with other music services (i.e. Napster) is down right wrong.",
+        "term": "proprietary"
+    },
+    "124": {
+        "id": 124,
+        "polarity": "+",
+        "sentence": "  However after purchasing a 20 GB iPod it's clear to see the superiority. ",
+        "term": "iPod"
+    },
+    "125": {
+        "id": 125,
+        "polarity": "+",
+        "sentence": "For a sleeker, smaller and more \"average\" MP3 player the Nitrus is great but the iPod blows it out of the water - the interface is great and the design is wonderful.",
+        "term": " design"
+    },
+    "126": {
+        "id": 126,
+        "polarity": "+",
+        "sentence": "For a sleeker, smaller and more \"average\" MP3 player the Nitrus is great but the iPod blows it out of the water - the interface is great and the design is wonderful.",
+        "term": " interface"
+    },
+    "127": {
+        "id": 127,
+        "polarity": "+",
+        "sentence": "For a sleeker, smaller and more \"average\" MP3 player the Nitrus is great but the iPod blows it out of the water - the interface is great and the design is wonderful.",
+        "term": "iPod"
+    },
+    "128": {
+        "id": 128,
+        "polarity": "-",
+        "sentence": " Also, some other MP3 players such as the Nitrus allow you to play WMA (Windows Media Audio) files, whereas the iPod does NOT. ",
+        "term": "play WMA"
+    },
+    "129": {
+        "id": 129,
+        "polarity": "+",
+        "sentence": "The actual experience of USING the iPod is magnificent.",
+        "term": "USING"
+    },
+    "130": {
+        "id": 130,
+        "polarity": "+",
+        "sentence": " The design, as mentioned above, is sleek, cool and trendy (and I think trendy = good, but it's always hard to tell these days). ",
+        "term": "design"
+    },
+    "131": {
+        "id": 131,
+        "polarity": "+",
+        "sentence": " The battery life lastes 12 hours, and charges quickly. (As mentioned above, the initial charge is a minimum of only two hours - not too long at all!) Once you've downloaded your music, you can access the tracks by artist, genre, album, composer (this comes in handy when the actual composer is different from the artist - e.g. covers of songs), etc.",
+        "term": "battery"
+    },
+    "132": {
+        "id": 132,
+        "polarity": "+",
+        "sentence": " The!  sound quality is great. ",
+        "term": "sound quality"
+    },
+    "133": {
+        "id": 133,
+        "polarity": "+",
+        "sentence": "The included earphones are pretty good - my advice? ",
+        "term": "earphones"
+    },
+    "134": {
+        "id": 134,
+        "polarity": "+",
+        "sentence": "  The ease of use of the iPod is a major attribute.",
+        "term": "use"
+    },
+    "135": {
+        "id": 135,
+        "polarity": "+",
+        "sentence": " With the iPod, you can also store documents and contact files (from programs such as Microsoft Outlook) when it's connected to your PC as an external hard drive. ",
+        "term": "hard drive"
+    },
+    "136": {
+        "id": 136,
+        "polarity": "+",
+        "sentence": "Also included in the \"games\" section is the great music trivia option - which tests your skill at being able to quickly place your own songs. ",
+        "term": "games"
+    },
+    "137": {
+        "id": 137,
+        "polarity": "+",
+        "sentence": "  20 GB OR 40 GB?  The pros of the 40 GB: Comes with a \"dock station\" and double storage space (10,000 songs).",
+        "term": "storage space"
+    },
+    "138": {
+        "id": 138,
+        "polarity": "+",
+        "sentence": "  Overall the iPod really is an almost flawless beast. The capacity in the 20 GB is more than I think most people would ever need and, for the price, I highly recommend it.",
+        "term": " price"
+    },
+    "139": {
+        "id": 139,
+        "polarity": "+",
+        "sentence": "  Overall the iPod really is an almost flawless beast. The capacity in the 20 GB is more than I think most people would ever need and, for the price, I highly recommend it.",
+        "term": "iPod"
+    },
+    "140": {
+        "id": 140,
+        "polarity": "+",
+        "sentence": "  Overall the iPod really is an almost flawless beast. The capacity in the 20 GB is more than I think most people would ever need and, for the price, I highly recommend it.",
+        "term": " capacity"
+    },
+    "141": {
+        "id": 141,
+        "polarity": "+",
+        "sentence": "Everything else about the ipod is great, the click wheel is very easy to use and so is the software that comes with it.",
+        "term": "Itunes"
+    },
+    "142": {
+        "id": 142,
+        "polarity": "+",
+        "sentence": "Everything else about the ipod is great, the click wheel is very easy to use and so is the software that comes with it.",
+        "term": "Design"
+    },
+    "143": {
+        "id": 143,
+        "polarity": "+",
+        "sentence": "Finding all the albums, songs etc is much easier than you would think it would be even if you have 20 gig (well 18 gig) worth of music.",
+        "term": "Finding"
+    },
+    "144": {
+        "id": 144,
+        "polarity": "+",
+        "sentence": "  It all sounds great too. ",
+        "term": "sounds"
+    },
+    "145": {
+        "id": 145,
+        "polarity": "-",
+        "sentence": " As with most headphones that come with any type of music player,I recommend throwing these into the nearest river, unless you like having hard, round pieces of plastic in your ears. ",
+        "term": "headphones"
+    },
+    "146": {
+        "id": 146,
+        "polarity": "+",
+        "sentence": " You can even use the ipod to store files from your pc and export your outlook files to it.",
+        "term": "store"
+    },
+    "147": {
+        "id": 147,
+        "polarity": "-",
+        "sentence": "Because Steve Jobs is a twisted individual and he made sure that he ruined this device by giving it an UNREPLACABLE 18 MONTH BATTERY. ",
+        "term": "BATTERY"
+    },
+    "148": {
+        "id": 148,
+        "polarity": "-",
+        "sentence": "  This was obviously a conspiracy as it is FREAKIN' EASY to manufacture a device with replaceable batteries!!",
+        "term": "batteries"
+    },
+    "149": {
+        "id": 149,
+        "polarity": "-",
+        "sentence": "However, in my mind, $299 is a lot to pay for a device that will only last 18 MONTHS. ",
+        "term": "pay"
+    },
+    "150": {
+        "id": 150,
+        "polarity": "-",
+        "sentence": " LOOKS AND DURABILITY: I realize many people are fond of the minimalist white interface.  ",
+        "term": "interface"
+    },
+    "151": {
+        "id": 151,
+        "polarity": "-",
+        "sentence": "The biggest red flag for me was the fact that although my cousin's player was relatively new, it was riddled with scratches.",
+        "term": "scratches"
+    },
+    "152": {
+        "id": 152,
+        "polarity": "-",
+        "sentence": " BATTERY: Compared to the other players on the market, the iPod has one of the worst batteries around.",
+        "term": "BATTERY"
+    }
+}

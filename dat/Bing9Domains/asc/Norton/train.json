@@ -1,0 +1,1166 @@
+{
+    "0": {
+        "id": 0,
+        "polarity": "-",
+        "sentence": "I have read the installation instructions for both NIS 2004 and NAV 2004 prior to installation, but still ended up with the same result...junk software.",
+        "term": "software"
+    },
+    "1": {
+        "id": 1,
+        "polarity": "-",
+        "sentence": "But if I installed either one of these Norton products, neither works after installation?",
+        "term": "Norton products"
+    },
+    "2": {
+        "id": 2,
+        "polarity": "+",
+        "sentence": "It can not be the computer or the owner, since I purchased McAfee Anti-Virus 8 and it installs and works fine with no problems.",
+        "term": "McAfee Anti-Virus 8"
+    },
+    "3": {
+        "id": 3,
+        "polarity": "-",
+        "sentence": "I have used Norton for the past 5 years and for the last 2 years, the software has gotten more and more disgraceful.",
+        "term": "Norton"
+    },
+    "4": {
+        "id": 4,
+        "polarity": "-",
+        "sentence": "I am glad that I do not work for Norton.",
+        "term": "Norton"
+    },
+    "5": {
+        "id": 5,
+        "polarity": "-",
+        "sentence": "After 4 attempted installs, I have finally given up.",
+        "term": "Installation"
+    },
+    "6": {
+        "id": 6,
+        "polarity": "-",
+        "sentence": "During install, NIS would either freeze or not reboot properly when asked to do so.",
+        "term": "NIS"
+    },
+    "7": {
+        "id": 7,
+        "polarity": "-",
+        "sentence": "The MS scandisk would appear due to manual shutdown and would only scan to the 2nd bar, over and over(up to 1 hr, I then shut it down and used GOBACK).",
+        "term": "Manual shutdown"
+    },
+    "8": {
+        "id": 8,
+        "polarity": "+",
+        "sentence": "The 1 time it did install, it did not work and had errors, I used the unistall NIS icon and it properly removed itself.",
+        "term": "uninstall"
+    },
+    "9": {
+        "id": 9,
+        "polarity": "-",
+        "sentence": "The 1 time it did install, it did not work and had errors, I used the unistall NIS icon and it properly removed itself.",
+        "term": "product"
+    },
+    "10": {
+        "id": 10,
+        "polarity": "-",
+        "sentence": "I have never had this problem with any other software on my computer.",
+        "term": "Norton"
+    },
+    "11": {
+        "id": 11,
+        "polarity": "+",
+        "sentence": "NIS 2003 worked like a charm last year.",
+        "term": "NIS 2003"
+    },
+    "12": {
+        "id": 12,
+        "polarity": "-",
+        "sentence": "Being a past Norton customer, I consider this to be a slap to my face.",
+        "term": "Norton"
+    },
+    "13": {
+        "id": 13,
+        "polarity": "-",
+        "sentence": "Buying software that can not be installed normally and being put into the position of having a non-working computer.",
+        "term": "installed"
+    },
+    "14": {
+        "id": 14,
+        "polarity": "-",
+        "sentence": "Norton has been on a downhill slid recently with their products, but with this one, they have fallen off the cliff.",
+        "term": "Norton"
+    },
+    "15": {
+        "id": 15,
+        "polarity": "-",
+        "sentence": "As a loyal customer of Norton/Symantec products, I purchased Internet Security 2004 as a software firewall and could not be any more dissatisfied with the product (and hence the one star rating).",
+        "term": "product"
+    },
+    "16": {
+        "id": 16,
+        "polarity": "-",
+        "sentence": "Yeah - this program protects your computer all right - by locking you off the internet.",
+        "term": "program"
+    },
+    "17": {
+        "id": 17,
+        "polarity": "+",
+        "sentence": "The latest of Internet Security has antispam function that is helpful because I has received a mountain of those these days.",
+        "term": "antispam function"
+    },
+    "18": {
+        "id": 18,
+        "polarity": "-",
+        "sentence": "Other than that it is all the same except the new updates.",
+        "term": "updates"
+    },
+    "19": {
+        "id": 19,
+        "polarity": "+",
+        "sentence": "But that is good for me because Symantec softwares are a bit hard to master for me who are not savvy on computers.",
+        "term": "Symantec softwares "
+    },
+    "20": {
+        "id": 20,
+        "polarity": "-",
+        "sentence": "So far I haven't had so much complaints except that I still haven't mastered how to scandisk when using Internet Security.",
+        "term": "scandisk"
+    },
+    "21": {
+        "id": 21,
+        "polarity": "-",
+        "sentence": "Too bad the product is cumbersome and intertwined trying to do so much at one time.",
+        "term": "product"
+    },
+    "22": {
+        "id": 22,
+        "polarity": "-",
+        "sentence": "Sometimes a suite is not a good deal and all you get is a bundle of headaches.",
+        "term": "suite"
+    },
+    "23": {
+        "id": 23,
+        "polarity": "+",
+        "sentence": "I'm not sure why all the bad reviews, my computer isn't especially slowed down and I have Win'98.",
+        "term": "speed"
+    },
+    "24": {
+        "id": 24,
+        "polarity": "+",
+        "sentence": "Sure, it slows it down a little, but that's expected.",
+        "term": "speed"
+    },
+    "25": {
+        "id": 25,
+        "polarity": "+",
+        "sentence": "Perhaps Semantic could work out the efficiency a little, but these reviews are highly exagerated... I would ask what else these people are running on their computers(?)",
+        "term": "Semantic"
+    },
+    "26": {
+        "id": 26,
+        "polarity": "-",
+        "sentence": "Norton Internet Security 2004 is one of the more buggy implementations.",
+        "term": "NIS2004"
+    },
+    "27": {
+        "id": 27,
+        "polarity": "-",
+        "sentence": "This product has virtually all the same installation problems.",
+        "term": "installation"
+    },
+    "28": {
+        "id": 28,
+        "polarity": "-",
+        "sentence": "For purposes of clarity, here is my review from that product,edited to be appropriate for this product, since, for the most part, they share many of the same problems.",
+        "term": "product"
+    },
+    "29": {
+        "id": 29,
+        "polarity": "+",
+        "sentence": "This is the fourth version of SystemWorks and the second version of Internet Security that I have used and it has always been a favorite.",
+        "term": " Internet Security"
+    },
+    "30": {
+        "id": 30,
+        "polarity": "+",
+        "sentence": "This is the fourth version of SystemWorks and the second version of Internet Security that I have used and it has always been a favorite.",
+        "term": "SystemWorks"
+    },
+    "31": {
+        "id": 31,
+        "polarity": "+",
+        "sentence": "The antivirus feature is phenomenal, and is regularly updated.",
+        "term": "antivirus"
+    },
+    "32": {
+        "id": 32,
+        "polarity": "+",
+        "sentence": "I think their antivirus software was one of, if not the best, on the",
+        "term": "antivirus"
+    },
+    "33": {
+        "id": 33,
+        "polarity": "-",
+        "sentence": "This version of Internet Security 2004, is beyond hope.",
+        "term": "Internet Security 2004"
+    },
+    "34": {
+        "id": 34,
+        "polarity": "-",
+        "sentence": "They are a royal pain to install, and don't function properly once finally installed -- if you can install them at all.",
+        "term": " function"
+    },
+    "35": {
+        "id": 35,
+        "polarity": "-",
+        "sentence": "They are a royal pain to install, and don't function properly once finally installed -- if you can install them at all.",
+        "term": "install"
+    },
+    "36": {
+        "id": 36,
+        "polarity": "-",
+        "sentence": "The biggest problem is the installation.",
+        "term": "installation"
+    },
+    "37": {
+        "id": 37,
+        "polarity": "-",
+        "sentence": "Also if you do manage to get it installed, any problems with LiveUpdate or with System Works will also affect the functionality and/or the process of updating Internet Security.",
+        "term": "installed"
+    },
+    "38": {
+        "id": 38,
+        "polarity": "-",
+        "sentence": "Also if you do manage to get it installed, any problems with LiveUpdate or with System Works will also affect the functionality and/or the process of updating Internet Security.",
+        "term": " System Works"
+    },
+    "39": {
+        "id": 39,
+        "polarity": "-",
+        "sentence": "Also if you do manage to get it installed, any problems with LiveUpdate or with System Works will also affect the functionality and/or the process of updating Internet Security.",
+        "term": "LiveUpdate"
+    },
+    "40": {
+        "id": 40,
+        "polarity": "-",
+        "sentence": "Also if you do manage to get it installed, any problems with LiveUpdate or with System Works will also affect the functionality and/or the process of updating Internet Security.",
+        "term": " Internet Security"
+    },
+    "41": {
+        "id": 41,
+        "polarity": "-",
+        "sentence": "I've had to install and uninstall them four or five times so far, and I've not to get either product working properly.",
+        "term": "product"
+    },
+    "42": {
+        "id": 42,
+        "polarity": "-",
+        "sentence": "First, it serious, serious installation problems.",
+        "term": "installation"
+    },
+    "43": {
+        "id": 43,
+        "polarity": "-",
+        "sentence": "Back in May 2004, when I first reviewed this, it had taken me over 16 hours to install and run.",
+        "term": "install"
+    },
+    "44": {
+        "id": 44,
+        "polarity": "-",
+        "sentence": "Almost from the beginning, LiveUpdate would not function.",
+        "term": "LiveUpdate"
+    },
+    "45": {
+        "id": 45,
+        "polarity": "-",
+        "sentence": "First, it failed whenever connecting to get updates.",
+        "term": "updates"
+    },
+    "46": {
+        "id": 46,
+        "polarity": "-",
+        "sentence": "When I finally got it working, it only worked properly for many a month.",
+        "term": "LiveUpdate"
+    },
+    "47": {
+        "id": 47,
+        "polarity": "-",
+        "sentence": "The next problem was that it didn't recognize all the installed components, so it would not update them, most notably and importantly, virus definitions.",
+        "term": "components"
+    },
+    "48": {
+        "id": 48,
+        "polarity": "+",
+        "sentence": "Once installed, however, some of the functions do work OK (Disk Doctor, One Button Checkup, and WinDoctor).",
+        "term": "functions"
+    },
+    "49": {
+        "id": 49,
+        "polarity": "+",
+        "sentence": "These tasks are faster and easier than in prior versions, and I found the menu to be much more navigable.",
+        "term": " menu"
+    },
+    "50": {
+        "id": 50,
+        "polarity": "+",
+        "sentence": "These tasks are faster and easier than in prior versions, and I found the menu to be much more navigable.",
+        "term": "faster"
+    },
+    "51": {
+        "id": 51,
+        "polarity": "-",
+        "sentence": "But this doesn't make up for it's innumerable other short-comings, the biggest of which is the inability to download any updates due to problems with LiveUpdate.",
+        "term": "LiveUpdate"
+    },
+    "52": {
+        "id": 52,
+        "polarity": "-",
+        "sentence": "The other annoyance with this that you have to remove every single remnant of previous version of Norton SystemWorks before you installs this.",
+        "term": "installs"
+    },
+    "53": {
+        "id": 53,
+        "polarity": "-",
+        "sentence": "Warning! The Windows \"remove program\" feature does not do a good job of this, and neither does Norton's own removal program.",
+        "term": "removal program"
+    },
+    "54": {
+        "id": 54,
+        "polarity": "-",
+        "sentence": "A lot of \"fragments\" were left in the Registry, and it the Norton system folders.",
+        "term": "fragments"
+    },
+    "55": {
+        "id": 55,
+        "polarity": "+",
+        "sentence": "Their website had a download that helped remove those, although I had to manually remove a good number of files from the \"Programs\" directory.",
+        "term": "remove"
+    },
+    "56": {
+        "id": 56,
+        "polarity": "-",
+        "sentence": "If you have an older version of \"Internet Security\" installed, you may also need to remove it as well before proceeding with SystemWorks install.",
+        "term": "install"
+    },
+    "57": {
+        "id": 57,
+        "polarity": "-",
+        "sentence": "You also need to go in and MANUALLY remove many Symantec files from the REGISTRY.",
+        "term": "remove"
+    },
+    "58": {
+        "id": 58,
+        "polarity": "-",
+        "sentence": "As of October, 2004, these products are NOT working and I'm ready to demand a refund from Symantec.",
+        "term": "products"
+    },
+    "59": {
+        "id": 59,
+        "polarity": "-",
+        "sentence": "I just uninstalled SystemWorks and Internet Security for at least the fifth time due to funtionality issues.",
+        "term": "functionality"
+    },
+    "60": {
+        "id": 60,
+        "polarity": "-",
+        "sentence": "Once again it won't reinstall, even with online and email assistance from Symantect Technicians.",
+        "term": "reinstall"
+    },
+    "61": {
+        "id": 61,
+        "polarity": "-",
+        "sentence": "The best thing to do with this version, is to leave it on the store shelf. It doesn't work, and will cost you an enormous amount of your time, not to mention your hard earned dollars.",
+        "term": "version 2004"
+    },
+    "62": {
+        "id": 62,
+        "polarity": "-",
+        "sentence": "Personally, I may never buy Symantect products again.",
+        "term": "Symantect products"
+    },
+    "63": {
+        "id": 63,
+        "polarity": "-",
+        "sentence": "Avoid this product at all costs.",
+        "term": "product"
+    },
+    "64": {
+        "id": 64,
+        "polarity": "-",
+        "sentence": "There are some highs to the 2004 edition, but mostly lows.",
+        "term": "2004 edition"
+    },
+    "65": {
+        "id": 65,
+        "polarity": "-",
+        "sentence": "The program brings more problems than a virus, albeit not as major problems, just not what you expect for 70 bucks.",
+        "term": "program"
+    },
+    "66": {
+        "id": 66,
+        "polarity": "-",
+        "sentence": "The program brings more problems than a virus, albeit not as major problems, just not what you expect for 70 bucks.",
+        "term": " cost"
+    },
+    "67": {
+        "id": 67,
+        "polarity": "-",
+        "sentence": "I had a question about the pros and cons of turning off the Norton firewall vs. the windows firewall, and waited 45 minutes to speak with a tech support representative because I did not have a \"customer priority ID number.\"",
+        "term": "support"
+    },
+    "68": {
+        "id": 68,
+        "polarity": "-",
+        "sentence": "Then when I went to Norton's website to obtain a priority ID number per the instructions I had been given, I couldn't find a way to get one.",
+        "term": "priority ID"
+    },
+    "69": {
+        "id": 69,
+        "polarity": "-",
+        "sentence": "So I e-mailed the online tech support with that simple question, and got a reply which was totally unresponsive (it looked as though they didn't actually read the e-mail and just sent back a few boilerplate paragraphs).",
+        "term": "support"
+    },
+    "70": {
+        "id": 70,
+        "polarity": "-",
+        "sentence": "And, when you think about it, it's insulting that Norton requires its customers to jump through these hoops -- anyone who can provide proof of purchase, whether on the phone or online (what if your computer is down?), should have equal priority.",
+        "term": "Norton"
+    },
+    "71": {
+        "id": 71,
+        "polarity": "+",
+        "sentence": "Norton's memory usage on systems with 512 MB is very low.",
+        "term": "memory usage"
+    },
+    "72": {
+        "id": 72,
+        "polarity": "+",
+        "sentence": "I just got an older 866 Mhz system with 512 PC 133 RAM and it also runs fine on that.",
+        "term": "memory usage"
+    },
+    "73": {
+        "id": 73,
+        "polarity": "+",
+        "sentence": "Both the antivirus and firewall are integrated into one piece of software and they update together.",
+        "term": "update"
+    },
+    "74": {
+        "id": 74,
+        "polarity": "+",
+        "sentence": "You won't need to update your firewall and antivirus separately or install two disks.",
+        "term": "update"
+    },
+    "75": {
+        "id": 75,
+        "polarity": "+",
+        "sentence": "The best part of the firewall is the visual backtracking.",
+        "term": "visual backtracking"
+    },
+    "76": {
+        "id": 76,
+        "polarity": "-",
+        "sentence": "Stay away from this product!",
+        "term": "product"
+    },
+    "77": {
+        "id": 77,
+        "polarity": "-",
+        "sentence": "I don't know what's happened to Norton, but 2004 is absolute garbage.",
+        "term": "2004"
+    },
+    "78": {
+        "id": 78,
+        "polarity": "-",
+        "sentence": "The customer support is pathetic.",
+        "term": "support"
+    },
+    "79": {
+        "id": 79,
+        "polarity": "-",
+        "sentence": "I have found too many bugs in Norton Internet Security Professional to recommend it to any one without extreme patience and experience.",
+        "term": "Norton internet security"
+    },
+    "80": {
+        "id": 80,
+        "polarity": "-",
+        "sentence": "This product is absolutely not ready for release.",
+        "term": "product"
+    },
+    "81": {
+        "id": 81,
+        "polarity": "-",
+        "sentence": "It is buggy, slow and basically frustrates the heck out of the user.",
+        "term": "slow"
+    },
+    "82": {
+        "id": 82,
+        "polarity": "-",
+        "sentence": "I am an IT professional and have used Norton for years, but this product is a complete and utter dud.",
+        "term": "product"
+    },
+    "83": {
+        "id": 83,
+        "polarity": "-",
+        "sentence": "It's a rip off if one buys Norton Internet Security and antivirus.",
+        "term": "Internet Security"
+    },
+    "84": {
+        "id": 84,
+        "polarity": "-",
+        "sentence": "It's a rip off if one buys Norton Internet Security and antivirus.",
+        "term": " antivirus"
+    },
+    "85": {
+        "id": 85,
+        "polarity": "-",
+        "sentence": "Nothing spectacular is done by internet security or by antivirus software.",
+        "term": " antivirus software"
+    },
+    "86": {
+        "id": 86,
+        "polarity": "-",
+        "sentence": "Nothing spectacular is done by internet security or by antivirus software.",
+        "term": "internet security"
+    },
+    "87": {
+        "id": 87,
+        "polarity": "-",
+        "sentence": "Even though I have the parental controls off it constantly starts updating them then freezes my computer.",
+        "term": "parental controls"
+    },
+    "88": {
+        "id": 88,
+        "polarity": "-",
+        "sentence": "Now in October,2004, the firewall said I couldn't OK anymore software to use the internet because its full.",
+        "term": "firewall"
+    },
+    "89": {
+        "id": 89,
+        "polarity": "-",
+        "sentence": "Im at full capacity!!!! I called Symantic and they said they don't know why but I should get Tech's Support at $35/hr to help!! I did call them and was on hold for 55 minutes untill I hung up!",
+        "term": " Support"
+    },
+    "90": {
+        "id": 90,
+        "polarity": "-",
+        "sentence": "Im at full capacity!!!! I called Symantic and they said they don't know why but I should get Tech's Support at $35/hr to help!! I did call them and was on hold for 55 minutes untill I hung up!",
+        "term": "capacity"
+    },
+    "91": {
+        "id": 91,
+        "polarity": "-",
+        "sentence": "So, DON'T buy this or upgrade.",
+        "term": "product"
+    },
+    "92": {
+        "id": 92,
+        "polarity": "-",
+        "sentence": "So, DON'T buy this or upgrade.",
+        "term": " upgrade"
+    },
+    "93": {
+        "id": 93,
+        "polarity": "-",
+        "sentence": "If you currently own the 2003 version, and are looking to upgrade to the 2004 version, don't.",
+        "term": "2004 version"
+    },
+    "94": {
+        "id": 94,
+        "polarity": "-",
+        "sentence": "There is little meaningful difference between the two versions aside from the tedius activation process, and the product is currently rather buggy and has problems running unless cleanly installed on a formatted drive.",
+        "term": "activation process"
+    },
+    "95": {
+        "id": 95,
+        "polarity": "-",
+        "sentence": "There is little meaningful difference between the two versions aside from the tedius activation process, and the product is currently rather buggy and has problems running unless cleanly installed on a formatted drive.",
+        "term": " product"
+    },
+    "96": {
+        "id": 96,
+        "polarity": "-",
+        "sentence": "If you are new to the market and looking to buy a symantec software product, save yourself some money and buy the 2003 version.",
+        "term": "product"
+    },
+    "97": {
+        "id": 97,
+        "polarity": "-",
+        "sentence": "From day one, we've had hangups, crashes, glitches, continual reboots, LONG shutdowns due to \"ccApp.exe\" program running which is a Norton program.",
+        "term": "Norton program"
+    },
+    "98": {
+        "id": 98,
+        "polarity": "-",
+        "sentence": "Long reboots due to Norton taking FOREVER  to boot.",
+        "term": "Norton"
+    },
+    "99": {
+        "id": 99,
+        "polarity": "-",
+        "sentence": "We constantly got \"Windows Virtual Memory Low\" error messages popping up follwed by ridiculous slowdowns and/or crashes.",
+        "term": "memory usage"
+    },
+    "100": {
+        "id": 100,
+        "polarity": "-",
+        "sentence": "Norton online support does not even acknowledge this problem nor does the computer company that preloaded it on our new computer.",
+        "term": "support"
+    },
+    "101": {
+        "id": 101,
+        "polarity": "-",
+        "sentence": "Norton support is completely pathetic.",
+        "term": "support"
+    },
+    "102": {
+        "id": 102,
+        "polarity": "-",
+        "sentence": "DO NOT BUY ANY HOME VERSION OF NORTON ANYTHING.",
+        "term": "HOME VERSION"
+    },
+    "103": {
+        "id": 103,
+        "polarity": "+",
+        "sentence": "We were able to obtain a Norton Corporate Edition of Antivirus only (no firewall or utilities) and so far it's great.",
+        "term": "Corporate Edition"
+    },
+    "104": {
+        "id": 104,
+        "polarity": "+",
+        "sentence": " I've used the Corporate edition at work without any problems ever.",
+        "term": "Corporate edition"
+    },
+    "105": {
+        "id": 105,
+        "polarity": "-",
+        "sentence": "If we had been unable to obtain the Corporate edition, we would NOT have purchased another Norton 2004 or 2005 home version anything.",
+        "term": " home version"
+    },
+    "106": {
+        "id": 106,
+        "polarity": "+",
+        "sentence": "If we had been unable to obtain the Corporate edition, we would NOT have purchased another Norton 2004 or 2005 home version anything.",
+        "term": "Corporate edition"
+    },
+    "107": {
+        "id": 107,
+        "polarity": "-",
+        "sentence": "Our Norton Internet/AV 2004 was terrible right from the get go, so I'd think that if SytemWorks is ok now, it should remain ok.",
+        "term": "Norton Internet/AV 2004"
+    },
+    "108": {
+        "id": 108,
+        "polarity": "+",
+        "sentence": "By the way, I use the Norton 2003 Corporate at work with absolutely no trouble.",
+        "term": "corporate"
+    },
+    "109": {
+        "id": 109,
+        "polarity": "+",
+        "sentence": "Likewise, I've heard Norton 2004 PROFESSIONAL version is fine too.",
+        "term": "professional version"
+    },
+    "110": {
+        "id": 110,
+        "polarity": "-",
+        "sentence": "Just the home version of Norton Internet/AV has too many glitches and problems to even remotely bother with.",
+        "term": "home version"
+    },
+    "111": {
+        "id": 111,
+        "polarity": "-",
+        "sentence": "I am an advanced computer user, so I cannot even imagine how a new or novice user would ever get this terrible program to work!",
+        "term": "work"
+    },
+    "112": {
+        "id": 112,
+        "polarity": "-",
+        "sentence": "Seems the \"program scan\" feature did NOT find the EXE file for Outlook!",
+        "term": "program scan"
+    },
+    "113": {
+        "id": 113,
+        "polarity": "-",
+        "sentence": "Like most of their solutions (which first blame other applications for errors), the tech persons line was that this was probably a Microsoft error - it was NOT.",
+        "term": "support"
+    },
+    "114": {
+        "id": 114,
+        "polarity": "-",
+        "sentence": "It was a Symantec error.",
+        "term": "Symantec"
+    },
+    "115": {
+        "id": 115,
+        "polarity": "-",
+        "sentence": "After a recent update, I can no longer open more then 1 browser window.",
+        "term": "update"
+    },
+    "116": {
+        "id": 116,
+        "polarity": "-",
+        "sentence": "I've searched the program and their online tech support (worthless) and have found no solutions.",
+        "term": "support"
+    },
+    "117": {
+        "id": 117,
+        "polarity": "-",
+        "sentence": "This is definitely one of those products, especially as the company is leaning more towards making a profit.",
+        "term": "products"
+    },
+    "118": {
+        "id": 118,
+        "polarity": "+",
+        "sentence": "I've been using NIS 2004 for about 2 months and it works well.",
+        "term": "NIS 2004"
+    },
+    "119": {
+        "id": 119,
+        "polarity": "-",
+        "sentence": "Some of the options are confusing, especially when the popup warnings occur, but I've had no problems with intrusions.",
+        "term": "options"
+    },
+    "120": {
+        "id": 120,
+        "polarity": "+",
+        "sentence": "Some of the options are confusing, especially when the popup warnings occur, but I've had no problems with intrusions.",
+        "term": " intrusion"
+    },
+    "121": {
+        "id": 121,
+        "polarity": "+",
+        "sentence": "Norton pops up a window about the intrusions and gives me as much detail as possible about where the intrusion is coming from.",
+        "term": "intrusion"
+    },
+    "122": {
+        "id": 122,
+        "polarity": "+",
+        "sentence": "The popup blocker and anti-spam are bonuses.",
+        "term": " anti-spam"
+    },
+    "123": {
+        "id": 123,
+        "polarity": "+",
+        "sentence": "The popup blocker and anti-spam are bonuses.",
+        "term": "popup blocker"
+    },
+    "124": {
+        "id": 124,
+        "polarity": "-",
+        "sentence": "Product is OK; however, despite the fact that I followed the rebate instructions explicitly, I am being denied the rebate because the processing agency incorrectly claims I did not send in proof of ownership of a previous product.",
+        "term": " instruction"
+    },
+    "125": {
+        "id": 125,
+        "polarity": "+",
+        "sentence": "Product is OK; however, despite the fact that I followed the rebate instructions explicitly, I am being denied the rebate because the processing agency incorrectly claims I did not send in proof of ownership of a previous product.",
+        "term": "Product"
+    },
+    "126": {
+        "id": 126,
+        "polarity": "+",
+        "sentence": "I didn't have any major problems installing this software.",
+        "term": "nstalling"
+    },
+    "127": {
+        "id": 127,
+        "polarity": "-",
+        "sentence": "The only problem I had was a few components didn't quite load correctly upon startup, but a reboot fixed the problem.",
+        "term": "components"
+    },
+    "128": {
+        "id": 128,
+        "polarity": "+",
+        "sentence": "Anyhow, this software is working fine and no problems since I installed it two weeks ago.",
+        "term": "working"
+    },
+    "129": {
+        "id": 129,
+        "polarity": "-",
+        "sentence": "I give it 4-stars only because the installation process - or rather problems that may surface during the installation process - can be frustrating to the average computer user.",
+        "term": "installation"
+    },
+    "130": {
+        "id": 130,
+        "polarity": "-",
+        "sentence": "If you experience problems with installation, you can visit symantec's website, click the support tab, click the 'home or home office support' and there is an automated support assistant that can scan the Norton program files on your computer and it will tell you what is not working right and how to fix it.",
+        "term": "installation"
+    },
+    "131": {
+        "id": 131,
+        "polarity": "-",
+        "sentence": "Can't get easier than that!",
+        "term": "installation"
+    },
+    "132": {
+        "id": 132,
+        "polarity": "-",
+        "sentence": "I already knew something was wrong, because much of the Spam I've seen in the past six months was from resellers of Norton products.",
+        "term": "spam"
+    },
+    "133": {
+        "id": 133,
+        "polarity": "+",
+        "sentence": "Mine installed no problem (but I DID uninstall my Norton Anti-Virus 2002 & Personal Firewall 2002 first).",
+        "term": "install"
+    },
+    "134": {
+        "id": 134,
+        "polarity": "+",
+        "sentence": "Seems to work great.",
+        "term": "work"
+    },
+    "135": {
+        "id": 135,
+        "polarity": "-",
+        "sentence": "I read many reviews on Norton I.S. 2004 from a variety of sources (Cnet, Amazon, message boards) and came to the conclusion that NIS 04 was a terrible product and not worth the update.",
+        "term": "NIS 04"
+    },
+    "136": {
+        "id": 136,
+        "polarity": "-",
+        "sentence": "Booting up my computer took forever!!!",
+        "term": "booting"
+    },
+    "137": {
+        "id": 137,
+        "polarity": "-",
+        "sentence": "Then, my ad/pop-up blocking was completely gone.",
+        "term": "blocking"
+    },
+    "138": {
+        "id": 138,
+        "polarity": "-",
+        "sentence": "My file log was not responding and the program was not blocking any cookies or unauthorized sites.",
+        "term": "blocking"
+    },
+    "139": {
+        "id": 139,
+        "polarity": "-",
+        "sentence": "Again, every review written about the Tech Line is true...after waiting close to 45 minutes I finally spoke to a rep.",
+        "term": "Tech Line"
+    },
+    "140": {
+        "id": 140,
+        "polarity": "-",
+        "sentence": "After telling the rep and his tech supervisor the problem the only answer was to uninstall the program (which I had already done)...",
+        "term": "tech"
+    },
+    "141": {
+        "id": 141,
+        "polarity": "-",
+        "sentence": "They didn't know what the problem could be.",
+        "term": "tech"
+    },
+    "142": {
+        "id": 142,
+        "polarity": "-",
+        "sentence": "I did it and it was worse the second time around...unbelievable.",
+        "term": "support"
+    },
+    "143": {
+        "id": 143,
+        "polarity": "-",
+        "sentence": "Basically, I ate the cost of the renewal and ate the cost of the Tech Help.",
+        "term": "Tech"
+    },
+    "144": {
+        "id": 144,
+        "polarity": "-",
+        "sentence": "Unfortunately, it does not give you the option of unstalling (or uninstalling) them individually.",
+        "term": "unstalling"
+    },
+    "145": {
+        "id": 145,
+        "polarity": "-",
+        "sentence": "You can \"disable\" some of the individual components, but don't be fooled--they're still there and running.",
+        "term": "components"
+    },
+    "146": {
+        "id": 146,
+        "polarity": "-",
+        "sentence": "Although I disabled Norton AntiSpam, it is still there.",
+        "term": "Norton AntiSpam"
+    },
+    "147": {
+        "id": 147,
+        "polarity": "+",
+        "sentence": "This did manage to cut the number of popups during start-up from 4 down to 2.",
+        "term": "product"
+    },
+    "148": {
+        "id": 148,
+        "polarity": "-",
+        "sentence": "But those 2 come up every time.",
+        "term": "popups"
+    },
+    "149": {
+        "id": 149,
+        "polarity": "-",
+        "sentence": "Next, the big reason not to buy ANY Norton product:  If there's a problem with it, Norton charges $30 to even tell them about it.",
+        "term": "Norton"
+    },
+    "150": {
+        "id": 150,
+        "polarity": "-",
+        "sentence": "Next, the big reason not to buy ANY Norton product:  If there's a problem with it, Norton charges $30 to even tell them about it.",
+        "term": " charge"
+    },
+    "151": {
+        "id": 151,
+        "polarity": "-",
+        "sentence": "Sure they say if it's their fault you won't get charged, but THEY are the ones who get to decide whether it's their fault.",
+        "term": "charge"
+    },
+    "152": {
+        "id": 152,
+        "polarity": "-",
+        "sentence": "Sure they say if it's their fault you won't get charged, but THEY are the ones who get to decide whether it's their fault.",
+        "term": " Norton"
+    },
+    "153": {
+        "id": 153,
+        "polarity": "+",
+        "sentence": "While it didn't have all the features I would have liked, it was better than anything else I could find at the time.",
+        "term": "NIS "
+    },
+    "154": {
+        "id": 154,
+        "polarity": "-",
+        "sentence": "The problems I had installing Norton extended way beyond what Symantec should reasonably expect the public to deal with.",
+        "term": "installing"
+    },
+    "155": {
+        "id": 155,
+        "polarity": "-",
+        "sentence": "When I purchase software, I NEVER want to have to spend hours looking up solutions to my install problems -- in particular solutions that involve manually setting driver preferences or editing the registry!",
+        "term": "install"
+    },
+    "156": {
+        "id": 156,
+        "polarity": "+",
+        "sentence": "Also, with one click you can help train your spam killer.",
+        "term": "Spam killer"
+    },
+    "157": {
+        "id": 157,
+        "polarity": "+",
+        "sentence": "And the firewall came with a wizard which made it effortless to configure it to my LAN.",
+        "term": "wizard"
+    },
+    "158": {
+        "id": 158,
+        "polarity": "-",
+        "sentence": "I downloaded this set from Norton, and within minutes my Internet connection failed and my PC was almost dead due to registry problems from the download.",
+        "term": "download"
+    },
+    "159": {
+        "id": 159,
+        "polarity": "-",
+        "sentence": "Their site offers no live help at all.",
+        "term": "help"
+    },
+    "160": {
+        "id": 160,
+        "polarity": "-",
+        "sentence": "I tried to call Norton, and the only numbers they list on their sites are either for Non-tech Customer Service (tried this one and hung up after 75 minute of MUZAC) or they have a $30 tech-support number.",
+        "term": "service"
+    },
+    "161": {
+        "id": 161,
+        "polarity": "-",
+        "sentence": "I tried to call Norton, and the only numbers they list on their sites are either for Non-tech Customer Service (tried this one and hung up after 75 minute of MUZAC) or they have a $30 tech-support number.",
+        "term": " support"
+    },
+    "162": {
+        "id": 162,
+        "polarity": "-",
+        "sentence": "Who wants to pay $30 to discuss a defect in a product that just cost $95? (I also bought the back-up CD).",
+        "term": "cost"
+    },
+    "163": {
+        "id": 163,
+        "polarity": "-",
+        "sentence": "I finally got a free support number for Norton through my ISP support staff, but waited an hour or more for a voice.",
+        "term": "support"
+    },
+    "164": {
+        "id": 164,
+        "polarity": "-",
+        "sentence": "They said they would refund all the money, but a month later, they tell me now the back-up disc is not refundable as its cost is purely handling and shipping - $15 to \"handle\" and ship a CD? --and they have been indignant and combative on the phone and in emails.",
+        "term": "refund"
+    },
+    "165": {
+        "id": 165,
+        "polarity": "-",
+        "sentence": "This is a terrible company with a bad product and awful support.",
+        "term": "product"
+    },
+    "166": {
+        "id": 166,
+        "polarity": "-",
+        "sentence": "This is a terrible company with a bad product and awful support.",
+        "term": " support"
+    },
+    "167": {
+        "id": 167,
+        "polarity": "-",
+        "sentence": "After 10 years, I now downloaded McCaffee's product after calling their support....they answered quickly, and for free, and were very helpful.",
+        "term": "support"
+    },
+    "168": {
+        "id": 168,
+        "polarity": "-",
+        "sentence": "No problems now, just a sickly disappointment in the way Norton has abandoned thier customers.",
+        "term": "Norton"
+    },
+    "169": {
+        "id": 169,
+        "polarity": "-",
+        "sentence": "I see many other reviews that say the same....stay away from Norton, they don't deserve you, or anyone!",
+        "term": "Norton"
+    },
+    "170": {
+        "id": 170,
+        "polarity": "+",
+        "sentence": "It's a highly rated, KICK ASS firewall program that's bundled with the venerable Norton AntiVirus, plus extras (like Norton AntiSpam & Norton Parental Control) that make this security suite a must-have for people who have broadband internet access.",
+        "term": " antispam"
+    },
+    "171": {
+        "id": 171,
+        "polarity": "+",
+        "sentence": "It's a highly rated, KICK ASS firewall program that's bundled with the venerable Norton AntiVirus, plus extras (like Norton AntiSpam & Norton Parental Control) that make this security suite a must-have for people who have broadband internet access.",
+        "term": "firewall"
+    },
+    "172": {
+        "id": 172,
+        "polarity": "+",
+        "sentence": "It's a highly rated, KICK ASS firewall program that's bundled with the venerable Norton AntiVirus, plus extras (like Norton AntiSpam & Norton Parental Control) that make this security suite a must-have for people who have broadband internet access.",
+        "term": " Parental Control"
+    },
+    "173": {
+        "id": 173,
+        "polarity": "+",
+        "sentence": "It's a highly rated, KICK ASS firewall program that's bundled with the venerable Norton AntiVirus, plus extras (like Norton AntiSpam & Norton Parental Control) that make this security suite a must-have for people who have broadband internet access.",
+        "term": " antivirus"
+    },
+    "174": {
+        "id": 174,
+        "polarity": "-",
+        "sentence": "I've alway liked Symantec products, except for this version 2004.",
+        "term": "version 2004"
+    },
+    "175": {
+        "id": 175,
+        "polarity": "-",
+        "sentence": "If you are already using a previous version of nortron security and unistalled it to install the new version, you will still have all kind of problems in installing the new version on your system!",
+        "term": "installing"
+    },
+    "176": {
+        "id": 176,
+        "polarity": "+",
+        "sentence": "Luckly,with 3 rebates this product will cost me nothing! it is indeed worth nothing.",
+        "term": "product"
+    },
+    "177": {
+        "id": 177,
+        "polarity": "-",
+        "sentence": "To install that version you have to uninstall from the window registery anything called Symantec or Nortron,... also from the common files in the program folder the symantec folder has to be deleted.",
+        "term": " uninstall"
+    },
+    "178": {
+        "id": 178,
+        "polarity": "-",
+        "sentence": "To install that version you have to uninstall from the window registery anything called Symantec or Nortron,... also from the common files in the program folder the symantec folder has to be deleted.",
+        "term": "install"
+    },
+    "179": {
+        "id": 179,
+        "polarity": "-",
+        "sentence": "If you have no previous version of  nortron security on your system, or Nortron Antivirus, the installation will go fine, otherwise dig in and in to do a major registery clean up!the old programs will leave a trace that will mess up the new installation, even if you uninstalled the old programs perfectly.",
+        "term": "installation"
+    },
+    "180": {
+        "id": 180,
+        "polarity": "-",
+        "sentence": "What dissapointes me the most that a software like that  is not cheap gets zero support form symantec, if you want support, they'll charge you a Fee!",
+        "term": "support"
+    },
+    "181": {
+        "id": 181,
+        "polarity": "+",
+        "sentence": "I've tried the free versions of zone alarm and the free version of sygate and they both have a nice and easy installation and work great!.",
+        "term": "sygate"
+    },
+    "182": {
+        "id": 182,
+        "polarity": "+",
+        "sentence": "I've tried the free versions of zone alarm and the free version of sygate and they both have a nice and easy installation and work great!.",
+        "term": "zone alarm"
+    },
+    "183": {
+        "id": 183,
+        "polarity": "-",
+        "sentence": "I am giving a zero star to symantec for this version!",
+        "term": "symantec"
+    },
+    "184": {
+        "id": 184,
+        "polarity": "+",
+        "sentence": "The only free help you get is in renewing your subscription!",
+        "term": "help"
+    },
+    "185": {
+        "id": 185,
+        "polarity": "-",
+        "sentence": "The only way my pc internet works is if I open the Firewall Program configuration and manually refresh it.",
+        "term": "Firewall"
+    },
+    "186": {
+        "id": 186,
+        "polarity": "-",
+        "sentence": "Symantec should give us all a refund and apology!",
+        "term": "Symantec"
+    },
+    "187": {
+        "id": 187,
+        "polarity": "-",
+        "sentence": "I will NEVER buy their product again at this rate, and neither should you.",
+        "term": "product"
+    },
+    "188": {
+        "id": 188,
+        "polarity": "+",
+        "sentence": "The product has worked perfectly for me on my XP.",
+        "term": "product"
+    },
+    "189": {
+        "id": 189,
+        "polarity": "+",
+        "sentence": "No more banner ads, pop-ups, and the reliable antivirus.",
+        "term": "antivirus"
+    },
+    "190": {
+        "id": 190,
+        "polarity": "+",
+        "sentence": "I work on word, explorer, netscape, acrobat reader, photoshop at same time (meaning using a lot of memory), but still dont see a problem with computer (getting slow or crashing).",
+        "term": "antivirus"
+    },
+    "191": {
+        "id": 191,
+        "polarity": "+",
+        "sentence": "This product is way cooler than anything Ive used before (PcCillins and McCafees and Norton Antivirus alone).",
+        "term": "product"
+    },
+    "192": {
+        "id": 192,
+        "polarity": "+",
+        "sentence": "5 stars all the way!",
+        "term": "product"
+    },
+    "193": {
+        "id": 193,
+        "polarity": "+",
+        "sentence": "All in all it hasn't been a bad product.",
+        "term": "Product "
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "212": {
+        "id": 212,
+        "polarity": "+",
+        "sentence": "I've yet to find the limitation for this Hitachi (my only Hitachi tool, by the way) and quite frankly, I don't know that I have the muscle to push this machine any harder.",
+        "term": "Hitachi"
+    },
+    "213": {
+        "id": 213,
+        "polarity": "+",
+        "sentence": "Bottom line is that at $160, this is an absolute steal.",
+        "term": "price"
+    },
+    "214": {
+        "id": 214,
+        "polarity": "+",
+        "sentence": "I've got a buddy who's trying to offload his almost new $300 Speedmatic because he saw what this router can do.",
+        "term": "router"
+    },
+    "215": {
+        "id": 215,
+        "polarity": "+",
+        "sentence": "It is without even a slight doubt, my new favorite.",
+        "term": "router"
+    },
+    "216": {
+        "id": 216,
+        "polarity": "+",
+        "sentence": "The Hitachi M12V is a dream to work with, smooth starts, adjustable speeds, micro-adjustable depth, and plenty of power to spare.",
+        "term": "depth"
+    },
+    "217": {
+        "id": 217,
+        "polarity": "+",
+        "sentence": "The Hitachi M12V is a dream to work with, smooth starts, adjustable speeds, micro-adjustable depth, and plenty of power to spare.",
+        "term": "starts"
+    },
+    "218": {
+        "id": 218,
+        "polarity": "+",
+        "sentence": "The Hitachi M12V is a dream to work with, smooth starts, adjustable speeds, micro-adjustable depth, and plenty of power to spare.",
+        "term": "speeds"
+    },
+    "219": {
+        "id": 219,
+        "polarity": "+",
+        "sentence": "The Hitachi M12V is a dream to work with, smooth starts, adjustable speeds, micro-adjustable depth, and plenty of power to spare.",
+        "term": "power"
+    },
+    "220": {
+        "id": 220,
+        "polarity": "+",
+        "sentence": "I couldn't believe what I had been missing.",
+        "term": "router"
+    },
+    "221": {
+        "id": 221,
+        "polarity": "+",
+        "sentence": "If you're looking for a 3hp plunge router, the Hitachi M12V is your best bet to stretch your equipment budget.",
+        "term": "router"
+    },
+    "222": {
+        "id": 222,
+        "polarity": "+",
+        "sentence": "I'll be getting a second one for my router table!",
+        "term": "router"
+    },
+    "223": {
+        "id": 223,
+        "polarity": "+",
+        "sentence": "I have been impressed with the power of the Hitachi M12V.",
+        "term": "power"
+    },
+    "224": {
+        "id": 224,
+        "polarity": "+",
+        "sentence": "It doesn't bog down under load.",
+        "term": "bog"
+    },
+    "225": {
+        "id": 225,
+        "polarity": "+",
+        "sentence": "Cuts are easy and smooth.",
+        "term": "Cuts"
+    },
+    "226": {
+        "id": 226,
+        "polarity": "+",
+        "sentence": "I use it on a router table, and it is works well.",
+        "term": "works"
+    },
+    "227": {
+        "id": 227,
+        "polarity": "-",
+        "sentence": "The major reasons I didn't give it a five are:  One, I didn't think the fine adjustment worked well.",
+        "term": "adjustment"
+    },
+    "228": {
+        "id": 228,
+        "polarity": "-",
+        "sentence": "I replaced it with a Router Raizer and it works much better.",
+        "term": "adjustment"
+    },
+    "229": {
+        "id": 229,
+        "polarity": "-",
+        "sentence": "Two, the single wrench just doesn't work well.",
+        "term": "wrench"
+    },
+    "230": {
+        "id": 230,
+        "polarity": "-",
+        "sentence": "The sliding latch is does not stay in place.",
+        "term": "latch"
+    },
+    "231": {
+        "id": 231,
+        "polarity": "+",
+        "sentence": "Other than this, I am very pleased with the router and would buy it again.",
+        "term": "router"
+    },
+    "232": {
+        "id": 232,
+        "polarity": "+",
+        "sentence": "I really liked the price...",
+        "term": "price"
+    },
+    "233": {
+        "id": 233,
+        "polarity": "+",
+        "sentence": "I like the speed control.",
+        "term": "control"
+    },
+    "234": {
+        "id": 234,
+        "polarity": "+",
+        "sentence": "It has plenty of power.",
+        "term": "power"
+    },
+    "235": {
+        "id": 235,
+        "polarity": "-",
+        "sentence": "The fine adustment knob which came with the router was very difficult to use on a router table.",
+        "term": "adustment knob"
+    },
+    "236": {
+        "id": 236,
+        "polarity": "-",
+        "sentence": "Finally, I gave up and I purchased a Router Razier.",
+        "term": "Router Razier"
+    },
+    "237": {
+        "id": 237,
+        "polarity": "-",
+        "sentence": "I am seriously considering purchasing another wrench and just not using the \"sliding wrench\" which comes on the router.",
+        "term": "wrench"
+    }
+}

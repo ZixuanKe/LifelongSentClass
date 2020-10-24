@@ -1,0 +1,1370 @@
+{
+    "0": {
+        "id": 0,
+        "polarity": "+",
+        "sentence": "i recently purchased the canon powershot g3 and am extremely satisfied with the purchase . ",
+        "term": "canon powershot g3"
+    },
+    "1": {
+        "id": 1,
+        "polarity": "+",
+        "sentence": "the camera is very easy to use , in fact on a recent trip this past week i was asked to take a picture of a vacationing elderly group . ",
+        "term": "use"
+    },
+    "2": {
+        "id": 2,
+        "polarity": "+",
+        "sentence": "they fired away and the picture turned out quite nicely . ( as all of my pictures have thusfar ) . ",
+        "term": "picture"
+    },
+    "3": {
+        "id": 3,
+        "polarity": "+",
+        "sentence": "a few of my work constituants owned the g2 and highly recommended the canon for picture quality . ",
+        "term": "picture quality"
+    },
+    "4": {
+        "id": 4,
+        "polarity": "+",
+        "sentence": "i 'm easily enlarging pictures to 8 1/2 x 11 with no visable loss in picture quality and not even using the best possible setting as yet ( super fine ) . ",
+        "term": "picture quality"
+    },
+    "5": {
+        "id": 5,
+        "polarity": "+",
+        "sentence": "bottom line , well made camera , easy to use , very flexible and powerful features to include the ability to use external flash and lense / filters choices . ",
+        "term": "camera"
+    },
+    "6": {
+        "id": 6,
+        "polarity": "+",
+        "sentence": "bottom line , well made camera , easy to use , very flexible and powerful features to include the ability to use external flash and lense / filters choices . ",
+        "term": " use"
+    },
+    "7": {
+        "id": 7,
+        "polarity": "+",
+        "sentence": "bottom line , well made camera , easy to use , very flexible and powerful features to include the ability to use external flash and lense / filters choices . ",
+        "term": " feature"
+    },
+    "8": {
+        "id": 8,
+        "polarity": "+",
+        "sentence": "i 'd highly recommend this camera for anyone who is looking for excellent quality pictures and a combination of ease of use and the flexibility to get advanced with many options to adjust if you like . ",
+        "term": "picture quality"
+    },
+    "9": {
+        "id": 9,
+        "polarity": "+",
+        "sentence": "i 'd highly recommend this camera for anyone who is looking for excellent quality pictures and a combination of ease of use and the flexibility to get advanced with many options to adjust if you like . ",
+        "term": " option"
+    },
+    "10": {
+        "id": 10,
+        "polarity": "+",
+        "sentence": "i 'd highly recommend this camera for anyone who is looking for excellent quality pictures and a combination of ease of use and the flexibility to get advanced with many options to adjust if you like . ",
+        "term": " use"
+    },
+    "11": {
+        "id": 11,
+        "polarity": "+",
+        "sentence": "this is my first digital camera , and what a ' toy ' it is ! ",
+        "term": "camera"
+    },
+    "12": {
+        "id": 12,
+        "polarity": "+",
+        "sentence": "just a little overview , powershot g3 is the flagship of canon 's powershot series and its an slr-like camera , its 4 megapixel and ( alsmost ) full manual control gives the pictures a touch of brilliance . ",
+        "term": "picture"
+    },
+    "13": {
+        "id": 13,
+        "polarity": "+",
+        "sentence": "whether you are a novice or an expert , its ease of use and functionality goes together . ",
+        "term": "use"
+    },
+    "14": {
+        "id": 14,
+        "polarity": "-",
+        "sentence": "* main dial is not backlit . ",
+        "term": "dial"
+    },
+    "15": {
+        "id": 15,
+        "polarity": "-",
+        "sentence": "* lens visible in optical viewfinder . ",
+        "term": "viewfinder"
+    },
+    "16": {
+        "id": 16,
+        "polarity": "+",
+        "sentence": "overall i 'm happy with my toy . ",
+        "term": "camera"
+    },
+    "17": {
+        "id": 17,
+        "polarity": "+",
+        "sentence": "in a word , \" awesome \" is how i would describe this camera . ",
+        "term": "camera"
+    },
+    "18": {
+        "id": 18,
+        "polarity": "+",
+        "sentence": "i wo n't go into the details here , as the online sites ( stevesdigicams , dpreviews ) go into great depth in their reviews , but i am very pleased with the features , the speed , the picture quality , the flexibility , the automation , and the functional conveniences this camera offers . ",
+        "term": "picture quality"
+    },
+    "19": {
+        "id": 19,
+        "polarity": "+",
+        "sentence": "i wo n't go into the details here , as the online sites ( stevesdigicams , dpreviews ) go into great depth in their reviews , but i am very pleased with the features , the speed , the picture quality , the flexibility , the automation , and the functional conveniences this camera offers . ",
+        "term": "function"
+    },
+    "20": {
+        "id": 20,
+        "polarity": "+",
+        "sentence": "i wo n't go into the details here , as the online sites ( stevesdigicams , dpreviews ) go into great depth in their reviews , but i am very pleased with the features , the speed , the picture quality , the flexibility , the automation , and the functional conveniences this camera offers . ",
+        "term": "speed"
+    },
+    "21": {
+        "id": 21,
+        "polarity": "+",
+        "sentence": "with the automatic settings , i really have n't taken a bad picture yet . ",
+        "term": "auto setting"
+    },
+    "22": {
+        "id": 22,
+        "polarity": "+",
+        "sentence": "i am absolutely in awe of this camera , canon put enormous quality into the g3 . ",
+        "term": "camera"
+    },
+    "23": {
+        "id": 23,
+        "polarity": "+",
+        "sentence": "i bought my canon g3 about a month ago and i have to say i am very satisfied . ",
+        "term": "canon g3"
+    },
+    "24": {
+        "id": 24,
+        "polarity": "+",
+        "sentence": "i have taken hundreds of photos with it and i continue to be amazed by their quality . ",
+        "term": "photo quality"
+    },
+    "25": {
+        "id": 25,
+        "polarity": "+",
+        "sentence": "the g3 is loaded with many useful features , and unlike many smaller digital cameras , it is easy to hold steady when using slower shutter speeds . ",
+        "term": "feature"
+    },
+    "26": {
+        "id": 26,
+        "polarity": "-",
+        "sentence": "the lens is visible in the viewfinder when the lens is set to the wide angle , but since i use the lcd most of the time , this is not really much of a bother to me . ",
+        "term": "viewfinder"
+    },
+    "27": {
+        "id": 27,
+        "polarity": "+",
+        "sentence": "despite this minor disappointment , i highly recommend the canon g3 anyone who is serious about digital photography . ",
+        "term": "camera"
+    },
+    "28": {
+        "id": 28,
+        "polarity": "+",
+        "sentence": "i have only had this camera for one full day and i have to say that it is wonderful . ",
+        "term": "camera"
+    },
+    "29": {
+        "id": 29,
+        "polarity": "+",
+        "sentence": "the photo quality is amazing and i know i 'm going to have fun with all the features . ",
+        "term": "photo quality"
+    },
+    "30": {
+        "id": 30,
+        "polarity": "-",
+        "sentence": "the reason i rated it a four is because of that darn diopter adjustment dial. its very small and hard to turn so you can 't get an accurate adjustment ( for those of you who do n't know what a diopter adjustment is , it is to adjust the focus of the viewfinder to your eyesight . ) ",
+        "term": "darn diopter adjustment dial"
+    },
+    "31": {
+        "id": 31,
+        "polarity": "+",
+        "sentence": "1 ) slr like programming and exposure control gives you latitude to be creative , yet its progam and auto exposure settings provide excellent photos if you do n't want to bother with the settings . ",
+        "term": "exposure control"
+    },
+    "32": {
+        "id": 32,
+        "polarity": "+",
+        "sentence": "1 ) slr like programming and exposure control gives you latitude to be creative , yet its progam and auto exposure settings provide excellent photos if you do n't want to bother with the settings . ",
+        "term": "auto setting"
+    },
+    "33": {
+        "id": 33,
+        "polarity": "+",
+        "sentence": "excellent range of metering options as well . ",
+        "term": "metering option"
+    },
+    "34": {
+        "id": 34,
+        "polarity": "+",
+        "sentence": "it 's great to switch to spot metering and actually see it working on the lcd screen . ",
+        "term": "spot metering"
+    },
+    "35": {
+        "id": 35,
+        "polarity": "+",
+        "sentence": "2 ) 4mp is about right for the target market of this camera ( semi-serious amateur photographer ) ",
+        "term": "4mp"
+    },
+    "36": {
+        "id": 36,
+        "polarity": "+",
+        "sentence": "3 ) 4x zoom is nice ",
+        "term": "zoom"
+    },
+    "37": {
+        "id": 37,
+        "polarity": "+",
+        "sentence": "5 ) its focusing system is also very flexible . ",
+        "term": "focus"
+    },
+    "38": {
+        "id": 38,
+        "polarity": "+",
+        "sentence": "you can move the focus range to almost anywhere in the scene with the push of a button , and it has an on-screen manual focus mode that would be really helpful if shooting a scene that is tough to automatically focus . ",
+        "term": "focus"
+    },
+    "39": {
+        "id": 39,
+        "polarity": "-",
+        "sentence": "1 ) quite bulky ( it 's about the same size as my minolta vectis s-1 aps slr ) and uses a heavy battery , although not very solid as it is contructed mostly of plastic ( unlike canon 's elph line ) ",
+        "term": "size"
+    },
+    "40": {
+        "id": 40,
+        "polarity": "-",
+        "sentence": "1 ) quite bulky ( it 's about the same size as my minolta vectis s-1 aps slr ) and uses a heavy battery , although not very solid as it is contructed mostly of plastic ( unlike canon 's elph line ) ",
+        "term": "weight"
+    },
+    "41": {
+        "id": 41,
+        "polarity": "-",
+        "sentence": "2 ) not very ergonomical - you 'll find even for a point-and-shoot lens ) ",
+        "term": "design"
+    },
+    "42": {
+        "id": 42,
+        "polarity": "-",
+        "sentence": "4 ) the viewfinder is borderuer lcd scoying . ",
+        "term": "viewfinder"
+    },
+    "43": {
+        "id": 43,
+        "polarity": "+",
+        "sentence": "the camera has a wonderful set of features . ",
+        "term": "feature"
+    },
+    "44": {
+        "id": 44,
+        "polarity": "+",
+        "sentence": "the lcd screen pulls out and rotates in any direction for easy pictures . ",
+        "term": "lcd"
+    },
+    "45": {
+        "id": 45,
+        "polarity": "+",
+        "sentence": "the optical zoom works great and the 14x digital zoom is a very nice addition although pictures at the highest digital zoom are a little blurry . ",
+        "term": "digital zoom"
+    },
+    "46": {
+        "id": 46,
+        "polarity": "+",
+        "sentence": "the optical zoom works great and the 14x digital zoom is a very nice addition although pictures at the highest digital zoom are a little blurry . ",
+        "term": "optical zoom"
+    },
+    "47": {
+        "id": 47,
+        "polarity": "+",
+        "sentence": "the highest optical zoom pictures are perfect . ",
+        "term": "picture"
+    },
+    "48": {
+        "id": 48,
+        "polarity": "+",
+        "sentence": "i have not yet seen any of the usual problems with digital pictures ( purple fringing , etc ) so i am very pleased . ",
+        "term": "picture"
+    },
+    "49": {
+        "id": 49,
+        "polarity": "+",
+        "sentence": "the canon computer software used to download , sort , upload and manage your digital pictures on the computer is very nice and very easy to use . ",
+        "term": "software"
+    },
+    "50": {
+        "id": 50,
+        "polarity": "-",
+        "sentence": "the only two minor issues i have with the camera are the lens cap ( it is not very snug and can come off too easily ) and the lens itself ( it partially obstructs the view through the viewfinder but not views through the lcd ) . ",
+        "term": "viewfinder"
+    },
+    "51": {
+        "id": 51,
+        "polarity": "-",
+        "sentence": "the only two minor issues i have with the camera are the lens cap ( it is not very snug and can come off too easily ) and the lens itself ( it partially obstructs the view through the viewfinder but not views through the lcd ) . ",
+        "term": "lens cap"
+    },
+    "52": {
+        "id": 52,
+        "polarity": "+",
+        "sentence": "the menus are easy to navigate and the buttons are easy to use . ",
+        "term": "menu"
+    },
+    "53": {
+        "id": 53,
+        "polarity": "+",
+        "sentence": "the menus are easy to navigate and the buttons are easy to use . ",
+        "term": "button"
+    },
+    "54": {
+        "id": 54,
+        "polarity": "+",
+        "sentence": "it is a fantastic camera and well worth the price . ",
+        "term": "camera"
+    },
+    "55": {
+        "id": 55,
+        "polarity": "+",
+        "sentence": "recent price drops have made the g3 the best bargain in digital cameras currently available . ",
+        "term": "camera"
+    },
+    "56": {
+        "id": 56,
+        "polarity": "+",
+        "sentence": "advanced photobugs will find more creative control than imaginable . ",
+        "term": "control"
+    },
+    "57": {
+        "id": 57,
+        "polarity": "+",
+        "sentence": "newbies will find the full auto setting will give them perfect pictures right out of the box . ",
+        "term": "auto setting"
+    },
+    "58": {
+        "id": 58,
+        "polarity": "+",
+        "sentence": "4 megapixels is enough for anybody and the photo quality is awesome . ",
+        "term": "photo quality"
+    },
+    "59": {
+        "id": 59,
+        "polarity": "+",
+        "sentence": "those used to 35mm cameras will find the g3 very comfortable and friendly to use . ",
+        "term": "use"
+    },
+    "60": {
+        "id": 60,
+        "polarity": "+",
+        "sentence": "the extended zoom range and faster lense put it at the top of it 's class . ",
+        "term": "lense"
+    },
+    "61": {
+        "id": 61,
+        "polarity": "+",
+        "sentence": "the extended zoom range and faster lense put it at the top of it 's class . ",
+        "term": "zoom"
+    },
+    "62": {
+        "id": 62,
+        "polarity": "+",
+        "sentence": "i recommend unreservedly the powershot g3 to any potential buyer looking for a first-class digital camera at a reasonable price - there is no better camera out there - period ! ",
+        "term": "camera"
+    },
+    "63": {
+        "id": 63,
+        "polarity": "+",
+        "sentence": "it gives great pictures , the controls are easy to use , the battery lasts forever on one single charge , the software is very user-friendly and it is beautiful in it chrome casing . ",
+        "term": " software"
+    },
+    "64": {
+        "id": 64,
+        "polarity": "+",
+        "sentence": "it gives great pictures , the controls are easy to use , the battery lasts forever on one single charge , the software is very user-friendly and it is beautiful in it chrome casing . ",
+        "term": "picture"
+    },
+    "65": {
+        "id": 65,
+        "polarity": "+",
+        "sentence": "it gives great pictures , the controls are easy to use , the battery lasts forever on one single charge , the software is very user-friendly and it is beautiful in it chrome casing . ",
+        "term": " battery"
+    },
+    "66": {
+        "id": 66,
+        "polarity": "+",
+        "sentence": "it gives great pictures , the controls are easy to use , the battery lasts forever on one single charge , the software is very user-friendly and it is beautiful in it chrome casing . ",
+        "term": " control"
+    },
+    "67": {
+        "id": 67,
+        "polarity": "+",
+        "sentence": "i began taking pics as soon as i got this camera and am amazed at the quality of photos i have took simply by using the auto mode . ",
+        "term": " auto mode"
+    },
+    "68": {
+        "id": 68,
+        "polarity": "+",
+        "sentence": "i began taking pics as soon as i got this camera and am amazed at the quality of photos i have took simply by using the auto mode . ",
+        "term": "photo quality"
+    },
+    "69": {
+        "id": 69,
+        "polarity": "+",
+        "sentence": "this camera has canon 's great colorimetry , plus what you see in the lcd is what you get . ",
+        "term": "canera"
+    },
+    "70": {
+        "id": 70,
+        "polarity": "+",
+        "sentence": "the prints are beautiful ! ",
+        "term": "print"
+    },
+    "71": {
+        "id": 71,
+        "polarity": "+",
+        "sentence": "although canon 's batteries are proprietary , they last a really long time , recharge fairly quickly in the camera , plus if you want ' more power ' , you can even find a knockoff charger and spare batteries right here on amazon . ",
+        "term": "battery"
+    },
+    "72": {
+        "id": 72,
+        "polarity": "+",
+        "sentence": "this is a great camera for you ! ",
+        "term": "camera"
+    },
+    "73": {
+        "id": 73,
+        "polarity": "+",
+        "sentence": "the canon g3 gives tons of control for photo buffs but still has an \" auto \" mode that makes it very easy for the novice to use . ",
+        "term": "control"
+    },
+    "74": {
+        "id": 74,
+        "polarity": "+",
+        "sentence": "the canon g3 gives tons of control for photo buffs but still has an \" auto \" mode that makes it very easy for the novice to use . ",
+        "term": "auto mode"
+    },
+    "75": {
+        "id": 75,
+        "polarity": "+",
+        "sentence": "i love having the option to manually control the f-stop , shutter speed and even focus . ",
+        "term": "control"
+    },
+    "76": {
+        "id": 76,
+        "polarity": "+",
+        "sentence": "i was able to take great photos of the 4th of july fire works , and got some amazing shots of the kids playing with sparklers . ",
+        "term": "photo"
+    },
+    "77": {
+        "id": 77,
+        "polarity": "+",
+        "sentence": "but if you 've used a slr 35mm camera , the controls are very intuitive ! ",
+        "term": "control"
+    },
+    "78": {
+        "id": 78,
+        "polarity": "+",
+        "sentence": "with a quick spin of the dial you can select shutter priority ( for high speed subjects ) , aperture priority ( for focal length ) or full program mode where the camera selects both for ideal photo quality . ",
+        "term": "dial"
+    },
+    "79": {
+        "id": 79,
+        "polarity": "+",
+        "sentence": "the manual mode is easy to use with fast access for the selection of shutter speed and aperture without having to fumble through menu options . ",
+        "term": "manual mode"
+    },
+    "80": {
+        "id": 80,
+        "polarity": "+",
+        "sentence": "this camera also has a great feel and weight to it . ",
+        "term": "weight"
+    },
+    "81": {
+        "id": 81,
+        "polarity": "+",
+        "sentence": "this camera also has a great feel and weight to it . ",
+        "term": "feel"
+    },
+    "82": {
+        "id": 82,
+        "polarity": "+",
+        "sentence": "you feel like you are holding something of substance , not some cheap plastic toy . ",
+        "term": "feel"
+    },
+    "83": {
+        "id": 83,
+        "polarity": "+",
+        "sentence": "the more i work with it , the more i love it ! ",
+        "term": "camera"
+    },
+    "84": {
+        "id": 84,
+        "polarity": "+",
+        "sentence": "i did n't think i would find this quality and ease of use for under $ 1500 - i 'm thrilled with my purchase ! ",
+        "term": "camera"
+    },
+    "85": {
+        "id": 85,
+        "polarity": "+",
+        "sentence": "this is my first digital camera , and i am very pleased with it . ",
+        "term": "camera"
+    },
+    "86": {
+        "id": 86,
+        "polarity": "+",
+        "sentence": "seriously , this thing has everything that a pro or expert amateur could want . ",
+        "term": "camera"
+    },
+    "87": {
+        "id": 87,
+        "polarity": "+",
+        "sentence": "but at the same time , it takes wonderful pictures very easily in \" auto \" mode , so that even an average joe like me can use it ! ",
+        "term": " auto mode"
+    },
+    "88": {
+        "id": 88,
+        "polarity": "+",
+        "sentence": "but at the same time , it takes wonderful pictures very easily in \" auto \" mode , so that even an average joe like me can use it ! ",
+        "term": "picture"
+    },
+    "89": {
+        "id": 89,
+        "polarity": "+",
+        "sentence": "four megapixels is great . ",
+        "term": "four megapixel"
+    },
+    "90": {
+        "id": 90,
+        "polarity": "+",
+        "sentence": "it is a very amazing product . ",
+        "term": "product"
+    },
+    "91": {
+        "id": 91,
+        "polarity": "+",
+        "sentence": "i highly recommend it . ",
+        "term": "camera"
+    },
+    "92": {
+        "id": 92,
+        "polarity": "+",
+        "sentence": "just received this camera two days ago and already love the features it has . ",
+        "term": "feature"
+    },
+    "93": {
+        "id": 93,
+        "polarity": "+",
+        "sentence": "takes excellent photos . ",
+        "term": "photo"
+    },
+    "94": {
+        "id": 94,
+        "polarity": "+",
+        "sentence": "night mode is clear as day . ",
+        "term": "night mode"
+    },
+    "95": {
+        "id": 95,
+        "polarity": "+",
+        "sentence": "i have not played with all the features yet , but the camera is easy to use once you get used to it . ",
+        "term": "use"
+    },
+    "96": {
+        "id": 96,
+        "polarity": "-",
+        "sentence": "the only drawback is the viewfinder is slightly blocked by the lens . ",
+        "term": "viewfinder"
+    },
+    "97": {
+        "id": 97,
+        "polarity": "+",
+        "sentence": "overall it is the best camera on the market . ",
+        "term": "camera"
+    },
+    "98": {
+        "id": 98,
+        "polarity": "+",
+        "sentence": "a ) the picture quality ( color and sharpness of focusing ) are so great , it completely eliminated my doubt about digital imaging --- how could one eat rice one grain at a time : - ) ) ",
+        "term": "picture quality"
+    },
+    "99": {
+        "id": 99,
+        "polarity": "-",
+        "sentence": "b ) the lens cover is surely loose , i already accidently finger-printed the len a few times , and au lens tigt and cause potential damage . ",
+        "term": "lens cover"
+    },
+    "100": {
+        "id": 100,
+        "polarity": "-",
+        "sentence": "the zooming lever is shaky , i hope it does not operate mechanically , otherwise you 'll feel uneasy . ",
+        "term": "zooming lever"
+    },
+    "101": {
+        "id": 101,
+        "polarity": "+",
+        "sentence": "i love this camera . ",
+        "term": "camera"
+    },
+    "102": {
+        "id": 102,
+        "polarity": "+",
+        "sentence": "took hundreds of pictures and they were great . ",
+        "term": "picture"
+    },
+    "103": {
+        "id": 103,
+        "polarity": "+",
+        "sentence": "great colors , pictures and white balance . ",
+        "term": "picture"
+    },
+    "104": {
+        "id": 104,
+        "polarity": "+",
+        "sentence": "great colors , pictures and white balance . ",
+        "term": "white balance"
+    },
+    "105": {
+        "id": 105,
+        "polarity": "+",
+        "sentence": "great colors , pictures and white balance . ",
+        "term": "color"
+    },
+    "106": {
+        "id": 106,
+        "polarity": "+",
+        "sentence": "has 4x optical zoom which is higher than any other in the same price range . ",
+        "term": "optical zoom"
+    },
+    "107": {
+        "id": 107,
+        "polarity": "-",
+        "sentence": "maybe it is my lack of experience , but i found shots with this camera very disappointing . ",
+        "term": "picture"
+    },
+    "108": {
+        "id": 108,
+        "polarity": "-",
+        "sentence": "it was ( i sold it after a few months ) too expensive for the shots that i got . ",
+        "term": "price"
+    },
+    "109": {
+        "id": 109,
+        "polarity": "-",
+        "sentence": "sure it had all the features , but when i tried to shoot a girl 's basketball game it just wan't up to the task . ",
+        "term": "camera"
+    },
+    "110": {
+        "id": 110,
+        "polarity": "-",
+        "sentence": "i found that low light situations combined with any sort of action left this camera in the dust . ",
+        "term": "camera"
+    },
+    "111": {
+        "id": 111,
+        "polarity": "-",
+        "sentence": "the grain was terrible . ",
+        "term": "grain"
+    },
+    "112": {
+        "id": 112,
+        "polarity": "-",
+        "sentence": "well flash photos are never great , and there was still a lot of noise . ",
+        "term": "flash photo"
+    },
+    "113": {
+        "id": 113,
+        "polarity": "-",
+        "sentence": "well flash photos are never great , and there was still a lot of noise . ",
+        "term": "noise"
+    },
+    "114": {
+        "id": 114,
+        "polarity": "+",
+        "sentence": "when i took outdoor photos with plenty of light and the objects were n't moving , the photos were awesome . ",
+        "term": "photo"
+    },
+    "115": {
+        "id": 115,
+        "polarity": "+",
+        "sentence": "the camera was a marvel . ",
+        "term": "camera"
+    },
+    "116": {
+        "id": 116,
+        "polarity": "+",
+        "sentence": "it is versatile and seems to be one of the best . ",
+        "term": "camera"
+    },
+    "117": {
+        "id": 117,
+        "polarity": "+",
+        "sentence": "i chose the g3 because of its reputation for very high quality , clean images . ",
+        "term": "g3"
+    },
+    "118": {
+        "id": 118,
+        "polarity": "-",
+        "sentence": "the two limitations i knew i would have to deal with are the very long lag time before it focus-locks ( even in bright light ) , and the unsatisfactory light quality of the built-in flash . ",
+        "term": "lag time"
+    },
+    "119": {
+        "id": 119,
+        "polarity": "-",
+        "sentence": "the two limitations i knew i would have to deal with are the very long lag time before it focus-locks ( even in bright light ) , and the unsatisfactory light quality of the built-in flash . ",
+        "term": "flash"
+    },
+    "120": {
+        "id": 120,
+        "polarity": "+",
+        "sentence": "what makes the focus-lock lag time something i can live with is the extreme depth of field obtainable with these point and shoot digicams at f8 . ",
+        "term": "depth"
+    },
+    "121": {
+        "id": 121,
+        "polarity": "-",
+        "sentence": "relative to what i can easily achieve with external flash on my nikon slr , the internal flash on the g3 produces harsh , flat images with ugly hot spots . ",
+        "term": "flash"
+    },
+    "122": {
+        "id": 122,
+        "polarity": "+",
+        "sentence": "fortunately , the g3 has a hot shoe that can take an external flash , and fortunately for me , i already owned a one of the highest quality external flashes that money can buy : the metz 60 ct-4 . ",
+        "term": "external flash hot shoe"
+    },
+    "123": {
+        "id": 123,
+        "polarity": "+",
+        "sentence": "contrary to what ive read elsewhere , the g3 does sync at 1/250 of a second with third-party flashes , just as it does with the dedicated flashes from canon . ",
+        "term": "flash"
+    },
+    "124": {
+        "id": 124,
+        "polarity": "-",
+        "sentence": "now there is one more complaint i have about the g3 and that is the software that comes with it for processing raw images ( i only shoot in raw image mode and the first thing i did was replace the 32 mbyte cf with a 512 mbyte cf , which gives me 130 raw images , as opposed to 7 ! ",
+        "term": "software"
+    },
+    "125": {
+        "id": 125,
+        "polarity": "-",
+        "sentence": "the canon software for raw images does not present you with a raw image at all , but the raw image after it has been processed by all the image-affecting settings in the camera . ",
+        "term": "software"
+    },
+    "126": {
+        "id": 126,
+        "polarity": "+",
+        "sentence": "what this plug-in reveals is the truly stunning quality of the raw g3 hardware . ",
+        "term": "g3"
+    },
+    "127": {
+        "id": 127,
+        "polarity": "+",
+        "sentence": "without any tweaking at all , if the exposure is accurate , the colors are as realistic as ive ever seen produced by film , and this is a raw image ! ",
+        "term": "color"
+    },
+    "128": {
+        "id": 128,
+        "polarity": "-",
+        "sentence": "the adobe camera raw plug-in shows once again that hardware is miles ahead of software . ",
+        "term": "software"
+    },
+    "129": {
+        "id": 129,
+        "polarity": "+",
+        "sentence": "the adobe camera raw plug-in shows once again that hardware is miles ahead of software . ",
+        "term": "g3"
+    },
+    "130": {
+        "id": 130,
+        "polarity": "-",
+        "sentence": "what the g3 raw image software gives you is a fantasy world designed to please the uncritical . ",
+        "term": "software"
+    },
+    "131": {
+        "id": 131,
+        "polarity": "+",
+        "sentence": "but at least youre starting with the most photorealistic images ive ever seen from a camera . ",
+        "term": "image"
+    },
+    "132": {
+        "id": 132,
+        "polarity": "+",
+        "sentence": "i am stunned and amazed at the quality of the raw images i am getting from this g3 ( in conjunction with my professional flash system ) , and can easily put up with the cameras limitations , because ive never seen anything better within its resolution limits . ",
+        "term": "raw image"
+    },
+    "133": {
+        "id": 133,
+        "polarity": "+",
+        "sentence": "i 've had this for 3 months now , and i am pleased with my decision . ",
+        "term": "camera"
+    },
+    "134": {
+        "id": 134,
+        "polarity": "+",
+        "sentence": "this is the perfect camera for a photo hobbiest who wants to have easy point and shoot ability as well . ",
+        "term": "camera"
+    },
+    "135": {
+        "id": 135,
+        "polarity": "+",
+        "sentence": "battery life , the drawback to most digital cameras , to quote k. reeves . ",
+        "term": "battery life"
+    },
+    "136": {
+        "id": 136,
+        "polarity": "+",
+        "sentence": "manual functionality is excellent , downloading pictures is quick and a breeze , and the quality is astounding . ",
+        "term": "picture quality"
+    },
+    "137": {
+        "id": 137,
+        "polarity": "+",
+        "sentence": "manual functionality is excellent , downloading pictures is quick and a breeze , and the quality is astounding . ",
+        "term": "manual function"
+    },
+    "138": {
+        "id": 138,
+        "polarity": "+",
+        "sentence": "not perfect ( yes , the viewfinder can get obstructed in instances.but the lcd works well enough in those instances ) , not the cheapest 4.0 mp , but the best 4.0 mp . ",
+        "term": "lcd"
+    },
+    "139": {
+        "id": 139,
+        "polarity": "-",
+        "sentence": "not perfect ( yes , the viewfinder can get obstructed in instances.but the lcd works well enough in those instances ) , not the cheapest 4.0 mp , but the best 4.0 mp . ",
+        "term": "viewfinder"
+    },
+    "140": {
+        "id": 140,
+        "polarity": "+",
+        "sentence": "not perfect ( yes , the viewfinder can get obstructed in instances.but the lcd works well enough in those instances ) , not the cheapest 4.0 mp , but the best 4.0 mp . ",
+        "term": "camera"
+    },
+    "141": {
+        "id": 141,
+        "polarity": "+",
+        "sentence": "the service from the supplier was exceptional . ",
+        "term": "service"
+    },
+    "142": {
+        "id": 142,
+        "polarity": "+",
+        "sentence": "having used it for more than a month , i can say that it consistently produces topnotch photos . ",
+        "term": "photo"
+    },
+    "143": {
+        "id": 143,
+        "polarity": "+",
+        "sentence": "by cocking the shutter to the halfway position and getting the settings ready to shoot , i was able to produce excellent stopaction photos -- contrary to what other reviewers experienced . ",
+        "term": "photo"
+    },
+    "144": {
+        "id": 144,
+        "polarity": "+",
+        "sentence": "the camera is a dream to operate in automode , but also gives tremendous flexibility in aperture priority , shutter priority , and manual modes . ",
+        "term": "automode"
+    },
+    "145": {
+        "id": 145,
+        "polarity": "+",
+        "sentence": "the camera is a dream to operate in automode , but also gives tremendous flexibility in aperture priority , shutter priority , and manual modes . ",
+        "term": "manual mode"
+    },
+    "146": {
+        "id": 146,
+        "polarity": "-",
+        "sentence": "about the only legitimate criticsm from the online reviews is that fact that the lens really does obstruct the viewfinder . ",
+        "term": "viewfinder"
+    },
+    "147": {
+        "id": 147,
+        "polarity": "+",
+        "sentence": "i can 't write enough positive things about this great little camera ! ",
+        "term": "camera"
+    },
+    "148": {
+        "id": 148,
+        "polarity": "+",
+        "sentence": "but canon never fails to amaze . ",
+        "term": "canon"
+    },
+    "149": {
+        "id": 149,
+        "polarity": "+",
+        "sentence": "1 . the ability to selectively switch to raw format during record review gives you incredible more post-processing flexibility . ",
+        "term": "raw format"
+    },
+    "150": {
+        "id": 150,
+        "polarity": "+",
+        "sentence": "2 . battery life is over 4.5 hours , compared to about 2.5 hours for the g2 or the 2 hours for most nikons . ",
+        "term": "battery life"
+    },
+    "151": {
+        "id": 151,
+        "polarity": "+",
+        "sentence": "3 . the remote capture and fileviewer software bundled for photo capture is mind-blowing . ",
+        "term": "software"
+    },
+    "152": {
+        "id": 152,
+        "polarity": "+",
+        "sentence": "4 . the shape of this device is a little squarer , without losing the weight which means better balance and less shaking while clicking . ",
+        "term": "shape"
+    },
+    "153": {
+        "id": 153,
+        "polarity": "+",
+        "sentence": "the light auto-correction is awesome . ",
+        "term": "light auto correction"
+    },
+    "154": {
+        "id": 154,
+        "polarity": "+",
+        "sentence": "you could take a picture of a stone glinting in the sun and still avoid the shining glaze and get the contours right . ",
+        "term": "picture"
+    },
+    "155": {
+        "id": 155,
+        "polarity": "+",
+        "sentence": "8 . perhaps inspired by the canon 's factory white-correction settings ( which were found lacking and had to be altered by a user before the white edges from buildings etc could be cleaned out ) , the g3 has much sharper white offsets . ",
+        "term": "white offset"
+    },
+    "156": {
+        "id": 156,
+        "polarity": "+",
+        "sentence": "overall , the g3 delivers what must be considered the best image quality of any current > 4 megapixel digicams , from a detail , tonal balance and color response point of view . ",
+        "term": "g3"
+    },
+    "157": {
+        "id": 157,
+        "polarity": "+",
+        "sentence": "this is quite simply the best you can ask for . ",
+        "term": "camera"
+    },
+    "158": {
+        "id": 158,
+        "polarity": "-",
+        "sentence": "the g3 had problems focusing in low light and would not take the picture when the shutter was pressed but after the shutter had been released a few seconds . ",
+        "term": "low light focus"
+    },
+    "159": {
+        "id": 159,
+        "polarity": "-",
+        "sentence": "got way too many blurry pictures . ",
+        "term": "picture"
+    },
+    "160": {
+        "id": 160,
+        "polarity": "+",
+        "sentence": "4mp , 4x optical zoom , takes absolutely beautiful photos with detail that challenges all of the above 5mp cameras , easy to understand and use ( has a great swivel lcd screen ) , a lot of features and add-on options , comes with great software ( not to be overlooked ) , and last but by far not least , received my fiance 's stamp of approval ( two thumbs up ! ) ",
+        "term": " software"
+    },
+    "161": {
+        "id": 161,
+        "polarity": "+",
+        "sentence": "4mp , 4x optical zoom , takes absolutely beautiful photos with detail that challenges all of the above 5mp cameras , easy to understand and use ( has a great swivel lcd screen ) , a lot of features and add-on options , comes with great software ( not to be overlooked ) , and last but by far not least , received my fiance 's stamp of approval ( two thumbs up ! ) ",
+        "term": " use"
+    },
+    "162": {
+        "id": 162,
+        "polarity": "+",
+        "sentence": "4mp , 4x optical zoom , takes absolutely beautiful photos with detail that challenges all of the above 5mp cameras , easy to understand and use ( has a great swivel lcd screen ) , a lot of features and add-on options , comes with great software ( not to be overlooked ) , and last but by far not least , received my fiance 's stamp of approval ( two thumbs up ! ) ",
+        "term": "photo"
+    },
+    "163": {
+        "id": 163,
+        "polarity": "+",
+        "sentence": "the powershot g3 is a great camera . ",
+        "term": "camera"
+    },
+    "164": {
+        "id": 164,
+        "polarity": "+",
+        "sentence": "because it can help a so-so photographer take spectacular photos ! ",
+        "term": "photo"
+    },
+    "165": {
+        "id": 165,
+        "polarity": "+",
+        "sentence": "4 megapixels is plenty for all but pros , and you will not be disappointed with the results of this camera . ",
+        "term": "camera"
+    },
+    "166": {
+        "id": 166,
+        "polarity": "+",
+        "sentence": "it 's slightly lighter than the g2 and packed with even more features . ",
+        "term": "feature"
+    },
+    "167": {
+        "id": 167,
+        "polarity": "-",
+        "sentence": "the catch with the canon g3 camera , ( and perhaps all of digital cameras ) is that its unresponsiveness will cause you to miss precious shots . ",
+        "term": "unresponsiveness"
+    },
+    "168": {
+        "id": 168,
+        "polarity": "-",
+        "sentence": "it sometimes takes the picture at some indefinite period of time after you press the shutter button . ",
+        "term": "delay"
+    },
+    "169": {
+        "id": 169,
+        "polarity": "-",
+        "sentence": "canon 's g3 does it consistently . ",
+        "term": "delay"
+    },
+    "170": {
+        "id": 170,
+        "polarity": "-",
+        "sentence": "it feels slow to focus , and unbearably slow to shoot . ",
+        "term": "focus"
+    },
+    "171": {
+        "id": 171,
+        "polarity": "-",
+        "sentence": "it feels slow to focus , and unbearably slow to shoot . ",
+        "term": " shoot"
+    },
+    "172": {
+        "id": 172,
+        "polarity": "-",
+        "sentence": "unfortunately , this digital moment-capturing device called the g3 sometimes captures the moment after the one you wanted . ",
+        "term": "g3"
+    },
+    "173": {
+        "id": 173,
+        "polarity": "+",
+        "sentence": "this is my first digital camera and i could n't be happier . ",
+        "term": "camera"
+    },
+    "174": {
+        "id": 174,
+        "polarity": "+",
+        "sentence": "i love the quality of the pictures . ",
+        "term": "picture quality"
+    },
+    "175": {
+        "id": 175,
+        "polarity": "+",
+        "sentence": "they look fantastic . ",
+        "term": "picture quality"
+    },
+    "176": {
+        "id": 176,
+        "polarity": "+",
+        "sentence": "the canon g3 is perhaps the best 4mp camera out there . ",
+        "term": "4mp camera"
+    },
+    "177": {
+        "id": 177,
+        "polarity": "+",
+        "sentence": "with canon , you get pictures that appear to be photos , not still camcorder shots . ",
+        "term": "picture"
+    },
+    "178": {
+        "id": 178,
+        "polarity": "+",
+        "sentence": "i love the eos based controls and easy menus . ",
+        "term": "control"
+    },
+    "179": {
+        "id": 179,
+        "polarity": "+",
+        "sentence": "i love the eos based controls and easy menus . ",
+        "term": "menu"
+    },
+    "180": {
+        "id": 180,
+        "polarity": "-",
+        "sentence": "1 ) the included lens cap is very loose on the camera . ",
+        "term": "lens cap"
+    },
+    "181": {
+        "id": 181,
+        "polarity": "-",
+        "sentence": "2 ) the body construction - buttons , casing , etc , are too plastic . ",
+        "term": "body"
+    },
+    "182": {
+        "id": 182,
+        "polarity": "-",
+        "sentence": "it had a heavier and more sturdy casing . ",
+        "term": "casing"
+    },
+    "183": {
+        "id": 183,
+        "polarity": "+",
+        "sentence": "i bought it for my trip to beunos aires , and also used it at the iguazu falls , and could not have asked for more perfect performance ! ",
+        "term": "performance"
+    },
+    "184": {
+        "id": 184,
+        "polarity": "+",
+        "sentence": "this camera is worth every penny , and i highly recommend it ! ",
+        "term": "camera"
+    },
+    "185": {
+        "id": 185,
+        "polarity": "+",
+        "sentence": "another point of note : the battery life is incredible ! ",
+        "term": "battery life"
+    },
+    "186": {
+        "id": 186,
+        "polarity": "+",
+        "sentence": "am i ever glad that i decided on this camera ! ",
+        "term": "camera"
+    },
+    "187": {
+        "id": 187,
+        "polarity": "+",
+        "sentence": "i 've only had it a week , but so far , everything about this camera is making me happy . ",
+        "term": "camera"
+    },
+    "188": {
+        "id": 188,
+        "polarity": "+",
+        "sentence": "very intuitive menus are a big plus on this camera . ",
+        "term": "menu"
+    },
+    "189": {
+        "id": 189,
+        "polarity": "+",
+        "sentence": "the standard battery include with the g3 is a camcorder battery that will allow me to take pictures all day without worrying about charging . ",
+        "term": "battery"
+    },
+    "190": {
+        "id": 190,
+        "polarity": "+",
+        "sentence": "the optical zoom is awesome , and the viewfinder reflects the settings of the zoom . ",
+        "term": "viewfinder"
+    },
+    "191": {
+        "id": 191,
+        "polarity": "+",
+        "sentence": "the optical zoom is awesome , and the viewfinder reflects the settings of the zoom . ",
+        "term": "optical zoom"
+    },
+    "192": {
+        "id": 192,
+        "polarity": "-",
+        "sentence": "one little minor flaw with this camera is that the lens is visible in the viewfinder , but does not detract from the image at all . ",
+        "term": "viewfinder"
+    },
+    "193": {
+        "id": 193,
+        "polarity": "+",
+        "sentence": "the best 4 megapixel/4x optical zoom camera available and fairly easy to use . ",
+        "term": "camera"
+    },
+    "194": {
+        "id": 194,
+        "polarity": "+",
+        "sentence": "because this camera is beautiful . ",
+        "term": "camera"
+    },
+    "195": {
+        "id": 195,
+        "polarity": "+",
+        "sentence": "the g3 looks like a work of art ! ",
+        "term": "look"
+    },
+    "196": {
+        "id": 196,
+        "polarity": "+",
+        "sentence": "its silver magnesium finish is stunning , and the sharp lines and excellent grip are better than any other camera i 've seen . ",
+        "term": "finish"
+    },
+    "197": {
+        "id": 197,
+        "polarity": "+",
+        "sentence": "i am very pleased with it so far . ",
+        "term": "camera"
+    },
+    "198": {
+        "id": 198,
+        "polarity": "-",
+        "sentence": "you can see the lens barrel in the view-finder . ",
+        "term": "viewfinder"
+    },
+    "199": {
+        "id": 199,
+        "polarity": "-",
+        "sentence": "( i knew this before hand , and it is not that bad ) there is no tiff format . ",
+        "term": "tiff format"
+    },
+    "200": {
+        "id": 200,
+        "polarity": "-",
+        "sentence": "it seems to me that after the focus and metering are complete there is quite a lag before the shutter ? ",
+        "term": "lag"
+    },
+    "201": {
+        "id": 201,
+        "polarity": "+",
+        "sentence": "it is very simple to import via iphoto 2 and then move them to photoshop . ",
+        "term": "import"
+    },
+    "202": {
+        "id": 202,
+        "polarity": "+",
+        "sentence": "i am quite happy with the camera . ",
+        "term": "camera"
+    },
+    "203": {
+        "id": 203,
+        "polarity": "+",
+        "sentence": "it comes with a clearly written manual and the learning curve is not too too steep . ",
+        "term": "manual"
+    },
+    "204": {
+        "id": 204,
+        "polarity": "+",
+        "sentence": "yes , i recommend it over the competition . ",
+        "term": "camera"
+    },
+    "205": {
+        "id": 205,
+        "polarity": "+",
+        "sentence": "best camera ever . from the image quality , color , function , i can say almost everything . ",
+        "term": "camera"
+    },
+    "206": {
+        "id": 206,
+        "polarity": "+",
+        "sentence": "this camera has a cool stitch pictures feature , to find out more just log on to canon 's website . ",
+        "term": "stitch picture"
+    },
+    "207": {
+        "id": 207,
+        "polarity": "+",
+        "sentence": "first and foremost , it will take better pic 's than most film camera 's . ",
+        "term": "picture"
+    },
+    "208": {
+        "id": 208,
+        "polarity": "+",
+        "sentence": "this camera has none of these flaws and will be something you 'll use all the time . ",
+        "term": "camera"
+    },
+    "209": {
+        "id": 209,
+        "polarity": "+",
+        "sentence": "however , for a $ 600 - $ 800 budget , i think this camera is an excellent choice . ",
+        "term": "camera"
+    },
+    "210": {
+        "id": 210,
+        "polarity": "+",
+        "sentence": "it has a beautiful design , lots of features , very easy to use , very configurable and customizable , and the battery duration is amazing ! ",
+        "term": "design"
+    },
+    "211": {
+        "id": 211,
+        "polarity": "+",
+        "sentence": "it has a beautiful design , lots of features , very easy to use , very configurable and customizable , and the battery duration is amazing ! ",
+        "term": "battery"
+    },
+    "212": {
+        "id": 212,
+        "polarity": "+",
+        "sentence": "it has a beautiful design , lots of features , very easy to use , very configurable and customizable , and the battery duration is amazing ! ",
+        "term": "use"
+    },
+    "213": {
+        "id": 213,
+        "polarity": "+",
+        "sentence": "it has a beautiful design , lots of features , very easy to use , very configurable and customizable , and the battery duration is amazing ! ",
+        "term": " feature"
+    },
+    "214": {
+        "id": 214,
+        "polarity": "+",
+        "sentence": "also , the display is \" hinged \" and it can be placed in a myriad of positions , or to protect it against any damage . ",
+        "term": "display"
+    },
+    "215": {
+        "id": 215,
+        "polarity": "-",
+        "sentence": "one bad thing is that it comes with a pitiful 32mb compactflash card , and for most purposes , it is not enough . ",
+        "term": "compactflash"
+    },
+    "216": {
+        "id": 216,
+        "polarity": "+",
+        "sentence": "another good thing is that this camera seems to introduce much less noise in dark places than others i 've seen . ",
+        "term": "noise"
+    },
+    "217": {
+        "id": 217,
+        "polarity": "+",
+        "sentence": "i have owned this camera for a short time and would n't give it up for anything . ",
+        "term": "camera"
+    },
+    "218": {
+        "id": 218,
+        "polarity": "+",
+        "sentence": "it surpasses my greatest expectations in a 4mp camera .. ",
+        "term": "camera"
+    },
+    "219": {
+        "id": 219,
+        "polarity": "+",
+        "sentence": "in general it is easy to use and well laid out . ",
+        "term": "design"
+    },
+    "220": {
+        "id": 220,
+        "polarity": "+",
+        "sentence": "in general it is easy to use and well laid out . ",
+        "term": "use"
+    },
+    "221": {
+        "id": 221,
+        "polarity": "+",
+        "sentence": "it makes up for this by being extremely easy to use with well laid out controls that can be learned quickly . ",
+        "term": "control"
+    },
+    "222": {
+        "id": 222,
+        "polarity": "+",
+        "sentence": "it makes up for this by being extremely easy to use with well laid out controls that can be learned quickly . ",
+        "term": "use"
+    },
+    "223": {
+        "id": 223,
+        "polarity": "+",
+        "sentence": "the g3 has most if not all of the features that you would want from a semi-pro / pro slr with a good range of manual options for those who know something about photography . ",
+        "term": "feature"
+    },
+    "224": {
+        "id": 224,
+        "polarity": "+",
+        "sentence": "in the hands of someone who does n't , it will yield good results on idiot program / auto mode . ",
+        "term": "auto mode"
+    },
+    "225": {
+        "id": 225,
+        "polarity": "-",
+        "sentence": "the included memory card is too small . ",
+        "term": "memory card"
+    },
+    "226": {
+        "id": 226,
+        "polarity": "-",
+        "sentence": "it is made of plastic . ",
+        "term": "made"
+    },
+    "227": {
+        "id": 227,
+        "polarity": "-",
+        "sentence": "the zoom lens unit feels fragile and it is worth buying a good camera bag if you are going put to carry it round a lot . ",
+        "term": "lens"
+    }
+}

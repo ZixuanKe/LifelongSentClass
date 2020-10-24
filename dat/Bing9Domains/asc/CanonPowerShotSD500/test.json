@@ -1,0 +1,92 @@
+{
+    "133": {
+        "id": 133,
+        "polarity": "+",
+        "sentence": "Very fast powerup and great speed when taking multiple pictures. ",
+        "term": "powerup"
+    },
+    "134": {
+        "id": 134,
+        "polarity": "+",
+        "sentence": "Very fast powerup and great speed when taking multiple pictures. ",
+        "term": "multiple pictures"
+    },
+    "135": {
+        "id": 135,
+        "polarity": "+",
+        "sentence": "Perfect size! Beats the competition by leaps and bounds. ",
+        "term": "size"
+    },
+    "136": {
+        "id": 136,
+        "polarity": "+",
+        "sentence": "I am impressed with this camera inside and out.",
+        "term": "camera"
+    },
+    "137": {
+        "id": 137,
+        "polarity": "+",
+        "sentence": "I love the camera.",
+        "term": "camera"
+    },
+    "138": {
+        "id": 138,
+        "polarity": "+",
+        "sentence": "This camera is perfect for the person who wants a compact camera that produces excellent photos in just about any situation. ",
+        "term": "compact"
+    },
+    "139": {
+        "id": 139,
+        "polarity": "+",
+        "sentence": "This camera is perfect for the person who wants a compact camera that produces excellent photos in just about any situation. ",
+        "term": "photo"
+    },
+    "140": {
+        "id": 140,
+        "polarity": "+",
+        "sentence": "The camera responce is VERY quick. ",
+        "term": "responce"
+    },
+    "141": {
+        "id": 141,
+        "polarity": "+",
+        "sentence": "I have a Canon A 70 , and now this SD500, its amazing, how this little camera produces, such great pics, it even brings out ur pimples on the face. ",
+        "term": "pics"
+    },
+    "142": {
+        "id": 142,
+        "polarity": "+",
+        "sentence": "And the video quality is amazing. ",
+        "term": "video"
+    },
+    "143": {
+        "id": 143,
+        "polarity": "+",
+        "sentence": "And it fits right in my pocket much easier than my old S30. ",
+        "term": "fits"
+    },
+    "144": {
+        "id": 144,
+        "polarity": "-",
+        "sentence": "I thought this camera was awful and I did tons of research on CNET and other sites. ",
+        "term": "camera"
+    },
+    "145": {
+        "id": 145,
+        "polarity": "-",
+        "sentence": "There were many times when I clicked the automatic shutter and nothing happens. ",
+        "term": "automatic shutter"
+    },
+    "146": {
+        "id": 146,
+        "polarity": "-",
+        "sentence": "The controls are hard to manipulate, especially in the dark. ",
+        "term": "controls"
+    },
+    "147": {
+        "id": 147,
+        "polarity": "-",
+        "sentence": "The LCD screen is too small since there are so many cameras that have larger ones",
+        "term": "LCD"
+    }
+}

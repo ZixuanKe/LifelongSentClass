@@ -1,0 +1,512 @@
+{
+    "762": {
+        "id": 762,
+        "polarity": "+",
+        "sentence": "there is an alarm , i still havent used it yet , but it should be good . ",
+        "term": "alarm"
+    },
+    "763": {
+        "id": 763,
+        "polarity": "+",
+        "sentence": "there is a clock , and date , which can get helpful . ",
+        "term": "clock"
+    },
+    "764": {
+        "id": 764,
+        "polarity": "+",
+        "sentence": "the player has firmware , which will remove the glitches , if there are any . ",
+        "term": "firmware"
+    },
+    "765": {
+        "id": 765,
+        "polarity": "+",
+        "sentence": "the music plays awesome , never skips , even if u run for a bit , so you can listen to music without interruption . ",
+        "term": "music"
+    },
+    "766": {
+        "id": 766,
+        "polarity": "-",
+        "sentence": "the one and most major thing that i was dissapointed with , in this player , is the battery life . ",
+        "term": "battery life"
+    },
+    "767": {
+        "id": 767,
+        "polarity": "-",
+        "sentence": "the panel seems like it will come off very easily as other people have said . ",
+        "term": "panel"
+    },
+    "768": {
+        "id": 768,
+        "polarity": "-",
+        "sentence": "you need the software to actually transfer files ",
+        "term": "transfer"
+    },
+    "769": {
+        "id": 769,
+        "polarity": "-",
+        "sentence": "the player has its minor glitches like for example when i turn it on , 60 percent of the time , it sais , shutting down , which means i have to turn off , and turn it on again , which is not to my likings . ",
+        "term": "player"
+    },
+    "770": {
+        "id": 770,
+        "polarity": "-",
+        "sentence": "also , the player sometimes freezes , not a very big problem , but can also be annoying . ",
+        "term": "lock up"
+    },
+    "771": {
+        "id": 771,
+        "polarity": "+",
+        "sentence": "and also , it 's priced very affordably . ",
+        "term": "price"
+    },
+    "772": {
+        "id": 772,
+        "polarity": "+",
+        "sentence": "with 40gb of storage i have about 7,500 songs on the player ( everything music file i have is on there ) with room for about 2,500 more . ",
+        "term": "storage"
+    },
+    "773": {
+        "id": 773,
+        "polarity": "+",
+        "sentence": "the software interface supplied was very easy to use but i went ahead and got red chair 's \" notmad \" software because of some advanced features i wanted . ",
+        "term": "software"
+    },
+    "774": {
+        "id": 774,
+        "polarity": "+",
+        "sentence": "the sound is great even with the supplied earbuds -- but i find earbuds uncomfortable so i use different headphones . ",
+        "term": "sound"
+    },
+    "775": {
+        "id": 775,
+        "polarity": "-",
+        "sentence": "the sound is great even with the supplied earbuds -- but i find earbuds uncomfortable so i use different headphones . ",
+        "term": "earbud"
+    },
+    "776": {
+        "id": 776,
+        "polarity": "+",
+        "sentence": "sound settings can be adjusted for personal preference . ",
+        "term": "sound setting"
+    },
+    "777": {
+        "id": 777,
+        "polarity": "+",
+        "sentence": "accessing files by artist and album ( i mostly look things up by artist ) is easy and intuitive . ",
+        "term": "accessing file"
+    },
+    "778": {
+        "id": 778,
+        "polarity": "+",
+        "sentence": "possibly the biggest advantage this player has ( if price was n't enough ) is the fact that the user can replace the battery him / herself by opening the lid and popping in the new battery . ",
+        "term": "battery"
+    },
+    "779": {
+        "id": 779,
+        "polarity": "+",
+        "sentence": "since batteries do run out on everything , this will also be a big money-saver since ipods , irivers , rca , dell , all have built-in batteries that need to be replaced by a technician ( apple charges 100 bones for the battery replacement ) . ",
+        "term": "battery"
+    },
+    "780": {
+        "id": 780,
+        "polarity": "+",
+        "sentence": "try before you buy if at all possible : although i am a mac addict now for over a decade and everyone i know has previously bought an ipod , the nomad zen xtra was a far better value and is just as easy to use with regards to both hardware and software interface . ",
+        "term": "value"
+    },
+    "781": {
+        "id": 781,
+        "polarity": "+",
+        "sentence": "try before you buy if at all possible : although i am a mac addict now for over a decade and everyone i know has previously bought an ipod , the nomad zen xtra was a far better value and is just as easy to use with regards to both hardware and software interface . ",
+        "term": "use"
+    },
+    "782": {
+        "id": 782,
+        "polarity": "+",
+        "sentence": "i like the nomad 's color better , but it 's not terribly flashy . ",
+        "term": "color"
+    },
+    "783": {
+        "id": 783,
+        "polarity": "+",
+        "sentence": "i have had mine for a month now and have to say i have enjoyed it . ",
+        "term": "player"
+    },
+    "784": {
+        "id": 784,
+        "polarity": "+",
+        "sentence": "price ! ",
+        "term": "price"
+    },
+    "785": {
+        "id": 785,
+        "polarity": "+",
+        "sentence": "sound quality is wonderful , i really like the smart volume sound normalization . ",
+        "term": "volume"
+    },
+    "786": {
+        "id": 786,
+        "polarity": "+",
+        "sentence": "sound quality is wonderful , i really like the smart volume sound normalization . ",
+        "term": "sound quality"
+    },
+    "787": {
+        "id": 787,
+        "polarity": "-",
+        "sentence": "yes the included earphones suck but everyone replaces them anyway . ",
+        "term": "earphone"
+    },
+    "788": {
+        "id": 788,
+        "polarity": "+",
+        "sentence": "i quickly got to use to the interface and can find any song / playlist etc fast enough . ",
+        "term": "interface"
+    },
+    "789": {
+        "id": 789,
+        "polarity": "+",
+        "sentence": "i also liked the fact that you can save custom playlist you made on the player not just the computer ! ",
+        "term": "playlist"
+    },
+    "790": {
+        "id": 790,
+        "polarity": "-",
+        "sentence": "creative software stinks . ",
+        "term": "software"
+    },
+    "791": {
+        "id": 791,
+        "polarity": "-",
+        "sentence": "the front cover can pop off easily but i always have mine in the case so i did n't notice after first day . ",
+        "term": "cover"
+    },
+    "792": {
+        "id": 792,
+        "polarity": "+",
+        "sentence": "have had the player since xmass and love it ! ",
+        "term": "player"
+    },
+    "793": {
+        "id": 793,
+        "polarity": "+",
+        "sentence": "great sound , very long battery life ( i routinely play it for 12 + hours ) , very fast recharges rate , removable battery , storage size , nice screen , firmware updates , and great price . ",
+        "term": "price"
+    },
+    "794": {
+        "id": 794,
+        "polarity": "+",
+        "sentence": "great sound , very long battery life ( i routinely play it for 12 + hours ) , very fast recharges rate , removable battery , storage size , nice screen , firmware updates , and great price . ",
+        "term": "battery life"
+    },
+    "795": {
+        "id": 795,
+        "polarity": "+",
+        "sentence": "great sound , very long battery life ( i routinely play it for 12 + hours ) , very fast recharges rate , removable battery , storage size , nice screen , firmware updates , and great price . ",
+        "term": "battery"
+    },
+    "796": {
+        "id": 796,
+        "polarity": "+",
+        "sentence": "great sound , very long battery life ( i routinely play it for 12 + hours ) , very fast recharges rate , removable battery , storage size , nice screen , firmware updates , and great price . ",
+        "term": "screen"
+    },
+    "797": {
+        "id": 797,
+        "polarity": "+",
+        "sentence": "great sound , very long battery life ( i routinely play it for 12 + hours ) , very fast recharges rate , removable battery , storage size , nice screen , firmware updates , and great price . ",
+        "term": "storage"
+    },
+    "798": {
+        "id": 798,
+        "polarity": "+",
+        "sentence": "great sound , very long battery life ( i routinely play it for 12 + hours ) , very fast recharges rate , removable battery , storage size , nice screen , firmware updates , and great price . ",
+        "term": "sound"
+    },
+    "799": {
+        "id": 799,
+        "polarity": "+",
+        "sentence": "great sound , very long battery life ( i routinely play it for 12 + hours ) , very fast recharges rate , removable battery , storage size , nice screen , firmware updates , and great price . ",
+        "term": " firmware"
+    },
+    "800": {
+        "id": 800,
+        "polarity": "-",
+        "sentence": "short warranty ( 3 months , so i got the extended warranty at best buy ) , occasional freeze up ( easily fixed by popping out battery ) , somewhat flimsy navigation wheel . ",
+        "term": "navigation wheel"
+    },
+    "801": {
+        "id": 801,
+        "polarity": "-",
+        "sentence": "short warranty ( 3 months , so i got the extended warranty at best buy ) , occasional freeze up ( easily fixed by popping out battery ) , somewhat flimsy navigation wheel . ",
+        "term": "freeze up"
+    },
+    "802": {
+        "id": 802,
+        "polarity": "-",
+        "sentence": "short warranty ( 3 months , so i got the extended warranty at best buy ) , occasional freeze up ( easily fixed by popping out battery ) , somewhat flimsy navigation wheel . ",
+        "term": "warranty"
+    },
+    "803": {
+        "id": 803,
+        "polarity": "+",
+        "sentence": "this is an excellent player , especially for the price , with features that are comparable to and even excel the ipod . ",
+        "term": "player"
+    },
+    "804": {
+        "id": 804,
+        "polarity": "+",
+        "sentence": "for a price that 's still less than even the lowest level ipod i was able to get this 40gb monster , and the best part is it works as great as it was advertised to and then some . ",
+        "term": "price"
+    },
+    "805": {
+        "id": 805,
+        "polarity": "+",
+        "sentence": "the system is terrific in size and design , imo looking better than the ipods . ",
+        "term": "design"
+    },
+    "806": {
+        "id": 806,
+        "polarity": "+",
+        "sentence": "the system is terrific in size and design , imo looking better than the ipods . ",
+        "term": "size"
+    },
+    "807": {
+        "id": 807,
+        "polarity": "+",
+        "sentence": "it 's very solidly built , and has a nice dense feel to it . ",
+        "term": "build"
+    },
+    "808": {
+        "id": 808,
+        "polarity": "+",
+        "sentence": "i find all of the controls well-placed and not flimsy in the least . ",
+        "term": "control"
+    },
+    "809": {
+        "id": 809,
+        "polarity": "+",
+        "sentence": "the scroll wheel is better than the ipod 's as well , in that you do n't risk giving yourself a cramp running your thumb around in circles endlessly - just a small nudge of the finger and you 're there . ",
+        "term": "scroll wheel"
+    },
+    "810": {
+        "id": 810,
+        "polarity": "+",
+        "sentence": "the screen 's large and easily read . ",
+        "term": "screen"
+    },
+    "811": {
+        "id": 811,
+        "polarity": "-",
+        "sentence": "the only beef i can raise in this regard is the pop-off face , that sometimes comes off a bit easily , but besides that it 's perfect . ",
+        "term": "pop-up face"
+    },
+    "812": {
+        "id": 812,
+        "polarity": "+",
+        "sentence": "sound : exceptional , though i can 't really compare it to the ipod . ",
+        "term": "sound"
+    },
+    "813": {
+        "id": 813,
+        "polarity": "+",
+        "sentence": "interface - practically seamless . ",
+        "term": "interface"
+    },
+    "814": {
+        "id": 814,
+        "polarity": "+",
+        "sentence": "yet after ensuring that all the id3 tags are in order ( with the software which is actually not as bad as people make it out ) it actually turns out to be really handy . ",
+        "term": "id3 tag"
+    },
+    "815": {
+        "id": 815,
+        "polarity": "+",
+        "sentence": "playlists can be generated on the fly ( which is a bit clunky but still a really nice bonus ) or by using the software , and there are a bevy of eq options . ",
+        "term": "playlist"
+    },
+    "816": {
+        "id": 816,
+        "polarity": "-",
+        "sentence": "the only thing missing is an option to adjust the balance . ",
+        "term": "balance"
+    },
+    "817": {
+        "id": 817,
+        "polarity": "+",
+        "sentence": "as i mentioned before , the creative mediasource software is actually really robust despite what others have said , though notmad may still work better . ",
+        "term": "mediasource"
+    },
+    "818": {
+        "id": 818,
+        "polarity": "+",
+        "sentence": "it 's easy to transfer , preview , and organize files . ",
+        "term": "mediasource"
+    },
+    "819": {
+        "id": 819,
+        "polarity": "+",
+        "sentence": "the in-program id3 tag editing is a strong point , as well . ",
+        "term": "id3 tag"
+    },
+    "820": {
+        "id": 820,
+        "polarity": "+",
+        "sentence": "it was no problem for me to use their software . ",
+        "term": "software"
+    },
+    "821": {
+        "id": 821,
+        "polarity": "+",
+        "sentence": "overall , i 'm giving this 5 stars as i 've seen nothing of the problems people have repeatedly cried havoc over , but as i 've only had the player for a while i leave room for doubt if the headphone jack , hissing , or scroll wheel problems show up with me too . ",
+        "term": "player"
+    },
+    "822": {
+        "id": 822,
+        "polarity": "+",
+        "sentence": "please consider this much superior piece of equipment before plopping down half a grand for an ipod . ",
+        "term": "equipment"
+    },
+    "823": {
+        "id": 823,
+        "polarity": "-",
+        "sentence": "do n't buy this player . ",
+        "term": "player"
+    },
+    "824": {
+        "id": 824,
+        "polarity": "-",
+        "sentence": "unfortunately , after loading 280 + songs , all i get now is \" player either not connected or busy . \" ",
+        "term": "player"
+    },
+    "825": {
+        "id": 825,
+        "polarity": "-",
+        "sentence": "do n't buy this player . ",
+        "term": "player"
+    },
+    "826": {
+        "id": 826,
+        "polarity": "-",
+        "sentence": "do not buy this product -- ",
+        "term": "product"
+    },
+    "827": {
+        "id": 827,
+        "polarity": "-",
+        "sentence": "i took perfect care of this player and still it died in the week after the lousy 90 day warranty ended . ",
+        "term": "player"
+    },
+    "828": {
+        "id": 828,
+        "polarity": "-",
+        "sentence": "the software is not good either and the driver has trouble working with other sound blaster products , which is very dumb . ",
+        "term": "software"
+    },
+    "829": {
+        "id": 829,
+        "polarity": "+",
+        "sentence": "honestly , i love this player . ",
+        "term": "player"
+    },
+    "830": {
+        "id": 830,
+        "polarity": "+",
+        "sentence": "once again , the sound is awesome , the batterly life is only 6-8 hours , and that is because all my music is 320 kbps which does affect the battery life . ",
+        "term": "sound"
+    },
+    "831": {
+        "id": 831,
+        "polarity": "-",
+        "sentence": "once again , the sound is awesome , the batterly life is only 6-8 hours , and that is because all my music is 320 kbps which does affect the battery life . ",
+        "term": "battery life"
+    },
+    "832": {
+        "id": 832,
+        "polarity": "-",
+        "sentence": "however , my hard drive did fail , and i have not dropped it once . ",
+        "term": "hard drive"
+    },
+    "833": {
+        "id": 833,
+        "polarity": "+",
+        "sentence": "because other people that complain about this player are talking bull , this player is awesome , it just breaks fast , which is horrible . ",
+        "term": "break"
+    },
+    "834": {
+        "id": 834,
+        "polarity": "-",
+        "sentence": "what a junk . ",
+        "term": "player"
+    },
+    "835": {
+        "id": 835,
+        "polarity": "-",
+        "sentence": "every time nomad thinks the file is corrupt the os freezes . ",
+        "term": "freeze"
+    },
+    "836": {
+        "id": 836,
+        "polarity": "+",
+        "sentence": "the sound quality is very good . ",
+        "term": "sound quality"
+    },
+    "837": {
+        "id": 837,
+        "polarity": "-",
+        "sentence": "the controls are somewhat harder to use , and there are some oddities about the software tagging system , but most people can live with this . ",
+        "term": "software"
+    },
+    "838": {
+        "id": 838,
+        "polarity": "-",
+        "sentence": "the controls are somewhat harder to use , and there are some oddities about the software tagging system , but most people can live with this . ",
+        "term": "control"
+    },
+    "839": {
+        "id": 839,
+        "polarity": "+",
+        "sentence": "having access to so much music where ever you go is terrific . ",
+        "term": "storage"
+    },
+    "840": {
+        "id": 840,
+        "polarity": "-",
+        "sentence": "typically , the problem is the headphone jack -- it was for me and many others . ",
+        "term": "headphone jack"
+    },
+    "841": {
+        "id": 841,
+        "polarity": "-",
+        "sentence": "i 'm convinced by my own experience and that of many other people who have posted here who have had the same experience that the product is defectively designed , and will not hold up to normal use . ",
+        "term": "design"
+    },
+    "842": {
+        "id": 842,
+        "polarity": "-",
+        "sentence": "the headphone jack seems to be a major problem . ",
+        "term": "headphone jack"
+    },
+    "843": {
+        "id": 843,
+        "polarity": "-",
+        "sentence": "the one other thing i observed while i had the nomad is that the front cover , which is taken off to have access to the battery , seemed to come undone very easily . ",
+        "term": "front cover"
+    },
+    "844": {
+        "id": 844,
+        "polarity": "-",
+        "sentence": "the headphone jack failure seems to occur just about when the warrranty period is to expire . ",
+        "term": "headphone jack"
+    },
+    "845": {
+        "id": 845,
+        "polarity": "-",
+        "sentence": "the other day when i was listening to a song , it locked up and will not do anything now . ",
+        "term": "lock up"
+    },
+    "846": {
+        "id": 846,
+        "polarity": "-",
+        "sentence": "in that model the hard drive just died one morning before my class . ",
+        "term": "hard drive"
+    }
+}

@@ -1,0 +1,260 @@
+{
+    "386": {
+        "id": 386,
+        "polarity": "+",
+        "sentence": "i have shopped with amazon before and have been very happy with their performance thus far . ",
+        "term": "amazon"
+    },
+    "387": {
+        "id": 387,
+        "polarity": "-",
+        "sentence": "however , it has failed to deliver on quality . ",
+        "term": "quality"
+    },
+    "388": {
+        "id": 388,
+        "polarity": "-",
+        "sentence": "it does not only have difficulty playing jpegs , it even has trouble properly playing dvd movies . ",
+        "term": "jpeg"
+    },
+    "389": {
+        "id": 389,
+        "polarity": "-",
+        "sentence": "it does not only have difficulty playing jpegs , it even has trouble properly playing dvd movies . ",
+        "term": "dvd"
+    },
+    "390": {
+        "id": 390,
+        "polarity": "-",
+        "sentence": "on several different occasions it has displayed \" no disc \" with a disc inside . ",
+        "term": "no disc"
+    },
+    "391": {
+        "id": 391,
+        "polarity": "-",
+        "sentence": "i read in consumer reports that apex is a reliable brand , but with my experience and reading the other reviews , i think i will be doing a little more homework before considering another apex product . ",
+        "term": "apex"
+    },
+    "392": {
+        "id": 392,
+        "polarity": "-",
+        "sentence": "the 2600 had false silver plate instead of play display . ",
+        "term": "silver plate"
+    },
+    "393": {
+        "id": 393,
+        "polarity": "+",
+        "sentence": "it plays original dvds and cds and plays mp3s and jpegs . ",
+        "term": " cd"
+    },
+    "394": {
+        "id": 394,
+        "polarity": "+",
+        "sentence": "it plays original dvds and cds and plays mp3s and jpegs . ",
+        "term": "play"
+    },
+    "395": {
+        "id": 395,
+        "polarity": "+",
+        "sentence": "it plays original dvds and cds and plays mp3s and jpegs . ",
+        "term": " mp3"
+    },
+    "396": {
+        "id": 396,
+        "polarity": "+",
+        "sentence": "it plays original dvds and cds and plays mp3s and jpegs . ",
+        "term": " jpeg"
+    },
+    "397": {
+        "id": 397,
+        "polarity": "-",
+        "sentence": "however , it does not play windows media and i can not get it to play any of my divx rips . ",
+        "term": " divx rip"
+    },
+    "398": {
+        "id": 398,
+        "polarity": "-",
+        "sentence": "however , it does not play windows media and i can not get it to play any of my divx rips . ",
+        "term": "play"
+    },
+    "399": {
+        "id": 399,
+        "polarity": "-",
+        "sentence": "however , it does not play windows media and i can not get it to play any of my divx rips . ",
+        "term": " windows media"
+    },
+    "400": {
+        "id": 400,
+        "polarity": "+",
+        "sentence": "also , it was only $ 39.99 ( after rebate ) with free shipping and no tax so overall it is a decent player . ",
+        "term": "player"
+    },
+    "401": {
+        "id": 401,
+        "polarity": "+",
+        "sentence": "good quality video . ",
+        "term": "video quality"
+    },
+    "402": {
+        "id": 402,
+        "polarity": "-",
+        "sentence": "can 't say whether i rec 'd an \" updated \" model but it will not read dvd + rw 's or vcd 's for me . ",
+        "term": "read"
+    },
+    "403": {
+        "id": 403,
+        "polarity": "-",
+        "sentence": "can 't say whether i rec 'd an \" updated \" model but it will not read dvd + rw 's or vcd 's for me . ",
+        "term": " vcd"
+    },
+    "404": {
+        "id": 404,
+        "polarity": "-",
+        "sentence": "can 't say whether i rec 'd an \" updated \" model but it will not read dvd + rw 's or vcd 's for me . ",
+        "term": " dvd"
+    },
+    "405": {
+        "id": 405,
+        "polarity": "+",
+        "sentence": "it did play a dvd-r which was unplayable in my older philips machine . ",
+        "term": "play"
+    },
+    "406": {
+        "id": 406,
+        "polarity": "+",
+        "sentence": "it did play a dvd-r which was unplayable in my older philips machine . ",
+        "term": " dvd-r"
+    },
+    "407": {
+        "id": 407,
+        "polarity": "+",
+        "sentence": "mixed bag i guess but the price was right . ",
+        "term": "price"
+    },
+    "408": {
+        "id": 408,
+        "polarity": "+",
+        "sentence": "this is the third apex product i 've bought and they continue to impress for the price . ",
+        "term": "price"
+    },
+    "409": {
+        "id": 409,
+        "polarity": "+",
+        "sentence": "the build quality feels solid , it does n't shake or whine while playing discs , and the picture and sound is top notch ( both dts and dd5.1 sound good ) . ",
+        "term": "sound"
+    },
+    "410": {
+        "id": 410,
+        "polarity": "+",
+        "sentence": "the build quality feels solid , it does n't shake or whine while playing discs , and the picture and sound is top notch ( both dts and dd5.1 sound good ) . ",
+        "term": "picture"
+    },
+    "411": {
+        "id": 411,
+        "polarity": "+",
+        "sentence": "the build quality feels solid , it does n't shake or whine while playing discs , and the picture and sound is top notch ( both dts and dd5.1 sound good ) . ",
+        "term": "build quality"
+    },
+    "412": {
+        "id": 412,
+        "polarity": "+",
+        "sentence": "it looks really sleek and stylish , and does everything it claims . ",
+        "term": " player"
+    },
+    "413": {
+        "id": 413,
+        "polarity": "+",
+        "sentence": "it looks really sleek and stylish , and does everything it claims . ",
+        "term": "look"
+    },
+    "414": {
+        "id": 414,
+        "polarity": "+",
+        "sentence": "i tried as bunch of different formats to see if it would play and it did . ",
+        "term": "format"
+    },
+    "415": {
+        "id": 415,
+        "polarity": "+",
+        "sentence": "i am very pleased with this product and the price to match and have n't had any problems . ",
+        "term": "product"
+    },
+    "416": {
+        "id": 416,
+        "polarity": "+",
+        "sentence": "there are really easy directions for setup and fiddling around with the picture , zoom etc . ",
+        "term": "direction"
+    },
+    "417": {
+        "id": 417,
+        "polarity": "+",
+        "sentence": "so sit back , relax and brag to all your friends who paid a mountain of money for a dvd player that can 't do half the things this one can , and for a fraction of the price ! ",
+        "term": "dvd player"
+    },
+    "418": {
+        "id": 418,
+        "polarity": "+",
+        "sentence": "noiseless , lightweight and oh yeah . ",
+        "term": "weight"
+    },
+    "419": {
+        "id": 419,
+        "polarity": "+",
+        "sentence": "noiseless , lightweight and oh yeah . ",
+        "term": "sound"
+    },
+    "420": {
+        "id": 420,
+        "polarity": "+",
+        "sentence": "works great ! ",
+        "term": " player"
+    },
+    "421": {
+        "id": 421,
+        "polarity": "+",
+        "sentence": "works great ! ",
+        "term": "work"
+    },
+    "422": {
+        "id": 422,
+        "polarity": "+",
+        "sentence": "silverish color really adds a special touch . ",
+        "term": "color"
+    },
+    "423": {
+        "id": 423,
+        "polarity": "+",
+        "sentence": "it plays just about any format ( check before you buy if it plays yours . ) ",
+        "term": "format"
+    },
+    "424": {
+        "id": 424,
+        "polarity": "+",
+        "sentence": "either way , can 't go wrong with this price . ",
+        "term": "price"
+    },
+    "425": {
+        "id": 425,
+        "polarity": "+",
+        "sentence": "i am really impressed by this dvd player . ",
+        "term": "dvd player"
+    },
+    "426": {
+        "id": 426,
+        "polarity": "+",
+        "sentence": "for instance , i made several back-ups of my dvd movies using dvd-r ( w ) and + r ( w ) and it plays the dvds . ",
+        "term": " dvd"
+    },
+    "427": {
+        "id": 427,
+        "polarity": "+",
+        "sentence": "for instance , i made several back-ups of my dvd movies using dvd-r ( w ) and + r ( w ) and it plays the dvds . ",
+        "term": "play"
+    },
+    "428": {
+        "id": 428,
+        "polarity": "+",
+        "sentence": "no matter the format . ",
+        "term": "format"
+    }
+}
