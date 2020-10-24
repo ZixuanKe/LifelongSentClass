@@ -13,18 +13,18 @@ This paper studies continual learning (CL) for sentiment  classification (SC). I
 # Files
 **/res**: all results saved in this folder  
 **/dat**: processed toy dataset  
-**/dataloader**: contained dataloader for the toy dataset 
+**/dataloader**: contained dataloader for the toy dataset   
 **/reference**: additional code for baselines (specifically SRK and OWM)  
 **/approaches**: code for training  
 **/networks**: code for network architecture  
 
 ## Running
 ### Format
-    run_train_[network]_[approach_specification]_[#similar]_[#dissimilar]_[approach].sh
+    run_train_[network]_[approach_specification]_[approach].sh
     [network]: lstm/gru
     [approch_specification]: optional, e.g. hat
     [approah]: ncl/one/mtl/
-    [more options please refere to .sh files, run and config.py.]
+    [more options please refere to .sh files, run.py and config.py]
  
  ### Examples:
     run_train_bert_gru_kan_ncl.sh #Run KAN with GRU backbone
@@ -35,12 +35,11 @@ The toy dataset given in **./dat** is for aspect-based sentiment analysis. They 
 ## Reference
 If using this code, parts of it, or developments from it, please cite the reference bellow.
 
-@inproceedings{ke2020continual,
-  author    = {Zixuan Ke and Bing Liu and Hao Wang and Lei Shu},
-  title     = {Continual Learning with Knowledge Transfer for Sentiment Classification},
-  booktitle = {ECML-PKDD},
-  year      = {2020}}
-
+    @inproceedings{ke2020continual,
+    author= {Zixuan Ke and Bing Liu and Hao Wang and Lei Shu},
+    title= {Continual Learning with Knowledge Transfer for Sentiment Classification},
+    booktitle = {ECML-PKDD},
+    year = {2020}}
 
 ## Contact
 
