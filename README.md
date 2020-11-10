@@ -1,10 +1,12 @@
 
+
+
 # Lifelong Sentiment Classification
 
 This repository contains the code for the ECML-PKDD 2020 Paper [Continual Learning with Knowledge Transfer for Sentiment Classification](https://www.cs.uic.edu/~liub/publications/ECML-PKDD-2020.pdf) by Zixuan Ke, [Bing Liu](https://www.cs.uic.edu/~liub/), [Hao Wang](https://cshaowang.github.io/) and [Lei Shu](https://leishu02.github.io/). 
 
 ## News
-Interested in **Lifelong Learning/Continual Learning**? Check our latest NeurIPS 2020 paper **"Continual Learning of a Mixed Sequence of Similar and Dissimilar Tasks"** and the [code](  
+Interested in **Lifelong Learning/Continual Learning**? Check our latest NeurIPS 2020 paper [Continual Learning of a Mixed Sequence of Similar and Dissimilar Tasks](https://proceedings.neurips.cc/paper/2020/file/d7488039246a405baf6a7cbc3613a56f-Paper.pdf) and the [code](  
 https://github.com/ZixuanKe/CAT) 
 
 ## Abstract
@@ -30,7 +32,7 @@ This paper studies continual learning (CL) for sentiment  classification (SC). I
     run_train_bert_gru_kan_ncl.sh #Run KAN with GRU backbone
 
 ## Datasets
-The toy dataset given in **./dat** is for aspect-based sentiment analysis. They are different from the one we use in the paper.  Feel free to replace them using your own dataset.
+The asc (aspect-level sentiment classification), ae (aspect extraction) and dsc (document-level sentiment classification) datasets are given in **./dat**.
 
 ## Reference
 If using this code, parts of it, or developments from it, please cite the reference bellow.
