@@ -1,12 +1,14 @@
 
 
 
+
 # Lifelong Sentiment Classification
 
 This repository contains the code for the ECML-PKDD 2020 Paper [Continual Learning with Knowledge Transfer for Sentiment Classification](https://www.cs.uic.edu/~liub/publications/ECML-PKDD-2020.pdf) by Zixuan Ke, [Bing Liu](https://www.cs.uic.edu/~liub/), [Hao Wang](https://cshaowang.github.io/) and [Lei Shu](https://leishu02.github.io/). 
 
 ## News
-Interested in **Lifelong Learning/Continual Learning**? Check our latest NeurIPS 2020 paper [Continual Learning of a Mixed Sequence of Similar and Dissimilar Tasks](https://proceedings.neurips.cc/paper/2020/file/d7488039246a405baf6a7cbc3613a56f-Paper.pdf) and the [code](  
+[11/2021] **KAN** has been intergrated into [PyContinual](https://github.com/ZixuanKe/PyContinual). Check it out!
+[11/2020] Interested in **Lifelong Learning/Continual Learning**? Check our latest NeurIPS 2020 paper [Continual Learning of a Mixed Sequence of Similar and Dissimilar Tasks](https://proceedings.neurips.cc/paper/2020/file/d7488039246a405baf6a7cbc3613a56f-Paper.pdf) and the [code](  
 https://github.com/ZixuanKe/CAT) 
 
 ## Abstract
